@@ -42,7 +42,6 @@ B04005     People Reporting Multiple Ancestry
 B04006     People Reporting Ancestry
 B04007     Ancestry
 B05001     Nativity and Citizenship Status in the United States
-B05001PR   Nativity and Citizenship Status in Puerto Rico
 B05002     Place of Birth by Nativity and Citizenship Status
 B05003A    Sex by Age by Nativity and Citizenship Status (White Alone)
 B05003B    Sex by Age by Nativity and Citizenship Status (Black or African American Alone)
@@ -56,137 +55,54 @@ B05003I    Sex by Age by Nativity and Citizenship Status (Hispanic or Latino)
 B05003     Sex by Age by Nativity and Citizenship Status
 B05004     Median Age by Nativity and Citizenship Status by Sex
 B05005     Year of Entry by Nativity and Citizenship Status in the United States
-B05005PR   Year of Entry by Nativity and Citizenship Status in Puerto Rico
 B05006     Place of Birth for the Foreign-born Population in the United States
-B05006PR   Place of Birth for the Foreign-born Population in Puerto Rico
 B05007     Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population
 B05008     Sex by Place of Birth by Year of Entry for the Foreign-born Population
 B05009     Age and Nativity of Own Children in Families and Subfamilies by Number and Nativity of Parents
 B05010     Ratio of Income to Poverty Level by Nativity of Children in Families and Subfamilies by Living Arrangements and Nativity of Parents
 B05011     Period of Naturalization
 B05012     Nativity in the United States
-B05012PR   Nativity in Puerto Rico
 B06001     Place of Birth by Age in the United States
-B06001PR   Place of Birth by Age in Puerto Rico
 B06002     Median Age by Place of Birth in the United States
-B06002PR   Median Age by Place of Birth in Puerto Rico
 B06003     Place of Birth by Sex in the United States
-B06003PR   Place of Birth by Sex in Puerto Rico
 B06004A    Place of Birth (White Alone) in the United States
-B06004APR  Place of Birth (White Alone) in Puerto Rico
 B06004B    Place of Birth (Black or African American Alone) in the United States
-B06004BPR  Place of Birth (Black or African American Alone) in Puerto Rico
 B06004C    Place of Birth (American Indian and Alaska Native Alone) in the United States
-B06004CPR  Place of Birth (American Indian and Alaska Native Alone) in Puerto Rico
 B06004D    Place of Birth (Asian Alone) in the United States
-B06004DPR  Place of Birth (Asian Alone) in Puerto Rico
 B06004E    Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in the United States
-B06004EPR  Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in Puerto Rico
 B06004F    Place of Birth (Some Other Race Alone) in the United States
-B06004FPR  Place of Birth (Some Other Race Alone) in Puerto Rico
 B06004G    Place of Birth (Two or More Races) in the United States
-B06004GPR  Place of Birth (Two or More Races) in Puerto Rico
 B06004H    Place of Birth (White Alone, Not Hispanic or Latino) in the United States
-B06004HPR  Place of Birth (White Alone, Not Hispanic or Latino) in Puerto Rico
 B06004I    Place of Birth (Hispanic or Latino) in the United States
-B06004IPR  Place of Birth (Hispanic or Latino) in Puerto Rico
 B06007     Place of Birth by Language Spoken at Home and Ability to Speak English in the United States
-B06007PR   Place of Birth by Language Spoken at Home and Ability to Speak English in Puerto Rico
 B06008     Place of Birth by Marital Status in the United States
-B06008PR   Place of Birth by Marital Status in Puerto Rico
 B06009     Place of Birth by Educational Attainment in the United States
-B06009PR   Place of Birth by Educational Attainment in Puerto Rico
 B06010     Place of Birth by Individual Income in the United States
-B06010PR   Place of Birth by Individual Income in Puerto Rico
 B06011     Median Income by Place of Birth in the United States
-B06011PR   Median Income by Place of Birth in Puerto Rico
 B06012     Place of Birth by Poverty Status in the United States
-B06012PR   Place of Birth by Poverty Status in Puerto Rico
 B07001     Geographical Mobility in the Past Year by Age for Current Residence in the United States
-B07001PR   Geographical Mobility in the Past Year by Age for Current Residence in Puerto Rico
 B07002     Median Age by Geographical Mobility in the Past Year for Current Residence in the United States
-B07002PR   Median Age by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
 B07003     Geographical Mobility in the Past Year by Sex for Current Residence in the United States
-B07003PR   Geographical Mobility in the Past Year by Sex for Current Residence in Puerto Rico
 B07004A    Geographical Mobility in the Past Year (White Alone) for Current Residence in the United States
-B07004APR  Geographical Mobility in the Past Year (White Alone) for Current Residence in Puerto Rico
 B07004B    Geographical Mobility in the Past Year (Black or African American Alone) for Current Residence in the United States
-B07004BPR  Geographical Mobility in the Past Year (Black or African American Alone) for Current Residence in Puerto Rico
 B07004C    Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Current Residence in the United States
-B07004CPR  Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Current Residence in Puerto Rico
 B07004D    Geographical Mobility in the Past Year (Asian Alone) for Current Residence in the United States
-B07004DPR  Geographical Mobility in the Past Year (Asian Alone) for Current Residence in Puerto Rico
 B07004E    Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Current Residence in the United States
-B07004EPR  Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Current Residence in Puerto Rico
 B07004F    Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in the United States
-B07004FPR  Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in Puerto Rico
 B07004G    Geographical Mobility in the Past Year (Two or More Races) for Current Residence in the United States
-B07004GPR  Geographical Mobility in the Past Year (Two or More Races) for Current Residence in Puerto Rico
 B07004H    Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Current Residence in the United States
-B07004HPR  Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Current Residence in Puerto Rico
 B07004I    Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in the United States
-B07004IPR  Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in Puerto Rico
 B07007     Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the United States
-B07007PR   Geographical Mobility in the Past Year by Citizenship Status for Current Residence in Puerto Rico
 B07008     Geographical Mobility in the Past Year by Marital Status for Current Residence in the United States
-B07008PR   Geographical Mobility in the Past Year by Marital Status for Current Residence in Puerto Rico
 B07009     Geographical Mobility in the Past Year by Educational Attainment for Current Residence in the United States
-B07009PR   Geographical Mobility in the Past Year by Educational Attainment for Current Residence in Puerto Rico
 B07010     Geographical Mobility in the Past Year by Individual Income for Current Residence in the United States
-B07010PR   Geographical Mobility in the Past Year by Individual Income for Current Residence in Puerto Rico
 B07011     Median Income by Geographical Mobility in the Past Year for Current Residence in the United States
-B07011PR   Median Income by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
 B07012     Geographical Mobility in the Past Year by Poverty Status for Current Residence in the United States
-B07012PR   Geographical Mobility in the Past Year by Poverty Status for Current Residence in Puerto Rico
 B07013     Geographical Mobility in the Past Year by Tenure for Current Residence in the United States
-B07013PR   Geographical Mobility in the Past Year by Tenure for Current Residence in Puerto Rico
-B07101     Movers Between Regions in the United States
 B07201     Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in the United States
-B07201PR   Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in Puerto Rico
 B07202     Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in the United States
-B07202PR   Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in Puerto Rico
 B07203     Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in the United States
-B07203PR   Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in Puerto Rico
 B07204     Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States
-B07204PR   Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in Puerto Rico
-B07401     Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in the United States
-B07401PR   Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in Puerto Rico
-B07402     Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States
-B07402PR   Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico
-B07403     Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in the United States
-B07403PR   Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in Puerto Rico
-B07404A    Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in the United States
-B07404APR  Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in Puerto Rico
-B07404B    Geographical Mobility in the Past Year (Black or African American Alone) for Residence 1 Year Ago in the United States
-B07404BPR  Geographical Mobility in the Past Year (Black or African American Alone) for Residence 1 Year Ago in Puerto Rico
-B07404C    Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Residence 1 Year Ago in the United States
-B07404CPR  Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Residence 1 Year Ago in Puerto Rico
-B07404D    Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in the United States
-B07404DPR  Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in Puerto Rico
-B07404E    Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in the United States
-B07404EPR  Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in Puerto Rico
-B07404F    Geographical Mobility in the Past Year (Some Other Race Alone) for Residence 1 Year Ago in the United States
-B07404FPR  Geographical Mobility in the Past Year (Some Other Race Alone) for Residence 1 Year Ago in Puerto Rico
-B07404G    Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in the United States
-B07404GPR  Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in Puerto Rico
-B07404H    Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in the United States
-B07404HPR  Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico
-B07404I    Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in the United States
-B07404IPR  Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico
-B07407     Geographical Mobility in the Past Year by Citizenship Status for Residence 1 Year Ago in the United States
-B07407PR   Geographical Mobility in the Past Year by Citizenship Status for Residence 1 Year Ago in Puerto Rico
-B07408     Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in the United States
-B07408PR   Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in Puerto Rico
-B07409     Geographical Mobility in the Past Year by Educational Attainment for Residence 1 Year Ago in the United States
-B07409PR   Geographical Mobility in the Past Year by Educational Attainment for Residence 1 Year Ago in Puerto Rico
-B07410     Geographical Mobility in the Past Year by Individual Income for Residence 1 Year Ago in the United States
-B07410PR   Geographical Mobility in the Past Year by Individual Income for Residence 1 Year Ago in Puerto Rico
-B07411     Median Income by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States
-B07411PR   Median Income by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico
-B07412     Geographical Mobility in the Past Year by Poverty Status for Residence 1 Year Ago in the United States
-B07412PR   Geographical Mobility in the Past Year by Poverty Status for Residence 1 Year Ago in Puerto Rico
-B07413     Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in the United States
-B07413PR   Geographical Mobility in the Past Year by Tenure for Residence 1 Year Ago in Puerto Rico
 B08006     Sex of Workers by Means of Transportation to Work
 B08007     Sex of Workers by Place of Work--State and County Level
 B08008     Sex of Workers by Place of Work--Place Level
@@ -233,36 +149,6 @@ B08203     Number of Workers in Household by Vehicles Available
 B08301     Means of Transportation to Work
 B08302     Time Leaving Home to Go to Work
 B08303     Travel Time to Work
-B08406     Sex of Workers by Means of Transportation to Work
-B08412     Sex of Workers by Travel Time to Work
-B08501     Means of Transportation to Work by Age
-B08503     Median Age by Means of Transportation to Work
-B08505A    Means of Transportation to Work (White Alone)
-B08505B    Means of Transportation to Work (Black or African American Alone)
-B08505C    Means of Transportation to Work (American Indian and Alaska Native Alone)
-B08505D    Means of Transportation to Work (Asian Alone)
-B08505E    Means of Transportation to Work (Native Hawaiian and Other Pacific Islander Alone)
-B08505F    Means of Transportation to Work (Some Other Race Alone)
-B08505G    Means of Transportation to Work (Two or More Races)
-B08505H    Means of Transportation to Work (White Alone, Not Hispanic or Latino)
-B08505I    Means of Transportation to Work (Hispanic or Latino)
-B08511     Means of Transportation to Work by Citizenship Status
-B08513     Means of Transportation to Work by Language Spoken at Home and Ability to Speak English
-B08519     Means of Transportation to Work by Workers' Earnings
-B08521     Median Earnings by Means of Transportation to Work
-B08522     Means of Transportation to Work by Poverty Status
-B08524     Means of Transportation to Work by Occupation
-B08526     Means of Transportation to Work by Industry
-B08528     Means of Transportation to Work by Class of Worker
-B08532     Means of Transportation to Work by Time Arriving at Work From Home
-B08534     Means of Transportation to Work by Travel Time to Work
-B08536     Aggregate Travel Time to Work of Workers by Means of Transportation to Work
-B08537     Means of Transportation to Work by Tenure
-B08541     Means of Transportation to Work by Vehicles Available
-B08601     Means of Transportation to Work
-B08602     Time Arriving at Work From Home
-B08603     Travel Time to Work
-B08604     Worker Population
 B09001     Population Under 18 Years by Age
 B09002     Own Children by Family Type and Age
 B09005     Household Type for Children in Households (Excluding Householders, Spouses, and Unmarried Partners)
@@ -328,7 +214,6 @@ B11013     Subfamily Type by Presence of Own Children
 B11014     Population in Subfamilies by Subfamily Type by Relationship
 B11015     Households by Presence of Nonrelatives
 B11016     Household Type by Household Size
-B11017     Multigenerational Households
 B12001     Sex by Marital Status
 B12002A    Sex by Marital Status (White Alone)
 B12002B    Sex by Marital Status (Black or African American Alone)
@@ -342,21 +227,6 @@ B12002I    Sex by Marital Status (Hispanic or Latino)
 B12002     Sex by Marital Status by Age
 B12005     Marital Status by Nativity
 B12006     Marital Status by Sex by Labor Force Participation
-B12007A    Median Age at First Marriage (White Alone)
-B12007B    Median Age at First Marriage (Black or African American Alone)
-B12007C    Median Age at First Marriage (American Indian and Alaska Native Alone)
-B12007D    Median Age at First Marriage (Asian Alone)
-B12007E    Median Age at First Marriage (Native Hawaiian and Other Pacific Islander Alone)
-B12007F    Median Age at First Marriage (Some Other Race Alone)
-B12007G    Median Age at First Marriage (Two or More Races)
-B12007H    Median Age at First Marriage (White Alone, Not Hispanic or Latino)
-B12007I    Median Age at First Marriage (Hispanic or Latino)
-B12007     Median Age at First Marriage
-B12501     Marriages in the Last Year by Sex by Marital Status
-B12502     Marriages Ending in Widowhood in the Last Year by Sex by Marital Status
-B12503     Divorces in the Last Year by Sex by Marital Status
-B12504     Median Duration of Current Marriage in Years by Sex by Marital Status for the Married Population
-B12505     Number of Times Married by Sex by Marital Status
 B13001     Marital Status by Age for Women 15 to 50 Years
 B13002A    Women Who Had a Birth by Marital Status (White Alone)
 B13002B    Women Who Had a Birth by Marital Status (Black or African American Alone)
@@ -496,7 +366,6 @@ B19013A    Median Household Income (White Alone Householder)
 B19013B    Median Household Income (Black or African American Alone Householder)
 B19013C    Median Household Income (American Indian and Alaska Native Alone Householder)
 B19013D    Median Household Income (Asian Alone Householder)
-B19013E    Median Household Income (Native Hawaiian and Other Pacific Islander Alone Householder)
 B19013F    Median Household Income (Some Other Race Alone Householder)
 B19013G    Median Household Income (Two or More Races Householder)
 B19013H    Median Household Income (White Alone, Not Hispanic or Latino Householder)
@@ -507,7 +376,6 @@ B19025A    Aggregate Household Income (White Alone Householder)
 B19025B    Aggregate Household Income (Black or African American Alone Householder)
 B19025C    Aggregate Household Income (American Indian and Alaska Native Alone Householder)
 B19025D    Aggregate Household Income (Asian Alone Householder)
-B19025E    Aggregate Household Income (Native Hawaiian and Other Pacific Islander Alone Householder)
 B19025F    Aggregate Household Income (Some Other Race Alone Householder)
 B19025G    Aggregate Household Income (Two or More Races Householder)
 B19025H    Aggregate Household Income (White Alone, Not Hispanic or Latino Householder)
@@ -562,7 +430,6 @@ B19113A    Median Family Income (White Alone Householder)
 B19113B    Median Family Income (Black or African American Alone Householder)
 B19113C    Median Family Income (American Indian and Alaska Native Alone Householder)
 B19113D    Median Family Income (Asian Alone Householder)
-B19113E    Median Family Income (Native Hawaiian and Other Pacific Islander Alone Householder)
 B19113F    Median Family Income (Some Other Race Alone Householder)
 B19113G    Median Family Income (Two or More Races)
 B19113H    Median Family Income (White Alone, Not Hispanic or Latino Householder)
@@ -575,14 +442,12 @@ B19126     Median Family Income by Family Type by Presence of Own Children
 B19127     Aggregate Family Income
 B19128     Aggregate Family Income by Family Type by Presence of Own Children
 B19129     Aggregate Family Income by Number of Workers in Family
-B19130     Aggregate Family Income by Family Type by Age of Householder
 B19131     Family Type by Presence of Own Children by Family Income
 B19201     Nonfamily Household Income
 B19202A    Median Nonfamily Household Income (White Alone Householder)
 B19202B    Median Nonfamily Household Income (Black or African American Alone Householder)
 B19202C    Median Nonfamily Household Income (American Indian and Alaska Native Alone Householder)
 B19202D    Median Nonfamily Household Income (Asian Alone Householder)
-B19202E    Median Nonfamily Household Income (Native Hawaiian and Other Pacific Islander Alone Householder)
 B19202F    Median Nonfamily Household Income (Some Other Race Alone Householder)
 B19202G    Median Nonfamily Household Income (Two or More Races Householder)
 B19202H    Median Nonfamily Household Income (White Alone, Not Hispanic or Latino Householder)
@@ -590,7 +455,6 @@ B19202I    Median Nonfamily Household Income (Hispanic or Latino Householder)
 B19202     Median Nonfamily Household Income
 B19214     Aggregate Nonfamily Household Income
 B19215     Median Nonfamily Household Income by Sex of Householder by Living Alone by Age of Householder
-B19216     Aggregate Nonfamily Household Income by Sex of Householder by Living Alone by Age of Householder
 B19301A    Per Capita Income (White Alone)
 B19301B    Per Capita Income (Black or African American Alone)
 B19301C    Per Capita Income (American Indian and Alaska Native Alone)
@@ -629,9 +493,7 @@ B20005I    Sex by Work Experience by Earnings (Hispanic or Latino)
 B20005     Sex by Work Experience by Earnings
 B20017A    Median Earnings by Sex by Work Experience With Earnings (Whi
 B20017B    Median Earnings by Sex by Work Experience With Earnings (Bla
-B20017C    Median Earnings by Sex by Work Experience With Earnings (Ame
 B20017D    Median Earnings by Sex by Work Experience With Earnings (Asi
-B20017E    Median Earnings by Sex by Work Experience With Earnings (Nat
 B20017F    Median Earnings by Sex by Work Experience With Earnings (Som
 B20017G    Median Earnings by Sex by Work Experience With Earnings (Two
 B20017H    Median Earnings by Sex by Work Experience With Earnings (Whi
@@ -672,26 +534,12 @@ B23020     Mean Usual Hours Worked for Workers 16 to 64 Years
 B23022     Sex by Work Status by Usual Hours Worked Per Week by Weeks Worked for the Population 16 to 64 Years
 B23024     Poverty Status by Disability Status by Employment Status for the Population 20 to 64 Years
 B23025     Employment Status
-B24011     Occupation by Median Earnings for the Civilian Population
-B24012     Sex by Occupation and Median Earnings for the Civilian Population
-B24021     Occupation by Median Earnings for the Full-time, Year-round Civilian Population
-B24022     Sex by Occupation and Median Earnings for the Full-time, Year-round Civilian Population
-B24031     Industry by Median Earnings for the Civilian Population
-B24032     Sex by Industry and Median Earnings for the Civilian Population
-B24041     Industry by Median Earnings for the Full-time, Year-round Civilian Population
-B24042     Sex by Industry and Median Earnings for the Full-time, Year-round Civilian Population
 B24080     Sex by Class of Worker for the Civilian Population
 B24081     Class of Worker by Median Earnings for the Civilian Population
 B24082     Sex by Class of Worker and Median Earnings for the Civilian Population
 B24090     Sex by Class of Worker for the Full-time, Year-round Civilian Population
 B24091     Class of Worker by Median Earnings for the Full-time, Year-round Civilian Population
 B24092     Sex by Class of Worker and Median Earnings for the Full-time, Year-round Civilian Population
-B24121     Detailed Occupation by Median Earnings for the Full-time, Year-round Civilian Population
-B24122     Detailed Occupation by Median Earnings for the Full-time, Year-round Civilian Employed Male Population
-B24123     Detailed Occupation by Median Earnings for the Full-time, Year-round Civilian Employed Female Population
-B24124     Detailed Occupation for the Full-time, Year-round Civilian Population
-B24125     Detailed Occupation for the Full-time, Year-round Civilian Employed Male Population
-B24126     Detailed Occupation for the Full-time, Year-round Civilian Employed Female Population
 B25001     Housing Units
 B25002     Occupancy Status
 B25003A    Tenure (White Alone Householder)
@@ -732,7 +580,6 @@ B25019     Aggregate Number of Rooms
 B25020     Tenure by Rooms
 B25021     Median Number of Rooms by Tenure
 B25022     Aggregate Number of Rooms by Tenure
-B25023     Aggregate Number of Rooms by Vacancy Status
 B25024     Units in Structure
 B25026     Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit
 B25027     Mortgage Status by Age of Householder
@@ -779,7 +626,6 @@ B25062     Aggregate Rent Asked (Dollars)
 B25063     Gross Rent
 B25064     Median Gross Rent (Dollars)
 B25065     Aggregate Gross Rent (Dollars)
-B25066     Aggregate Gross Rent (Dollars) by Units in Structure
 B25067     Aggregate Gross Rent (Dollars) by Meals Included in Rent
 B25068     Bedrooms by Gross Rent
 B25069     Inclusion of Utilities in Rent
@@ -793,7 +639,6 @@ B25076     Lower Value Quartile (Dollars)
 B25077     Median Value (Dollars)
 B25078     Upper Value Quartile (Dollars)
 B25079     Aggregate Value (Dollars) by Age of Householder
-B25080     Aggregate Value (Dollars) by Units in Structure
 B25081     Mortgage Status
 B25082     Aggregate Value (Dollars) by Mortgage Status
 B25083     Median Value (Dollars) for Mobile Homes
@@ -818,12 +663,9 @@ B25103     Mortgage Status by Median Real Estate Taxes Paid (Dollars)
 B25104     Monthly Housing Costs
 B25105     Median Monthly Housing Costs (Dollars)
 B25106     Tenure by Housing Costs as a Percentage of Household Income
-B25107     Median Value by Year Structure Built
-B25108     Aggregate Value (Dollars) by Year Structure Built
 B25109     Median Value by Year Householder Moved Into Unit
 B25110     Aggregate Value (Dollars) by Year Householder Moved Into Unit
 B25111     Median Gross Rent by Year Structure Built
-B25112     Aggregate Gross Rent (Dollars) by Year Structure Built
 B25113     Median Gross Rent by Year Householder Moved Into Unit
 B25114     Aggregate Gross Rent (Dollars) by Year Householder Moved Into Unit
 B25115     Tenure by Household Type and Presence and Age of Own Children
@@ -850,23 +692,12 @@ B27015     Health Insurance Coverage Status and Type by Household Income
 B27019     Health Insurance Coverage Status and Type by Age by Educational Attainment
 B27020     Health Insurance Coverage Status and Type by Citizenship Status
 B27022     Health Insurance Coverage Status by Sex by Enrollment Status for Young Adults Aged 19 to 25
-B98001     Unweighted Housing Unit Sample
-B98002     Unweighted Group Quarters Population Sample
-B98011     Housing Unit Coverage Rate
-B98012     Total Population Coverage Rate by Sex
-B98013     Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups
-B98014     Group Quarters Population Coverage Rate
-B98021     Housing Unit Response and Nonresponse Rates With Reasons for Noninterviews
-B98022     Group Quarters Population Response and Nonresponse Rates With Reasons for Noninterviews
-B98031     Overall Person Characteristic Imputation Rate
-B98032     Overall Housing Unit Characteristic Imputation Rate
 B99011     Imputation of Sex
 B99012     Imputation of Age
 B99021     Imputation of Race
 B99031     Imputation of Hispanic or Latino Origin
 B99051     Imputation of Citizenship Status
 B99052     Imputation of Year of Entry
-B99052PR   Imputation of Year of Entry for Population Born Outside Puerto Rico
 B99061     Imputation of Place of Birth
 B99071     Imputation of Mobility Status for the Population 1 Year and Over
 B99072     Imputation of Residence 1 Year Ago for the Population 1 Year and Over
@@ -876,10 +707,6 @@ B99082     Imputation of Private Vehicle Occupancy
 B99083     Imputation of Time Leaving Home to Go to Work
 B99084     Imputation of Travel Time to Work
 B99085     Imputation of Vehicles Available for Workers
-B99086     Imputation of Means of Transportation to Work
-B99087     Imputation of Time Arriving at Work From Home
-B99088     Imputation of Travel Time to Work
-B99089     Imputation of Vehicles Available for Workers
 B99092     Imputation of Relationship
 B99102     Imputation of Grandparents Living With Grandchildren
 B99103     Imputation of Grandparents Responsible for Grandchildren
