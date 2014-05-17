@@ -1,5 +1,0 @@
-Housing Unit Coverage Rate
---------------------------
-Universe: Housing Units
-
-B98011001 Total

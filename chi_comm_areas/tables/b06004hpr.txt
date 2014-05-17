@@ -1,9 +1,0 @@
-Place of Birth (White Alone, Not Hispanic or Latino) in Puerto Rico
--------------------------------------------------------------------
-Universe: White Alone, Not Hispanic or Latino Population in Puerto Rico
-
-B06004HPR001 Total:
-B06004HPR002  Born in Puerto Rico
-B06004HPR003  Born in the United States
-B06004HPR004  Native; born elsewhere
-B06004HPR005  Foreign born

@@ -1,7 +1,0 @@
-Median Age at First Marriage (White Alone)
-------------------------------------------
-Universe: White Alone Population 15 to 54 Years
-
-B12007A000.5 Median age at first marriage --
-B12007A001  Male
-B12007A002  Female

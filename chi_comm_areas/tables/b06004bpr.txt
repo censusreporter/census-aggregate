@@ -1,9 +1,0 @@
-Place of Birth (Black or African American Alone) in Puerto Rico
----------------------------------------------------------------
-Universe: Black or African American Alone Population in Puerto Rico
-
-B06004BPR001 Total:
-B06004BPR002  Born in Puerto Rico
-B06004BPR003  Born in the United States
-B06004BPR004  Native; born elsewhere
-B06004BPR005  Foreign born

@@ -1,7 +1,0 @@
-Median Age at First Marriage (American Indian and Alaska Native Alone)
-----------------------------------------------------------------------
-Universe: American Indian and Alaska Native Alone Population 15 to 54 Years
-
-B12007C000.5 Median age at first marriage --
-B12007C001  Male
-B12007C002  Female

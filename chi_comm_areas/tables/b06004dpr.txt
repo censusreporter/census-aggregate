@@ -1,9 +1,0 @@
-Place of Birth (Asian Alone) in Puerto Rico
--------------------------------------------
-Universe: Asian Alone Population in Puerto Rico
-
-B06004DPR001 Total:
-B06004DPR002  Born in Puerto Rico
-B06004DPR003  Born in the United States
-B06004DPR004  Native; born elsewhere
-B06004DPR005  Foreign born

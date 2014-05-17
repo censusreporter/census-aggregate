@@ -1,9 +1,0 @@
-Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in the United States
---------------------------------------------------------------------------------------------------
-Universe: White Alone Population 1 Year and Over in the United States
-
-B07404A001 Total living in area 1 year ago:
-B07404A002  Same house
-B07404A003  Moved within same county
-B07404A004  Moved to different county within same state
-B07404A005  Moved to different state

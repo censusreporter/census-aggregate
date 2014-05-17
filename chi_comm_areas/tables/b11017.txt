@@ -1,7 +1,0 @@
-Multigenerational Households
-----------------------------
-Universe: Total Households
-
-B11017001 Total:
-B11017002  Multigenerational households
-B11017003  All other households

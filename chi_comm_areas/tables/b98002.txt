@@ -1,7 +1,0 @@
-Unweighted Group Quarters Population Sample
--------------------------------------------
-Universe: Population in Group Quarters
-
-B98002001 Initial sample selected
-B98002002  Final actual interviews
-B98002003 Final synthetic interviews

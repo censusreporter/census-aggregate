@@ -1,7 +1,0 @@
-Median Age at First Marriage (Black or African American Alone)
---------------------------------------------------------------
-Universe: Black or African American Alone Population 15 to 54 Years
-
-B12007B000.5 Median age at first marriage --
-B12007B001  Male
-B12007B002  Female

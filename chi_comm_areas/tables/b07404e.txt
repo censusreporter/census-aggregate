@@ -1,9 +1,0 @@
-Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in the United States
----------------------------------------------------------------------------------------------------------------------------------------
-Universe: Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over in the United States
-
-B07404E001 Total living in area 1 year ago:
-B07404E002  Same house
-B07404E003  Moved within same county
-B07404E004  Moved to different county within same state
-B07404E005  Moved to different state

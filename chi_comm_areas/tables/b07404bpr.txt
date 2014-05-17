@@ -1,9 +1,0 @@
-Geographical Mobility in the Past Year (Black or African American Alone) for Residence 1 Year Ago in Puerto Rico
-----------------------------------------------------------------------------------------------------------------
-Universe: Black or African American Alone Population 1 Year and Over
-
-B07404BPR001 Total living in area 1 year ago:
-B07404BPR002  Same house
-B07404BPR003  Moved within same municipio
-B07404BPR004  Moved to different municipio
-B07404BPR005  Moved to the United States

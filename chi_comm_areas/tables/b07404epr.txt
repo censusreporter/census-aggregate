@@ -1,9 +1,0 @@
-Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in Puerto Rico
----------------------------------------------------------------------------------------------------------------------------------
-Universe: Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over
-
-B07404EPR001 Total living in area 1 year ago:
-B07404EPR002  Same house
-B07404EPR003  Moved within same municipio
-B07404EPR004  Moved to different municipio
-B07404EPR005  Moved to the United States

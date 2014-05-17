@@ -1,6 +1,0 @@
-Unweighted Housing Unit Sample
-------------------------------
-Universe: Housing Units
-
-B98001001 Initial addresses selected
-B98001002 Final number of housing unit interviews

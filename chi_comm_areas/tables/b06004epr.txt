@@ -1,9 +1,0 @@
-Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in Puerto Rico
---------------------------------------------------------------------------------
-Universe: Native Hawaiian and Other Pacific Islander Alone Population in Puerto Rico
-
-B06004EPR001 Total:
-B06004EPR002  Born in Puerto Rico
-B06004EPR003  Born in the United States
-B06004EPR004  Native; born elsewhere
-B06004EPR005  Foreign born

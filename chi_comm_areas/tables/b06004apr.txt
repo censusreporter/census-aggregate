@@ -1,9 +1,0 @@
-Place of Birth (White Alone) in Puerto Rico
--------------------------------------------
-Universe: White Alone Population in Puerto Rico
-
-B06004APR001 Total:
-B06004APR002  Born in Puerto Rico
-B06004APR003  Born in the United States
-B06004APR004  Native; born elsewhere
-B06004APR005  Foreign born

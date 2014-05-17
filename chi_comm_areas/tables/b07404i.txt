@@ -1,9 +1,0 @@
-Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in the United States
----------------------------------------------------------------------------------------------------------
-Universe: Hispanic or Latino Population 1 Year and Over in the United States
-
-B07404I001 Total living in area 1 year ago:
-B07404I002  Same house
-B07404I003  Moved within same county
-B07404I004  Moved to different county within same state
-B07404I005  Moved to different state

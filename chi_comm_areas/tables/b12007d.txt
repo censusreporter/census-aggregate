@@ -1,7 +1,0 @@
-Median Age at First Marriage (Asian Alone)
-------------------------------------------
-Universe: Asian Alone Population 15 to 54 Years
-
-B12007D000.5 Median age at first marriage --
-B12007D001  Male
-B12007D002  Female

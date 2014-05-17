@@ -1,7 +1,0 @@
-Median Age at First Marriage (Some Other Race Alone)
-----------------------------------------------------
-Universe: Some Other Race Alone Population 15 to 54 Years
-
-B12007F000.5 Median age at first marriage --
-B12007F001  Male
-B12007F002  Female

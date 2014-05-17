@@ -1,7 +1,0 @@
-Median Age at First Marriage (Two or More Races)
-------------------------------------------------
-Universe: Two or More Races Population 15 to 54 Years
-
-B12007G000.5 Median age at first marriage --
-B12007G001  Male
-B12007G002  Female
