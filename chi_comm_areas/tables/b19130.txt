@@ -1,0 +1,33 @@
+Aggregate Family Income by Family Type by Age of Householder
+------------------------------------------------------------
+Universe: Families
+
+B19130001 Aggregate family income in the past 12 months (in 2012 inflation-adjusted dollars):
+B19130002  Married couple family (dollars):
+B19130003   Householder 15 to 24 years (dollars)
+B19130004   Householder 25 to 34 years (dollars)
+B19130005   Householder 35 to 44 years (dollars)
+B19130006   Householder 45 to 54 years (dollars)
+B19130007   Householder 55 to 59 years (dollars)
+B19130008   Householder 60 to 64 years (dollars)
+B19130009   Householder 65 to 74 years (dollars)
+B19130010   Householder 75 years and over (dollars)
+B19130011  Other family (dollars):
+B19130012   Male householder, no wife present (dollars):
+B19130013    Householder 15 to 24 years (dollars)
+B19130014    Householder 25 to 34 years (dollars)
+B19130015    Householder 35 to 44 years (dollars)
+B19130016    Householder 45 to 54 years (dollars)
+B19130017    Householder 55 to 59 years (dollars)
+B19130018    Householder 60 to 64 years (dollars)
+B19130019    Householder 65 to 74 years (dollars)
+B19130020    Householder 75 years and over (dollars)
+B19130021   Female householder, no husband present (dollars):
+B19130022    Householder 15 to 24 years (dollars)
+B19130023    Householder 25 to 34 years (dollars)
+B19130024    Householder 35 to 44 years (dollars)
+B19130025    Householder 45 to 54 years (dollars)
+B19130026    Householder 55 to 59 years (dollars)
+B19130027    Householder 60 to 64 years (dollars)
+B19130028    Householder 65 to 74 years (dollars)
+B19130029    Householder 75 years and over (dollars)

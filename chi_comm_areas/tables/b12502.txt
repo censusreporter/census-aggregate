@@ -1,0 +1,15 @@
+Marriages Ending in Widowhood in the Last Year by Sex by Marital Status
+-----------------------------------------------------------------------
+Universe: Population 15 Years and Over
+
+B12502001 Total:
+B12502002  Male:
+B12502003   Never married
+B12502004   Ever married:
+B12502005    Widowed last year
+B12502006    Not widowed last year
+B12502007  Female:
+B12502008   Never married
+B12502009   Ever married:
+B12502010    Widowed last year
+B12502011    Not widowed last year

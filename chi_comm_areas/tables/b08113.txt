@@ -1,0 +1,60 @@
+Means of Transportation to Work by Language Spoken at Home and Ability to Speak English
+---------------------------------------------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08113001 Total:
+B08113002   Speak only English
+B08113003   Speak Spanish:
+B08113004    Speak English "very well"
+B08113005    Speak English less than "very well"
+B08113006   Speak other languages:
+B08113007    Speak English "very well"
+B08113008    Speak English less than "very well"
+B08113009  Car, truck, or van - drove alone:
+B08113010   Speak only English
+B08113011   Speak Spanish:
+B08113012    Speak English "very well"
+B08113013    Speak English less than "very well"
+B08113014   Speak other languages:
+B08113015    Speak English "very well"
+B08113016    Speak English less than "very well"
+B08113017  Car, truck, or van - carpooled:
+B08113018   Speak only English
+B08113019   Speak Spanish:
+B08113020    Speak English "very well"
+B08113021    Speak English less than "very well"
+B08113022   Speak other languages:
+B08113023    Speak English "very well"
+B08113024    Speak English less than "very well"
+B08113025  Public transportation (excluding taxicab):
+B08113026   Speak only English
+B08113027   Speak Spanish:
+B08113028    Speak English "very well"
+B08113029    Speak English less than "very well"
+B08113030   Speak other languages:
+B08113031    Speak English "very well"
+B08113032    Speak English less than "very well"
+B08113033  Walked:
+B08113034   Speak only English
+B08113035   Speak Spanish:
+B08113036    Speak English "very well"
+B08113037    Speak English less than "very well"
+B08113038   Speak other languages:
+B08113039    Speak English "very well"
+B08113040    Speak English less than "very well"
+B08113041  Taxicab, motorcycle, bicycle, or other means:
+B08113042   Speak only English
+B08113043   Speak Spanish:
+B08113044    Speak English "very well"
+B08113045    Speak English less than "very well"
+B08113046   Speak other languages:
+B08113047    Speak English "very well"
+B08113048    Speak English less than "very well"
+B08113049  Worked at home:
+B08113050   Speak only English
+B08113051   Speak Spanish:
+B08113052    Speak English "very well"
+B08113053    Speak English less than "very well"
+B08113054   Speak other languages:
+B08113055    Speak English "very well"
+B08113056    Speak English less than "very well"

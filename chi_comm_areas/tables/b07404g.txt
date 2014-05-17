@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in the United States
+--------------------------------------------------------------------------------------------------------
+Universe: Two or More Races Population 1 Year and Over in the United States
+
+B07404G001 Total living in area 1 year ago:
+B07404G002  Same house
+B07404G003  Moved within same county
+B07404G004  Moved to different county within same state
+B07404G005  Moved to different state

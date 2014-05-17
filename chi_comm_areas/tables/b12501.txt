@@ -1,0 +1,15 @@
+Marriages in the Last Year by Sex by Marital Status
+---------------------------------------------------
+Universe: Population 15 Years and Over
+
+B12501001 Total:
+B12501002  Male:
+B12501003   Never married
+B12501004   Ever married:
+B12501005    Married last year
+B12501006    Not married last year
+B12501007  Female:
+B12501008   Never married
+B12501009   Ever married:
+B12501010    Married last year
+B12501011    Not married last year

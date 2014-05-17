@@ -1,0 +1,14 @@
+Race
+----
+Universe: Total Population
+
+B02001001 Total:
+B02001002  White alone
+B02001003  Black or African American alone
+B02001004  American Indian and Alaska Native alone
+B02001005  Asian alone
+B02001006  Native Hawaiian and Other Pacific Islander alone
+B02001007  Some other race alone
+B02001008  Two or more races:
+B02001009   Two races including Some other race
+B02001010   Two races excluding Some other race, and three or more races

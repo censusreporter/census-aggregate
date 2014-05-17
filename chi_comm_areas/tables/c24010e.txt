@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------------------------------
+Universe: Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over
+
+C24010E001 Total:
+C24010E002  Male:
+C24010E003   Management, business, science, and arts occupations:
+C24010E004   Service occupations:
+C24010E005   Sales and office occupations:
+C24010E006   Natural resources, construction, and maintenance occupations:
+C24010E007   Production, transportation, and material moving occupations:
+C24010E008  Female:
+C24010E009   Management, business, science, and arts occupations:
+C24010E010   Service occupations:
+C24010E011   Sales and office occupations:
+C24010E012   Natural resources, construction, and maintenance occupations:
+C24010E013   Production, transportation, and material moving occupations:

@@ -1,0 +1,8 @@
+Median Age by Sex (White Alone, Not Hispanic or Latino)
+-------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population
+
+B01002H000.5 Median age --
+B01002H001  Total:
+B01002H002  Male
+B01002H003  Female

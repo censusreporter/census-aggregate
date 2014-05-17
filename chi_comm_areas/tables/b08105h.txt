@@ -1,0 +1,11 @@
+Means of Transportation to Work (White Alone, Not Hispanic or Latino)
+---------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Workers 16 Years and Over
+
+B08105H001 Total:
+B08105H002  Car, truck, or van - drove alone
+B08105H003  Car, truck, or van - carpooled
+B08105H004  Public transportation (excluding taxicab)
+B08105H005  Walked
+B08105H006  Taxicab, motorcycle, bicycle, or other means
+B08105H007  Worked at home

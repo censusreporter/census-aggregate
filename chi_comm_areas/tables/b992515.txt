@@ -1,0 +1,7 @@
+Imputation of Contract Rent
+---------------------------
+Universe: Renter-occupied Housing Units
+
+B992515001 Total:
+B992515002  Imputed
+B992515003  Not imputed

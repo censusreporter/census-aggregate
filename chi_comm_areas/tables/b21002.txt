@@ -1,0 +1,20 @@
+Period of Military Service for Civilian Veterans 18 Years and Over
+------------------------------------------------------------------
+Universe: Civilian Veterans 18 Years and Over
+
+B21002001 Total:
+B21002002  Gulf War (9/2001 or later), no Gulf War (8/1990 to 8/2001), no Vietnam Era
+B21002003  Gulf War (9/2001 or later) and Gulf War (8/1990 to 8/2001), no Vietnam Era
+B21002004  Gulf War (9/2001 or later), and Gulf War (8/1990 to 8/2001), and Vietnam Era
+B21002005  Gulf War (8/1990 to 8/2001), no Vietnam Era
+B21002006  Gulf War (8/1990 to 8/2001) and Vietnam Era
+B21002007  Vietnam Era, no Korean War, no World War II
+B21002008  Vietnam Era and Korean War, no World War II
+B21002009  Vietnam Era and Korean War and World War II
+B21002010  Korean War, no Vietnam Era, no World War II
+B21002011  Korean War and World War II, no Vietnam Era
+B21002012  World War II, no Korean War, no Vietnam Era
+B21002013  Between Gulf War and Vietnam Era only
+B21002014  Between Vietnam Era and Korean War only
+B21002015  Between Korean War and World War II only
+B21002016  Pre-World War II only

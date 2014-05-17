@@ -1,0 +1,7 @@
+Tenure (White Alone, Not Hispanic or Latino Householder)
+--------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B25003H001 Total:
+B25003H002  Owner occupied
+B25003H003  Renter occupied

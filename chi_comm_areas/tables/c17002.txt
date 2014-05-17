@@ -1,0 +1,12 @@
+Ratio of Income to Poverty Level
+--------------------------------
+Universe: Population for Whom Poverty Status Is Determined
+
+C17002001 Total:
+C17002002  Under .50
+C17002003  .50 to .99
+C17002004  1.00 to 1.24
+C17002005  1.25 to 1.49
+C17002006  1.50 to 1.84
+C17002007  1.85 to 1.99
+C17002008  2.00 and over

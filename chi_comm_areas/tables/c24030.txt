@@ -1,0 +1,59 @@
+Sex by Industry for the Civilian Population
+-------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+C24030001 Total:
+C24030002  Male:
+C24030003   Agriculture, forestry, fishing and hunting, and mining:
+C24030004    Agriculture, forestry, fishing and hunting
+C24030005    Mining, quarrying, and oil and gas extraction
+C24030006   Construction
+C24030007   Manufacturing
+C24030008   Wholesale trade
+C24030009   Retail trade
+C24030010   Transportation and warehousing, and utilities:
+C24030011    Transportation and warehousing
+C24030012    Utilities
+C24030013   Information
+C24030014   Finance and insurance, and real estate and rental and leasing:
+C24030015    Finance and insurance
+C24030016    Real estate and rental and leasing
+C24030017   Professional, scientific, and management, and administrative and waste management services:
+C24030018    Professional, scientific, and technical services
+C24030019    Management of companies and enterprises
+C24030020    Administrative and support and waste management services
+C24030021   Educational services, and health care and social assistance:
+C24030022    Educational services
+C24030023    Health care and social assistance
+C24030024   Arts, entertainment, and recreation, and accommodation and food services:
+C24030025    Arts, entertainment, and recreation
+C24030026    Accommodation and food services
+C24030027   Other services, except public administration
+C24030028   Public administration
+C24030029  Female:
+C24030030   Agriculture, forestry, fishing and hunting, and mining:
+C24030031    Agriculture, forestry, fishing and hunting
+C24030032    Mining, quarrying, and oil and gas extraction
+C24030033   Construction
+C24030034   Manufacturing
+C24030035   Wholesale trade
+C24030036   Retail trade
+C24030037   Transportation and warehousing, and utilities:
+C24030038    Transportation and warehousing
+C24030039    Utilities
+C24030040   Information
+C24030041   Finance and insurance, and real estate and rental and leasing:
+C24030042    Finance and insurance
+C24030043    Real estate and rental and leasing
+C24030044   Professional, scientific, and management, and administrative and waste management services:
+C24030045    Professional, scientific, and technical services
+C24030046    Management of companies and enterprises
+C24030047    Administrative and support and waste management services
+C24030048   Educational services, and health care and social assistance:
+C24030049    Educational services
+C24030050    Health care and social assistance
+C24030051   Arts, entertainment, and recreation, and accommodation and food services:
+C24030052    Arts, entertainment, and recreation
+C24030053    Accommodation and food services
+C24030054   Other services, except public administration
+C24030055   Public administration

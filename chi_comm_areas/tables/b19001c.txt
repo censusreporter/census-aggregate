@@ -1,0 +1,21 @@
+Household Income (American Indian and Alaska Native Alone Householder)
+----------------------------------------------------------------------
+Universe: Households With a Householder Who Is American Indian and Alaska Native Alone
+
+B19001C001 Total:
+B19001C002  Less than $10,000
+B19001C003  $10,000 to $14,999
+B19001C004  $15,000 to $19,999
+B19001C005  $20,000 to $24,999
+B19001C006  $25,000 to $29,999
+B19001C007  $30,000 to $34,999
+B19001C008  $35,000 to $39,999
+B19001C009  $40,000 to $44,999
+B19001C010  $45,000 to $49,999
+B19001C011  $50,000 to $59,999
+B19001C012  $60,000 to $74,999
+B19001C013  $75,000 to $99,999
+B19001C014  $100,000 to $124,999
+B19001C015  $125,000 to $149,999
+B19001C016  $150,000 to $199,999
+B19001C017  $200,000 or more

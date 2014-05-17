@@ -1,0 +1,69 @@
+Movers Between Regions in the United States
+-------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07101001 Total:
+B07101002   Same residence (non-movers)
+B07101003   Movers within same state
+B07101004   Movers to different state:
+B07101004.5    Residence 1 year ago--
+B07101005     Northeast
+B07101006     Midwest
+B07101007     South
+B07101008     West
+B07101009   Movers from abroad:
+B07101010    Puerto Rico
+B07101011    U.S. Island Areas
+B07101012    Foreign country
+B07101013  Current residence; Northeast:
+B07101014   Same residence (non-movers)
+B07101015   Movers within same state
+B07101016   Movers to different state:
+B07101016.5    Residence 1 year ago--
+B07101017     Northeast
+B07101018     Midwest
+B07101019     South
+B07101020     West
+B07101021   Movers from abroad:
+B07101022    Puerto Rico
+B07101023    U.S. Island Areas
+B07101024    Foreign country
+B07101025  Current residence; Midwest:
+B07101026   Same residence (non-movers)
+B07101027   Movers within same state
+B07101028   Movers to different state:
+B07101028.5    Residence 1 year ago--
+B07101029     Northeast
+B07101030     Midwest
+B07101031     South
+B07101032     West
+B07101033   Movers from abroad:
+B07101034    Puerto Rico
+B07101035    U.S. Island Areas
+B07101036    Foreign country
+B07101037  Current residence; South:
+B07101038   Same residence (non-movers)
+B07101039   Movers within same state
+B07101040   Movers to different state:
+B07101040.5    Residence 1 year ago--
+B07101041     Northeast
+B07101042     Midwest
+B07101043     South
+B07101044     West
+B07101045   Movers from abroad:
+B07101046    Puerto Rico
+B07101047    U.S. Island Areas
+B07101048    Foreign country
+B07101049  Current residence; West:
+B07101050   Same residence (non-movers)
+B07101051   Movers within same state
+B07101052   Movers to different state:
+B07101052.5    Residence 1 year ago--
+B07101053     Northeast
+B07101054     Midwest
+B07101055     South
+B07101056     West
+B07101057   Movers from abroad:
+B07101058    Puerto Rico
+B07101059    U.S. Island Areas
+B07101060    Foreign country

@@ -1,0 +1,34 @@
+Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in Puerto Rico
+------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over
+
+B07408PR001 Total living in area 1 year ago:
+B07408PR002   Never married
+B07408PR003   Now married, except separated
+B07408PR004   Divorced
+B07408PR005   Separated
+B07408PR006   Widowed
+B07408PR007  Same house:
+B07408PR008   Never married
+B07408PR009   Now married, except separated
+B07408PR010   Divorced
+B07408PR011   Separated
+B07408PR012   Widowed
+B07408PR013  Moved within same municipio:
+B07408PR014   Never married
+B07408PR015   Now married, except separated
+B07408PR016   Divorced
+B07408PR017   Separated
+B07408PR018   Widowed
+B07408PR019  Moved to different municipio:
+B07408PR020   Never married
+B07408PR021   Now married, except separated
+B07408PR022   Divorced
+B07408PR023   Separated
+B07408PR024   Widowed
+B07408PR025  Moved to the United States:
+B07408PR026   Never married
+B07408PR027   Now married, except separated
+B07408PR028   Divorced
+B07408PR029   Separated
+B07408PR030   Widowed

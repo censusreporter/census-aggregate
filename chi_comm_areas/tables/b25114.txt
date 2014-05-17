@@ -1,0 +1,11 @@
+Aggregate Gross Rent (Dollars) by Year Householder Moved Into Unit
+------------------------------------------------------------------
+Universe: Renter-occupied Housing Units
+
+B25114001 Aggregate gross rent:
+B25114002  Moved in 2010 or later
+B25114003  Moved in 2000 to 2009
+B25114004  Moved in 1990 to 1999
+B25114005  Moved in 1980 to 1989
+B25114006  Moved in 1970 to 1979
+B25114007  Moved in 1969 or earlier

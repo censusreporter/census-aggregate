@@ -1,0 +1,25 @@
+Medicaid/Means-tested Public Coverage by Sex by Age
+---------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27007001 Total:
+C27007002  Male:
+C27007003   Under 18 years:
+C27007004    With Medicaid/means-tested public coverage
+C27007005    No Medicaid/means-tested public coverage
+C27007006   18 to 64 years:
+C27007007    With Medicaid/means-tested public coverage
+C27007008    No Medicaid/means-tested public coverage
+C27007009   65 years and over:
+C27007010    With Medicaid/means-tested public coverage
+C27007011    No Medicaid/means-tested public coverage
+C27007012  Female:
+C27007013   Under 18 years:
+C27007014    With Medicaid/means-tested public coverage
+C27007015    No Medicaid/means-tested public coverage
+C27007016   18 to 64 years:
+C27007017    With Medicaid/means-tested public coverage
+C27007018    No Medicaid/means-tested public coverage
+C27007019   65 years and over:
+C27007020    With Medicaid/means-tested public coverage
+C27007021    No Medicaid/means-tested public coverage

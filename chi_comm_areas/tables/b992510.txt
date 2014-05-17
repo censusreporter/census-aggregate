@@ -1,0 +1,7 @@
+Imputation of Kitchen Facilities
+--------------------------------
+Universe: Housing Units
+
+B992510001 Total:
+B992510002  Imputed
+B992510003  Not imputed

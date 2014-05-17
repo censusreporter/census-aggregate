@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Black or African American Alone)
+-----------------------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Black or African American Alone
+
+B11002B001 Total:
+B11002B002  In family households:
+B11002B003   In married-couple family:
+B11002B004    Relatives
+B11002B005    Nonrelatives
+B11002B006   In male householder, no wife present, family:
+B11002B007    Relatives
+B11002B008    Nonrelatives
+B11002B009   In female householder, no husband present, family:
+B11002B010    Relatives
+B11002B011    Nonrelatives
+B11002B012  In nonfamily households

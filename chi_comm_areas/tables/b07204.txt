@@ -1,0 +1,23 @@
+Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States
+----------------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07204001 Total:
+B07204002  Same house 1 year ago
+B07204003  Different house in United States 1 year ago:
+B07204004   Same city or town:
+B07204005    Same county
+B07204006    Different county (same state)
+B07204007   Elsewhere:
+B07204008    Same county
+B07204009    Different county:
+B07204010     Same state
+B07204011     Different state:
+B07204012      Northeast
+B07204013      Midwest
+B07204014      South
+B07204015      West
+B07204016  Abroad 1 year ago:
+B07204017   Puerto Rico
+B07204018   U.S. Island Areas
+B07204019   Foreign country

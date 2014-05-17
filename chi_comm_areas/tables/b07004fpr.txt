@@ -1,0 +1,10 @@
+Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in Puerto Rico
+---------------------------------------------------------------------------------------------------
+Universe: Some Other Race Alone Population 1 Year and Over in Puerto Rico
+
+B07004FPR001 Total:
+B07004FPR002  Same house 1 year ago
+B07004FPR003  Moved within same municipio
+B07004FPR004  Moved from different municipio
+B07004FPR005  Moved from the United States
+B07004FPR006  Moved from elsewhere

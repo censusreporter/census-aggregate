@@ -1,0 +1,5 @@
+Aggregate Family Income
+-----------------------
+Universe: Families
+
+B19127001 Aggregate family income in the past 12 months (in 2012 inflation-adjusted dollars)

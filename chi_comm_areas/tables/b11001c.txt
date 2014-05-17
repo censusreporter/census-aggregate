@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------
+Universe: Households With a Householder Who Is American Indian and Alaska Native Alone
+
+B11001C001 Total:
+B11001C002  Family households:
+B11001C003   Married-couple family
+B11001C004   Other family:
+B11001C005    Male householder, no wife present
+B11001C006    Female householder, no husband present
+B11001C007  Nonfamily households:
+B11001C008   Householder living alone
+B11001C009   Householder not living alone

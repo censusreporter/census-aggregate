@@ -1,0 +1,7 @@
+Imputation of Meals Included in Rent
+------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B992514001 Total:
+B992514002  Imputed
+B992514003  Not imputed

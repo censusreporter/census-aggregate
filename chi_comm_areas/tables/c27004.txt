@@ -1,0 +1,25 @@
+Employer-based Health Insurance by Sex by Age
+---------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27004001 Total:
+C27004002  Male:
+C27004003   Under 18 years:
+C27004004    With employer-based health insurance
+C27004005    No employer-based health insurance
+C27004006   18 to 64 years:
+C27004007    With employer-based health insurance
+C27004008    No employer-based health insurance
+C27004009   65 years and over:
+C27004010    With employer-based health insurance
+C27004011    No employer-based health insurance
+C27004012  Female:
+C27004013   Under 18 years:
+C27004014    With employer-based health insurance
+C27004015    No employer-based health insurance
+C27004016   18 to 64 years:
+C27004017    With employer-based health insurance
+C27004018    No employer-based health insurance
+C27004019   65 years and over:
+C27004020    With employer-based health insurance
+C27004021    No employer-based health insurance

@@ -1,0 +1,10 @@
+Household Income Quintile Upper Limits
+--------------------------------------
+Universe: Households
+
+B19080000.5 Quintile Upper Limits:
+B19080001  Lowest Quintile
+B19080002  Second Quintile
+B19080003  Third Quintile
+B19080004  Fourth Quintile
+B19080005 Lower Limit of Top 5 Percent

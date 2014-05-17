@@ -1,0 +1,70 @@
+Geographical Mobility in the Past Year by Individual Income for Current Residence in Puerto Rico
+------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over in Puerto Rico
+
+B07010PR001 Total:
+B07010PR002   No income
+B07010PR003   With income:
+B07010PR004    $1 to $9,999 or loss
+B07010PR005    $10,000 to $14,999
+B07010PR006    $15,000 to $24,999
+B07010PR007    $25,000 to $34,999
+B07010PR008    $35,000 to $49,999
+B07010PR009    $50,000 to $64,999
+B07010PR010    $65,000 to $74,999
+B07010PR011    $75,000 or more
+B07010PR012  Same house 1 year ago:
+B07010PR013   No income
+B07010PR014   With income:
+B07010PR015    $1 to $9,999 or loss
+B07010PR016    $10,000 to $14,999
+B07010PR017    $15,000 to $24,999
+B07010PR018    $25,000 to $34,999
+B07010PR019    $35,000 to $49,999
+B07010PR020    $50,000 to $64,999
+B07010PR021    $65,000 to $74,999
+B07010PR022    $75,000 or more
+B07010PR023  Moved within same municipio:
+B07010PR024   No income
+B07010PR025   With income:
+B07010PR026    $1 to $9,999 or loss
+B07010PR027    $10,000 to $14,999
+B07010PR028    $15,000 to $24,999
+B07010PR029    $25,000 to $34,999
+B07010PR030    $35,000 to $49,999
+B07010PR031    $50,000 to $64,999
+B07010PR032    $65,000 to $74,999
+B07010PR033    $75,000 or more
+B07010PR034  Moved from different municipio:
+B07010PR035   No income
+B07010PR036   With income:
+B07010PR037    $1 to $9,999 or loss
+B07010PR038    $10,000 to $14,999
+B07010PR039    $15,000 to $24,999
+B07010PR040    $25,000 to $34,999
+B07010PR041    $35,000 to $49,999
+B07010PR042    $50,000 to $64,999
+B07010PR043    $65,000 to $74,999
+B07010PR044    $75,000 or more
+B07010PR045  Moved from the United States:
+B07010PR046   No income
+B07010PR047   With income:
+B07010PR048    $1 to $9,999 or loss
+B07010PR049    $10,000 to $14,999
+B07010PR050    $15,000 to $24,999
+B07010PR051    $25,000 to $34,999
+B07010PR052    $35,000 to $49,999
+B07010PR053    $50,000 to $64,999
+B07010PR054    $65,000 to $74,999
+B07010PR055    $75,000 or more
+B07010PR056  Moved from elsewhere:
+B07010PR057   No income
+B07010PR058   With income:
+B07010PR059    $1 to $9,999 or loss
+B07010PR060    $10,000 to $14,999
+B07010PR061    $15,000 to $24,999
+B07010PR062    $25,000 to $34,999
+B07010PR063    $35,000 to $49,999
+B07010PR064    $50,000 to $64,999
+B07010PR065    $65,000 to $74,999
+B07010PR066    $75,000 or more

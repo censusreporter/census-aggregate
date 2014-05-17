@@ -1,0 +1,9 @@
+Place of Birth (American Indian and Alaska Native Alone) in Puerto Rico
+-----------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population in Puerto Rico
+
+B06004CPR001 Total:
+B06004CPR002  Born in Puerto Rico
+B06004CPR003  Born in the United States
+B06004CPR004  Native; born elsewhere
+B06004CPR005  Foreign born

@@ -1,0 +1,7 @@
+Vacant - Current Residence Elsewhere
+------------------------------------
+Universe: Vacant Housing Units
+
+B25005001 Total:
+B25005002 Vacant - current residence elsewhere
+B25005003  All other vacant units

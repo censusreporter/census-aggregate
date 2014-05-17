@@ -1,0 +1,8 @@
+Mortgage Status by Median Household Income
+------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25099000.5 Median household income --
+B25099001  Total:
+B25099002   Median household income for units with a mortgage
+B25099003   Median household income for units without a mortgage

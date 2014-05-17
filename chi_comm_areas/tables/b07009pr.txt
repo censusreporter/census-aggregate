@@ -1,0 +1,40 @@
+Geographical Mobility in the Past Year by Educational Attainment for Current Residence in Puerto Rico
+-----------------------------------------------------------------------------------------------------
+Universe: Population 25 Years and Over in Puerto Rico
+
+B07009PR001 Total:
+B07009PR002   Less than high school graduate
+B07009PR003   High school graduate (includes equivalency)
+B07009PR004   Some college or associate's degree
+B07009PR005   Bachelor's degree
+B07009PR006   Graduate or professional degree
+B07009PR007  Same house 1 year ago:
+B07009PR008   Less than high school graduate
+B07009PR009   High school graduate (includes equivalency)
+B07009PR010   Some college or associate's degree
+B07009PR011   Bachelor's degree
+B07009PR012   Graduate or professional degree
+B07009PR013  Moved within same municipio:
+B07009PR014   Less than high school graduate
+B07009PR015   High school graduate (includes equivalency)
+B07009PR016   Some college or associate's degree
+B07009PR017   Bachelor's degree
+B07009PR018   Graduate or professional degree
+B07009PR019  Moved from different municipio:
+B07009PR020   Less than high school graduate
+B07009PR021   High school graduate (includes equivalency)
+B07009PR022   Some college or associate's degree
+B07009PR023   Bachelor's degree
+B07009PR024   Graduate or professional degree
+B07009PR025  Moved from the United States:
+B07009PR026   Less than high school graduate
+B07009PR027   High school graduate (includes equivalency)
+B07009PR028   Some college or associate's degree
+B07009PR029   Bachelor's degree
+B07009PR030   Graduate or professional degree
+B07009PR031  Moved from elsewhere:
+B07009PR032   Less than high school graduate
+B07009PR033   High school graduate (includes equivalency)
+B07009PR034   Some college or associate's degree
+B07009PR035   Bachelor's degree
+B07009PR036   Graduate or professional degree

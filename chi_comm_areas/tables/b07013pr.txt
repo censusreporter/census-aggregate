@@ -1,0 +1,22 @@
+Geographical Mobility in the Past Year by Tenure for Current Residence in Puerto Rico
+-------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in Households in Puerto Rico
+
+B07013PR001 Total:
+B07013PR002   Householder lived in owner-occupied housing units
+B07013PR003   Householder lived in renter-occupied housing units
+B07013PR004  Same house 1 year ago:
+B07013PR005   Householder lived in owner-occupied housing units
+B07013PR006   Householder lived in renter-occupied housing units
+B07013PR007  Moved within same municipio:
+B07013PR008   Householder lived in owner-occupied housing units
+B07013PR009   Householder lived in renter-occupied housing units
+B07013PR010  Moved from different municipio:
+B07013PR011   Householder lived in owner-occupied housing units
+B07013PR012   Householder lived in renter-occupied housing units
+B07013PR013  Moved from the United States:
+B07013PR014   Householder lived in owner-occupied housing units
+B07013PR015   Householder lived in renter-occupied housing units
+B07013PR016  Moved from elsewhere:
+B07013PR017   Householder lived in owner-occupied housing units
+B07013PR018   Householder lived in renter-occupied housing units

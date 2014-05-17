@@ -1,0 +1,14 @@
+Aggregate Value (Dollars) by Year Structure Built
+-------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25108001 Aggregate value (dollars):
+B25108002  Built 2010 or later
+B25108003  Built 2000 to 2009
+B25108004  Built 1990 to 1999
+B25108005  Built 1980 to 1989
+B25108006  Built 1970 to 1979
+B25108007  Built 1960 to 1969
+B25108008  Built 1950 to 1959
+B25108009  Built 1940 to 1949
+B25108010  Built 1939 or earlier

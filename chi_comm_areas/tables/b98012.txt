@@ -1,0 +1,7 @@
+Total Population Coverage Rate by Sex
+-------------------------------------
+Universe: Total Population
+
+B98012001 Total:
+B98012002  Male
+B98012003  Female

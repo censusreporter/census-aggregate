@@ -1,0 +1,15 @@
+Tenure of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+-------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years in Households
+
+B10061001 Total:
+B10061002  Living in owner-occupied housing unit:
+B10061003   Grandparent responsible for own grandchildren under 18 years:
+B10061004    30 to 59 years
+B10061005    60 years and over
+B10061006   Grandparent not responsible for own grandchildren under 18 years
+B10061007  Living in renter-occupied housing unit:
+B10061008   Grandparent responsible for own grandchildren under 18 years:
+B10061009    30 to 59 years
+B10061010    60 years and over
+B10061011   Grandparent not responsible for own grandchildren under 18 years

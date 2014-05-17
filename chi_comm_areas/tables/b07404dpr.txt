@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in Puerto Rico
+--------------------------------------------------------------------------------------------
+Universe: Asian Alone Population 1 Year and Over
+
+B07404DPR001 Total living in area 1 year ago:
+B07404DPR002  Same house
+B07404DPR003  Moved within same municipio
+B07404DPR004  Moved to different municipio
+B07404DPR005  Moved to the United States

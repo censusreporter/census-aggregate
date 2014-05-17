@@ -1,0 +1,7 @@
+Imputation of Vehicles Available for Workers
+--------------------------------------------
+Universe: Workers 16 Years and Over in Households
+
+B99089001 Total:
+B99089002  Imputed
+B99089003  Not imputed

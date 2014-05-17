@@ -1,0 +1,10 @@
+Imputation of Usual Hours Worked Per Week
+-----------------------------------------
+Universe: Population 16 Years and Over
+
+B99233001 Total:
+B99233002  Worked in the past 12 months:
+B99233002.5   Usual hours worked per week in the past 12 months --
+B99233003    Imputed
+B99233004    Not imputed
+B99233005  Did not work in the past 12 months

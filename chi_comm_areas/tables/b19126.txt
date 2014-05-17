@@ -1,0 +1,20 @@
+Median Family Income by Family Type by Presence of Own Children
+---------------------------------------------------------------
+Universe: Families
+
+B19126000.5 Median family income in the past 12 months (in 2012 inflation-adjusted dollars) --
+B19126001  Total:
+B19126001.5  Married-couple family --
+B19126002   Total
+B19126003   With own children under 18 years
+B19126004   No own children under 18 years
+B19126004.5  Other family --
+B19126005   Total
+B19126005.5   Male householder, no wife present --
+B19126006    Total
+B19126007    With own children under 18 years
+B19126008    No own children under 18 years
+B19126008.5   Female householder, no husband present --
+B19126009    Total
+B19126010    With own children under 18 years
+B19126011    No own children under 18 years

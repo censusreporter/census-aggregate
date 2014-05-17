@@ -1,0 +1,50 @@
+Health Insurance Coverage Status and Type by Work Experience by Age
+-------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 18 Years and Over
+
+C27012001 Total:
+C27012002  Worked full-time, year-round:
+C27012003   18 to 64 years:
+C27012004    With health insurance coverage
+C27012005     With employer-based health insurance
+C27012006     With direct-purchase health insurance
+C27012007     With Medicare coverage
+C27012008     With Medicaid/means-tested public coverage
+C27012009    No health insurance coverage
+C27012010   65 years and over:
+C27012011    With health insurance coverage
+C27012012     With employer-based health insurance
+C27012013     With direct-purchase health insurance
+C27012014     With Medicare coverage
+C27012015     With Medicaid/means-tested public coverage
+C27012016    No health insurance coverage
+C27012017  Worked less than full-time, year-round:
+C27012018   18 to 64 years:
+C27012019    With health insurance coverage
+C27012020     With employer-based health insurance
+C27012021     With direct-purchase health insurance
+C27012022     With Medicare coverage
+C27012023     With Medicaid/means-tested public coverage
+C27012024    No health insurance coverage
+C27012025   65 years and over:
+C27012026    With health insurance coverage
+C27012027     With employer-based health insurance
+C27012028     With direct-purchase health insurance
+C27012029     With Medicare coverage
+C27012030     With Medicaid/means-tested public coverage
+C27012031    No health insurance coverage
+C27012032  Did not work:
+C27012033   18 to 64 years:
+C27012034    With health insurance coverage
+C27012035     With employer-based health insurance
+C27012036     With direct-purchase health insurance
+C27012037     With Medicare coverage
+C27012038     With Medicaid/means-tested public coverage
+C27012039    No health insurance coverage
+C27012040   65 years and over:
+C27012041    With health insurance coverage
+C27012042     With employer-based health insurance
+C27012043     With direct-purchase health insurance
+C27012044     With Medicare coverage
+C27012045     With Medicaid/means-tested public coverage
+C27012046    No health insurance coverage

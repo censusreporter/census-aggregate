@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Some Other Race Alone)
+---------------------------------------------------------------------
+Universe: Some Other Race Alone Population 3 Years and Over
+
+B14007F001 Total:
+B14007F002  Enrolled in school:
+B14007F003   Enrolled in nursery school, preschool
+B14007F004   Enrolled in kindergarten
+B14007F005   Enrolled in grade 1
+B14007F006   Enrolled in grade 2
+B14007F007   Enrolled in grade 3
+B14007F008   Enrolled in grade 4
+B14007F009   Enrolled in grade 5
+B14007F010   Enrolled in grade 6
+B14007F011   Enrolled in grade 7
+B14007F012   Enrolled in grade 8
+B14007F013   Enrolled in grade 9
+B14007F014   Enrolled in grade 10
+B14007F015   Enrolled in grade 11
+B14007F016   Enrolled in grade 12
+B14007F017   Enrolled in college, undergraduate years
+B14007F018   Graduate or professional school
+B14007F019  Not enrolled in school

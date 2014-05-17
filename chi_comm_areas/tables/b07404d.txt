@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (Asian Alone) for Residence 1 Year Ago in the United States
+--------------------------------------------------------------------------------------------------
+Universe: Asian Alone Population 1 Year and Over in the United States
+
+B07404D001 Total living in area 1 year ago:
+B07404D002  Same house
+B07404D003  Moved within same county
+B07404D004  Moved to different county within same state
+B07404D005  Moved to different state

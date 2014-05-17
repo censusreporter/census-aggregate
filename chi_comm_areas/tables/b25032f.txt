@@ -1,0 +1,15 @@
+Units in Structure (Some Other Race Alone Householder)
+------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Some Other Race Alone
+
+B25032F001 Total:
+B25032F002  1, detached
+B25032F003  1, attached
+B25032F004  2.0
+B25032F005  3 or 4
+B25032F006  5 to 9
+B25032F007  10 to 19
+B25032F008  20 to 49
+B25032F009  50 or more
+B25032F010  Mobile home
+B25032F011  Boat, RV, van, etc.

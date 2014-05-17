@@ -1,0 +1,7 @@
+Median Age at First Marriage (Hispanic or Latino)
+-------------------------------------------------
+Universe: Hispanic or Latino Population 15 to 54 Years
+
+B12007I000.5 Median age at first marriage --
+B12007I001  Male
+B12007I002  Female

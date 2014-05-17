@@ -1,0 +1,11 @@
+Means of Transportation to Work (Some Other Race Alone)
+-------------------------------------------------------
+Universe: Some Other Race Alone Workers 16 Years and Over
+
+B08505F001 Total:
+B08505F002  Car, truck, or van - drove alone
+B08505F003  Car, truck, or van - carpooled
+B08505F004  Public transportation (excluding taxicab)
+B08505F005  Walked
+B08505F006  Taxicab, motorcycle, bicycle, or other means
+B08505F007  Worked at home

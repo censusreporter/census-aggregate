@@ -1,0 +1,11 @@
+Means of Transportation to Work (Hispanic or Latino)
+----------------------------------------------------
+Universe: Hispanic or Latino Workers 16 Years and Over
+
+B08105I001 Total:
+B08105I002  Car, truck, or van - drove alone
+B08105I003  Car, truck, or van - carpooled
+B08105I004  Public transportation (excluding taxicab)
+B08105I005  Walked
+B08105I006  Taxicab, motorcycle, bicycle, or other means
+B08105I007  Worked at home

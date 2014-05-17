@@ -1,0 +1,9 @@
+Imputation of Private Vehicle Occupancy
+---------------------------------------
+Universe: Workers 16 Years and Over
+
+B99082001 Total:
+B99082002  Car, truck, or van:
+B99082003   Imputed
+B99082004   Not imputed
+B99082005  Other means (including those who worked at home)

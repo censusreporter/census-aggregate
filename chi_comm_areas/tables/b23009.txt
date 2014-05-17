@@ -1,0 +1,47 @@
+Presence of Own Children by Family Type by Number of Workers in Family
+----------------------------------------------------------------------
+Universe: Families
+
+B23009001 Total:
+B23009002  With own children under 18 years:
+B23009003   Married-couple family:
+B23009004    No workers
+B23009005    1 worker
+B23009006    2 workers:
+B23009007     Husband and wife worked
+B23009008     Other
+B23009009    3 or more workers:
+B23009010     Husband and wife worked
+B23009011     Other
+B23009012   Other family:
+B23009013    Male householder, no wife present:
+B23009014     No workers
+B23009015     1 worker
+B23009016     2 workers
+B23009017     3 or more workers
+B23009018    Female householder, no husband present:
+B23009019     No workers
+B23009020     1 worker
+B23009021     2 workers
+B23009022     3 or more workers
+B23009023  No children under 18 years:
+B23009024   Married-couple family:
+B23009025    No workers
+B23009026    1 worker
+B23009027    2 workers:
+B23009028     Husband and wife worked
+B23009029     Other
+B23009030    3 or more workers:
+B23009031     Husband and wife worked
+B23009032     Other
+B23009033   Other family:
+B23009034    Male householder, no wife present:
+B23009035     No workers
+B23009036     1 worker
+B23009037     2 workers
+B23009038     3 or more workers
+B23009039    Female householder, no husband present:
+B23009040     No workers
+B23009041     1 worker
+B23009042     2 workers
+B23009043     3 or more workers

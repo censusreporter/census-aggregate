@@ -1,0 +1,11 @@
+Imputation of Citizenship Status
+--------------------------------
+Universe: Total Population
+
+B99051001 Total:
+B99051002  Native:
+B99051003   Imputed
+B99051004   Not imputed
+B99051005  Foreign born:
+B99051006   Imputed
+B99051007   Not imputed

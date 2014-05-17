@@ -1,0 +1,87 @@
+Sex by Age by Educational Attainment
+------------------------------------
+Universe: Population 18 Years and Over
+
+B15001001 Total:
+B15001002  Male:
+B15001003   18 to 24 years:
+B15001004    Less than 9th grade
+B15001005    9th to 12th grade, no diploma
+B15001006    High school graduate, GED, or alternative
+B15001007    Some college, no degree
+B15001008    Associate's degree
+B15001009    Bachelor's degree
+B15001010    Graduate or professional degree
+B15001011   25 to 34 years:
+B15001012    Less than 9th grade
+B15001013    9th to 12th grade, no diploma
+B15001014    High school graduate, GED, or alternative
+B15001015    Some college, no degree
+B15001016    Associate's degree
+B15001017    Bachelor's degree
+B15001018    Graduate or professional degree
+B15001019   35 to 44 years:
+B15001020    Less than 9th grade
+B15001021    9th to 12th grade, no diploma
+B15001022    High school graduate, GED, or alternative
+B15001023    Some college, no degree
+B15001024    Associate's degree
+B15001025    Bachelor's degree
+B15001026    Graduate or professional degree
+B15001027   45 to 64 years:
+B15001028    Less than 9th grade
+B15001029    9th to 12th grade, no diploma
+B15001030    High school graduate, GED, or alternative
+B15001031    Some college, no degree
+B15001032    Associate's degree
+B15001033    Bachelor's degree
+B15001034    Graduate or professional degree
+B15001035   65 years and over:
+B15001036    Less than 9th grade
+B15001037    9th to 12th grade, no diploma
+B15001038    High school graduate, GED, or alternative
+B15001039    Some college, no degree
+B15001040    Associate's degree
+B15001041    Bachelor's degree
+B15001042    Graduate or professional degree
+B15001043  Female:
+B15001044   18 to 24 years:
+B15001045    Less than 9th grade
+B15001046    9th to 12th grade, no diploma
+B15001047    High school graduate, GED, or alternative
+B15001048    Some college, no degree
+B15001049    Associate's degree
+B15001050    Bachelor's degree
+B15001051    Graduate or professional degree
+B15001052   25 to 34 years:
+B15001053    Less than 9th grade
+B15001054    9th to 12th grade, no diploma
+B15001055    High school graduate, GED, or alternative
+B15001056    Some college, no degree
+B15001057    Associate's degree
+B15001058    Bachelor's degree
+B15001059    Graduate or professional degree
+B15001060   35 to 44 years:
+B15001061    Less than 9th grade
+B15001062    9th to 12th grade, no diploma
+B15001063    High school graduate, GED, or alternative
+B15001064    Some college, no degree
+B15001065    Associate's degree
+B15001066    Bachelor's degree
+B15001067    Graduate or professional degree
+B15001068   45 to 64 years:
+B15001069    Less than 9th grade
+B15001070    9th to 12th grade, no diploma
+B15001071    High school graduate, GED, or alternative
+B15001072    Some college, no degree
+B15001073    Associate's degree
+B15001074    Bachelor's degree
+B15001075    Graduate or professional degree
+B15001076   65 years and over:
+B15001077    Less than 9th grade
+B15001078    9th to 12th grade, no diploma
+B15001079    High school graduate, GED, or alternative
+B15001080    Some college, no degree
+B15001081    Associate's degree
+B15001082    Bachelor's degree
+B15001083    Graduate or professional degree

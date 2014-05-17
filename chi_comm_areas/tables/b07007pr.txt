@@ -1,0 +1,34 @@
+Geographical Mobility in the Past Year by Citizenship Status for Current Residence in Puerto Rico
+-------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in Puerto Rico
+
+B07007PR001 Total:
+B07007PR002   Native
+B07007PR003   Foreign born:
+B07007PR004    Naturalized U.S. citizen
+B07007PR005    Not a U.S. citizen
+B07007PR006  Same house 1 year ago:
+B07007PR007   Native
+B07007PR008   Foreign born:
+B07007PR009    Naturalized U.S. citizen
+B07007PR010    Not a U.S. citizen
+B07007PR011  Moved within same municipio:
+B07007PR012   Native
+B07007PR013   Foreign born:
+B07007PR014    Naturalized U.S. citizen
+B07007PR015    Not a U.S. citizen
+B07007PR016  Moved from different municipio:
+B07007PR017   Native
+B07007PR018   Foreign born:
+B07007PR019    Naturalized U.S. citizen
+B07007PR020    Not a U.S. citizen
+B07007PR021  Moved from the United States:
+B07007PR022   Native
+B07007PR023   Foreign born:
+B07007PR024    Naturalized U.S. citizen
+B07007PR025    Not a U.S. citizen
+B07007PR026  Moved from elsewhere:
+B07007PR027   Native
+B07007PR028   Foreign born:
+B07007PR029    Naturalized U.S. citizen
+B07007PR030    Not a U.S. citizen

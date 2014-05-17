@@ -1,0 +1,11 @@
+Kitchen Facilities by Meals Included in Rent
+--------------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25054001 Total:
+B25054002  Complete kitchen facilities:
+B25054003   Meals included in rent
+B25054004   No meals included in rent
+B25054005  Lacking complete kitchen facilities:
+B25054006   Meals included in rent
+B25054007   No meals included in rent

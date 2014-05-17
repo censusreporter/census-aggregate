@@ -1,0 +1,17 @@
+Tenure by Selected Physical and Financial Conditions
+----------------------------------------------------
+Universe: Occupied Housing Units
+
+B25123001 Total:
+B25123002  Owner occupied:
+B25123003   With one selected condition
+B25123004   With two selected conditions
+B25123005   With three selected conditions
+B25123006   With four selected conditions
+B25123007   No selected conditions
+B25123008  Renter occupied:
+B25123009   With one selected condition
+B25123010   With two selected conditions
+B25123011   With three selected conditions
+B25123012   With four selected conditions
+B25123013   No selected conditions

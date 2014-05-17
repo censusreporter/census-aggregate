@@ -1,0 +1,24 @@
+Place of Birth by Poverty Status in Puerto Rico
+-----------------------------------------------
+Universe: Population in Puerto Rico for Whom Poverty Status Is Determined
+
+B06012PR001 Total:
+B06012PR002   Below 100 percent of the poverty level
+B06012PR003   100 to 149 percent of the poverty level
+B06012PR004   At or above 150 percent of the poverty level
+B06012PR005  Born in Puerto Rico:
+B06012PR006   Below 100 percent of the poverty level
+B06012PR007   100 to 149 percent of the poverty level
+B06012PR008   At or above 150 percent of the poverty level
+B06012PR009  Born in the United States:
+B06012PR010   Below 100 percent of the poverty level
+B06012PR011   100 to 149 percent of the poverty level
+B06012PR012   At or above 150 percent of the poverty level
+B06012PR013  Native; born elsewhere:
+B06012PR014   Below 100 percent of the poverty level
+B06012PR015   100 to 149 percent of the poverty level
+B06012PR016   At or above 150 percent of the poverty level
+B06012PR017  Foreign born:
+B06012PR018   Below 100 percent of the poverty level
+B06012PR019   100 to 149 percent of the poverty level
+B06012PR020   At or above 150 percent of the poverty level

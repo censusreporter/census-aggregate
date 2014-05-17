@@ -1,0 +1,19 @@
+Aggregate Nonfamily Household Income by Sex of Householder by Living Alone by Age of Householder
+------------------------------------------------------------------------------------------------
+Universe: Nonfamily Households
+
+B19216001 Aggregate nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars):
+B19216002  Male householder (dollars):
+B19216003   Living alone (dollars):
+B19216004    Householder 15 to 64 years (dollars)
+B19216005    Householder 65 years and over (dollars)
+B19216006   Not living alone (dollars):
+B19216007    Householder 15 to 64 years (dollars)
+B19216008    Householder 65 years and over (dollars)
+B19216009  Female householder (dollars):
+B19216010   Living alone (dollars):
+B19216011    Householder 15 to 64 years (dollars)
+B19216012    Householder 65 years and over (dollars)
+B19216013   Not living alone (dollars):
+B19216014    Householder 15 to 64 years (dollars)
+B19216015    Householder 65 years and over (dollars)

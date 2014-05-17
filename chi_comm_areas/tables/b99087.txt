@@ -1,0 +1,10 @@
+Imputation of Time Arriving at Work From Home
+---------------------------------------------
+Universe: Workers 16 Years and Over
+
+B99087001 Total:
+B99087002  Did not work at home:
+B99087002.5   Time arriving at work from home --
+B99087003    Imputed for either departure time or minutes to work
+B99087004    Not imputed for either departure time or minutes to work
+B99087005  Worked at home

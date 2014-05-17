@@ -1,0 +1,15 @@
+Employment Status of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+------------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10058001 Total:
+B10058002  In labor force:
+B10058003   Grandparent responsible for own grandchildren under 18 years:
+B10058004    30 to 59 years
+B10058005    60 years and over
+B10058006   Grandparent not responsible for own grandchildren under 18 years
+B10058007  Not in labor force:
+B10058008   Grandparent responsible for own grandchildren under 18 years:
+B10058009    30 to 59 years
+B10058010    60 years and over
+B10058011   Grandparent not responsible for own grandchildren under 18 years

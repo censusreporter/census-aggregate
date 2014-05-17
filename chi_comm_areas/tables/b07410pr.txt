@@ -1,0 +1,59 @@
+Geographical Mobility in the Past Year by Individual Income for Residence 1 Year Ago in Puerto Rico
+---------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over
+
+B07410PR001 Total living in area 1 year ago:
+B07410PR002   No income
+B07410PR003   With income:
+B07410PR004    $1 to $9,999 or loss
+B07410PR005    $10,000 to $14,999
+B07410PR006    $15,000 to $24,999
+B07410PR007    $25,000 to $34,999
+B07410PR008    $35,000 to $49,999
+B07410PR009    $50,000 to $64,999
+B07410PR010    $65,000 to $74,999
+B07410PR011    $75,000 or more
+B07410PR012  Same house:
+B07410PR013   No income
+B07410PR014   With income:
+B07410PR015    $1 to $9,999 or loss
+B07410PR016    $10,000 to $14,999
+B07410PR017    $15,000 to $24,999
+B07410PR018    $25,000 to $34,999
+B07410PR019    $35,000 to $49,999
+B07410PR020    $50,000 to $64,999
+B07410PR021    $65,000 to $74,999
+B07410PR022    $75,000 or more
+B07410PR023  Moved within same municipio:
+B07410PR024   No income
+B07410PR025   With income:
+B07410PR026    $1 to $9,999 or loss
+B07410PR027    $10,000 to $14,999
+B07410PR028    $15,000 to $24,999
+B07410PR029    $25,000 to $34,999
+B07410PR030    $35,000 to $49,999
+B07410PR031    $50,000 to $64,999
+B07410PR032    $65,000 to $74,999
+B07410PR033    $75,000 or more
+B07410PR034  Moved to different municipio:
+B07410PR035   No income
+B07410PR036   With income:
+B07410PR037    $1 to $9,999 or loss
+B07410PR038    $10,000 to $14,999
+B07410PR039    $15,000 to $24,999
+B07410PR040    $25,000 to $34,999
+B07410PR041    $35,000 to $49,999
+B07410PR042    $50,000 to $64,999
+B07410PR043    $65,000 to $74,999
+B07410PR044    $75,000 or more
+B07410PR045  Moved to the United States:
+B07410PR046   No income
+B07410PR047   With income:
+B07410PR048    $1 to $9,999 or loss
+B07410PR049    $10,000 to $14,999
+B07410PR050    $15,000 to $24,999
+B07410PR051    $25,000 to $34,999
+B07410PR052    $35,000 to $49,999
+B07410PR053    $50,000 to $64,999
+B07410PR054    $65,000 to $74,999
+B07410PR055    $75,000 or more

@@ -1,0 +1,19 @@
+Geographical Mobility in the Past Year by Sex for Residence 1 Year Ago in Puerto Rico
+-------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over
+
+B07403PR001 Total living in area 1 year ago:
+B07403PR002   Male
+B07403PR003   Female
+B07403PR004  Same house:
+B07403PR005   Male
+B07403PR006   Female
+B07403PR007  Moved within same municipio:
+B07403PR008   Male
+B07403PR009   Female
+B07403PR010  Moved to different municipio:
+B07403PR011   Male
+B07403PR012   Female
+B07403PR013  Moved to the United States:
+B07403PR014   Male
+B07403PR015   Female

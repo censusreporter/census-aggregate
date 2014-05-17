@@ -1,0 +1,12 @@
+Aggregate Value (Dollars) by Units in Structure
+-----------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25080001 Aggregate value (dollars):
+B25080002  1, detached (dollars)
+B25080003  1, attached (dollars)
+B25080004  2 (dollars)
+B25080005  3 or 4 (dollars)
+B25080006  5 or more (dollars)
+B25080007  Mobile home (dollars)
+B25080008  Boat, RV, van, etc. (dollars)

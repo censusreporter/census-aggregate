@@ -1,0 +1,39 @@
+Means of Transportation to Work by Citizenship Status
+-----------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08511001 Total:
+B08511002   Native
+B08511003   Foreign born:
+B08511004    Naturalized U.S. citizen
+B08511005    Not a U.S. citizen
+B08511006  Car, truck, or van - drove alone:
+B08511007   Native
+B08511008   Foreign born:
+B08511009    Naturalized U.S. citizen
+B08511010    Not a U.S. citizen
+B08511011  Car, truck, or van - carpooled:
+B08511012   Native
+B08511013   Foreign born:
+B08511014    Naturalized U.S. citizen
+B08511015    Not a U.S. citizen
+B08511016  Public transportation (excluding taxicab):
+B08511017   Native
+B08511018   Foreign born:
+B08511019    Naturalized U.S. citizen
+B08511020    Not a U.S. citizen
+B08511021  Walked:
+B08511022   Native
+B08511023   Foreign born:
+B08511024    Naturalized U.S. citizen
+B08511025    Not a U.S. citizen
+B08511026  Taxicab, motorcycle, bicycle, or other means:
+B08511027   Native
+B08511028   Foreign born:
+B08511029    Naturalized U.S. citizen
+B08511030    Not a U.S. citizen
+B08511031  Worked at home:
+B08511032   Native
+B08511033   Foreign born:
+B08511034    Naturalized U.S. citizen
+B08511035    Not a U.S. citizen

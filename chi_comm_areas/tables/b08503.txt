@@ -1,0 +1,12 @@
+Median Age by Means of Transportation to Work
+---------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08503000.5 Median age --
+B08503001  Total:
+B08503002   Car, truck, or van - drove alone
+B08503003   Car, truck, or van - carpooled
+B08503004   Public transportation (excluding taxicab)
+B08503005   Walked
+B08503006   Taxicab, motorcycle, bicycle, or other means
+B08503007   Worked at home

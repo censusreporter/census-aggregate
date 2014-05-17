@@ -1,0 +1,5 @@
+Aggregate Household Income
+--------------------------
+Universe: Households
+
+B19025001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

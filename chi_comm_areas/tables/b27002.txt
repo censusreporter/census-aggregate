@@ -1,0 +1,61 @@
+Private Health Insurance Status by Sex by Age
+---------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B27002001 Total:
+B27002002  Male:
+B27002003   Under 6 years:
+B27002004    With private health insurance
+B27002005    No private health insurance
+B27002006   6 to 17 years:
+B27002007    With private health insurance
+B27002008    No private health insurance
+B27002009   18 to 24 years:
+B27002010    With private health insurance
+B27002011    No private health insurance
+B27002012   25 to 34 years:
+B27002013    With private health insurance
+B27002014    No private health insurance
+B27002015   35 to 44 years:
+B27002016    With private health insurance
+B27002017    No private health insurance
+B27002018   45 to 54 years:
+B27002019    With private health insurance
+B27002020    No private health insurance
+B27002021   55 to 64 years:
+B27002022    With private health insurance
+B27002023    No private health insurance
+B27002024   65 to 74 years:
+B27002025    With private health insurance
+B27002026    No private health insurance
+B27002027   75 years and over:
+B27002028    With private health insurance
+B27002029    No private health insurance
+B27002030  Female:
+B27002031   Under 6 years:
+B27002032    With private health insurance
+B27002033    No private health insurance
+B27002034   6 to 17 years:
+B27002035    With private health insurance
+B27002036    No private health insurance
+B27002037   18 to 24 years:
+B27002038    With private health insurance
+B27002039    No private health insurance
+B27002040   25 to 34 years:
+B27002041    With private health insurance
+B27002042    No private health insurance
+B27002043   35 to 44 years:
+B27002044    With private health insurance
+B27002045    No private health insurance
+B27002046   45 to 54 years:
+B27002047    With private health insurance
+B27002048    No private health insurance
+B27002049   55 to 64 years:
+B27002050    With private health insurance
+B27002051    No private health insurance
+B27002052   65 to 74 years:
+B27002053    With private health insurance
+B27002054    No private health insurance
+B27002055   75 years and over:
+B27002056    With private health insurance
+B27002057    No private health insurance

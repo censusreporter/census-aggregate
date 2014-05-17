@@ -1,0 +1,38 @@
+Age by Veteran Status by Employment Status for the Civilian Population 18 to 64 Years
+-------------------------------------------------------------------------------------
+Universe: Civilian Population 18 to 64 Years
+
+B21005001 Total:
+B21005002  18 to 34 years:
+B21005003   Veteran:
+B21005004    In labor force:
+B21005005     Employed
+B21005006     Unemployed
+B21005007    Not in labor force
+B21005008   Nonveteran:
+B21005009    In labor force:
+B21005010     Employed
+B21005011     Unemployed
+B21005012    Not in labor force
+B21005013  35 to 54 years:
+B21005014   Veteran:
+B21005015    In labor force:
+B21005016     Employed
+B21005017     Unemployed
+B21005018    Not in labor force
+B21005019   Nonveteran:
+B21005020    In labor force:
+B21005021     Employed
+B21005022     Unemployed
+B21005023    Not in labor force
+B21005024  55 to 64 years:
+B21005025   Veteran:
+B21005026    In labor force:
+B21005027     Employed
+B21005028     Unemployed
+B21005029    Not in labor force
+B21005030   Nonveteran:
+B21005031    In labor force:
+B21005032     Employed
+B21005033     Unemployed
+B21005034    Not in labor force

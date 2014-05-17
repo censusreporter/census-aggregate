@@ -1,0 +1,15 @@
+Marital Status by Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+---------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10057001 Total:
+B10057002  Now married (including separated and spouse absent):
+B10057003   Grandparent responsible for own grandchildren under 18 years:
+B10057004    30 to 59 years
+B10057005    60 years and over
+B10057006   Grandparent not responsible for own grandchildren under 18 years
+B10057007  Unmarried (never married, widowed, and divorced):
+B10057008   Grandparent responsible for own grandchildren under 18 years:
+B10057009    30 to 59 years
+B10057010    60 years and over
+B10057011   Grandparent not responsible for own grandchildren under 18 years

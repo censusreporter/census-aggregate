@@ -1,0 +1,42 @@
+Household Type (Including Living Alone) by Relationship
+-------------------------------------------------------
+Universe: Total Population
+
+B09019001 Total:
+B09019002  In households:
+B09019003   In family households:
+B09019004    Householder:
+B09019005     Male
+B09019006     Female
+B09019007    Spouse
+B09019008    Child:
+B09019009     Biological child
+B09019010     Adopted child
+B09019011     Stepchild
+B09019012    Grandchild
+B09019013    Brother or sister
+B09019014    Parent
+B09019015    Parent-in-law
+B09019016    Son-in-law or daughter-in-law
+B09019017    Other relatives
+B09019018    Nonrelatives:
+B09019019     Roomer or boarder
+B09019020     Housemate or roommate
+B09019021     Unmarried partner
+B09019022     Foster child
+B09019023     Other nonrelatives
+B09019024   In nonfamily households:
+B09019025    Householder:
+B09019026     Male:
+B09019027      Living alone
+B09019028      Not living alone
+B09019029     Female:
+B09019030      Living alone
+B09019031      Not living alone
+B09019032    Nonrelatives:
+B09019033     Roomer or boarder
+B09019034     Housemate or roommate
+B09019035     Unmarried partner
+B09019036     Foster child
+B09019037     Other nonrelatives
+B09019038  In group quarters

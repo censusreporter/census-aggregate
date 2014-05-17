@@ -1,0 +1,11 @@
+Ancestry
+--------
+Universe: Total Population
+
+B04007001 Total:
+B04007002  Ancestry specified:
+B04007003   Single ancestry
+B04007004   Multiple ancestry
+B04007005  Ancestry not specified:
+B04007006   Ancestry unclassified
+B04007007   Ancestry not reported

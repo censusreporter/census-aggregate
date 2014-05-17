@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (White Alone)
+----------------------------------------------------------------------------------------
+Universe: White Alone Civilian Population 18 Years and Over
+
+C21001A001 Total:
+C21001A002  Male:
+C21001A003   18 to 64 years:
+C21001A004    Veteran
+C21001A005    Nonveteran
+C21001A006   65 years and over:
+C21001A007    Veteran
+C21001A008    Nonveteran
+C21001A009  Female:
+C21001A010   18 to 64 years:
+C21001A011    Veteran
+C21001A012    Nonveteran
+C21001A013   65 years and over:
+C21001A014    Veteran
+C21001A015    Nonveteran

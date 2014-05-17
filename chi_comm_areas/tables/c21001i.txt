@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Hispanic or Latino)
+-----------------------------------------------------------------------------------------------
+Universe: Hispanic or Latino Civilian Population 18 Years and Over
+
+C21001I001 Total:
+C21001I002  Male:
+C21001I003   18 to 64 years:
+C21001I004    Veteran
+C21001I005    Nonveteran
+C21001I006   65 years and over:
+C21001I007    Veteran
+C21001I008    Nonveteran
+C21001I009  Female:
+C21001I010   18 to 64 years:
+C21001I011    Veteran
+C21001I012    Nonveteran
+C21001I013   65 years and over:
+C21001I014    Veteran
+C21001I015    Nonveteran

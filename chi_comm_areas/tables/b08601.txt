@@ -1,0 +1,25 @@
+Means of Transportation to Work
+-------------------------------
+Universe: Workers 16 Years and Over
+
+B08601001 Total:
+B08601002  Car, truck, or van:
+B08601003   Drove alone
+B08601004   Carpooled:
+B08601005    In 2-person carpool
+B08601006    In 3-person carpool
+B08601007    In 4-person carpool
+B08601008    In 5- or 6-person carpool
+B08601009    In 7-or-more-person carpool
+B08601010  Public transportation (excluding taxicab):
+B08601011   Bus or trolley bus
+B08601012   Streetcar or trolley car (carro publico in Puerto Rico)
+B08601013   Subway or elevated
+B08601014   Railroad
+B08601015   Ferryboat
+B08601016  Taxicab
+B08601017  Motorcycle
+B08601018  Bicycle
+B08601019  Walked
+B08601020  Other means
+B08601021  Worked at home

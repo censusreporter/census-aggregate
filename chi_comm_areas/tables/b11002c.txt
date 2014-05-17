@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (American Indian and Alaska Native Alone)
+-------------------------------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is American Indian and Alaska Native Alone
+
+B11002C001 Total:
+B11002C002  In family households:
+B11002C003   In married-couple family:
+B11002C004    Relatives
+B11002C005    Nonrelatives
+B11002C006   In male householder, no wife present, family:
+B11002C007    Relatives
+B11002C008    Nonrelatives
+B11002C009   In female householder, no husband present, family:
+B11002C010    Relatives
+B11002C011    Nonrelatives
+B11002C012  In nonfamily households

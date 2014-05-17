@@ -1,0 +1,20 @@
+Marital Status by Nativity
+--------------------------
+Universe: Population 15 Years and Over
+
+B12005001 Total:
+B12005002  Never married:
+B12005003   Native
+B12005004   Foreign born
+B12005005  Now married (except separated):
+B12005006   Native
+B12005007   Foreign born
+B12005008  Separated:
+B12005009   Native
+B12005010   Foreign born
+B12005011  Widowed:
+B12005012   Native
+B12005013   Foreign born
+B12005014  Divorced:
+B12005015   Native
+B12005016   Foreign born

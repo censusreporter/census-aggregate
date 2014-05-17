@@ -1,0 +1,40 @@
+Geographical Mobility in the Past Year by Educational Attainment for Current Residence in the United States
+-----------------------------------------------------------------------------------------------------------
+Universe: Population 25 Years and Over in the United States
+
+B07009001 Total:
+B07009002   Less than high school graduate
+B07009003   High school graduate (includes equivalency)
+B07009004   Some college or associate's degree
+B07009005   Bachelor's degree
+B07009006   Graduate or professional degree
+B07009007  Same house 1 year ago:
+B07009008   Less than high school graduate
+B07009009   High school graduate (includes equivalency)
+B07009010   Some college or associate's degree
+B07009011   Bachelor's degree
+B07009012   Graduate or professional degree
+B07009013  Moved within same county:
+B07009014   Less than high school graduate
+B07009015   High school graduate (includes equivalency)
+B07009016   Some college or associate's degree
+B07009017   Bachelor's degree
+B07009018   Graduate or professional degree
+B07009019  Moved from different county within same state:
+B07009020   Less than high school graduate
+B07009021   High school graduate (includes equivalency)
+B07009022   Some college or associate's degree
+B07009023   Bachelor's degree
+B07009024   Graduate or professional degree
+B07009025  Moved from different state:
+B07009026   Less than high school graduate
+B07009027   High school graduate (includes equivalency)
+B07009028   Some college or associate's degree
+B07009029   Bachelor's degree
+B07009030   Graduate or professional degree
+B07009031  Moved from abroad:
+B07009032   Less than high school graduate
+B07009033   High school graduate (includes equivalency)
+B07009034   Some college or associate's degree
+B07009035   Bachelor's degree
+B07009036   Graduate or professional degree

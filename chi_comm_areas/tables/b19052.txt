@@ -1,0 +1,7 @@
+Wage or Salary Income for Households
+------------------------------------
+Universe: Households
+
+B19052001 Total:
+B19052002  With wage or salary income
+B19052003  No wage or salary income

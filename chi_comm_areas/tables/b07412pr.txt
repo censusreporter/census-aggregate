@@ -1,0 +1,24 @@
+Geographical Mobility in the Past Year by Poverty Status for Residence 1 Year Ago in Puerto Rico
+------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over for Whom Poverty Status Is Determined
+
+B07412PR001 Total living in area 1 year ago:
+B07412PR002   Below 100 percent of the poverty level
+B07412PR003   100 to 149 percent of the poverty level
+B07412PR004   At or above 150 percent of the poverty level
+B07412PR005  Same house:
+B07412PR006   Below 100 percent of the poverty level
+B07412PR007   100 to 149 percent of the poverty level
+B07412PR008   At or above 150 percent of the poverty level
+B07412PR009  Moved within same municipio:
+B07412PR010   Below 100 percent of the poverty level
+B07412PR011   100 to 149 percent of the poverty level
+B07412PR012   At or above 150 percent of the poverty level
+B07412PR013  Moved to different municipio:
+B07412PR014   Below 100 percent of the poverty level
+B07412PR015   100 to 149 percent of the poverty level
+B07412PR016   At or above 150 percent of the poverty level
+B07412PR017  Moved to the United States:
+B07412PR018   Below 100 percent of the poverty level
+B07412PR019   100 to 149 percent of the poverty level
+B07412PR020   At or above 150 percent of the poverty level

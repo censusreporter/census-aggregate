@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Some Other Race Alone)
+-------------------------------------------------------
+Universe: Some Other Race Alone Population 16 Years and Over
+
+C23002F001 Total:
+C23002F002  Male:
+C23002F003   16 to 64 years:
+C23002F004    In labor force:
+C23002F005     In Armed Forces
+C23002F006     Civilian:
+C23002F007      Employed
+C23002F008      Unemployed
+C23002F009    Not in labor force
+C23002F010   65 years and over:
+C23002F011    In labor force:
+C23002F012      Employed
+C23002F013      Unemployed
+C23002F014    Not in labor force
+C23002F015  Female:
+C23002F016   16 to 64 years:
+C23002F017    In labor force:
+C23002F018     In Armed Forces
+C23002F019     Civilian:
+C23002F020      Employed
+C23002F021      Unemployed
+C23002F022    Not in labor force
+C23002F023   65 years and over:
+C23002F024    In labor force:
+C23002F025      Employed
+C23002F026      Unemployed
+C23002F027    Not in labor force

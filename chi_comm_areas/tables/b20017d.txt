@@ -1,0 +1,14 @@
+Median Earnings by Sex by Work Experience With Earnings (Asi
+------------------------------------------------------------
+Universe: Asian Alone Population 16 Years and Over With Earnings in the Past 12 Months
+
+B20017D000.5 Median earnings in the past 12 months (in 2012 inflation-adjusted dollars) --
+B20017D001  Total:
+B20017D001.5  Male --
+B20017D002   Total
+B20017D003   Worked full-time, year-round in the past 12 months
+B20017D004   Other
+B20017D004.5  Female --
+B20017D005   Total
+B20017D006   Worked full-time, year-round in the past 12 months
+B20017D007   Other

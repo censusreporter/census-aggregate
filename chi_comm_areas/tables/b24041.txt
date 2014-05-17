@@ -1,0 +1,31 @@
+Industry by Median Earnings for the Full-time, Year-round Civilian Population
+-----------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings
+
+B24041001 Total:
+B24041002  Agriculture, forestry, fishing and hunting, and mining:
+B24041003   Agriculture, forestry, fishing and hunting
+B24041004   Mining, quarrying, and oil and gas extraction
+B24041005  Construction
+B24041006  Manufacturing
+B24041007  Wholesale trade
+B24041008  Retail trade
+B24041009  Transportation and warehousing, and utilities:
+B24041010   Transportation and warehousing
+B24041011   Utilities
+B24041012  Information
+B24041013  Finance and insurance, and real estate and rental and leasing:
+B24041014   Finance and insurance
+B24041015   Real estate and rental and leasing
+B24041016  Professional, scientific, and management, and administrative and waste management services:
+B24041017   Professional, scientific, and technical services
+B24041018   Management of companies and enterprises
+B24041019   Administrative and support and waste management services
+B24041020  Educational services, and health care and social assistance:
+B24041021   Educational services
+B24041022   Health care and social assistance
+B24041023  Arts, entertainment, and recreation, and accommodation and food services:
+B24041024   Arts, entertainment, and recreation
+B24041025   Accommodation and food services
+B24041026  Other services except public administration
+B24041027  Public administration

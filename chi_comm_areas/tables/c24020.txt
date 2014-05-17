@@ -1,0 +1,77 @@
+Sex by Occupation for the Full-time, Year-round Civilian Population
+-------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over
+
+C24020001 Total:
+C24020002  Male:
+C24020003   Management, business, science, and arts occupations:
+C24020004    Management, business, and financial occupations:
+C24020005     Management occupations
+C24020006     Business and financial operations occupations
+C24020007    Computer, engineering, and science occupations:
+C24020008     Computer and mathematical occupations
+C24020009     Architecture and engineering occupations
+C24020010     Life, physical, and social science occupations
+C24020011    Education, legal, community service, arts, and media occupations:
+C24020012     Community and social service occupations
+C24020013     Legal occupations
+C24020014     Education, training, and library occupations
+C24020015     Arts, design, entertainment, sports, and media occupations
+C24020016    Healthcare practitioners and technical occupations:
+C24020017     Health diagnosing and treating practitioners and other technical occupations
+C24020018     Health technologists and technicians
+C24020019   Service occupations:
+C24020020    Healthcare support occupations
+C24020021    Protective service occupations:
+C24020022     Fire fighting and prevention, and other protective service workers including supervisors
+C24020023     Law enforcement workers including supervisors
+C24020024    Food preparation and serving related occupations
+C24020025    Building and grounds cleaning and maintenance occupations
+C24020026    Personal care and service occupations
+C24020027   Sales and office occupations:
+C24020028    Sales and related occupations
+C24020029    Office and administrative support occupations
+C24020030   Natural resources, construction, and maintenance occupations:
+C24020031    Farming, fishing, and forestry occupations
+C24020032    Construction and extraction occupations
+C24020033    Installation, maintenance, and repair occupations
+C24020034   Production, transportation, and material moving occupations:
+C24020035    Production occupations
+C24020036    Transportation occupations
+C24020037    Material moving occupations
+C24020038  Female:
+C24020039   Management, business, science, and arts occupations:
+C24020040    Management, business, and financial occupations:
+C24020041     Management occupations
+C24020042     Business and financial operations occupations
+C24020043    Computer, engineering, and science occupations:
+C24020044     Computer and mathematical occupations
+C24020045     Architecture and engineering occupations
+C24020046     Life, physical, and social science occupations
+C24020047    Education, legal, community service, arts, and media occupations:
+C24020048     Community and social service occupations
+C24020049     Legal occupations
+C24020050     Education, training, and library occupations
+C24020051     Arts, design, entertainment, sports, and media occupations
+C24020052    Healthcare practitioners and technical occupations:
+C24020053     Health diagnosing and treating practitioners and other technical occupations
+C24020054     Health technologists and technicians
+C24020055   Service occupations:
+C24020056    Healthcare support occupations
+C24020057    Protective service occupations:
+C24020058     Fire fighting and prevention, and other protective service workers including supervisors
+C24020059     Law enforcement workers including supervisors
+C24020060    Food preparation and serving related occupations
+C24020061    Building and grounds cleaning and maintenance occupations
+C24020062    Personal care and service occupations
+C24020063   Sales and office occupations:
+C24020064    Sales and related occupations
+C24020065    Office and administrative support occupations
+C24020066   Natural resources, construction, and maintenance occupations:
+C24020067    Farming, fishing, and forestry occupations
+C24020068    Construction and extraction occupations
+C24020069    Installation, maintenance, and repair occupations
+C24020070   Production, transportation, and material moving occupations:
+C24020071    Production occupations
+C24020072    Transportation occupations
+C24020073    Material moving occupations

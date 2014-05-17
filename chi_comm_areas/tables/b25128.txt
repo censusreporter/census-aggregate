@@ -1,0 +1,49 @@
+Tenure by Age of Householder by Year Householder Moved Into Unit
+----------------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25128001 Total:
+B25128002  Owner occupied:
+B25128003   Householder 15 to 34 years:
+B25128004    Moved in 2010 or later
+B25128005    Moved in 2000 to 2009
+B25128006    Moved in 1990 to 1999
+B25128007    Moved in 1980 to 1989
+B25128008    Moved in 1970 to 1979
+B25128009    Moved in 1969 or earlier
+B25128010   Householder 35 to 64 years:
+B25128011    Moved in 2010 or later
+B25128012    Moved in 2000 to 2009
+B25128013    Moved in 1990 to 1999
+B25128014    Moved in 1980 to 1989
+B25128015    Moved in 1970 to 1979
+B25128016    Moved in 1969 or earlier
+B25128017   Householder 65 years and over:
+B25128018    Moved in 2010 or later
+B25128019    Moved in 2000 to 2009
+B25128020    Moved in 1990 to 1999
+B25128021    Moved in 1980 to 1989
+B25128022    Moved in 1970 to 1979
+B25128023    Moved in 1969 or earlier
+B25128024  Renter occupied:
+B25128025   Householder 15 to 34 years:
+B25128026    Moved in 2010 or later
+B25128027    Moved in 2000 to 2009
+B25128028    Moved in 1990 to 1999
+B25128029    Moved in 1980 to 1989
+B25128030    Moved in 1970 to 1979
+B25128031    Moved in 1969 or earlier
+B25128032   Householder 35 to 64 years:
+B25128033    Moved in 2010 or later
+B25128034    Moved in 2000 to 2009
+B25128035    Moved in 1990 to 1999
+B25128036    Moved in 1980 to 1989
+B25128037    Moved in 1970 to 1979
+B25128038    Moved in 1969 or earlier
+B25128039   Householder 65 years and over:
+B25128040    Moved in 2010 or later
+B25128041    Moved in 2000 to 2009
+B25128042    Moved in 1990 to 1999
+B25128043    Moved in 1980 to 1989
+B25128044    Moved in 1970 to 1979
+B25128045    Moved in 1969 or earlier

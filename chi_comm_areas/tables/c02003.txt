@@ -1,0 +1,23 @@
+Detailed Race
+-------------
+Universe: Total Population
+
+C02003001 Total:
+C02003002  Population of one race:
+C02003003   White
+C02003004   Black or African American
+C02003005   American Indian and Alaska Native
+C02003006   Asian alone
+C02003007   Native Hawaiian and Other Pacific Islander
+C02003008   Some other race
+C02003009  Population of two or more races:
+C02003010    Two races including Some other race
+C02003011    Two races excluding Some other race, and three or more races
+C02003012   Population of two races:
+C02003013    White; Black or African American
+C02003014    White; American Indian and Alaska Native
+C02003015    White; Asian
+C02003016    Black or African American; American Indian and Alaska Native
+C02003017    All other two race combinations
+C02003018  Population of three races
+C02003019  Population of four or more races

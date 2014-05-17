@@ -1,0 +1,7 @@
+Nativity in Puerto Rico
+-----------------------
+Universe: Total Population in Puerto Rico
+
+B05012PR001 Total:
+B05012PR002  Native
+B05012PR003  Foreign-Born

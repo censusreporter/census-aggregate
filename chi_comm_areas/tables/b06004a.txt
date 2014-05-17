@@ -1,0 +1,9 @@
+Place of Birth (White Alone) in the United States
+-------------------------------------------------
+Universe: White Alone Population in the United States
+
+B06004A001 Total:
+B06004A002  Born in state of residence
+B06004A003  Born in other state in the United States
+B06004A004  Native; born outside the United States
+B06004A005  Foreign born

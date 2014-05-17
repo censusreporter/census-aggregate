@@ -1,0 +1,7 @@
+Median Age at First Marriage (Native Hawaiian and Other Pacific Islander Alone)
+-------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 15 to 54 Years
+
+B12007E000.5 Median age at first marriage --
+B12007E001  Male
+B12007E002  Female

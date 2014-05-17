@@ -1,0 +1,11 @@
+Households With Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Presence of Parent of Grandchildren
+------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Households
+
+B10063001 Total:
+B10063002  Household with grandparents living with grandchildren:
+B10063003   Household with grandparent responsible for own grandchildren under 18 years:
+B10063004    Householder or spouse with no parent of grandchildren present
+B10063005    Other grandparents
+B10063006   Household with grandparent not responsible for own grandchildren under 18 years
+B10063007  Household without grandparents living with grandchildren

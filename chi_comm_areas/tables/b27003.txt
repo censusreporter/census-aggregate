@@ -1,0 +1,61 @@
+Public Health Insurance Status by Sex by Age
+--------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B27003001 Total:
+B27003002  Male:
+B27003003   Under 6 years:
+B27003004    With public coverage
+B27003005    No public coverage
+B27003006   6 to 17 years:
+B27003007    With public coverage
+B27003008    No public coverage
+B27003009   18 to 24 years:
+B27003010    With public coverage
+B27003011    No public coverage
+B27003012   25 to 34 years:
+B27003013    With public coverage
+B27003014    No public coverage
+B27003015   35 to 44 years:
+B27003016    With public coverage
+B27003017    No public coverage
+B27003018   45 to 54 years:
+B27003019    With public coverage
+B27003020    No public coverage
+B27003021   55 to 64 years:
+B27003022    With public coverage
+B27003023    No public coverage
+B27003024   65 to 74 years:
+B27003025    With public coverage
+B27003026    No public coverage
+B27003027   75 years and over:
+B27003028    With public coverage
+B27003029    No public coverage
+B27003030  Female:
+B27003031   Under 6 years:
+B27003032    With public coverage
+B27003033    No public coverage
+B27003034   6 to 17 years:
+B27003035    With public coverage
+B27003036    No public coverage
+B27003037   18 to 24 years:
+B27003038    With public coverage
+B27003039    No public coverage
+B27003040   25 to 34 years:
+B27003041    With public coverage
+B27003042    No public coverage
+B27003043   35 to 44 years:
+B27003044    With public coverage
+B27003045    No public coverage
+B27003046   45 to 54 years:
+B27003047    With public coverage
+B27003048    No public coverage
+B27003049   55 to 64 years:
+B27003050    With public coverage
+B27003051    No public coverage
+B27003052   65 to 74 years:
+B27003053    With public coverage
+B27003054    No public coverage
+B27003055   75 years and over:
+B27003056    With public coverage
+B27003057    No public coverage

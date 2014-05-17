@@ -1,0 +1,8 @@
+Median Age by Sex
+-----------------
+Universe: Total Population
+
+B01002000.5 Median age --
+B01002001  Total:
+B01002002  Male
+B01002003  Female

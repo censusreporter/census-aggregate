@@ -1,0 +1,12 @@
+Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups
+------------------------------------------------------------------------------
+Universe: Total Population
+
+B98013001 Total:
+B98013001.5  Not Hispanic or Latino:
+B98013002   White
+B98013003   Black or African American
+B98013004   American Indian and Alaska Native
+B98013005   Asian
+B98013006   Native Hawaiian and Other Pacific Islander
+B98013007  Hispanic or Latino

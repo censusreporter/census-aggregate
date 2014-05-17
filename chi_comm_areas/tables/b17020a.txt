@@ -1,0 +1,21 @@
+Poverty Status by Age (White Alone)
+-----------------------------------
+Universe: White Alone Population for Whom Poverty Status Is Determined
+
+B17020A001 Total:
+B17020A002  Income in the past 12 months below poverty level:
+B17020A003   Under 5 years
+B17020A004   5 years
+B17020A005   6 to 11 years
+B17020A006   12 to 17 years
+B17020A007   18 to 64 years
+B17020A008   65 to 74 years
+B17020A009   75 years and over
+B17020A010  Income in the past 12 months at or above poverty level:
+B17020A011   Under 5 years
+B17020A012   5 years
+B17020A013   6 to 11 years
+B17020A014   12 to 17 years
+B17020A015   18 to 64 years
+B17020A016   65 to 74 years
+B17020A017   75 years and over

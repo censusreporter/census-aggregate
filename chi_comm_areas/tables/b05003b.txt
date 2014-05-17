@@ -1,0 +1,27 @@
+Sex by Age by Nativity and Citizenship Status (Black or African American Alone)
+-------------------------------------------------------------------------------
+Universe: Black or African American Alone
+
+B05003B001 Total:
+B05003B002  Male:
+B05003B003   Under 18 years:
+B05003B004    Native
+B05003B005    Foreign born:
+B05003B006     Naturalized U.S. citizen
+B05003B007     Not a U.S. citizen
+B05003B008   18 years and over:
+B05003B009    Native
+B05003B010    Foreign born:
+B05003B011     Naturalized U.S. citizen
+B05003B012     Not a U.S. citizen
+B05003B013  Female:
+B05003B014   Under 18 years:
+B05003B015    Native
+B05003B016    Foreign born:
+B05003B017     Naturalized U.S. citizen
+B05003B018     Not a U.S. citizen
+B05003B019   18 years and over:
+B05003B020    Native
+B05003B021    Foreign born:
+B05003B022     Naturalized U.S. citizen
+B05003B023     Not a U.S. citizen

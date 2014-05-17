@@ -1,0 +1,7 @@
+Imputation of Medicare Coverage
+-------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992706001 Total:
+B992706002  Imputed
+B992706003  Not imputed

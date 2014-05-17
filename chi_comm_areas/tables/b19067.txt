@@ -1,0 +1,5 @@
+Aggregate Public Assistance Income for Households
+-------------------------------------------------
+Universe: Households
+
+B19067001 Aggregate public assistance income in the past 12 months (in 2012 inflation-adjusted dollars)

@@ -1,0 +1,11 @@
+Shares of Aggregate Household Income by Quintile
+------------------------------------------------
+Universe: Households
+
+B19082000.5 Quintile Share of Aggregate Income:
+B19082001  Lowest Quintile
+B19082002  Second Quintile
+B19082003  Third Quintile
+B19082004  Fourth Quintile
+B19082005  Highest Quintile
+B19082006 Top 5 Percent

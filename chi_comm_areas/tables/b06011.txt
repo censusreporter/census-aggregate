@@ -1,0 +1,10 @@
+Median Income by Place of Birth in the United States
+----------------------------------------------------
+Universe: Population 15 Years and Over in the United States With Income
+
+B06011000.5 Median income in the past 12 months --
+B06011001  Total:
+B06011002   Born in state of residence
+B06011003   Born in other state of the United States
+B06011004   Native; born outside the United States
+B06011005   Foreign born

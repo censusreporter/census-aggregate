@@ -1,0 +1,24 @@
+Own Children by Family Type and Age
+-----------------------------------
+Universe: Own Children Under 18 Years
+
+B09002001 Total:
+B09002002  In married-couple families:
+B09002003   Under 3 years
+B09002004   3 and 4 years
+B09002005   5 years
+B09002006   6 to 11 years
+B09002007   12 to 17 years
+B09002008  In other families:
+B09002009   Male householder, no wife present:
+B09002010    Under 3 years
+B09002011    3 and 4 years
+B09002012    5 years
+B09002013    6 to 11 years
+B09002014    12 to 17 years
+B09002015   Female householder, no husband present:
+B09002016    Under 3 years
+B09002017    3 and 4 years
+B09002018    5 years
+B09002019    6 to 11 years
+B09002020    12 to 17 years

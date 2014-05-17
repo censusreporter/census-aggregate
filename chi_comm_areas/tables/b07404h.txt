@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in the United States
+--------------------------------------------------------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 1 Year and Over in the United States
+
+B07404H001 Total living in area 1 year ago:
+B07404H002  Same house
+B07404H003  Moved within same county
+B07404H004  Moved to different county within same state
+B07404H005  Moved to different state

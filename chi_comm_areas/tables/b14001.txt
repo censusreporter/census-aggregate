@@ -1,0 +1,14 @@
+School Enrollment by Level of School
+------------------------------------
+Universe: Population 3 Years and Over
+
+B14001001 Total:
+B14001002  Enrolled in school:
+B14001003   Enrolled in nursery school, preschool
+B14001004   Enrolled in kindergarten
+B14001005   Enrolled in grade 1 to grade 4
+B14001006   Enrolled in grade 5 to grade 8
+B14001007   Enrolled in grade 9 to grade 12
+B14001008   Enrolled in college, undergraduate years
+B14001009   Graduate or professional school
+B14001010  Not enrolled in school

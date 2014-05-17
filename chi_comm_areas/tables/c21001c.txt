@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (American Indian and Alaska Native Alone)
+--------------------------------------------------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Civilian Population 18 Years and Over
+
+C21001C001 Total:
+C21001C002  Male:
+C21001C003   18 to 64 years:
+C21001C004    Veteran
+C21001C005    Nonveteran
+C21001C006   65 years and over:
+C21001C007    Veteran
+C21001C008    Nonveteran
+C21001C009  Female:
+C21001C010   18 to 64 years:
+C21001C011    Veteran
+C21001C012    Nonveteran
+C21001C013   65 years and over:
+C21001C014    Veteran
+C21001C015    Nonveteran

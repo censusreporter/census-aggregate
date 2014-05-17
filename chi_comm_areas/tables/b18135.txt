@@ -1,0 +1,38 @@
+Age by Disability Status by Health Insurance Coverage Status
+------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B18135001 Total:
+B18135002  Under 18 years:
+B18135003   With a disability:
+B18135004    With health insurance coverage:
+B18135005     With private health insurance coverage
+B18135006     With public health coverage
+B18135007    No health insurance coverage
+B18135008   No disability:
+B18135009    With health insurance coverage:
+B18135010     With private health insurance coverage
+B18135011     With public health coverage
+B18135012    No health insurance coverage
+B18135013  18 to 64 years:
+B18135014   With a disability:
+B18135015    With health insurance coverage:
+B18135016     With private health insurance coverage
+B18135017     With public health coverage
+B18135018    No health insurance coverage
+B18135019   No disability:
+B18135020    With health insurance coverage:
+B18135021     With private health insurance coverage
+B18135022     With public health coverage
+B18135023    No health insurance coverage
+B18135024  65 years and over:
+B18135025   With a disability:
+B18135026    With health insurance coverage:
+B18135027     With private health insurance coverage
+B18135028     With public health coverage
+B18135029    No health insurance coverage
+B18135030   No disability:
+B18135031    With health insurance coverage:
+B18135032     With private health insurance coverage
+B18135033     With public health coverage
+B18135034    No health insurance coverage

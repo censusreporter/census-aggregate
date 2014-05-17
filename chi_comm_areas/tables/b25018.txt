@@ -1,0 +1,5 @@
+Median Number of Rooms
+----------------------
+Universe: Housing Units
+
+B25018001 Median number of rooms

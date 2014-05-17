@@ -1,0 +1,37 @@
+Sex by College or Graduate School Enrollment by Type of School by Age
+---------------------------------------------------------------------
+Universe: Population 15 Years and Over
+
+B14004001 Total:
+B14004002  Male:
+B14004003   Enrolled in public college or graduate school:
+B14004004    15 to 17 years
+B14004005    18 to 24 years
+B14004006    25 to 34 years
+B14004007    35 years and over
+B14004008   Enrolled in private college or graduate school:
+B14004009    15 to 17 years
+B14004010    18 to 24 years
+B14004011    25 to 34 years
+B14004012    35 years and over
+B14004013   Not enrolled in college or graduate school:
+B14004014    15 to 17 years
+B14004015    18 to 24 years
+B14004016    25 to 34 years
+B14004017    35 years and over
+B14004018  Female:
+B14004019   Enrolled in public college or graduate school:
+B14004020    15 to 17 years
+B14004021    18 to 24 years
+B14004022    25 to 34 years
+B14004023    35 years and over
+B14004024   Enrolled in private college or graduate school:
+B14004025    15 to 17 years
+B14004026    18 to 24 years
+B14004027    25 to 34 years
+B14004028    35 years and over
+B14004029   Not enrolled in college or graduate school:
+B14004030    15 to 17 years
+B14004031    18 to 24 years
+B14004032    25 to 34 years
+B14004033    35 years and over

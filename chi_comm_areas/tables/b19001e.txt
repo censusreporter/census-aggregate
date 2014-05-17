@@ -1,0 +1,21 @@
+Household Income (Native Hawaiian and Other Pacific Islander Alone Householder)
+-------------------------------------------------------------------------------
+Universe: Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone
+
+B19001E001 Total:
+B19001E002  Less than $10,000
+B19001E003  $10,000 to $14,999
+B19001E004  $15,000 to $19,999
+B19001E005  $20,000 to $24,999
+B19001E006  $25,000 to $29,999
+B19001E007  $30,000 to $34,999
+B19001E008  $35,000 to $39,999
+B19001E009  $40,000 to $44,999
+B19001E010  $45,000 to $49,999
+B19001E011  $50,000 to $59,999
+B19001E012  $60,000 to $74,999
+B19001E013  $75,000 to $99,999
+B19001E014  $100,000 to $124,999
+B19001E015  $125,000 to $149,999
+B19001E016  $150,000 to $199,999
+B19001E017  $200,000 or more

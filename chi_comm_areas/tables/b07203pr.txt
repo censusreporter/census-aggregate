@@ -1,0 +1,12 @@
+Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in Puerto Rico
+------------------------------------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in Puerto Rico
+
+B07203PR001 Total:
+B07203PR002  Same house 1 year ago
+B07203PR003  Different house in Puerto Rico 1 year ago:
+B07203PR004   Metropolitan Statistical Area
+B07203PR005   Micropolitan Statistical Area
+B07203PR006   Not in a Metropolitan or Micropolitan Statistical Area 1 year ago
+B07203PR007  United States 1 year ago
+B07203PR008  Abroad 1 year ago

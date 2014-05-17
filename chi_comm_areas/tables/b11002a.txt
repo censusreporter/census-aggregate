@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (White Alone)
+---------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is White Alone
+
+B11002A001 Total:
+B11002A002  In family households:
+B11002A003   In married-couple family:
+B11002A004    Relatives
+B11002A005    Nonrelatives
+B11002A006   In male householder, no wife present, family:
+B11002A007    Relatives
+B11002A008    Nonrelatives
+B11002A009   In female householder, no husband present, family:
+B11002A010    Relatives
+B11002A011    Nonrelatives
+B11002A012  In nonfamily households

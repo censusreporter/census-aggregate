@@ -1,0 +1,5 @@
+Group Quarters Population Coverage Rate
+---------------------------------------
+Universe: Population in Group Quarters
+
+B98014001 Total

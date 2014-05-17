@@ -1,0 +1,5 @@
+Overall Housing Unit Characteristic Imputation Rate
+---------------------------------------------------
+Universe: Total Population
+
+B98032001 Total

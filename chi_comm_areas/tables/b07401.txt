@@ -1,0 +1,84 @@
+Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in the United States
+-------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07401001 Total living in area 1 year ago:
+B07401002   1 to 4 years
+B07401003   5 to 17 years
+B07401004   18 and 19 years
+B07401005   20 to 24 years
+B07401006   25 to 29 years
+B07401007   30 to 34 years
+B07401008   35 to 39 years
+B07401009   40 to 44 years
+B07401010   45 to 49 years
+B07401011   50 to 54 years
+B07401012   55 to 59 years
+B07401013   60 to 64 years
+B07401014   65 to 69 years
+B07401015   70 to 74 years
+B07401016   75 years and over
+B07401017  Same house:
+B07401018   1 to 4 years
+B07401019   5 to 17 years
+B07401020   18 and 19 years
+B07401021   20 to 24 years
+B07401022   25 to 29 years
+B07401023   30 to 34 years
+B07401024   35 to 39 years
+B07401025   40 to 44 years
+B07401026   45 to 49 years
+B07401027   50 to 54 years
+B07401028   55 to 59 years
+B07401029   60 to 64 years
+B07401030   65 to 69 years
+B07401031   70 to 74 years
+B07401032   75 years and over
+B07401033  Moved within same county:
+B07401034   1 to 4 years
+B07401035   5 to 17 years
+B07401036   18 and 19 years
+B07401037   20 to 24 years
+B07401038   25 to 29 years
+B07401039   30 to 34 years
+B07401040   35 to 39 years
+B07401041   40 to 44 years
+B07401042   45 to 49 years
+B07401043   50 to 54 years
+B07401044   55 to 59 years
+B07401045   60 to 64 years
+B07401046   65 to 69 years
+B07401047   70 to 74 years
+B07401048   75 years and over
+B07401049  Moved to different county within same state:
+B07401050   1 to 4 years
+B07401051   5 to 17 years
+B07401052   18 and 19 years
+B07401053   20 to 24 years
+B07401054   25 to 29 years
+B07401055   30 to 34 years
+B07401056   35 to 39 years
+B07401057   40 to 44 years
+B07401058   45 to 49 years
+B07401059   50 to 54 years
+B07401060   55 to 59 years
+B07401061   60 to 64 years
+B07401062   65 to 69 years
+B07401063   70 to 74 years
+B07401064   75 years and over
+B07401065  Moved to different state:
+B07401066   1 to 4 years
+B07401067   5 to 17 years
+B07401068   18 and 19 years
+B07401069   20 to 24 years
+B07401070   25 to 29 years
+B07401071   30 to 34 years
+B07401072   35 to 39 years
+B07401073   40 to 44 years
+B07401074   45 to 49 years
+B07401075   50 to 54 years
+B07401076   55 to 59 years
+B07401077   60 to 64 years
+B07401078   65 to 69 years
+B07401079   70 to 74 years
+B07401080   75 years and over

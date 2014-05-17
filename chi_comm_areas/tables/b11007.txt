@@ -1,0 +1,15 @@
+Households by Presence of People 65 Years and Over, Household Size and Household Type
+-------------------------------------------------------------------------------------
+Universe: Households
+
+B11007001 Total:
+B11007002  Households with one or more people 65 years and over:
+B11007003   1-person household
+B11007004   2-or-more-person household:
+B11007005    Family households
+B11007006    Nonfamily households
+B11007007  Households with no people 65 years and over:
+B11007008   1-person households
+B11007009   2-or-more-person household:
+B11007010    Family households
+B11007011    Nonfamily households

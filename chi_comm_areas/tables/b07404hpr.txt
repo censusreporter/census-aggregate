@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (White Alone, Not Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico
+--------------------------------------------------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 1 Year and Over
+
+B07404HPR001 Total living in area 1 year ago:
+B07404HPR002  Same house
+B07404HPR003  Moved within same municipio
+B07404HPR004  Moved to different municipio
+B07404HPR005  Moved to the United States

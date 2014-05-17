@@ -1,0 +1,9 @@
+Place of Birth (American Indian and Alaska Native Alone) in the United States
+-----------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population in the United States
+
+B06004C001 Total:
+B06004C002  Born in state of residence
+B06004C003  Born in other state in the United States
+B06004C004  Native; born outside the United States
+B06004C005  Foreign born

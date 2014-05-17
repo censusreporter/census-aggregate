@@ -1,0 +1,8 @@
+Mortgage Status by Median Real Estate Taxes Paid (Dollars)
+----------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25103000.5 Median real estate taxes paid --
+B25103001  Total:
+B25103002   Median real estate taxes paid for units with a mortgage
+B25103003   Median real estate taxes paid for units without a mortgage

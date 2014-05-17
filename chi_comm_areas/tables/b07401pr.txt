@@ -1,0 +1,84 @@
+Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in Puerto Rico
+-------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over
+
+B07401PR001 Total living in area 1 year ago:
+B07401PR002   1 to 4 years
+B07401PR003   5 to 17 years
+B07401PR004   18 and 19 years
+B07401PR005   20 to 24 years
+B07401PR006   25 to 29 years
+B07401PR007   30 to 34 years
+B07401PR008   35 to 39 years
+B07401PR009   40 to 44 years
+B07401PR010   45 to 49 years
+B07401PR011   50 to 54 years
+B07401PR012   55 to 59 years
+B07401PR013   60 to 64 years
+B07401PR014   65 to 69 years
+B07401PR015   70 to 74 years
+B07401PR016   75 years and over
+B07401PR017  Same house:
+B07401PR018   1 to 4 years
+B07401PR019   5 to 17 years
+B07401PR020   18 and 19 years
+B07401PR021   20 to 24 years
+B07401PR022   25 to 29 years
+B07401PR023   30 to 34 years
+B07401PR024   35 to 39 years
+B07401PR025   40 to 44 years
+B07401PR026   45 to 49 years
+B07401PR027   50 to 54 years
+B07401PR028   55 to 59 years
+B07401PR029   60 to 64 years
+B07401PR030   65 to 69 years
+B07401PR031   70 to 74 years
+B07401PR032   75 years and over
+B07401PR033  Moved within same municipio:
+B07401PR034   1 to 4 years
+B07401PR035   5 to 17 years
+B07401PR036   18 and 19 years
+B07401PR037   20 to 24 years
+B07401PR038   25 to 29 years
+B07401PR039   30 to 34 years
+B07401PR040   35 to 39 years
+B07401PR041   40 to 44 years
+B07401PR042   45 to 49 years
+B07401PR043   50 to 54 years
+B07401PR044   55 to 59 years
+B07401PR045   60 to 64 years
+B07401PR046   65 to 69 years
+B07401PR047   70 to 74 years
+B07401PR048   75 years and over
+B07401PR049  Moved to different municipio:
+B07401PR050   1 to 4 years
+B07401PR051   5 to 17 years
+B07401PR052   18 and 19 years
+B07401PR053   20 to 24 years
+B07401PR054   25 to 29 years
+B07401PR055   30 to 34 years
+B07401PR056   35 to 39 years
+B07401PR057   40 to 44 years
+B07401PR058   45 to 49 years
+B07401PR059   50 to 54 years
+B07401PR060   55 to 59 years
+B07401PR061   60 to 64 years
+B07401PR062   65 to 69 years
+B07401PR063   70 to 74 years
+B07401PR064   75 years and over
+B07401PR065  Moved to the United States:
+B07401PR066   1 to 4 years
+B07401PR067   5 to 17 years
+B07401PR068   18 and 19 years
+B07401PR069   20 to 24 years
+B07401PR070   25 to 29 years
+B07401PR071   30 to 34 years
+B07401PR072   35 to 39 years
+B07401PR073   40 to 44 years
+B07401PR074   45 to 49 years
+B07401PR075   50 to 54 years
+B07401PR076   55 to 59 years
+B07401PR077   60 to 64 years
+B07401PR078   65 to 69 years
+B07401PR079   70 to 74 years
+B07401PR080   75 years and over

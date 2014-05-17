@@ -1,0 +1,191 @@
+Sex by Marital Status by Age
+----------------------------
+Universe: Population 15 Years and Over
+
+B12002001 Total:
+B12002002  Male:
+B12002003   Never married:
+B12002004    15 to 17 years
+B12002005    18 and 19 years
+B12002006    20 to 24 years
+B12002007    25 to 29 years
+B12002008    30 to 34 years
+B12002009    35 to 39 years
+B12002010    40 to 44 years
+B12002011    45 to 49 years
+B12002012    50 to 54 years
+B12002013    55 to 59 years
+B12002014    60 to 64 years
+B12002015    65 to 74 years
+B12002016    75 to 84 years
+B12002017    85 years and over
+B12002018   Now married:
+B12002019    Married, spouse present:
+B12002020     15 to 17 years
+B12002021     18 and 19 years
+B12002022     20 to 24 years
+B12002023     25 to 29 years
+B12002024     30 to 34 years
+B12002025     35 to 39 years
+B12002026     40 to 44 years
+B12002027     45 to 49 years
+B12002028     50 to 54 years
+B12002029     55 to 59 years
+B12002030     60 to 64 years
+B12002031     65 to 74 years
+B12002032     75 to 84 years
+B12002033     85 years and over
+B12002034    Married, spouse absent:
+B12002035     Separated:
+B12002036      15 to 17 years
+B12002037      18 and 19 years
+B12002038      20 to 24 years
+B12002039      25 to 29 years
+B12002040      30 to 34 years
+B12002041      35 to 39 years
+B12002042      40 to 44 years
+B12002043      45 to 49 years
+B12002044      50 to 54 years
+B12002045      55 to 59 years
+B12002046      60 to 64 years
+B12002047      65 to 74 years
+B12002048      75 to 84 years
+B12002049      85 years and over
+B12002050     Other:
+B12002051      15 to 17 years
+B12002052      18 and 19 years
+B12002053      20 to 24 years
+B12002054      25 to 29 years
+B12002055      30 to 34 years
+B12002056      35 to 39 years
+B12002057      40 to 44 years
+B12002058      45 to 49 years
+B12002059      50 to 54 years
+B12002060      55 to 59 years
+B12002061      60 to 64 years
+B12002062      65 to 74 years
+B12002063      75 to 84 years
+B12002064      85 years and over
+B12002065   Widowed:
+B12002066    15 to 17 years
+B12002067    18 and 19 years
+B12002068    20 to 24 years
+B12002069    25 to 29 years
+B12002070    30 to 34 years
+B12002071    35 to 39 years
+B12002072    40 to 44 years
+B12002073    45 to 49 years
+B12002074    50 to 54 years
+B12002075    55 to 59 years
+B12002076    60 to 64 years
+B12002077    65 to 74 years
+B12002078    75 to 84 years
+B12002079    85 years and over
+B12002080   Divorced:
+B12002081    15 to 17 years
+B12002082    18 and 19 years
+B12002083    20 to 24 years
+B12002084    25 to 29 years
+B12002085    30 to 34 years
+B12002086    35 to 39 years
+B12002087    40 to 44 years
+B12002088    45 to 49 years
+B12002089    50 to 54 years
+B12002090    55 to 59 years
+B12002091    60 to 64 years
+B12002092    65 to 74 years
+B12002093    75 to 84 years
+B12002094    85 years and over
+B12002095  Female:
+B12002096   Never married:
+B12002097    15 to 17 years
+B12002098    18 and 19 years
+B12002099    20 to 24 years
+B12002100    25 to 29 years
+B12002101    30 to 34 years
+B12002102    35 to 39 years
+B12002103    40 to 44 years
+B12002104    45 to 49 years
+B12002105    50 to 54 years
+B12002106    55 to 59 years
+B12002107    60 to 64 years
+B12002108    65 to 74 years
+B12002109    75 to 84 years
+B12002110    85 years and over
+B12002111   Now married:
+B12002112    Married, spouse present:
+B12002113     15 to 17 years
+B12002114     18 and 19 years
+B12002115     20 to 24 years
+B12002116     25 to 29 years
+B12002117     30 to 34 years
+B12002118     35 to 39 years
+B12002119     40 to 44 years
+B12002120     45 to 49 years
+B12002121     50 to 54 years
+B12002122     55 to 59 years
+B12002123     60 to 64 years
+B12002124     65 to 74 years
+B12002125     75 to 84 years
+B12002126     85 years and over
+B12002127    Married, spouse absent:
+B12002128     Separated:
+B12002129      15 to 17 years
+B12002130      18 and 19 years
+B12002131      20 to 24 years
+B12002132      25 to 29 years
+B12002133      30 to 34 years
+B12002134      35 to 39 years
+B12002135      40 to 44 years
+B12002136      45 to 49 years
+B12002137      50 to 54 years
+B12002138      55 to 59 years
+B12002139      60 to 64 years
+B12002140      65 to 74 years
+B12002141      75 to 84 years
+B12002142      85 years and over
+B12002143     Other:
+B12002144      15 to 17 years
+B12002145      18 and 19 years
+B12002146      20 to 24 years
+B12002147      25 to 29 years
+B12002148      30 to 34 years
+B12002149      35 to 39 years
+B12002150      40 to 44 years
+B12002151      45 to 49 years
+B12002152      50 to 54 years
+B12002153      55 to 59 years
+B12002154      60 to 64 years
+B12002155      65 to 74 years
+B12002156      75 to 84 years
+B12002157      85 years and over
+B12002158   Widowed:
+B12002159    15 to 17 years
+B12002160    18 and 19 years
+B12002161    20 to 24 years
+B12002162    25 to 29 years
+B12002163    30 to 34 years
+B12002164    35 to 39 years
+B12002165    40 to 44 years
+B12002166    45 to 49 years
+B12002167    50 to 54 years
+B12002168    55 to 59 years
+B12002169    60 to 64 years
+B12002170    65 to 74 years
+B12002171    75 to 84 years
+B12002172    85 years and over
+B12002173   Divorced:
+B12002174    15 to 17 years
+B12002175    18 and 19 years
+B12002176    20 to 24 years
+B12002177    25 to 29 years
+B12002178    30 to 34 years
+B12002179    35 to 39 years
+B12002180    40 to 44 years
+B12002181    45 to 49 years
+B12002182    50 to 54 years
+B12002183    55 to 59 years
+B12002184    60 to 64 years
+B12002185    65 to 74 years
+B12002186    75 to 84 years
+B12002187    85 years and over

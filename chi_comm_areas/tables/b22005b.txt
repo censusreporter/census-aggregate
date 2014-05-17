@@ -1,0 +1,7 @@
+Receipt of Food Stamps/SNAP by Race of Householder (Black or African American Alone)
+------------------------------------------------------------------------------------
+Universe: Households With a Householder Who Is Black or African American Alone
+
+B22005B001 Total:
+B22005B002  Household received Food Stamps/SNAP in the past 12 months
+B22005B003  Household did not receive Food Stamps/SNAP in the past 12 months

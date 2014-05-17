@@ -1,0 +1,21 @@
+Tenure by Families and Presence of Own Children
+-----------------------------------------------
+Universe: Occupied Housing Units
+
+B25012001 Total:
+B25012002  Owner-occupied housing units:
+B25012003   With related children under 18:
+B25012004    With own children under 18:
+B25012005     Under 6 years only
+B25012006     Under 6 years and 6 to 17 years
+B25012007     6 to 17 years
+B25012008    No own children under 18
+B25012009   No related children under 18
+B25012010  Renter-occupied housing units:
+B25012011   With related children under 18:
+B25012012    With own children under 18:
+B25012013     Under 6 years only
+B25012014     Under 6 years and 6 to 17 years
+B25012015     6 to 17 years
+B25012016    No own children under 18
+B25012017   No related children under 18

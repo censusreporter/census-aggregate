@@ -1,0 +1,13 @@
+Median Duration of Current Marriage in Years by Sex by Marital Status for the Married Population
+------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over Who Are Now Married or Separated
+
+B12504001 Total:
+B12504002  Male:
+B12504003   Married, spouse present
+B12504004   Married, spouse absent
+B12504005   Separated
+B12504006  Female:
+B12504007   Married, spouse present
+B12504008   Married, spouse absent
+B12504009   Separated

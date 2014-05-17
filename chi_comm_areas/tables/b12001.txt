@@ -1,0 +1,23 @@
+Sex by Marital Status
+---------------------
+Universe: Population 15 Years and Over
+
+B12001001 Total:
+B12001002  Male:
+B12001003   Never married
+B12001004   Now married:
+B12001005    Married, spouse present
+B12001006    Married, spouse absent:
+B12001007     Separated
+B12001008     Other
+B12001009   Widowed
+B12001010   Divorced
+B12001011  Female:
+B12001012   Never married
+B12001013   Now married:
+B12001014    Married, spouse present
+B12001015    Married, spouse absent:
+B12001016     Separated
+B12001017     Other
+B12001018   Widowed
+B12001019   Divorced

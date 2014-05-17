@@ -1,0 +1,37 @@
+Sex by Age by Ambulatory Difficulty
+-----------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B18105001 Total:
+B18105002  Male:
+B18105003   5 to 17 years:
+B18105004    With an ambulatory difficulty
+B18105005    No ambulatory difficulty
+B18105006   18 to 34 years:
+B18105007    With an ambulatory difficulty
+B18105008    No ambulatory difficulty
+B18105009   35 to 64 years:
+B18105010    With an ambulatory difficulty
+B18105011    No ambulatory difficulty
+B18105012   65 to 74 years:
+B18105013    With an ambulatory difficulty
+B18105014    No ambulatory difficulty
+B18105015   75 years and over:
+B18105016    With an ambulatory difficulty
+B18105017    No ambulatory difficulty
+B18105018  Female:
+B18105019   5 to 17 years:
+B18105020    With an ambulatory difficulty
+B18105021    No ambulatory difficulty
+B18105022   18 to 34 years:
+B18105023    With an ambulatory difficulty
+B18105024    No ambulatory difficulty
+B18105025   35 to 64 years:
+B18105026    With an ambulatory difficulty
+B18105027    No ambulatory difficulty
+B18105028   65 to 74 years:
+B18105029    With an ambulatory difficulty
+B18105030    No ambulatory difficulty
+B18105031   75 years and over:
+B18105032    With an ambulatory difficulty
+B18105033    No ambulatory difficulty

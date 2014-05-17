@@ -1,0 +1,7 @@
+Median Age at First Marriage
+----------------------------
+Universe: Population 15 to 54 Years
+
+B12007000.5 Median age at first marriage --
+B12007001  Male
+B12007002  Female

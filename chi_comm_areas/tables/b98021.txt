@@ -1,0 +1,13 @@
+Housing Unit Response and Nonresponse Rates With Reasons for Noninterviews
+--------------------------------------------------------------------------
+Universe: Housing Units
+
+B98021001  Response Rate
+B98021002  Nonresponse Rate:
+B98021003   Refusal
+B98021004   Unable To Locate
+B98021005   No One Home
+B98021006   Temporarily Absent
+B98021007   Language Problem
+B98021008   Insufficient Data
+B98021009   Other Reason

@@ -1,0 +1,53 @@
+Sex by School Enrollment by Level of School by Type of School
+-------------------------------------------------------------
+Universe: Population 3 Years and Over
+
+B14002001 Total:
+B14002002  Male:
+B14002003   Enrolled in school:
+B14002004    Enrolled in nursery school, preschool:
+B14002005     Public school
+B14002006     Private school
+B14002007    Enrolled in kindergarten:
+B14002008     Public school
+B14002009     Private school
+B14002010    Enrolled in grade 1 to grade 4:
+B14002011     Public school
+B14002012     Private school
+B14002013    Enrolled in grade 5 to grade 8:
+B14002014     Public school
+B14002015     Private school
+B14002016    Enrolled in grade 9 to grade 12:
+B14002017     Public school
+B14002018     Private school
+B14002019    Enrolled in college undergraduate years:
+B14002020     Public school
+B14002021     Private school
+B14002022    Enrolled in graduate or professional school:
+B14002023     Public school
+B14002024     Private school
+B14002025   Not enrolled in school
+B14002026  Female:
+B14002027   Enrolled in school:
+B14002028    Enrolled in nursery school, preschool:
+B14002029     Public school
+B14002030     Private school
+B14002031    Enrolled in kindergarten:
+B14002032     Public school
+B14002033     Private school
+B14002034    Enrolled in grade 1 to grade 4:
+B14002035     Public school
+B14002036     Private school
+B14002037    Enrolled in grade 5 to grade 8:
+B14002038     Public school
+B14002039     Private school
+B14002040    Enrolled in grade 9 to grade 12:
+B14002041     Public school
+B14002042     Private school
+B14002043    Enrolled in college undergraduate years:
+B14002044     Public school
+B14002045     Private school
+B14002046    Enrolled in graduate or professional school:
+B14002047     Public school
+B14002048     Private school
+B14002049   Not enrolled in school

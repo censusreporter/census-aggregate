@@ -1,0 +1,11 @@
+Unmarried-partner Households by Sex of Partner
+----------------------------------------------
+Universe: Households
+
+B11009001 Total:
+B11009002  Unmarried-partner households:
+B11009003   Male householder and male partner
+B11009004   Male householder and female partner
+B11009005   Female householder and female partner
+B11009006   Female householder and male partner
+B11009007  All other households

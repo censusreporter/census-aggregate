@@ -1,0 +1,8 @@
+Median Age by Sex (Asian Alone)
+-------------------------------
+Universe: People Who Are Asian Alone
+
+B01002D000.5 Median age --
+B01002D001  Total:
+B01002D002  Male
+B01002D003  Female

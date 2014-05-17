@@ -1,0 +1,25 @@
+Year of Entry by Nativity and Citizenship Status in Puerto Rico
+---------------------------------------------------------------
+Universe: Population Born Outside Puerto Rico
+
+B05005PR001 Total:
+B05005PR002  Entered 2010 or later
+B05005PR003   Native
+B05005PR004   Foreign born:
+B05005PR005    Naturalized U.S. citizen
+B05005PR006    Not a U.S. citizen
+B05005PR007  Entered 2000 to 2009
+B05005PR008   Native
+B05005PR009   Foreign born:
+B05005PR010    Naturalized U.S. citizen
+B05005PR011    Not a U.S. citizen
+B05005PR012  Entered 1990 to 1999:
+B05005PR013   Native
+B05005PR014   Foreign born:
+B05005PR015    Naturalized U.S. citizen
+B05005PR016    Not a U.S. citizen
+B05005PR017  Entered before 1990:
+B05005PR018   Native
+B05005PR019   Foreign born:
+B05005PR020    Naturalized U.S. citizen
+B05005PR021    Not a U.S. citizen

@@ -1,0 +1,63 @@
+Poverty Status by Sex by Age
+----------------------------
+Universe: Population for Whom Poverty Status Is Determined
+
+B17001001 Total:
+B17001002  Income in the past 12 months below poverty level:
+B17001003   Male:
+B17001004    Under 5 years
+B17001005    5 years
+B17001006    6 to 11 years
+B17001007    12 to 14 years
+B17001008    15 years
+B17001009    16 and 17 years
+B17001010    18 to 24 years
+B17001011    25 to 34 years
+B17001012    35 to 44 years
+B17001013    45 to 54 years
+B17001014    55 to 64 years
+B17001015    65 to 74 years
+B17001016    75 years and over
+B17001017   Female:
+B17001018    Under 5 years
+B17001019    5 years
+B17001020    6 to 11 years
+B17001021    12 to 14 years
+B17001022    15 years
+B17001023    16 and 17 years
+B17001024    18 to 24 years
+B17001025    25 to 34 years
+B17001026    35 to 44 years
+B17001027    45 to 54 years
+B17001028    55 to 64 years
+B17001029    65 to 74 years
+B17001030    75 years and over
+B17001031  Income in the past 12 months at or above poverty level:
+B17001032   Male:
+B17001033    Under 5 years
+B17001034    5 years
+B17001035    6 to 11 years
+B17001036    12 to 14 years
+B17001037    15 years
+B17001038    16 and 17 years
+B17001039    18 to 24 years
+B17001040    25 to 34 years
+B17001041    35 to 44 years
+B17001042    45 to 54 years
+B17001043    55 to 64 years
+B17001044    65 to 74 years
+B17001045    75 years and over
+B17001046   Female:
+B17001047    Under 5 years
+B17001048    5 years
+B17001049    6 to 11 years
+B17001050    12 to 14 years
+B17001051    15 years
+B17001052    16 and 17 years
+B17001053    18 to 24 years
+B17001054    25 to 34 years
+B17001055    35 to 44 years
+B17001056    45 to 54 years
+B17001057    55 to 64 years
+B17001058    65 to 74 years
+B17001059    75 years and over

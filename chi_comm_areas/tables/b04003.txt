@@ -1,0 +1,112 @@
+Total Ancestry Reported
+-----------------------
+Universe: Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported
+
+B04003001 Total:
+B04003002  Afghan
+B04003003  Albanian
+B04003004  Alsatian
+B04003005  American
+B04003006  Arab:
+B04003007   Egyptian
+B04003008   Iraqi
+B04003009   Jordanian
+B04003010   Lebanese
+B04003011   Moroccan
+B04003012   Palestinian
+B04003013   Syrian
+B04003014   Arab
+B04003015   Other Arab
+B04003016  Armenian
+B04003017  Assyrian/Chaldean/Syriac
+B04003018  Australian
+B04003019  Austrian
+B04003020  Basque
+B04003021  Belgian
+B04003022  Brazilian
+B04003023  British
+B04003024  Bulgarian
+B04003025  Cajun
+B04003026  Canadian
+B04003027  Carpatho Rusyn
+B04003028  Celtic
+B04003029  Croatian
+B04003030  Cypriot
+B04003031  Czech
+B04003032  Czechoslovakian
+B04003033  Danish
+B04003034  Dutch
+B04003035  Eastern European
+B04003036  English
+B04003037  Estonian
+B04003038  European
+B04003039  Finnish
+B04003040  French (except Basque)
+B04003041  French Canadian
+B04003042  German
+B04003043  German Russian
+B04003044  Greek
+B04003045  Guyanese
+B04003046  Hungarian
+B04003047  Icelander
+B04003048  Iranian
+B04003049  Irish
+B04003050  Israeli
+B04003051  Italian
+B04003052  Latvian
+B04003053  Lithuanian
+B04003054  Luxemburger
+B04003055  Macedonian
+B04003056  Maltese
+B04003057  New Zealander
+B04003058  Northern European
+B04003059  Norwegian
+B04003060  Pennsylvania German
+B04003061  Polish
+B04003062  Portuguese
+B04003063  Romanian
+B04003064  Russian
+B04003065  Scandinavian
+B04003066  Scotch-Irish
+B04003067  Scottish
+B04003068  Serbian
+B04003069  Slavic
+B04003070  Slovak
+B04003071  Slovene
+B04003072  Soviet Union
+B04003073  Subsaharan African:
+B04003074   Cape Verdean
+B04003075   Ethiopian
+B04003076   Ghanaian
+B04003077   Kenyan
+B04003078   Liberian
+B04003079   Nigerian
+B04003080   Senegalese
+B04003081   Sierra Leonean
+B04003082   Somalian
+B04003083   South African
+B04003084   Sudanese
+B04003085   Ugandan
+B04003086   Zimbabwean
+B04003087   African
+B04003088   Other Subsaharan African
+B04003089  Swedish
+B04003090  Swiss
+B04003091  Turkish
+B04003092  Ukrainian
+B04003093  Welsh
+B04003094  West Indian (except Hispanic groups):
+B04003095   Bahamian
+B04003096   Barbadian
+B04003097   Belizean
+B04003098   Bermudan
+B04003099   British West Indian
+B04003100   Dutch West Indian
+B04003101   Haitian
+B04003102   Jamaican
+B04003103   Trinidadian and Tobagonian
+B04003104   U.S. Virgin Islander
+B04003105   West Indian
+B04003106   Other West Indian
+B04003107  Yugoslavian
+B04003108  Other groups

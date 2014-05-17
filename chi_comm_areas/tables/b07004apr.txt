@@ -1,0 +1,10 @@
+Geographical Mobility in the Past Year (White Alone) for Current Residence in Puerto Rico
+-----------------------------------------------------------------------------------------
+Universe: White Alone Population 1 Year and Over in Puerto Rico
+
+B07004APR001 Total:
+B07004APR002  Same house 1 year ago
+B07004APR003  Moved within same municipio
+B07004APR004  Moved from different municipio
+B07004APR005  Moved from the United States
+B07004APR006  Moved from elsewhere

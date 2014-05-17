@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (Some Other Race Alone)
+---------------------------------------------------------------------
+Universe: Civilian Employed Some Other Race Alone Population 16 Years and Over
+
+C24010F001 Total:
+C24010F002  Male:
+C24010F003   Management, business, science, and arts occupations:
+C24010F004   Service occupations:
+C24010F005   Sales and office occupations:
+C24010F006   Natural resources, construction, and maintenance occupations:
+C24010F007   Production, transportation, and material moving occupations:
+C24010F008  Female:
+C24010F009   Management, business, science, and arts occupations:
+C24010F010   Service occupations:
+C24010F011   Sales and office occupations:
+C24010F012   Natural resources, construction, and maintenance occupations:
+C24010F013   Production, transportation, and material moving occupations:

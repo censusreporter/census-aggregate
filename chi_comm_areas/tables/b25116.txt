@@ -1,0 +1,27 @@
+Tenure by Household Size by Age of Householder
+----------------------------------------------
+Universe: Occupied Housing Units
+
+B25116001 Total:
+B25116002  Owner occupied:
+B25116003   1-person household:
+B25116004    Householder 15 to 54 years
+B25116005    Householder 55 to 64 years
+B25116006    Householder 65 to 74 years
+B25116007    Householder 75 years and over
+B25116008   2-or-more person household:
+B25116009    Householder 15 to 54 years
+B25116010    Householder 55 to 64 years
+B25116011    Householder 65 to 74 years
+B25116012    Householder 75 years and over
+B25116013  Renter occupied:
+B25116014   1-person household:
+B25116015    Householder 15 to 54 years
+B25116016    Householder 55 to 64 years
+B25116017    Householder 65 to 74 years
+B25116018    Householder 75 years and over
+B25116019   2-or-more person household:
+B25116020    Householder 15 to 54 years
+B25116021    Householder 55 to 64 years
+B25116022    Householder 65 to 74 years
+B25116023    Householder 75 years and over

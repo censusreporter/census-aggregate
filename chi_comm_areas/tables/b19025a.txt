@@ -1,0 +1,5 @@
+Aggregate Household Income (White Alone Householder)
+----------------------------------------------------
+Universe: Households With a Householder Who Is White Alone
+
+B19025A001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

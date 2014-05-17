@@ -1,0 +1,12 @@
+Aggregate Number of Rooms by Vacancy Status
+-------------------------------------------
+Universe: Vacant Housing Units
+
+B25023001 Aggregate number of rooms:
+B25023002  For rent
+B25023003  Rented, not occupied
+B25023004  For sale only
+B25023005  Sold, not occupied
+B25023006  For seasonal, recreational, or occasional use
+B25023007  For migrant workers
+B25023008  Other vacant

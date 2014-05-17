@@ -1,0 +1,17 @@
+Tenure by Occupants Per Room
+----------------------------
+Universe: Occupied Housing Units
+
+B25014001 Total:
+B25014002  Owner occupied:
+B25014003   0.50 or less occupants per room
+B25014004   0.51 to 1.00 occupants per room
+B25014005   1.01 to 1.50 occupants per room
+B25014006   1.51 to 2.00 occupants per room
+B25014007   2.01 or more occupants per room
+B25014008  Renter occupied:
+B25014009   0.50 or less occupants per room
+B25014010   0.51 to 1.00 occupants per room
+B25014011   1.01 to 1.50 occupants per room
+B25014012   1.51 to 2.00 occupants per room
+B25014013   2.01 or more occupants per room

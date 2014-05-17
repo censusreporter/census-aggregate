@@ -1,0 +1,39 @@
+Poverty Status of Families by Household Type by Educational Attainment of Householder
+-------------------------------------------------------------------------------------
+Universe: Families
+
+B17018001 Total:
+B17018002  Income in the past 12 months below poverty level:
+B17018003   Married-couple family:
+B17018004     Less than high school graduate
+B17018005     High school graduate (includes equivalency)
+B17018006     Some college, associate's degree
+B17018007     Bachelor's degree or higher
+B17018008   Other families:
+B17018009    Male householder, no wife present:
+B17018010     Less than high school graduate
+B17018011     High school graduate (includes equivalency)
+B17018012     Some college, associate's degree
+B17018013     Bachelor's degree or higher
+B17018014    Female householder, no husband present:
+B17018015     Less than high school graduate
+B17018016     High school graduate (includes equivalency)
+B17018017     Some college, associate's degree
+B17018018     Bachelor's degree or higher
+B17018019  Income in the past 12 months at or above poverty level:
+B17018020   Married-couple family:
+B17018021     Less than high school graduate
+B17018022     High school graduate (includes equivalency)
+B17018023     Some college, associate's degree
+B17018024     Bachelor's degree or higher
+B17018025   Other families:
+B17018026    Male householder, no wife present:
+B17018027     Less than high school graduate
+B17018028     High school graduate (includes equivalency)
+B17018029     Some college, associate's degree
+B17018030     Bachelor's degree or higher
+B17018031    Female householder, no husband present:
+B17018032     Less than high school graduate
+B17018033     High school graduate (includes equivalency)
+B17018034     Some college, associate's degree
+B17018035     Bachelor's degree or higher

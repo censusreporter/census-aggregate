@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (Two or More Races)
+-----------------------------------------------------------------------------------
+Universe: Two or More Races Population 5 Years and Over
+
+B16005G001 Total:
+B16005G002  Native:
+B16005G003   Speak only English
+B16005G004   Speak another language
+B16005G005    Speak English "very well"
+B16005G006    Speak English less than "very well"
+B16005G007  Foreign born:
+B16005G008   Speak only English
+B16005G009   Speak another language
+B16005G010    Speak English "very well"
+B16005G011    Speak English less than "very well"

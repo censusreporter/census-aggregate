@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Some Other Race Alone)
+-----------------------------------------------------
+Universe: Some Other Race Alone Population 25 Years and Over
+
+C15002F001 Total:
+C15002F002  Male:
+C15002F003   Less than high school diploma
+C15002F004   High school graduate, GED, or alternative
+C15002F005   Some college or associate's degree
+C15002F006   Bachelor's degree or higher
+C15002F007  Female:
+C15002F008   Less than high school diploma
+C15002F009   High school graduate, GED, or alternative
+C15002F010   Some college or associate's degree
+C15002F011   Bachelor's degree or higher

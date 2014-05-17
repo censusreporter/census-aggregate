@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------------------------
+Universe: Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone
+
+B11001E001 Total:
+B11001E002  Family households:
+B11001E003   Married-couple family
+B11001E004   Other family:
+B11001E005    Male householder, no wife present
+B11001E006    Female householder, no husband present
+B11001E007  Nonfamily households:
+B11001E008   Householder living alone
+B11001E009   Householder not living alone

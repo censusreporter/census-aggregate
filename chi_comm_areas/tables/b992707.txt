@@ -1,0 +1,7 @@
+Imputation of Medicaid/Means-tested Public Coverage
+---------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992707001 Total:
+B992707002  Imputed
+B992707003  Not imputed

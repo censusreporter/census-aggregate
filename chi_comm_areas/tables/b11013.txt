@@ -1,0 +1,10 @@
+Subfamily Type by Presence of Own Children
+------------------------------------------
+Universe: Subfamilies
+
+B11013001 Total:
+B11013002  Married-couple subfamily:
+B11013003   With own children under 18 years
+B11013004   No own children under 18 years
+B11013005  Mother-child subfamily
+B11013006  Father-child subfamily

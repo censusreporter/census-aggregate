@@ -1,0 +1,17 @@
+Sex by Marital Status (Some Other Race Alone)
+---------------------------------------------
+Universe: Some Other Race Alone Population 15 Years and Over
+
+B12002F001 Total:
+B12002F002  Male:
+B12002F003   Never married
+B12002F004   Now married (except separated)
+B12002F005   Separated
+B12002F006   Widowed
+B12002F007   Divorced
+B12002F008  Female:
+B12002F009   Never married
+B12002F010   Now married (except separated)
+B12002F011   Separated
+B12002F012   Widowed
+B12002F013   Divorced

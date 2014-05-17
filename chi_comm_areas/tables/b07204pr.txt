@@ -1,0 +1,21 @@
+Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in Puerto Rico
+----------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in Puerto Rico
+
+B07204PR001 Total:
+B07204PR002  Same house 1 year ago
+B07204PR003  Different house in Puerto Rico 1 year ago:
+B07204PR004   Same city or town:
+B07204PR005    Same municipio
+B07204PR006    Different municipio
+B07204PR007   Elsewhere in Puerto Rico:
+B07204PR008    Same municipio
+B07204PR009    Different municipio
+B07204PR010  United States 1 year ago:
+B07204PR011   Northeast
+B07204PR012   Midwest
+B07204PR013   South
+B07204PR014   West
+B07204PR015  Elsewhere 1 year ago:
+B07204PR016   U.S. Island Areas
+B07204PR017   Foreign country

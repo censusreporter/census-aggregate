@@ -1,0 +1,7 @@
+Imputation of Grade Enrolled Enrolled in School
+-----------------------------------------------
+Universe: Population 3 Years and Over Enrolled in School
+
+B99142001 Total:
+B99142002  Imputed
+B99142003  Not imputed

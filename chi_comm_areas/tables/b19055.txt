@@ -1,0 +1,7 @@
+Social Security Income for Households
+-------------------------------------
+Universe: Households
+
+B19055001 Total:
+B19055002  With Social Security income
+B19055003  No Social Security income

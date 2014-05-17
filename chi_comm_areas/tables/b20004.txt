@@ -1,0 +1,22 @@
+Median Earnings by Sex by Educational Attainment
+------------------------------------------------
+Universe: Population 25 Years and Over With Earnings
+
+B20004001 Total:
+B20004002   Less than high school graduate
+B20004003   High school graduate (includes equivalency)
+B20004004   Some college or associate's degree
+B20004005   Bachelor's degree
+B20004006   Graduate or professional degree
+B20004007  Male:
+B20004008   Less than high school graduate
+B20004009   High school graduate (includes equivalency)
+B20004010   Some college or associate's degree
+B20004011   Bachelor's degree
+B20004012   Graduate or professional degree
+B20004013  Female:
+B20004014   Less than high school graduate
+B20004015   High school graduate (includes equivalency)
+B20004016   Some college or associate's degree
+B20004017   Bachelor's degree
+B20004018   Graduate or professional degree

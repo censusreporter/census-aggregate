@@ -1,0 +1,3 @@
+This software is yours to do with as you please. The American Community Survey data, as is all US Census Bureau data, is in the public domain. 
+
+Go forth and do something interesting with it...

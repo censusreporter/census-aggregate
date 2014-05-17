@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Native Hawaiian and Other Pacific Islander Alone)
+--------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 25 Years and Over
+
+C15002E001 Total:
+C15002E002  Male:
+C15002E003   Less than high school diploma
+C15002E004   High school graduate, GED, or alternative
+C15002E005   Some college or associate's degree
+C15002E006   Bachelor's degree or higher
+C15002E007  Female:
+C15002E008   Less than high school diploma
+C15002E009   High school graduate, GED, or alternative
+C15002E010   Some college or associate's degree
+C15002E011   Bachelor's degree or higher

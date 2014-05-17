@@ -1,0 +1,45 @@
+Health Insurance Coverage Status by Ratio of Income to Poverty Level by Age
+---------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined
+
+C27016001 Total:
+C27016002  Under 1.38 of poverty threshold:
+C27016003   Under 18 years:
+C27016004    With health insurance coverage
+C27016005    No health insurance coverage
+C27016006   18 to 64 years:
+C27016007    With health insurance coverage
+C27016008    No health insurance coverage
+C27016009   65 years and over:
+C27016010    With health insurance coverage
+C27016011    No health insurance coverage
+C27016012  1.38 to 1.99 of poverty threshold:
+C27016013   Under 18 years:
+C27016014    With health insurance coverage
+C27016015    No health insurance coverage
+C27016016   18 to 64 years:
+C27016017    With health insurance coverage
+C27016018    No health insurance coverage
+C27016019   65 years and over:
+C27016020    With health insurance coverage
+C27016021    No health insurance coverage
+C27016022  2.00 to 3.99 of poverty threshold:
+C27016023   Under 18 years:
+C27016024    With health insurance coverage
+C27016025    No health insurance coverage
+C27016026   18 to 64 years:
+C27016027    With health insurance coverage
+C27016028    No health insurance coverage
+C27016029   65 years and over:
+C27016030    With health insurance coverage
+C27016031    No health insurance coverage
+C27016032  4.00 of poverty threshold and over:
+C27016033   Under 18 years:
+C27016034    With health insurance coverage
+C27016035    No health insurance coverage
+C27016036   18 to 64 years:
+C27016037    With health insurance coverage
+C27016038    No health insurance coverage
+C27016039   65 years and over:
+C27016040    With health insurance coverage
+C27016041    No health insurance coverage

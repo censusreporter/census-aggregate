@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Asian Alone)
+-------------------------------------------
+Universe: Asian Alone Population 25 Years and Over
+
+C15002D001 Total:
+C15002D002  Male:
+C15002D003   Less than high school diploma
+C15002D004   High school graduate, GED, or alternative
+C15002D005   Some college or associate's degree
+C15002D006   Bachelor's degree or higher
+C15002D007  Female:
+C15002D008   Less than high school diploma
+C15002D009   High school graduate, GED, or alternative
+C15002D010   Some college or associate's degree
+C15002D011   Bachelor's degree or higher

@@ -1,0 +1,59 @@
+Place of Birth by Individual Income in Puerto Rico
+--------------------------------------------------
+Universe: Population 15 Years and Over in Puerto Rico
+
+B06010PR001 Total:
+B06010PR002   No income
+B06010PR003   With income:
+B06010PR004    $1 to $9,999 or loss
+B06010PR005    $10,000 to $14,999
+B06010PR006    $15,000 to $24,999
+B06010PR007    $25,000 to $34,999
+B06010PR008    $35,000 to $49,999
+B06010PR009    $50,000 to $64,999
+B06010PR010    $65,000 to $74,999
+B06010PR011    $75,000 or more
+B06010PR012  Born in Puerto Rico:
+B06010PR013   No income
+B06010PR014   With income:
+B06010PR015    $1 to $9,999 or loss
+B06010PR016    $10,000 to $14,999
+B06010PR017    $15,000 to $24,999
+B06010PR018    $25,000 to $34,999
+B06010PR019    $35,000 to $49,999
+B06010PR020    $50,000 to $64,999
+B06010PR021    $65,000 to $74,999
+B06010PR022    $75,000 or more
+B06010PR023  Born in the United States:
+B06010PR024   No income
+B06010PR025   With income:
+B06010PR026    $1 to $9,999 or loss
+B06010PR027    $10,000 to $14,999
+B06010PR028    $15,000 to $24,999
+B06010PR029    $25,000 to $34,999
+B06010PR030    $35,000 to $49,999
+B06010PR031    $50,000 to $64,999
+B06010PR032    $65,000 to $74,999
+B06010PR033    $75,000 or more
+B06010PR034  Native; born elsewhere:
+B06010PR035   No income
+B06010PR036   With income:
+B06010PR037    $1 to $9,999 or loss
+B06010PR038    $10,000 to $14,999
+B06010PR039    $15,000 to $24,999
+B06010PR040    $25,000 to $34,999
+B06010PR041    $35,000 to $49,999
+B06010PR042    $50,000 to $64,999
+B06010PR043    $65,000 to $74,999
+B06010PR044    $75,000 or more
+B06010PR045  Foreign born:
+B06010PR046   No income
+B06010PR047   With income:
+B06010PR048    $1 to $9,999 or loss
+B06010PR049    $10,000 to $14,999
+B06010PR050    $15,000 to $24,999
+B06010PR051    $25,000 to $34,999
+B06010PR052    $35,000 to $49,999
+B06010PR053    $50,000 to $64,999
+B06010PR054    $65,000 to $74,999
+B06010PR055    $75,000 or more

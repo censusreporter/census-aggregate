@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------
+Universe: AMERICAN INDIAN AND ALASKA NATIVE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001C001 Total:
+C27001C002  Under 18 years:
+C27001C003   With health insurance coverage
+C27001C004   No health insurance coverage
+C27001C005  18 to 64 years:
+C27001C006   With health insurance coverage
+C27001C007   No health insurance coverage
+C27001C008  65 years and over:
+C27001C009   With health insurance coverage
+C27001C010   No health insurance coverage

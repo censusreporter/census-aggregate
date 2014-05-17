@@ -1,0 +1,9 @@
+Place of Birth (Hispanic or Latino) in Puerto Rico
+--------------------------------------------------
+Universe: Hispanic or Latino Population in Puerto Rico
+
+B06004IPR001 Total:
+B06004IPR002  Born in Puerto Rico
+B06004IPR003  Born in the United States
+B06004IPR004  Native; born elsewhere
+B06004IPR005  Foreign born

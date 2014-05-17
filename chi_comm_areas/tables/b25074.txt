@@ -1,0 +1,54 @@
+Household Income by Gross Rent as a Percentage of Household Income
+------------------------------------------------------------------
+Universe: Renter-occupied Housing Units
+
+B25074001 Total:
+B25074002  Less than $10,000:
+B25074003   Less than 20.0 percent
+B25074004   20.0 to 24.9 percent
+B25074005   25.0 to 29.9 percent
+B25074006   30.0 to 34.9 percent
+B25074007   35.0 percent or more
+B25074008   Not computed
+B25074009  $10,000 to $19,999:
+B25074010   Less than 20.0 percent
+B25074011   20.0 to 24.9 percent
+B25074012   25.0 to 29.9 percent
+B25074013   30.0 to 34.9 percent
+B25074014   35.0 percent or more
+B25074015   Not computed
+B25074016  $20,000 to $34,999:
+B25074017   Less than 20.0 percent
+B25074018   20.0 to 24.9 percent
+B25074019   25.0 to 29.9 percent
+B25074020   30.0 to 34.9 percent
+B25074021   35.0 percent or more
+B25074022   Not computed
+B25074023  $35,000 to $49,999:
+B25074024   Less than 20.0 percent
+B25074025   20.0 to 24.9 percent
+B25074026   25.0 to 29.9 percent
+B25074027   30.0 to 34.9 percent
+B25074028   35.0 percent or more
+B25074029   Not computed
+B25074030  $50,000 to $74,999:
+B25074031   Less than 20.0 percent
+B25074032   20.0 to 24.9 percent
+B25074033   25.0 to 29.9 percent
+B25074034   30.0 to 34.9 percent
+B25074035   35.0 percent or more
+B25074036   Not computed
+B25074037  $75,000 to $99,999:
+B25074038   Less than 20.0 percent
+B25074039   20.0 to 24.9 percent
+B25074040   25.0 to 29.9 percent
+B25074041   30.0 to 34.9 percent
+B25074042   35.0 percent or more
+B25074043   Not computed
+B25074044  $100,000 or more:
+B25074045   Less than 20.0 percent
+B25074046   20.0 to 24.9 percent
+B25074047   25.0 to 29.9 percent
+B25074048   30.0 to 34.9 percent
+B25074049   35.0 percent or more
+B25074050   Not computed

@@ -1,0 +1,5 @@
+Aggregate Number of Rooms
+-------------------------
+Universe: Housing Units
+
+B25019001 Aggregate number of rooms

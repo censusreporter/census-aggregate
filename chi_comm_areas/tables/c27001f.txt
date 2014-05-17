@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Some Other Race Alone)
+---------------------------------------------------------------
+Universe: SOME OTHER RACE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001F001 Total:
+C27001F002  Under 18 years:
+C27001F003   With health insurance coverage
+C27001F004   No health insurance coverage
+C27001F005  18 to 64 years:
+C27001F006   With health insurance coverage
+C27001F007   No health insurance coverage
+C27001F008  65 years and over:
+C27001F009   With health insurance coverage
+C27001F010   No health insurance coverage

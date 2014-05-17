@@ -1,0 +1,7 @@
+Imputation of Relationship
+--------------------------
+Universe: Population in Households
+
+B99092001 Total:
+B99092002  Imputed
+B99092003  Not imputed

@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (White Alone, Not Hispanic or Latino)
+---------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 16 Years and Over
+
+C23002H001 Total:
+C23002H002  Male:
+C23002H003   16 to 64 years:
+C23002H004    In labor force:
+C23002H005     In Armed Forces
+C23002H006     Civilian:
+C23002H007      Employed
+C23002H008      Unemployed
+C23002H009    Not in labor force
+C23002H010   65 years and over:
+C23002H011    In labor force:
+C23002H012      Employed
+C23002H013      Unemployed
+C23002H014    Not in labor force
+C23002H015  Female:
+C23002H016   16 to 64 years:
+C23002H017    In labor force:
+C23002H018     In Armed Forces
+C23002H019     Civilian:
+C23002H020      Employed
+C23002H021      Unemployed
+C23002H022    Not in labor force
+C23002H023   65 years and over:
+C23002H024    In labor force:
+C23002H025      Employed
+C23002H026      Unemployed
+C23002H027    Not in labor force

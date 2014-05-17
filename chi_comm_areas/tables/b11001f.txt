@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (Some Other Race Alone)
+---------------------------------------------------------------
+Universe: Households With a Householder Who Is Some Other Race Alone
+
+B11001F001 Total:
+B11001F002  Family households:
+B11001F003   Married-couple family
+B11001F004   Other family:
+B11001F005    Male householder, no wife present
+B11001F006    Female householder, no husband present
+B11001F007  Nonfamily households:
+B11001F008   Householder living alone
+B11001F009   Householder not living alone

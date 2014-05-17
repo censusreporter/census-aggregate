@@ -1,0 +1,7 @@
+Imputation of Means of Transportation to Work
+---------------------------------------------
+Universe: Workers 16 Years and Over
+
+B99086001 Total:
+B99086002  Imputed
+B99086003  Not imputed

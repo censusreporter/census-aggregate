@@ -1,0 +1,124 @@
+Means of Transportation to Work by Travel Time to Work
+------------------------------------------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08134001 Total:
+B08134002     Less than 10 minutes
+B08134003     10 to 14 minutes
+B08134004     15 to 19 minutes
+B08134005     20 to 24 minutes
+B08134006     25 to 29 minutes
+B08134007     30 to 34 minutes
+B08134008     35 to 44 minutes
+B08134009     45 to 59 minutes
+B08134010     60 or more minutes
+B08134011  Car, truck, or van:
+B08134012     Less than 10 minutes
+B08134013     10 to 14 minutes
+B08134014     15 to 19 minutes
+B08134015     20 to 24 minutes
+B08134016     25 to 29 minutes
+B08134017     30 to 34 minutes
+B08134018     35 to 44 minutes
+B08134019     45 to 59 minutes
+B08134020     60 or more minutes
+B08134021   Drove alone:
+B08134022     Less than 10 minutes
+B08134023     10 to 14 minutes
+B08134024     15 to 19 minutes
+B08134025     20 to 24 minutes
+B08134026     25 to 29 minutes
+B08134027     30 to 34 minutes
+B08134028     35 to 44 minutes
+B08134029     45 to 59 minutes
+B08134030     60 or more minutes
+B08134031   Carpooled:
+B08134032     Less than 10 minutes
+B08134033     10 to 14 minutes
+B08134034     15 to 19 minutes
+B08134035     20 to 24 minutes
+B08134036     25 to 29 minutes
+B08134037     30 to 34 minutes
+B08134038     35 to 44 minutes
+B08134039     45 to 59 minutes
+B08134040     60 or more minutes
+B08134041    In 2-person carpool:
+B08134042     Less than 10 minutes
+B08134043     10 to 14 minutes
+B08134044     15 to 19 minutes
+B08134045     20 to 24 minutes
+B08134046     25 to 29 minutes
+B08134047     30 to 34 minutes
+B08134048     35 to 44 minutes
+B08134049     45 to 59 minutes
+B08134050     60 or more minutes
+B08134051    In 3-or-more-person carpool:
+B08134052     Less than 10 minutes
+B08134053     10 to 14 minutes
+B08134054     15 to 19 minutes
+B08134055     20 to 24 minutes
+B08134056     25 to 29 minutes
+B08134057     30 to 34 minutes
+B08134058     35 to 44 minutes
+B08134059     45 to 59 minutes
+B08134060     60 or more minutes
+B08134061  Public transportation (excluding taxicab):
+B08134062     Less than 10 minutes
+B08134063     10 to 14 minutes
+B08134064     15 to 19 minutes
+B08134065     20 to 24 minutes
+B08134066     25 to 29 minutes
+B08134067     30 to 34 minutes
+B08134068     35 to 44 minutes
+B08134069     45 to 59 minutes
+B08134070     60 or more minutes
+B08134071   Bus or trolley bus:
+B08134072     Less than 10 minutes
+B08134073     10 to 14 minutes
+B08134074     15 to 19 minutes
+B08134075     20 to 24 minutes
+B08134076     25 to 29 minutes
+B08134077     30 to 34 minutes
+B08134078     35 to 44 minutes
+B08134079     45 to 59 minutes
+B08134080     60 or more minutes
+B08134081   Streetcar or trolley car (carro publico in Puerto Rico), subway or elevated:
+B08134082     Less than 10 minutes
+B08134083     10 to 14 minutes
+B08134084     15 to 19 minutes
+B08134085     20 to 24 minutes
+B08134086     25 to 29 minutes
+B08134087     30 to 34 minutes
+B08134088     35 to 44 minutes
+B08134089     45 to 59 minutes
+B08134090     60 or more minutes
+B08134091   Railroad or ferryboat:
+B08134092     Less than 10 minutes
+B08134093     10 to 14 minutes
+B08134094     15 to 19 minutes
+B08134095     20 to 24 minutes
+B08134096     25 to 29 minutes
+B08134097     30 to 34 minutes
+B08134098     35 to 44 minutes
+B08134099     45 to 59 minutes
+B08134100     60 or more minutes
+B08134101  Walked:
+B08134102     Less than 10 minutes
+B08134103     10 to 14 minutes
+B08134104     15 to 19 minutes
+B08134105     20 to 24 minutes
+B08134106     25 to 29 minutes
+B08134107     30 to 34 minutes
+B08134108     35 to 44 minutes
+B08134109     45 to 59 minutes
+B08134110     60 or more minutes
+B08134111  Taxicab, motorcycle, bicycle, or other means:
+B08134112     Less than 10 minutes
+B08134113     10 to 14 minutes
+B08134114     15 to 19 minutes
+B08134115     20 to 24 minutes
+B08134116     25 to 29 minutes
+B08134117     30 to 34 minutes
+B08134118     35 to 44 minutes
+B08134119     45 to 59 minutes
+B08134120     60 or more minutes

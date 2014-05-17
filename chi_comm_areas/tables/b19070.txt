@@ -1,0 +1,5 @@
+Aggregate Other Types of Income for Households
+----------------------------------------------
+Universe: Households
+
+B19070001 Aggregate other types of income in the past 12 months (in 2012 inflation-adjusted dollars):

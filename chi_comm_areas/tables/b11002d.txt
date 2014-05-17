@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Asian Alone)
+---------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Asian Alone
+
+B11002D001 Total:
+B11002D002  In family households:
+B11002D003   In married-couple family:
+B11002D004    Relatives
+B11002D005    Nonrelatives
+B11002D006   In male householder, no wife present, family:
+B11002D007    Relatives
+B11002D008    Nonrelatives
+B11002D009   In female householder, no husband present, family:
+B11002D010    Relatives
+B11002D011    Nonrelatives
+B11002D012  In nonfamily households

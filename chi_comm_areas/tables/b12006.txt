@@ -1,0 +1,60 @@
+Marital Status by Sex by Labor Force Participation
+--------------------------------------------------
+Universe: Population 16 Years and Over
+
+B12006001 Total:
+B12006002  Never married:
+B12006003   Male:
+B12006004    In labor force:
+B12006005     Employed or in Armed Forces
+B12006006     Unemployed
+B12006007    Not in labor force
+B12006008   Female:
+B12006009    In labor force:
+B12006010     Employed or in Armed Forces
+B12006011     Unemployed
+B12006012    Not in labor force
+B12006013  Now married (except separated):
+B12006014   Male:
+B12006015    In labor force:
+B12006016     Employed or in Armed Forces
+B12006017     Unemployed
+B12006018    Not in labor force
+B12006019   Female:
+B12006020    In labor force:
+B12006021     Employed or in Armed Forces
+B12006022     Unemployed
+B12006023    Not in labor force
+B12006024  Separated:
+B12006025   Male:
+B12006026    In labor force:
+B12006027     Employed or in Armed Forces
+B12006028     Unemployed
+B12006029    Not in labor force
+B12006030   Female:
+B12006031    In labor force:
+B12006032     Employed or in Armed Forces
+B12006033     Unemployed
+B12006034    Not in labor force
+B12006035  Widowed:
+B12006036   Male:
+B12006037    In labor force:
+B12006038     Employed or in Armed Forces
+B12006039     Unemployed
+B12006040    Not in labor force
+B12006041   Female:
+B12006042    In labor force:
+B12006043     Employed or in Armed Forces
+B12006044     Unemployed
+B12006045    Not in labor force
+B12006046  Divorced:
+B12006047   Male:
+B12006048    In labor force:
+B12006049     Employed or in Armed Forces
+B12006050     Unemployed
+B12006051    Not in labor force
+B12006052   Female:
+B12006053    In labor force:
+B12006054     Employed or in Armed Forces
+B12006055     Unemployed
+B12006056    Not in labor force

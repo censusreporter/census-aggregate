@@ -1,0 +1,7 @@
+Imputation of Year Last Married
+-------------------------------
+Universe: Population 15 Years and Over
+
+B99126001 Total:
+B99126002  Imputed
+B99126003  Not imputed

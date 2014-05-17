@@ -1,0 +1,11 @@
+Means of Transportation to Work (Native Hawaiian and Other Pacific Islander Alone)
+----------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Workers 16 Years and Over
+
+B08105E001 Total:
+B08105E002  Car, truck, or van - drove alone
+B08105E003  Car, truck, or van - carpooled
+B08105E004  Public transportation (excluding taxicab)
+B08105E005  Walked
+B08105E006  Taxicab, motorcycle, bicycle, or other means
+B08105E007  Worked at home

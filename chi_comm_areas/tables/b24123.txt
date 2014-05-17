@@ -1,0 +1,530 @@
+Detailed Occupation by Median Earnings for the Full-time, Year-round Civilian Employed Female Population
+--------------------------------------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Female Population 16 Years and Over With Earnings
+
+B24123001 Total:
+B24123002  Chief executives
+B24123003  General and operations managers
+B24123004  Legislators
+B24123005  Advertising and promotions managers
+B24123006  Marketing and sales managers
+B24123007  Public relations and fundraising managers
+B24123008  Administrative services managers
+B24123009  Computer and information systems managers
+B24123010  Financial managers
+B24123011  Compensation and benefits managers
+B24123012  Human resources managers
+B24123013  Training and development managers
+B24123014  Industrial production managers
+B24123015  Purchasing managers
+B24123016  Transportation, storage, and distribution managers
+B24123017  Farmers, ranchers, and other agricultural managers
+B24123018  Construction managers
+B24123019  Education administrators
+B24123020  Architectural and engineering managers
+B24123021  Food service managers
+B24123022  Funeral service managers
+B24123023  Gaming managers
+B24123024  Lodging managers
+B24123025  Medical and health services managers
+B24123026  Natural sciences managers
+B24123027  Postmasters and mail superintendents
+B24123028  Property, real estate, and community association managers
+B24123029  Social and community service managers
+B24123030  Emergency management directors
+B24123031  Managers, all other
+B24123032  Agents and business managers of artists, performers, and athletes
+B24123033  Buyers and purchasing agents, farm products
+B24123034  Wholesale and retail buyers, except farm products
+B24123035  Purchasing agents, except wholesale, retail, and farm products
+B24123036  Claims adjusters, appraisers, examiners, and investigators
+B24123037  Compliance officers
+B24123038  Cost estimators
+B24123039  Human resources workers
+B24123040  Compensation, benefits, and job analysis specialists
+B24123041  Training and development specialists
+B24123042  Logisticians
+B24123043  Management analysts
+B24123044  Meeting, convention, and event planners
+B24123045  Fundraisers
+B24123046  Market research analysts and marketing specialists
+B24123047  Business operations specialists, all other
+B24123048  Accountants and auditors
+B24123049  Appraisers and assessors of real estate
+B24123050  Budget analysts
+B24123051  Credit analysts
+B24123052  Financial analysts
+B24123053  Personal financial advisors
+B24123054  Insurance underwriters
+B24123055  Financial examiners
+B24123056  Credit counselors and loan officers
+B24123057  Tax examiners and collectors, and revenue agents
+B24123058  Tax preparers
+B24123059  Financial specialists, all other
+B24123060  Computer and information research scientists
+B24123061  Computer systems analysts
+B24123062  Information security analysts
+B24123063  Computer programmers
+B24123064  Software developers, applications and systems software
+B24123065  Web developers
+B24123066  Computer support specialists
+B24123067  Database administrators
+B24123068  Network and computer systems administrators
+B24123069  Computer network architects
+B24123070  Computer occupations, all other
+B24123071  Actuaries
+B24123072  Mathematicians
+B24123073  Operations research analysts
+B24123074  Statisticians
+B24123075  Miscellaneous mathematical science occupations
+B24123076  Architects, except naval
+B24123077  Surveyors, cartographers, and photogrammetrists
+B24123078  Aerospace engineers
+B24123079  Agricultural engineers
+B24123080  Biomedical engineers
+B24123081  Chemical engineers
+B24123082  Civil engineers
+B24123083  Computer hardware engineers
+B24123084  Electrical and electronics engineers
+B24123085  Environmental engineers
+B24123086  Industrial engineers, including health and safety
+B24123087  Marine engineers and naval architects
+B24123088  Materials engineers
+B24123089  Mechanical engineers
+B24123090  Mining and geological engineers, including mining safety engineers
+B24123091  Nuclear engineers
+B24123092  Petroleum engineers
+B24123093  Engineers, all other
+B24123094  Drafters
+B24123095  Engineering technicians, except drafters
+B24123096  Surveying and mapping technicians
+B24123097  Agricultural and food scientists
+B24123098  Biological scientists
+B24123099  Conservation scientists and foresters
+B24123100  Medical scientists
+B24123101  Life scientists, all other
+B24123102  Astronomers and physicists
+B24123103  Atmospheric and space scientists
+B24123104  Chemists and materials scientists
+B24123105  Environmental scientists and geoscientists
+B24123106  Physical scientists, all other
+B24123107  Economists
+B24123108  Survey researchers
+B24123109  Psychologists
+B24123110  Urban and regional planners
+B24123111  Miscellaneous social scientists and related workers, including sociologists
+B24123112  Agricultural and food science technicians
+B24123113  Biological technicians
+B24123114  Chemical technicians
+B24123115  Geological and petroleum technicians
+B24123116  Nuclear technicians
+B24123117  Social science research assistants
+B24123118  Miscellaneous life, physical, and social science technicians
+B24123119  Counselors
+B24123120  Social workers
+B24123121  Probation officers and correctional treatment specialists
+B24123122  Social and human service assistants
+B24123123  Miscellaneous community and social service specialists, including health educators and community health workers
+B24123124  Clergy
+B24123125  Directors, religious activities and education
+B24123126  Religious workers, all other
+B24123127  Lawyers
+B24123128  Judicial law clerks
+B24123129  Judges, magistrates, and other judicial workers
+B24123130  Paralegals and legal assistants
+B24123131  Miscellaneous legal support workers
+B24123132  Postsecondary teachers
+B24123133  Preschool and kindergarten teachers
+B24123134  Elementary and middle school teachers
+B24123135  Secondary school teachers
+B24123136  Special education teachers
+B24123137  Other teachers and instructors
+B24123138  Archivists, curators, and museum technicians
+B24123139  Librarians
+B24123140  Library technicians
+B24123141  Teacher assistants
+B24123142  Other education, training, and library workers, except teacher assistants
+B24123143  Artists and related workers
+B24123144  Designers
+B24123145  Actors
+B24123146  Producers and directors
+B24123147  Athletes, coaches, umpires, and related workers
+B24123148  Dancers and choreographers
+B24123149  Musicians, singers, and related workers
+B24123150  Entertainers and performers, sports and related workers, all other
+B24123151  Announcers
+B24123152  News analysts, reporters and correspondents
+B24123153  Public relations specialists
+B24123154  Editors
+B24123155  Technical writers
+B24123156  Writers and authors
+B24123157  Miscellaneous media and communication workers
+B24123158  Miscellaneous media and communications equipment workers, including broadcast and sound engineering technicians and radio operators
+B24123159  Photographers
+B24123160  Television, video, and motion picture camera operators and editors
+B24123161  Chiropractors
+B24123162  Dentists
+B24123163  Dietitians and nutritionists
+B24123164  Optometrists
+B24123165  Pharmacists
+B24123166  Physicians and surgeons
+B24123167  Physician assistants
+B24123168  Podiatrists
+B24123169  Audiologists
+B24123170  Occupational therapists
+B24123171  Physical therapists
+B24123172  Radiation therapists
+B24123173  Recreational therapists
+B24123174  Respiratory therapists
+B24123175  Speech-language pathologists
+B24123176  Miscellaneous therapists, including exercise physiologists
+B24123177  Veterinarians
+B24123178  Registered nurses
+B24123179  Nurse anesthetists
+B24123180  Nurse midwives
+B24123181  Nurse practitioners
+B24123182  Health diagnosing and treating practitioners, all other
+B24123183  Clinical laboratory technologists and technicians
+B24123184  Dental hygienists
+B24123185  Diagnostic related technologists and technicians
+B24123186  Emergency medical technicians and paramedics
+B24123187  Health practitioner support technologists and technicians
+B24123188  Licensed practical and licensed vocational nurses
+B24123189  Medical records and health information technicians
+B24123190  Opticians, dispensing
+B24123191  Miscellaneous health technologists and technicians
+B24123192  Other healthcare practitioners and technical occupations
+B24123193  Nursing, psychiatric, and home health aides
+B24123194  Occupational therapy assistants and aides
+B24123195  Physical therapist assistants and aides
+B24123196  Massage therapists
+B24123197  Dental assistants
+B24123198  Medical assistants
+B24123199  Medical transcriptionists
+B24123200  Pharmacy aides
+B24123201  Veterinary assistants and laboratory animal caretakers
+B24123202  Phlebotomists
+B24123203  Healthcare support workers, all other, including medical equipment preparers
+B24123204  First-line supervisors of correctional officers
+B24123205  First-line supervisors of police and detectives
+B24123206  First-line supervisors of fire fighting and prevention workers
+B24123207  First-line supervisors of protective service workers, all other
+B24123208  Firefighters
+B24123209  Fire inspectors
+B24123210  Bailiffs, correctional officers, and jailers
+B24123211  Detectives and criminal investigators
+B24123212  Fish and game wardens
+B24123213  Parking enforcement workers
+B24123214  Police and sheriff's patrol officers
+B24123215  Transit and railroad police
+B24123216  Animal control workers
+B24123217  Private detectives and investigators
+B24123218  Security guards and gaming surveillance officers
+B24123219  Crossing guards
+B24123220  Transportation security screeners
+B24123221  Lifeguards and other recreational, and all other protective service workers
+B24123222  Chefs and head cooks
+B24123223  First-line supervisors of food preparation and serving workers
+B24123224  Cooks
+B24123225  Food preparation workers
+B24123226  Bartenders
+B24123227  Combined food preparation and serving workers, including fast food
+B24123228  Counter attendants, cafeteria, food concession, and coffee shop
+B24123229  Waiters and waitresses
+B24123230  Food servers, nonrestaurant
+B24123231  Dining room and cafeteria attendants and bartender helpers
+B24123232  Dishwashers
+B24123233  Hosts and hostesses, restaurant, lounge, and coffee shop
+B24123234  Food preparation and serving related workers, all other
+B24123235  First-line supervisors of housekeeping and janitorial workers
+B24123236  First-line supervisors of landscaping, lawn service, and groundskeeping workers
+B24123237  Janitors and building cleaners
+B24123238  Maids and housekeeping cleaners
+B24123239  Pest control workers
+B24123240  Grounds maintenance workers
+B24123241  First-line supervisors of gaming workers
+B24123242  First-line supervisors of personal service workers
+B24123243  Animal trainers
+B24123244  Nonfarm animal caretakers
+B24123245  Gaming services workers
+B24123246  Motion picture projectionists
+B24123247  Ushers, lobby attendants, and ticket takers
+B24123248  Miscellaneous entertainment attendants and related workers
+B24123249  Embalmers and funeral attendants
+B24123250  Morticians, undertakers, and funeral directors
+B24123251  Barbers
+B24123252  Hairdressers, hairstylists, and cosmetologists
+B24123253  Miscellaneous personal appearance workers
+B24123254  Baggage porters, bellhops, and concierges
+B24123255  Tour and travel guides
+B24123256  Childcare workers
+B24123257  Personal care aides
+B24123258  Recreation and fitness workers
+B24123259  Residential advisors
+B24123260  Personal care and service workers, all other
+B24123261  First-line supervisors of retail sales workers
+B24123262  First-line supervisors of non-retail sales workers
+B24123263  Cashiers
+B24123264  Counter and rental clerks
+B24123265  Parts salespersons
+B24123266  Retail salespersons
+B24123267  Advertising sales agents
+B24123268  Insurance sales agents
+B24123269  Securities, commodities, and financial services sales agents
+B24123270  Travel agents
+B24123271  Sales representatives, services, all other
+B24123272  Sales representatives, wholesale and manufacturing
+B24123273  Models, demonstrators, and product promoters
+B24123274  Real estate brokers and sales agents
+B24123275  Sales engineers
+B24123276  Telemarketers
+B24123277  Door-to-door sales workers, news and street vendors, and related workers
+B24123278  Sales and related workers, all other
+B24123279  First-line supervisors of office and administrative support workers
+B24123280  Switchboard operators, including answering service
+B24123281  Telephone operators
+B24123282  Communications equipment operators, all other
+B24123283  Bill and account collectors
+B24123284  Billing and posting clerks
+B24123285  Bookkeeping, accounting, and auditing clerks
+B24123286  Gaming cage workers
+B24123287  Payroll and timekeeping clerks
+B24123288  Procurement clerks
+B24123289  Tellers
+B24123290  Financial clerks, all other
+B24123291  Brokerage clerks
+B24123292  Correspondence clerks
+B24123293  Court, municipal, and license clerks
+B24123294  Credit authorizers, checkers, and clerks
+B24123295  Customer service representatives
+B24123296  Eligibility interviewers, government programs
+B24123297  File clerks
+B24123298  Hotel, motel, and resort desk clerks
+B24123299  Interviewers, except eligibility and loan
+B24123300  Library assistants, clerical
+B24123301  Loan interviewers and clerks
+B24123302  New accounts clerks
+B24123303  Order clerks
+B24123304  Human resources assistants, except payroll and timekeeping
+B24123305  Receptionists and information clerks
+B24123306  Reservation and transportation ticket agents and travel clerks
+B24123307  Information and record clerks, all other
+B24123308  Cargo and freight agents
+B24123309  Couriers and messengers
+B24123310  Dispatchers
+B24123311  Meter readers, utilities
+B24123312  Postal service clerks
+B24123313  Postal service mail carriers
+B24123314  Postal service mail sorters, processors, and processing machine operators
+B24123315  Production, planning, and expediting clerks
+B24123316  Shipping, receiving, and traffic clerks
+B24123317  Stock clerks and order fillers
+B24123318  Weighers, measurers, checkers, and samplers, recordkeeping
+B24123319  Secretaries and administrative assistants
+B24123320  Computer operators
+B24123321  Data entry keyers
+B24123322  Word processors and typists
+B24123323  Desktop publishers
+B24123324  Insurance claims and policy processing clerks
+B24123325  Mail clerks and mail machine operators, except postal service
+B24123326  Office clerks, general
+B24123327  Office machine operators, except computer
+B24123328  Proofreaders and copy markers
+B24123329  Statistical assistants
+B24123330  Office and administrative support workers, all other
+B24123331  First-line supervisors of farming, fishing, and forestry workers
+B24123332  Agricultural inspectors
+B24123333  Animal breeders
+B24123334  Graders and sorters, agricultural products
+B24123335  Miscellaneous agricultural workers
+B24123336  Fishing and hunting workers
+B24123337  Forest and conservation workers
+B24123338  Logging workers
+B24123339  First-line supervisors of construction trades and extraction workers
+B24123340  Boilermakers
+B24123341  Brickmasons, blockmasons, and stonemasons
+B24123342  Carpenters
+B24123343  Carpet, floor, and tile installers and finishers
+B24123344  Cement masons, concrete finishers, and terrazzo workers
+B24123345  Construction laborers
+B24123346  Paving, surfacing, and tamping equipment operators
+B24123347  Operating engineers and other construction equipment operators, including pile-driver operators
+B24123348  Drywall installers, ceiling tile installers, and tapers
+B24123349  Electricians
+B24123350  Glaziers
+B24123351  Insulation workers
+B24123352  Painters, construction and maintenance
+B24123353  Paperhangers
+B24123354  Pipelayers, plumbers, pipefitters, and steamfitters
+B24123355  Plasterers and stucco masons
+B24123356  Reinforcing iron and rebar workers
+B24123357  Roofers
+B24123358  Sheet metal workers
+B24123359  Structural iron and steel workers
+B24123360  Helpers, construction trades
+B24123361  Construction and building inspectors
+B24123362  Elevator installers and repairers
+B24123363  Fence erectors
+B24123364  Hazardous materials removal workers
+B24123365  Highway maintenance workers
+B24123366  Rail-track laying and maintenance equipment operators
+B24123367  Septic tank servicers and sewer pipe cleaners
+B24123368  Miscellaneous construction and related workers, including solar photovoltaic installers
+B24123369  Derrick, rotary drill, and service unit operators, oil, gas, and mining
+B24123370  Earth drillers, except oil and gas
+B24123371  Explosives workers, ordnance handling experts, and blasters
+B24123372  Mining machine operators
+B24123373  Roof bolters, mining
+B24123374  Roustabouts, oil and gas
+B24123375  Helpers--extraction workers
+B24123376  Other extraction workers
+B24123446  Prepress technicians and workers
+B24123377  First-line supervisors of mechanics, installers, and repairers
+B24123378  Computer, automated teller, and office machine repairers
+B24123379  Radio and telecommunications equipment installers and repairers
+B24123380  Avionics technicians
+B24123381  Electric motor, power tool, and related repairers
+B24123382  Electrical and electronics installers and repairers, transportation equipment
+B24123383  Electrical and electronics repairers, industrial and utility
+B24123384  Electronic equipment installers and repairers, motor vehicles
+B24123385  Electronic home entertainment equipment installers and repairers
+B24123386  Security and fire alarm systems installers
+B24123387  Aircraft mechanics and service technicians
+B24123388  Automotive body and related repairers
+B24123389  Automotive glass installers and repairers
+B24123390  Automotive service technicians and mechanics
+B24123391  Bus and truck mechanics and diesel engine specialists
+B24123392  Heavy vehicle and mobile equipment service technicians and mechanics
+B24123393  Small engine mechanics
+B24123394  Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers
+B24123395  Control and valve installers and repairers
+B24123396  Heating, air conditioning, and refrigeration mechanics and installers
+B24123397  Home appliance repairers
+B24123398  Industrial and refractory machinery mechanics
+B24123399  Maintenance and repair workers, general
+B24123400  Maintenance workers, machinery
+B24123401  Millwrights
+B24123402  Electrical power-line installers and repairers
+B24123403  Telecommunications line installers and repairers
+B24123404  Precision instrument and equipment repairers
+B24123405  Coin, vending, and amusement machine servicers and repairers
+B24123406  Commercial divers
+B24123407  Locksmiths and safe repairers
+B24123408  Manufactured building and mobile home installers
+B24123409  Riggers
+B24123410  Signal and track switch repairers
+B24123411  Helpers--installation, maintenance, and repair workers
+B24123412  Other installation, maintenance, and repair workers, including wind turbine service technicians
+B24123413  First-line supervisors of production and operating workers
+B24123414  Aircraft structure, surfaces, rigging, and systems assemblers
+B24123415  Electrical, electronics, and electromechanical assemblers
+B24123416  Engine and other machine assemblers
+B24123417  Structural metal fabricators and fitters
+B24123418  Miscellaneous assemblers and fabricators
+B24123419  Bakers
+B24123420  Butchers and other meat, poultry, and fish processing workers
+B24123421  Food and tobacco roasting, baking, and drying machine operators and tenders
+B24123422  Food batchmakers
+B24123423  Food cooking machine operators and tenders
+B24123424  Food processing workers, all other
+B24123425  Computer control programmers and operators
+B24123426  Extruding and drawing machine setters, operators, and tenders, metal and plastic
+B24123427  Forging machine setters, operators, and tenders, metal and plastic
+B24123428  Rolling machine setters, operators, and tenders, metal and plastic
+B24123429  Cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+B24123430  Drilling and boring machine tool setters, operators, and tenders, metal and plastic
+B24123431  Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+B24123432  Lathe and turning machine tool setters, operators, and tenders, metal and plastic
+B24123433  Milling and planing machine setters, operators, and tenders, metal and plastic
+B24123434  Machinists
+B24123435  Metal furnace operators, tenders, pourers, and casters
+B24123436  Model makers and patternmakers, metal and plastic
+B24123437  Molders and molding machine setters, operators, and tenders, metal and plastic
+B24123438  Multiple machine tool setters, operators, and tenders, metal and plastic
+B24123439  Tool and die makers
+B24123440  Welding, soldering, and brazing workers
+B24123441  Heat treating equipment setters, operators, and tenders, metal and plastic
+B24123442  Layout workers, metal and plastic
+B24123443  Plating and coating machine setters, operators, and tenders, metal and plastic
+B24123444  Tool grinders, filers, and sharpeners
+B24123445  Metal workers and plastic workers, all other
+B24123447  Printing workers, except prepress technicians and workers
+B24123448  Laundry and dry-cleaning workers
+B24123449  Pressers, textile, garment, and related materials
+B24123450  Sewing machine operators
+B24123451  Shoe and leather workers and repairers
+B24123452  Shoe machine operators and tenders
+B24123453  Tailors, dressmakers, and sewers
+B24123454  Textile bleaching and dyeing machine operators and tenders
+B24123455  Textile cutting machine setters, operators, and tenders
+B24123456  Textile knitting and weaving machine setters, operators, and tenders
+B24123457  Textile winding, twisting, and drawing out machine setters, operators, and tenders
+B24123458  Fabric and apparel patternmakers
+B24123459  Upholsterers
+B24123460  Miscellaneous textile, apparel, and furnishings workers, including extruding and forming machine setters, operators, and tenders, synthetic and glass fibers
+B24123461  Cabinetmakers and bench carpenters
+B24123462  Furniture finishers
+B24123463  Sawing machine setters, operators, and tenders, wood
+B24123464  Woodworking machine setters, operators, and tenders, except sawing
+B24123465  Miscellaneous woodworkers, including model makers and patternmakers
+B24123466  Power plant operators, distributors, and dispatchers
+B24123467  Stationary engineers and boiler operators
+B24123468  Water and wastewater treatment plant and system operators
+B24123469  Miscellaneous plant and system operators
+B24123470  Chemical processing machine setters, operators, and tenders
+B24123471  Crushing, grinding, polishing, mixing, and blending workers
+B24123472  Cutting workers
+B24123473  Extruding, forming, pressing, and compacting machine setters, operators, and tenders
+B24123474  Furnace, kiln, oven, drier, and kettle operators and tenders
+B24123475  Inspectors, testers, sorters, samplers, and weighers
+B24123476  Jewelers and precious stone and metal workers
+B24123477  Medical, dental, and ophthalmic laboratory technicians
+B24123478  Packaging and filling machine operators and tenders
+B24123479  Painting workers
+B24123480  Photographic process workers and processing machine operators
+B24123481  Semiconductor processors
+B24123482  Adhesive bonding machine operators and tenders
+B24123483  Cleaning, washing, and metal pickling equipment operators and tenders
+B24123484  Cooling and freezing equipment operators and tenders
+B24123485  Etchers and engravers
+B24123486  Molders, shapers, and casters, except metal and plastic
+B24123487  Paper goods machine setters, operators, and tenders
+B24123488  Tire builders
+B24123489  Helpers--production workers
+B24123490  Production workers, all other
+B24123491  Supervisors of transportation and material moving workers
+B24123492  Aircraft pilots and flight engineers
+B24123493  Air traffic controllers and airfield operations specialists
+B24123494  Flight attendants
+B24123495  Ambulance drivers and attendants, except emergency medical technicians
+B24123496  Bus drivers
+B24123497  Driver/sales workers and truck drivers
+B24123498  Taxi drivers and chauffeurs
+B24123499  Motor vehicle operators, all other
+B24123500  Locomotive engineers and operators
+B24123501  Railroad brake, signal, and switch operators
+B24123502  Railroad conductors and yardmasters
+B24123503  Subway, streetcar, and other rail transportation workers
+B24123504  Sailors and marine oilers
+B24123505  Ship and boat captains and operators
+B24123506  Ship engineers
+B24123507  Bridge and lock tenders
+B24123508  Parking lot attendants
+B24123509  Automotive and watercraft service attendants
+B24123510  Transportation inspectors
+B24123511  Transportation attendants, except flight attendants
+B24123512  Other transportation workers
+B24123513  Conveyor operators and tenders
+B24123514  Crane and tower operators
+B24123515  Dredge, excavating, and loading machine operators
+B24123516  Hoist and winch operators
+B24123517  Industrial truck and tractor operators
+B24123518  Cleaners of vehicles and equipment
+B24123519  Laborers and freight, stock, and material movers, hand
+B24123520  Machine feeders and offbearers
+B24123521  Packers and packagers, hand
+B24123522  Pumping station operators
+B24123523  Refuse and recyclable material collectors
+B24123524  Mine shuttle car operators
+B24123525  Tank car, truck, and ship loaders
+B24123526  Material moving workers, all other

@@ -1,0 +1,7 @@
+Aggregate Selected Monthly Owner Costs (Dollars) by Mortgage Status
+-------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25089001 Aggregate selected monthly owner costs (dollars):
+B25089002  Housing units with a mortgage (dollars)
+B25089003  Housing units without a mortgage (dollars)

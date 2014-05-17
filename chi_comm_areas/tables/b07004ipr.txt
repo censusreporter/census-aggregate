@@ -1,0 +1,10 @@
+Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in Puerto Rico
+------------------------------------------------------------------------------------------------
+Universe: Hispanic or Latino Population 1 Year and Over in Puerto Rico
+
+B07004IPR001 Total:
+B07004IPR002  Same house 1 year ago
+B07004IPR003  Moved within same municipio
+B07004IPR004  Moved from different municipio
+B07004IPR005  Moved from the United States
+B07004IPR006  Moved from elsewhere

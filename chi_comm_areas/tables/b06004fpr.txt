@@ -1,0 +1,9 @@
+Place of Birth (Some Other Race Alone) in Puerto Rico
+-----------------------------------------------------
+Universe: Some Other Race Population in Puerto Rico
+
+B06004FPR001 Total:
+B06004FPR002  Born in Puerto Rico
+B06004FPR003  Born in the United States
+B06004FPR004  Native; born elsewhere
+B06004FPR005  Foreign born

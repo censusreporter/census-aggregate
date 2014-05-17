@@ -1,0 +1,77 @@
+Tenure by Year Structure Built by Units in Structure
+----------------------------------------------------
+Universe: Occupied Housing Units
+
+B25127001 Total:
+B25127002  Owner occupied:
+B25127003   Built 2000 or later:
+B25127004    1, detached  or attached
+B25127005    2 to 4
+B25127006    5 to 19
+B25127007    20 to 49
+B25127008    50 or more
+B25127009    Mobile home, boat, RV, van, etc.
+B25127010   Built 1980 to 1999:
+B25127011    1, detached  or attached
+B25127012    2 to 4
+B25127013    5 to 19
+B25127014    20 to 49
+B25127015    50 or more
+B25127016    Mobile home, boat, RV, van, etc.
+B25127017   Built 1960 to 1979:
+B25127018    1, detached  or attached
+B25127019    2 to 4
+B25127020    5 to 19
+B25127021    20 to 49
+B25127022    50 or more
+B25127023    Mobile home, boat, RV, van, etc.
+B25127024   Built 1940 to 1959:
+B25127025    1, detached  or attached
+B25127026    2 to 4
+B25127027    5 to 19
+B25127028    20 to 49
+B25127029    50 or more
+B25127030    Mobile home, boat, RV, van, etc.
+B25127031   Built 1939 or earlier:
+B25127032    1, detached  or attached
+B25127033    2 to 4
+B25127034    5 to 19
+B25127035    20 to 49
+B25127036    50 or more
+B25127037    Mobile home, boat, RV, van, etc.
+B25127038  Renter occupied:
+B25127039   Built 2000 or later:
+B25127040    1, detached  or attached
+B25127041    2 to 4
+B25127042    5 to 19
+B25127043    20 to 49
+B25127044    50 or more
+B25127045    Mobile home, boat, RV, van, etc.
+B25127046   Built 1980 to 1999:
+B25127047    1, detached  or attached
+B25127048    2 to 4
+B25127049    5 to 19
+B25127050    20 to 49
+B25127051    50 or more
+B25127052    Mobile home, boat, RV, van, etc.
+B25127053   Built 1960 to 1979:
+B25127054    1, detached  or attached
+B25127055    2 to 4
+B25127056    5 to 19
+B25127057    20 to 49
+B25127058    50 or more
+B25127059    Mobile home, boat, RV, van, etc.
+B25127060   Built 1940 to 1959:
+B25127061    1, detached  or attached
+B25127062    2 to 4
+B25127063    5 to 19
+B25127064    20 to 49
+B25127065    50 or more
+B25127066    Mobile home, boat, RV, van, etc.
+B25127067   Built 1939 or earlier:
+B25127068    1, detached  or attached
+B25127069    2 to 4
+B25127070    5 to 19
+B25127071    20 to 49
+B25127072    50 or more
+B25127073    Mobile home, boat, RV, van, etc.

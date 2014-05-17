@@ -1,0 +1,60 @@
+Means of Transportation to Work by Age
+--------------------------------------
+Universe: Workers 16 Years and Over
+
+B08101001 Total:
+B08101002   16 to 19 years
+B08101003   20 to 24 years
+B08101004   25 to 44 years
+B08101005   45 to 54 years
+B08101006   55 to 59 years
+B08101007   60 to 64 years
+B08101008   65 years and over
+B08101009  Car, truck, or van - drove alone:
+B08101010   16 to 19 years
+B08101011   20 to 24 years
+B08101012   25 to 44 years
+B08101013   45 to 54 years
+B08101014   55 to 59 years
+B08101015   60 to 64 years
+B08101016   65 years and over
+B08101017  Car, truck, or van - carpooled:
+B08101018   16 to 19 years
+B08101019   20 to 24 years
+B08101020   25 to 44 years
+B08101021   45 to 54 years
+B08101022   55 to 59 years
+B08101023   60 to 64 years
+B08101024   65 years and over
+B08101025  Public transportation (excluding taxicab):
+B08101026   16 to 19 years
+B08101027   20 to 24 years
+B08101028   25 to 44 years
+B08101029   45 to 54 years
+B08101030   55 to 59 years
+B08101031   60 to 64 years
+B08101032   65 years and over
+B08101033  Walked:
+B08101034   16 to 19 years
+B08101035   20 to 24 years
+B08101036   25 to 44 years
+B08101037   45 to 54 years
+B08101038   55 to 59 years
+B08101039   60 to 64 years
+B08101040   65 years and over
+B08101041  Taxicab, motorcycle, bicycle, or other means:
+B08101042   16 to 19 years
+B08101043   20 to 24 years
+B08101044   25 to 44 years
+B08101045   45 to 54 years
+B08101046   55 to 59 years
+B08101047   60 to 64 years
+B08101048   65 years and over
+B08101049  Worked at home:
+B08101050   16 to 19 years
+B08101051   20 to 24 years
+B08101052   25 to 44 years
+B08101053   45 to 54 years
+B08101054   55 to 59 years
+B08101055   60 to 64 years
+B08101056   65 years and over

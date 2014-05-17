@@ -1,0 +1,19 @@
+Time Arriving at Work From Home
+-------------------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08602001 Total:
+B08602002  12:00 a.m. to 4:59 a.m.
+B08602003  5:00 a.m. to 5:29 a.m.
+B08602004  5:30 a.m. to 5:59 a.m.
+B08602005  6:00 a.m. to 6:29 a.m.
+B08602006  6:30 a.m. to 6:59 a.m.
+B08602007  7:00 a.m. to 7:29 a.m.
+B08602008  7:30 a.m. to 7:59 a.m.
+B08602009  8:00 a.m. to 8:29 a.m.
+B08602010  8:30 a.m. to 8:59 a.m.
+B08602011  9:00 a.m. to 9:59 a.m.
+B08602012  10:00 a.m. to 10:59 a.m.
+B08602013  11:00 a.m. to 11:59 a.m.
+B08602014  12:00 p.m. to 3:59 p.m.
+B08602015  4:00 p.m. to 11:59 p.m.

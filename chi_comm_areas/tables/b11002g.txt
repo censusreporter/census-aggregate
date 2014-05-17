@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Two or More Races)
+---------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Two or More Races
+
+B11002G001 Total:
+B11002G002  In family households:
+B11002G003   In married-couple family:
+B11002G004    Relatives
+B11002G005    Nonrelatives
+B11002G006   In male householder, no wife present, family:
+B11002G007    Relatives
+B11002G008    Nonrelatives
+B11002G009   In female householder, no husband present, family:
+B11002G010    Relatives
+B11002G011    Nonrelatives
+B11002G012  In nonfamily households

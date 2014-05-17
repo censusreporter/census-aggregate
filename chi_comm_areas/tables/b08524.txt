@@ -1,0 +1,53 @@
+Means of Transportation to Work by Occupation
+---------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08524001 Total:
+B08524002   Management, business, science, and arts occupations
+B08524003   Service occupations
+B08524004   Sales and office occupations
+B08524005   Natural resources, construction, and maintenance occupations
+B08524006   Production, transportation, and material moving occupations
+B08524007   Military specific occupations
+B08524008  Car, truck, or van - drove alone:
+B08524009   Management, business, science, and arts occupations
+B08524010   Service occupations
+B08524011   Sales and office occupations
+B08524012   Natural resources, construction, and maintenance occupations
+B08524013   Production, transportation, and material moving occupations
+B08524014   Military specific occupations
+B08524015  Car, truck, or van - carpooled:
+B08524016   Management, business, science, and arts occupations
+B08524017   Service occupations
+B08524018   Sales and office occupations
+B08524019   Natural resources, construction, and maintenance occupations
+B08524020   Production, transportation, and material moving occupations
+B08524021   Military specific occupations
+B08524022  Public transportation (excluding taxicab):
+B08524023   Management, business, science, and arts occupations
+B08524024   Service occupations
+B08524025   Sales and office occupations
+B08524026   Natural resources, construction, and maintenance occupations
+B08524027   Production, transportation, and material moving occupations
+B08524028   Military specific occupations
+B08524029  Walked:
+B08524030   Management, business, science, and arts occupations
+B08524031   Service occupations
+B08524032   Sales and office occupations
+B08524033   Natural resources, construction, and maintenance occupations
+B08524034   Production, transportation, and material moving occupations
+B08524035   Military specific occupations
+B08524036  Taxicab, motorcycle, bicycle, or other means:
+B08524037   Management, business, science, and arts occupations
+B08524038   Service occupations
+B08524039   Sales and office occupations
+B08524040   Natural resources, construction, and maintenance occupations
+B08524041   Production, transportation, and material moving occupations
+B08524042   Military specific occupations
+B08524043  Worked at home:
+B08524044   Management, business, science, and arts occupations
+B08524045   Service occupations
+B08524046   Sales and office occupations
+B08524047   Natural resources, construction, and maintenance occupations
+B08524048   Production, transportation, and material moving occupations
+B08524049   Military specific occupations

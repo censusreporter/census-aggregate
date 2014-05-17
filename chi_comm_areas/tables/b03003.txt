@@ -1,0 +1,7 @@
+Hispanic or Latino Origin
+-------------------------
+Universe: Total Population
+
+B03003001 Total:
+B03003002  Not Hispanic or Latino
+B03003003  Hispanic or Latino

@@ -1,0 +1,58 @@
+Sex by Industry and Median Earnings for the Full-time, Year-round Civilian Population
+-------------------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings
+
+B24042001  Male:
+B24042002   Agriculture, forestry, fishing and hunting, and mining:
+B24042003    Agriculture, forestry, fishing and hunting
+B24042004    Mining, quarrying, and oil and gas extraction
+B24042005   Construction
+B24042006   Manufacturing
+B24042007   Wholesale trade
+B24042008   Retail trade
+B24042009   Transportation and warehousing, and utilities:
+B24042010    Transportation and warehousing
+B24042011    Utilities
+B24042012   Information
+B24042013   Finance and insurance, and real estate and rental and leasing:
+B24042014    Finance and insurance
+B24042015    Real estate and rental and leasing
+B24042016   Professional, scientific, and management, and administrative and waste management services:
+B24042017    Professional, scientific, and technical services
+B24042018    Management of companies and enterprises
+B24042019    Administrative and support and waste management services
+B24042020   Educational services, and health care and social assistance:
+B24042021    Educational services
+B24042022    Health care and social assistance
+B24042023   Arts, entertainment, and recreation, and accommodation and food services:
+B24042024    Arts, entertainment, and recreation
+B24042025    Accommodation and food services
+B24042026   Other services, except public administration
+B24042027   Public administration
+B24042028  Female:
+B24042029   Agriculture, forestry, fishing and hunting, and mining:
+B24042030    Agriculture, forestry, fishing and hunting
+B24042031    Mining, quarrying, and oil and gas extraction
+B24042032   Construction
+B24042033   Manufacturing
+B24042034   Wholesale trade
+B24042035   Retail trade
+B24042036   Transportation and warehousing, and utilities:
+B24042037    Transportation and warehousing
+B24042038    Utilities
+B24042039   Information
+B24042040   Finance and insurance, and real estate and rental and leasing:
+B24042041    Finance and insurance
+B24042042    Real estate and rental and leasing
+B24042043   Professional, scientific, and management, and administrative and waste management services:
+B24042044    Professional, scientific, and technical services
+B24042045    Management of companies and enterprises
+B24042046    Administrative and support and waste management services
+B24042047   Educational services, and health care and social assistance:
+B24042048    Educational services
+B24042049    Health care and social assistance
+B24042050   Arts, entertainment, and recreation, and accommodation and food services:
+B24042051    Arts, entertainment, and recreation
+B24042052    Accommodation and food services
+B24042053   Other services, except public administration
+B24042054   Public administration

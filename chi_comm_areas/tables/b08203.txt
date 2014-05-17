@@ -1,0 +1,34 @@
+Number of Workers in Household by Vehicles Available
+----------------------------------------------------
+Universe: Households
+
+B08203001 Total:
+B08203002   No vehicle available
+B08203003   1 vehicle available
+B08203004   2 vehicles available
+B08203005   3 vehicles available
+B08203006   4 or more vehicles available
+B08203007  No workers:
+B08203008   No vehicle available
+B08203009   1 vehicle available
+B08203010   2 vehicles available
+B08203011   3 vehicles available
+B08203012   4 or more vehicles available
+B08203013  1 worker:
+B08203014   No vehicle available
+B08203015   1 vehicle available
+B08203016   2 vehicles available
+B08203017   3 vehicles available
+B08203018   4 or more vehicles available
+B08203019  2 workers:
+B08203020   No vehicle available
+B08203021   1 vehicle available
+B08203022   2 vehicles available
+B08203023   3 vehicles available
+B08203024   4 or more vehicles available
+B08203025  3 or more workers:
+B08203026   No vehicle available
+B08203027   1 vehicle available
+B08203028   2 vehicles available
+B08203029   3 vehicles available
+B08203030   4 or more vehicles available

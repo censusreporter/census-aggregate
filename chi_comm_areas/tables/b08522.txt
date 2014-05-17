@@ -1,0 +1,32 @@
+Means of Transportation to Work by Poverty Status
+-------------------------------------------------
+Universe: Workers 16 Years and Over for Whom Poverty Status Is Determined
+
+B08522001 Total:
+B08522002   Below 100 percent of the poverty level
+B08522003   100 to 149 percent of the poverty level
+B08522004   At or above 150 percent of the poverty level
+B08522005  Car, truck, or van - drove alone:
+B08522006   Below 100 percent of the poverty level
+B08522007   100 to 149 percent of the poverty level
+B08522008   At or above 150 percent of the poverty level
+B08522009  Car, truck, or van - carpooled:
+B08522010   Below 100 percent of the poverty level
+B08522011   100 to 149 percent of the poverty level
+B08522012   At or above 150 percent of the poverty level
+B08522013  Public transportation (excluding taxicab):
+B08522014   Below 100 percent of the poverty level
+B08522015   100 to 149 percent of the poverty level
+B08522016   At or above 150 percent of the poverty level
+B08522017  Walked:
+B08522018   Below 100 percent of the poverty level
+B08522019   100 to 149 percent of the poverty level
+B08522020   At or above 150 percent of the poverty level
+B08522021  Taxicab, motorcycle, bicycle, or other means:
+B08522022   Below 100 percent of the poverty level
+B08522023   100 to 149 percent of the poverty level
+B08522024   At or above 150 percent of the poverty level
+B08522025  Worked at home:
+B08522026   Below 100 percent of the poverty level
+B08522027   100 to 149 percent of the poverty level
+B08522028   At or above 150 percent of the poverty level

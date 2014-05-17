@@ -1,0 +1,14 @@
+Age by Disability Status (Hispanic or Latino)
+---------------------------------------------
+Universe: Hispanic or Latino Civilian Noninstitutionalized Population
+
+B18101I001 Total:
+B18101I002  Under 18 years:
+B18101I003   With a disability
+B18101I004   No disability
+B18101I005  18 to 64 years:
+B18101I006   With a disability
+B18101I007   No disability
+B18101I008  65 years and over:
+B18101I009   With a disability
+B18101I010   No disability

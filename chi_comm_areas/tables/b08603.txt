@@ -1,0 +1,17 @@
+Travel Time to Work
+-------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08603001 Total:
+B08603002  Less than 5 minutes
+B08603003  5 to 9 minutes
+B08603004  10 to 14 minutes
+B08603005  15 to 19 minutes
+B08603006  20 to 24 minutes
+B08603007  25 to 29 minutes
+B08603008  30 to 34 minutes
+B08603009  35 to 39 minutes
+B08603010  40 to 44 minutes
+B08603011  45 to 59 minutes
+B08603012  60 to 89 minutes
+B08603013  90 or more minutes

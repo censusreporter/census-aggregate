@@ -1,0 +1,11 @@
+Imputation of Year of Entry for Population Born Outside Puerto Rico
+-------------------------------------------------------------------
+Universe: Population Born Outside Puerto Rico
+
+B99052PR001 Total:
+B99052PR002  Native:
+B99052PR003   Imputed
+B99052PR004   Not imputed
+B99052PR005  Foreign born:
+B99052PR006   Imputed
+B99052PR007   Not imputed

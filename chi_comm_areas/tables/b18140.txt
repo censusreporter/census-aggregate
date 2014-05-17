@@ -1,0 +1,11 @@
+Median Earnings by Disability Status by Sex for the Civilian Noninstitutionalized Population With Earnings
+----------------------------------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 16 Years and Over With Earnings in the Past 12 Months
+
+B18140001 Total:
+B18140002  With a disability:
+B18140003   Male
+B18140004   Female
+B18140005  No disability:
+B18140006   Male
+B18140007   Female

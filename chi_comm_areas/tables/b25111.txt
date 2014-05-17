@@ -1,0 +1,15 @@
+Median Gross Rent by Year Structure Built
+-----------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25111000.5 Median gross rent --
+B25111001  Total:
+B25111002   Built 2010 or later
+B25111003   Built 2000 to 2009
+B25111004   Built 1990 to 1999
+B25111005   Built 1980 to 1989
+B25111006   Built 1970 to 1979
+B25111007   Built 1960 to 1969
+B25111008   Built 1950 to 1959
+B25111009   Built 1940 to 1949
+B25111010   Built 1939 or earlier

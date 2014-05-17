@@ -1,0 +1,15 @@
+Employment Status by Disability Status
+--------------------------------------
+Universe: Civilian Noninstitutionalized Population 18 to 64 Years
+
+C18120001 Total:
+C18120002  In the labor force:
+C18120003   Employed:
+C18120004    With a disability
+C18120005    No disability
+C18120006   Unemployed:
+C18120007    With a disability
+C18120008    No disability
+C18120009  Not in labor force:
+C18120010   With a disability
+C18120011   No disability

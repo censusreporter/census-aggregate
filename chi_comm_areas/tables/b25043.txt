@@ -1,0 +1,23 @@
+Tenure by Telephone Service Available by Age of Householder
+-----------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25043001 Total:
+B25043002  Owner occupied:
+B25043003   With telephone service available:
+B25043004    Householder 15 to 34 years
+B25043005    Householder 35 to 64 years
+B25043006    Householder 65 years and over
+B25043007   No telephone service available:
+B25043008    Householder 15 to 34 years
+B25043009    Householder 35 to 64 years
+B25043010    Householder 65 years and over
+B25043011  Renter occupied:
+B25043012   With telephone service available:
+B25043013    Householder 15 to 34 years
+B25043014    Householder 35 to 64 years
+B25043015    Householder 65 years and over
+B25043016   No telephone service available:
+B25043017    Householder 15 to 34 years
+B25043018    Householder 35 to 64 years
+B25043019    Householder 65 years and over

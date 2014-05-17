@@ -1,0 +1,5 @@
+Median Monthly Housing Costs (Dollars)
+--------------------------------------
+Universe: Occupied Housing Units With Monthly Housing Costs
+
+B25105001 Median monthly housing costs

@@ -1,0 +1,64 @@
+Place of Birth by Age in Puerto Rico
+------------------------------------
+Universe: Total Population in Puerto Rico
+
+B06001PR001 Total:
+B06001PR002   Under 5 years
+B06001PR003   5 to 17 years
+B06001PR004   18 to 24 years
+B06001PR005   25 to 34 years
+B06001PR006   35 to 44 years
+B06001PR007   45 to 54 years
+B06001PR008   55 to 59 years
+B06001PR009   60 and 61 years
+B06001PR010   62 to 64 years
+B06001PR011   65 to 74 years
+B06001PR012   75 years and over
+B06001PR013  Born in Puerto Rico:
+B06001PR014   Under 5 years
+B06001PR015   5 to 17 years
+B06001PR016   18 to 24 years
+B06001PR017   25 to 34 years
+B06001PR018   35 to 44 years
+B06001PR019   45 to 54 years
+B06001PR020   55 to 59 years
+B06001PR021   60 and 61 years
+B06001PR022   62 to 64 years
+B06001PR023   65 to 74 years
+B06001PR024   75 years and over
+B06001PR025  Born in the United States:
+B06001PR026   Under 5 years
+B06001PR027   5 to 17 years
+B06001PR028   18 to 24 years
+B06001PR029   25 to 34 years
+B06001PR030   35 to 44 years
+B06001PR031   45 to 54 years
+B06001PR032   55 to 59 years
+B06001PR033   60 and 61 years
+B06001PR034   62 to 64 years
+B06001PR035   65 to 74 years
+B06001PR036   75 years and over
+B06001PR037  Native; born elsewhere:
+B06001PR038   Under 5 years
+B06001PR039   5 to 17 years
+B06001PR040   18 to 24 years
+B06001PR041   25 to 34 years
+B06001PR042   35 to 44 years
+B06001PR043   45 to 54 years
+B06001PR044   55 to 59 years
+B06001PR045   60 and 61 years
+B06001PR046   62 to 64 years
+B06001PR047   65 to 74 years
+B06001PR048   75 years and over
+B06001PR049  Foreign born:
+B06001PR050   Under 5 years
+B06001PR051   5 to 17 years
+B06001PR052   18 to 24 years
+B06001PR053   25 to 34 years
+B06001PR054   35 to 44 years
+B06001PR055   45 to 54 years
+B06001PR056   55 to 59 years
+B06001PR057   60 and 61 years
+B06001PR058   62 to 64 years
+B06001PR059   65 to 74 years
+B06001PR060   75 years and over

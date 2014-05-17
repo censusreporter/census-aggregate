@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Native Hawaiian and Other Pacific Islander Alone)
+----------------------------------------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone
+
+B11002E001 Total:
+B11002E002  In family households:
+B11002E003   In married-couple family:
+B11002E004    Relatives
+B11002E005    Nonrelatives
+B11002E006   In male householder, no wife present, family:
+B11002E007    Relatives
+B11002E008    Nonrelatives
+B11002E009   In female householder, no husband present, family:
+B11002E010    Relatives
+B11002E011    Nonrelatives
+B11002E012  In nonfamily households

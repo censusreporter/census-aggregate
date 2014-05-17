@@ -1,0 +1,25 @@
+Tenure by Year Structure Built
+------------------------------
+Universe: Occupied Housing Units
+
+B25036001 Total:
+B25036002  Owner occupied:
+B25036003   Built 2010 or later
+B25036004   Built 2000 to 2009
+B25036005   Built 1990 to 1999
+B25036006   Built 1980 to 1989
+B25036007   Built 1970 to 1979
+B25036008   Built 1960 to 1969
+B25036009   Built 1950 to 1959
+B25036010   Built 1940 to 1949
+B25036011   Built 1939 or earlier
+B25036012  Renter occupied:
+B25036013   Built 2010 or later
+B25036014   Built 2000 to 2009
+B25036015   Built 1990 to 1999
+B25036016   Built 1980 to 1989
+B25036017   Built 1970 to 1979
+B25036018   Built 1960 to 1969
+B25036019   Built 1950 to 1959
+B25036020   Built 1940 to 1949
+B25036021   Built 1939 or earlier

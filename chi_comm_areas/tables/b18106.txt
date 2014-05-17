@@ -1,0 +1,37 @@
+Sex by Age by Self-care Difficulty
+----------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B18106001 Total:
+B18106002  Male:
+B18106003   5 to 17 years:
+B18106004    With a self-care difficulty
+B18106005    No self-care difficulty
+B18106006   18 to 34 years:
+B18106007    With a self-care difficulty
+B18106008    No self-care difficulty
+B18106009   35 to 64 years:
+B18106010    With a self-care difficulty
+B18106011    No self-care difficulty
+B18106012   65 to 74 years:
+B18106013    With a self-care difficulty
+B18106014    No self-care difficulty
+B18106015   75 years and over:
+B18106016    With a self-care difficulty
+B18106017    No self-care difficulty
+B18106018  Female:
+B18106019   5 to 17 years:
+B18106020    With a self-care difficulty
+B18106021    No self-care difficulty
+B18106022   18 to 34 years:
+B18106023    With a self-care difficulty
+B18106024    No self-care difficulty
+B18106025   35 to 64 years:
+B18106026    With a self-care difficulty
+B18106027    No self-care difficulty
+B18106028   65 to 74 years:
+B18106029    With a self-care difficulty
+B18106030    No self-care difficulty
+B18106031   75 years and over:
+B18106032    With a self-care difficulty
+B18106033    No self-care difficulty

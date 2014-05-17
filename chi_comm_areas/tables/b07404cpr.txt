@@ -1,0 +1,9 @@
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Residence 1 Year Ago in Puerto Rico
+------------------------------------------------------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population 1 Year and Over
+
+B07404CPR001 Total living in area 1 year ago:
+B07404CPR002  Same house
+B07404CPR003  Moved within same municipio
+B07404CPR004  Moved to different municipio
+B07404CPR005  Moved to the United States

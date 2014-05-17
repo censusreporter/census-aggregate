@@ -1,0 +1,5 @@
+Per Capita Income (Some Other Race Alone)
+-----------------------------------------
+Universe: People Who Are Some Other Race Alone
+
+B19301F001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

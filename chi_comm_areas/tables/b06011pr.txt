@@ -1,0 +1,10 @@
+Median Income by Place of Birth in Puerto Rico
+----------------------------------------------
+Universe: Population 15 Years and Over in Puerto Rico With Income
+
+B06011PR000.5 Median income in the past 12 months --
+B06011PR001  Total:
+B06011PR002   Born in Puerto Rico
+B06011PR003   Born in other state of the United States
+B06011PR004   Native; born elsewhere
+B06011PR005   Foreign born

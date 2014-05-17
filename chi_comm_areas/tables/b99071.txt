@@ -1,0 +1,7 @@
+Imputation of Mobility Status for the Population 1 Year and Over
+----------------------------------------------------------------
+Universe: Population 1 Year and Over
+
+B99071001 Total:
+B99071002  Imputed
+B99071003  Not imputed

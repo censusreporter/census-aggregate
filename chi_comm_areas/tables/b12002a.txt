@@ -1,0 +1,17 @@
+Sex by Marital Status (White Alone)
+-----------------------------------
+Universe: White Alone Population 15 Years and Over
+
+B12002A001 Total:
+B12002A002  Male:
+B12002A003   Never married
+B12002A004   Now married (except separated)
+B12002A005   Separated
+B12002A006   Widowed
+B12002A007   Divorced
+B12002A008  Female:
+B12002A009   Never married
+B12002A010   Now married (except separated)
+B12002A011   Separated
+B12002A012   Widowed
+B12002A013   Divorced

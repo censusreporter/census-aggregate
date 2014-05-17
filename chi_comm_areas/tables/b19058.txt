@@ -1,0 +1,7 @@
+Public Assistance Income or Food Stamps/SNAP for Households
+-----------------------------------------------------------
+Universe: Households
+
+B19058001 Total:
+B19058002  With cash public assistance or Food Stamps/SNAP
+B19058003  No cash public assistance or Food Stamps/SNAP

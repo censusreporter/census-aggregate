@@ -1,0 +1,11 @@
+Median Income by Geographical Mobility in the Past Year for Current Residence in Puerto Rico
+--------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over in Puerto Rico With Income
+
+B07011PR000.5 Median income in the past 12 months --
+B07011PR001  Total:
+B07011PR002   Same house 1 year ago
+B07011PR003   Moved within same municipio
+B07011PR004   Moved from different municipio
+B07011PR005   Moved from the United States
+B07011PR006   Moved from elsewhere

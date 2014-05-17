@@ -1,0 +1,15 @@
+Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in the United States
+------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in the United States
+
+B07203001 Total:
+B07203002  Same house 1 year ago
+B07203003  Different house in United States 1 year ago:
+B07203004   Metropolitan Statistical Area:
+B07203005    Moved from principal city
+B07203006    Moved from remainder of Metropolitan Statistical Area
+B07203007   Micropolitan Statistical Area:
+B07203008    Moved from principal city
+B07203009    Moved from remainder of Micropolitan Statistical Area
+B07203010   Not in a Metropolitan or Micropolitan Statistical Area 1 year ago
+B07203011  Abroad 1 year ago

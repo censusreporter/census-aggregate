@@ -1,0 +1,15 @@
+Tenure by Educational Attainment of Householder
+-----------------------------------------------
+Universe: Occupied Housing Units
+
+B25013001 Total:
+B25013002  Owner-occupied housing units:
+B25013003   Less than high school graduate
+B25013004   High school graduate (including equivalency)
+B25013005   Some college or associate's degree
+B25013006   Bachelor's degree or higher
+B25013007  Renter-occupied housing units:
+B25013008   Less than high school graduate
+B25013009   High school graduate (including equivalency)
+B25013010   Some college or associate's degree
+B25013011   Bachelor's degree or higher

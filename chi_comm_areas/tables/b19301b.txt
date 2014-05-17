@@ -1,0 +1,5 @@
+Per Capita Income (Black or African American Alone)
+---------------------------------------------------
+Universe: People Who Are Black or African American Alone
+
+B19301B001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

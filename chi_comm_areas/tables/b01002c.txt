@@ -1,0 +1,8 @@
+Median Age by Sex (American Indian and Alaska Native)
+-----------------------------------------------------
+Universe: People Who Are American Indian and Alaska Native Alone
+
+B01002C000.5 Median age --
+B01002C001  Total:
+B01002C002  Male
+B01002C003  Female
