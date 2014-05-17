@@ -101,23 +101,39 @@ def aggregate_all(state,place,xref,output_dir,overwrite=False):
                 agg = aggregate(data,xref)
                 agg.to_csv(output_file,float_format="%.0f")
 
-def write_metadata_files(output_dir,overwrite=False):
+def fetch_table_metadata(table_id,conn=None):
+    sql = """
+select t.simple_table_title, t.universe, c.column_id, c.column_title, c.indent from acs2012_5yr.census_table_metadata t, acs2012_5yr.census_column_metadata c
+where c.table_id = t.table_id and t.table_id = %s
+"""
+    local_conn = False
+    if conn is None:
+        conn = _db_conn()
+        local_conn = True
+
+    cursor = conn.cursor()
+    cursor.execute(sql,(table_id.upper(),))
+    for row in cursor:
+        yield row
+
+    if local_conn:
+        conn.close()
+
+def write_metadata_files(output_dir,base_on_tables=False,overwrite=False):
     try:
         os.makedirs(output_dir)
     except OSError:
         pass
     all_tables = open(os.path.join(output_dir,'all_tables.txt'),'w')
     with _db_conn() as conn:
-        cursor = conn.cursor()
         for table_id in all_acs_tables():
+            chk = os.path.join(output_dir,'%s.csv' % table_id)
+            if base_on_tables and not os.path.exists(chk):
+                continue
             table_id = table_id.replace('_moe','')
             output_file = os.path.join(output_dir,'%s.txt' % table_id)
             if overwrite or not os.path.exists(output_file):
-                sql = """
-select t.simple_table_title, t.universe, c.column_id, c.column_title, c.indent from acs2012_5yr.census_table_metadata t, acs2012_5yr.census_column_metadata c
-where c.table_id = t.table_id and t.table_id = %s
-"""
-                cursor.execute(sql,(table_id.upper(),))
+                cursor = fetch_table_metadata(table_id,conn)
                 of = open(output_file,'w')
                 for ix,(table_title, universe, column_id, column_title, indent) in enumerate(cursor):
                     if ix == 0:
