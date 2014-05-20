@@ -119,6 +119,16 @@ where c.table_id = t.table_id and t.table_id = %s
     if local_conn:
         conn.close()
 
+def ratio_with_error(df,num_column,den_column):
+    """
+        Given a dataframe, return a new dataframe with two series: one the ratio and the other the computed MOE for the ratio. This assumes that num_column and den_column are strings and that their error columns are named with the suffix "_moe"
+    """
+    ratio = df[num_column]/df[den_column]
+    num_error = df['%s_moe' % num_column]
+    den_error = df['%s_moe' % den_column]
+    error = np.sqrt((np.power(ratio,2) * np.power(den_error,2)) + np.power(num_error,2))/df[den_column]
+    return pd.DataFrame({'ratio': ratio, 'ratio_error': error})
+
 def write_metadata_files(output_dir,base_on_tables=False,overwrite=False):
     try:
         os.makedirs(output_dir)
