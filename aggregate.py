@@ -54,7 +54,10 @@ def aggregate(data,xref,groupby='area_id',pass_columns=None):
     for col in data.columns:
         if re.match(r'^(b|c)\d+[a-i]?(pr)?\d{3}(_moe)?$', col):
             if col.endswith('_moe'):
-                series_dict[col] = by_ca[col].apply(lambda x: np.sqrt(np.sum(np.power(x,2))))
+                if -1 in crossed[column]: # MOE not applicable
+                    series_dict[col] = by_ca[col].apply(lambda x: -1)
+                else:
+                    series_dict[col] = by_ca[col].apply(lambda x: np.sqrt(np.sum(np.power(x,2))))
             else:
                 series_dict[col] = by_ca[col].sum()
 
