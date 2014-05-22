@@ -2,6 +2,10 @@ census-aggregate
 ----------------
 A tool to aggregate American Community Survey data to non-census geographies.
 
+Aggregated data for Chicago community areas and New York city neighborhood tabulation areas can be found at http://j.mp/public_census_data
+
+The generated tables for medians, quintiles and quartiles are NOT CORRECT. See https://github.com/censusreporter/census-aggregate/issues/1
+
 Status
 ------
 At the moment, the library is tuned towards producing data for Chicago's community areas, but it's pretty generalized.
