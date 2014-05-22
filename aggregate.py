@@ -161,4 +161,6 @@ def write_metadata_files(output_dir,base_on_tables=False,overwrite=False):
 
 if __name__ == '__main__':
     xref = pd.read_csv('chi_comm_areas/xref.csv',index_col='tract',dtype={'tract': 'S11'})
-    aggregate_all('17','14000',xref,'chi_comm_areas')
+#    aggregate_all('17','14000',xref,'chi_comm_areas')
+    aggregate_all('36','51000',xref,'ny_nta/tables')
+    write_metadata_files('ny_nta/tables',True)
