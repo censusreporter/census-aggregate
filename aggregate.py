@@ -33,7 +33,7 @@ def fetch_data(table_id,state,place):
         df = pd_sql.read_frame(sql,conn,index_col='full_tract')
         return df
 
-def aggregate(data,xref,groupby='area_id',pass_columns=None):
+def aggregate(data,xref,groupby='area_id',treat_as_medians=False,pass_columns=None):
     """
     Given two pandas dataframes with compatible indexes, aggregate the data, returning a new dataframe. The index of the returned dataframe will be the 'groupby' column, which must exist in `xref`.
 
@@ -56,10 +56,20 @@ def aggregate(data,xref,groupby='area_id',pass_columns=None):
             if col.endswith('_moe'):
                 if -1 in crossed[col].unique(): # MOE not applicable
                     series_dict[col] = by_ca[col].apply(lambda x: -1)
+                elif treat_as_medians:
+                    series_dict[col] = by_ca[col].apply(
+                        lambda x: (
+                            (np.sqrt(np.sum(np.power(x,2)))) / 
+                             np.power(x.count(),2)
+                        )
+                    )
                 else:
                     series_dict[col] = by_ca[col].apply(lambda x: np.sqrt(np.sum(np.power(x,2))))
             else:
-                series_dict[col] = by_ca[col].sum()
+                if treat_as_medians:
+                    series_dict[col] = np.round( by_ca[col].mean(), 1)
+                else:
+                    series_dict[col] = by_ca[col].sum()
 
     return pd.DataFrame(series_dict)
 
