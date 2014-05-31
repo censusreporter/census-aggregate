@@ -33,6 +33,9 @@ def fetch_data(table_id,state,place):
         df = pd_sql.read_frame(sql,conn,index_col='full_tract')
         return df
 
+def sum_moes(x):
+    return np.sqrt(np.sum(np.power(x,2)))
+
 def aggregate(data,xref,groupby='area_id',treat_as_medians=False,pass_columns=None):
     """
     Given two pandas dataframes with compatible indexes, aggregate the data, returning a new dataframe. The index of the returned dataframe will be the 'groupby' column, which must exist in `xref`.
@@ -64,7 +67,7 @@ def aggregate(data,xref,groupby='area_id',treat_as_medians=False,pass_columns=No
                         )
                     )
                 else:
-                    series_dict[col] = by_ca[col].apply(lambda x: np.sqrt(np.sum(np.power(x,2))))
+                    series_dict[col] = by_ca[col].apply(sum_moes)
             else:
                 if treat_as_medians:
                     series_dict[col] = np.round( by_ca[col].mean(), 1)
