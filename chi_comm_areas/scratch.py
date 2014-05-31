@@ -54,12 +54,14 @@ def flatten(df, table_id,indent=None):
     try:
         od_cols['area_name'] = df['area_name']
     except: pass
-    for row in md:
-        if row[-1] == indent:
-            try:
-                od_cols[row[-2]] += df[row[-3].lower()]
-            except KeyError:
-                od_cols[row[-2]] = df[row[-3].lower()]
+    for (title,universe,col_id,label,col_indent) in md:
+        if col_indent == indent:
+            col_id = col_id.lower()
+            if col_id in df:
+                try:
+                    od_cols[label] += df[col_id]
+                except KeyError:
+                    od_cols[label] = df[col_id]
 
     return pd.DataFrame(od_cols,index=df.index)
 
