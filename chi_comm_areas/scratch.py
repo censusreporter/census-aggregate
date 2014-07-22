@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import psycopg2
 from collections import OrderedDict
 import re
+import aggregate
 # assumes access to the Census Reporter database
 # you can set the Postgres password for 'census' user as the
 # PGPASSWORD environment variable, or edit this to pass it in 
@@ -12,12 +13,18 @@ import re
 def _db_conn():
     return psycopg2.connect(dbname='census',host='localhost',user='census')
 
-def load_table(table_id):
+def load_table(table_id, include_labels=False, drop_moe=False):
     'Given a table id, load the dataframe associated, with the index col set and such.'
     table_id = table_id.lower().replace('_moe','')
     if not re.match('^(b|c)\d+[a-i]?$',table_id):
         raise Exception("bad table_id")
-    return pd.read_csv('chi_comm_areas/tables/%s_moe.csv' % table_id, index_col='area_id')
+    data = pd.read_csv('chi_comm_areas/tables/%s_moe.csv' % table_id, index_col='area_id')
+    if drop_moe:
+        cols = [x for x in data.columns if not '_moe' in x]
+        data = data[cols]
+    if include_labels:
+        data = data.rename(columns=colmap(table_id))
+    return data
 
 
 def fetch_table_metadata(table_id,conn=None):
