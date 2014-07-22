@@ -4,7 +4,7 @@ with open("seattle.csv") as infile:
     reader = csv.DictReader(infile)
     with open("xref.csv","w") as outfile:
         w = csv.writer(outfile)
-        w.writerow(['tract','nd_id','nd_name'])
+        w.writerow(['tract','area_id','area_name'])
         seen = set()
         for row in reader:
             tract = row['GEOID10'][:-4] 

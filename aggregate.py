@@ -173,7 +173,7 @@ def write_metadata_files(output_dir,base_on_tables=False,overwrite=False):
         all_tables.close()
 
 if __name__ == '__main__':
-    xref = pd.read_csv('chi_comm_areas/xref.csv',index_col='tract',dtype={'tract': 'S11'})
+    xref = pd.read_csv('seattle_cra/xref.csv',index_col='tract',dtype={'tract': 'S11'})
 #    aggregate_all('17','14000',xref,'chi_comm_areas')
-    aggregate_all('36','51000',xref,'ny_nta/tables')
-    write_metadata_files('ny_nta/tables',True)
+    aggregate_all('53','63000',xref,'seattle_cra/tables')
+    write_metadata_files('seattle_cra/tables',True)
