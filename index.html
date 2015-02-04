@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Census-aggregate by censusreporter</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Census-aggregate</h1>
+        <p>A tool to aggregate American Community Survey data to non-census geographies.</p>
+
+        <p class="view"><a href="https://github.com/censusreporter/census-aggregate">View the Project on GitHub <small>censusreporter/census-aggregate</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/censusreporter/census-aggregate/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/censusreporter/census-aggregate/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/censusreporter/census-aggregate">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="neighborhood-aggregated-acs-data" class="anchor" href="#neighborhood-aggregated-acs-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Neighborhood Aggregated ACS Data</h1>
+
+<p>As part of the <a href="http://censusreporter.org">Census Reporter</a> project, I developed a script to produce aggregate census data for neighborhoods which are not provided by the US Census Bureau.</p>
+
+<p>For detailed information, see <a href="http://github.com/censusreporter/census-aggregate">the Github repository.</a></p>
+At this time, aggregated data is available for Chicago, New York and Seattle. If you have a cross-reference file linking census tracts to larger community areas or neighborhoods, I'll gladly run this for your place also. Right now, I'm not supporting neighborhoods that cut through tracts.
+
+<h2>
+<a id="indexes-of-aggregated-acs-tables" class="anchor" href="#indexes-of-aggregated-acs-tables" aria-hidden="true"><span class="octicon octicon-link"></span></a>Indexes of Aggregated ACS Tables</h2>
+
+<ul>
+    <li>
+        <a href="chicago/index.html">Chicago Community Areas</a>
+        <ul>
+            <li><a href="http://en.wikipedia.org/wiki/Community_areas_in_Chicago">Community Areas in Chicago (Wikipedia)</a></li>
+            <li><a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6">Community Area boundary map</a></li>
+            <li><a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik">Census Tracts in Chicago linked to Community Area</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="nyc/index.html">NYC Neighborhood Areas</a>
+            <ul>
+            <li>    <a href="http://www.nyc.gov/html/dcp/html/census/popacs.shtml">NYC Planning: Neighborhood Tabulation Areas</a> (tract crossreference and some ACS data tabulated)</li>
+            <li><a href="https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas/cpf4-rkhq%0A%20%20%20%20%20%20%20%20%20%20%20%20">NY Neighborhood Tabulation Area map</a></li>
+            </ul>
+    </li>
+    <li>
+        <a href="seattle/neighborhood_district/index.html">Seattle: Neighborhood Districts</a>
+    </li>
+    <li>
+        <a href="seattle/community_reporting_area/index.html">Seattle: Community Reporting Areas</a>
+        <ul>
+            <li><a href="http://www.seattle.gov/dpd/cityplanning/populationdemographics/geographicfilesmaps/2010census/default.htm">Seattle Dept. of Planning: Geographic Files and Maps (including geographic crosswalk file)</a></li>
+            <li><a href="http://www.seattle.gov/dpd/cityplanning/populationdemographics/decennialcensus/2010/default.htm">Seattle Dept. of Planning: Decennial Census (including more explanation of geographies)</a></li>
+        </ul>
+    </li>
+</ul>
+
+<p>NOTE: Tables derived from median, quintile or quartile estimates SHOULD NOT BE USED at this time. I haven't set up a process for recognizing those tables when running through all of the ACS tables, and I haven't implemented a proper aggregation method (right now it adds up the medians, which is just wrong).  I'll try to just remove them until they are generated correctly, but at this moment, they're here so DON'T USE THEM.  Follow/comment on https://github.com/censusreporter/census-aggregate/issues/1 if you are interested in those.
+</p>
+
+<p>Github: <a href="https://github.com/censusreporter/census-aggregate">https://github.com/censusreporter/census-aggregate</a>
+</p>
+
+<p>For more Census information, see 
+    <a href="http://CensusReporter.org">http://CensusReporter.org</a> or follow us on Twitter at <a href="http://twitter.com/CensusReporter">@CensusReporter</a></p>
+
+<p> 
+Joe Germuska<br>
+<a href="http://twitter.com/JoeGermuska">@JoeGermuska</a><br>
+<a href="http://about.me/JoeGermuska"></a><a href="http://about.me/JoeGermuska">http://about.me/JoeGermuska</a><br>
+ </p>
+
+<p></p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/censusreporter">censusreporter</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-43018828-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
