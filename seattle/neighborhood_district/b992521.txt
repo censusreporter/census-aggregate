@@ -1,0 +1,7 @@
+Imputation of Mortgage Status
+-----------------------------
+Universe: Owner-occupied Housing Units
+
+B992521001 Total:
+B992521002  Imputed
+B992521003  Not imputed

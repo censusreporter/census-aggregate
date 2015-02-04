@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (Hispanic or Latino)
+------------------------------------------------------------------
+Universe: Civilian Employed Hispanic or Latino Population 16 Years and Over
+
+C24010I001 Total:
+C24010I002  Male:
+C24010I003   Management, business, science, and arts occupations:
+C24010I004   Service occupations:
+C24010I005   Sales and office occupations:
+C24010I006   Natural resources, construction, and maintenance occupations:
+C24010I007   Production, transportation, and material moving occupations:
+C24010I008  Female:
+C24010I009   Management, business, science, and arts occupations:
+C24010I010   Service occupations:
+C24010I011   Sales and office occupations:
+C24010I012   Natural resources, construction, and maintenance occupations:
+C24010I013   Production, transportation, and material moving occupations:

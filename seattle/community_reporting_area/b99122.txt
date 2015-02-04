@@ -1,0 +1,7 @@
+Imputation of Divorced
+----------------------
+Universe: Population 15 Years and Over
+
+B99122001 Total:
+B99122002  Imputed
+B99122003  Not imputed

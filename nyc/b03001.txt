@@ -1,0 +1,35 @@
+Hispanic or Latino Origin by Specific Origin
+--------------------------------------------
+Universe: Total Population
+
+B03001001 Total:
+B03001002  Not Hispanic or Latino
+B03001003  Hispanic or Latino:
+B03001004   Mexican
+B03001005   Puerto Rican
+B03001006   Cuban
+B03001007   Dominican (Dominican Republic)
+B03001008   Central American:
+B03001009    Costa Rican
+B03001010    Guatemalan
+B03001011    Honduran
+B03001012    Nicaraguan
+B03001013    Panamanian
+B03001014    Salvadoran
+B03001015    Other Central American
+B03001016   South American:
+B03001017    Argentinean
+B03001018    Bolivian
+B03001019    Chilean
+B03001020    Colombian
+B03001021    Ecuadorian
+B03001022    Paraguayan
+B03001023    Peruvian
+B03001024    Uruguayan
+B03001025    Venezuelan
+B03001026    Other South American
+B03001027   Other Hispanic or Latino:
+B03001028    Spaniard
+B03001029    Spanish
+B03001030    Spanish American
+B03001031    All other Hispanic or Latino

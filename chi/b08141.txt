@@ -1,0 +1,39 @@
+Means of Transportation to Work by Vehicles Available
+-----------------------------------------------------
+Universe: Workers 16 Years and Over in Households
+
+B08141001 Total:
+B08141002   No vehicle available
+B08141003   1 vehicle available
+B08141004   2 vehicles available
+B08141005   3 or more vehicles available
+B08141006  Car, truck, or van - drove alone:
+B08141007   No vehicle available
+B08141008   1 vehicle available
+B08141009   2 vehicles available
+B08141010   3 or more vehicles available
+B08141011  Car, truck, or van - carpooled:
+B08141012   No vehicle available
+B08141013   1 vehicle available
+B08141014   2 vehicles available
+B08141015   3 or more vehicles available
+B08141016  Public transportation (excluding taxicab):
+B08141017   No vehicle available
+B08141018   1 vehicle available
+B08141019   2 vehicles available
+B08141020   3 or more vehicles available
+B08141021  Walked:
+B08141022   No vehicle available
+B08141023   1 vehicle available
+B08141024   2 vehicles available
+B08141025   3 or more vehicles available
+B08141026  Taxicab, motorcycle, bicycle, or other means:
+B08141027   No vehicle available
+B08141028   1 vehicle available
+B08141029   2 vehicles available
+B08141030   3 or more vehicles available
+B08141031  Worked at home:
+B08141032   No vehicle available
+B08141033   1 vehicle available
+B08141034   2 vehicles available
+B08141035   3 or more vehicles available

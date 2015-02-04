@@ -1,0 +1,7 @@
+Imputation of Class of Worker for the Full-time, Year-round Civilian Population
+-------------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over
+
+B99246001 Total:
+B99246002  Imputed
+B99246003  Not imputed

@@ -1,0 +1,5 @@
+Aggregate Wage or Salary Income for Households
+----------------------------------------------
+Universe: Households
+
+B19062001 Aggregate wage or salary income in the past 12 months (in 2012 inflation-adjusted dollars)

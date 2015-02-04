@@ -1,0 +1,5 @@
+Gini Index of Income Inequality
+-------------------------------
+Universe: Households
+
+B19083001 Gini Index

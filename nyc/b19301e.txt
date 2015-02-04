@@ -1,0 +1,5 @@
+Per Capita Income (Native Hawaiian and Other Pacific Islander Alone)
+--------------------------------------------------------------------
+Universe: People Who Are Native Hawaiian and Other Pacific Islander Alone
+
+B19301E001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

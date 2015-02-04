@@ -1,0 +1,37 @@
+Sex by Age by Cognitive Difficulty
+----------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B18104001 Total:
+B18104002  Male:
+B18104003   5 to 17 years:
+B18104004    With a cognitive difficulty
+B18104005    No cognitive difficulty
+B18104006   18 to 34 years:
+B18104007    With a cognitive difficulty
+B18104008    No cognitive difficulty
+B18104009   35 to 64 years:
+B18104010    With a cognitive difficulty
+B18104011    No cognitive difficulty
+B18104012   65 to 74 years:
+B18104013    With a cognitive difficulty
+B18104014    No cognitive difficulty
+B18104015   75 years and over:
+B18104016    With a cognitive difficulty
+B18104017    No cognitive difficulty
+B18104018  Female:
+B18104019   5 to 17 years:
+B18104020    With a cognitive difficulty
+B18104021    No cognitive difficulty
+B18104022   18 to 34 years:
+B18104023    With a cognitive difficulty
+B18104024    No cognitive difficulty
+B18104025   35 to 64 years:
+B18104026    With a cognitive difficulty
+B18104027    No cognitive difficulty
+B18104028   65 to 74 years:
+B18104029    With a cognitive difficulty
+B18104030    No cognitive difficulty
+B18104031   75 years and over:
+B18104032    With a cognitive difficulty
+B18104033    No cognitive difficulty

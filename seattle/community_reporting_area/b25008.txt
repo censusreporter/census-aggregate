@@ -1,0 +1,7 @@
+Total Population in Occupied Housing Units by Tenure
+----------------------------------------------------
+Universe: Total Population in Occupied Housing Units
+
+B25008001 Total:
+B25008002  Owner occupied
+B25008003  Renter occupied

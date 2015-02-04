@@ -1,0 +1,24 @@
+Place of Birth by Poverty Status in the United States
+-----------------------------------------------------
+Universe: Population in the United States for Whom Poverty Status Is Determined
+
+B06012001 Total:
+B06012002   Below 100 percent of the poverty level
+B06012003   100 to 149 percent of the poverty level
+B06012004   At or above 150 percent of the poverty level
+B06012005  Born in state of residence:
+B06012006   Below 100 percent of the poverty level
+B06012007   100 to 149 percent of the poverty level
+B06012008   At or above 150 percent of the poverty level
+B06012009  Born in other state in the United States:
+B06012010   Below 100 percent of the poverty level
+B06012011   100 to 149 percent of the poverty level
+B06012012   At or above 150 percent of the poverty level
+B06012013  Native; born outside the United States:
+B06012014   Below 100 percent of the poverty level
+B06012015   100 to 149 percent of the poverty level
+B06012016   At or above 150 percent of the poverty level
+B06012017  Foreign born:
+B06012018   Below 100 percent of the poverty level
+B06012019   100 to 149 percent of the poverty level
+B06012020   At or above 150 percent of the poverty level

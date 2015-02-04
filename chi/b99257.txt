@@ -1,0 +1,7 @@
+Imputation of Year Householder Moved Into Unit
+----------------------------------------------
+Universe: Occupied Housing Units
+
+B99257001 Total:
+B99257002  Imputed
+B99257003  Not imputed

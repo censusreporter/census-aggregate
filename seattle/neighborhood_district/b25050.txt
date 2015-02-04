@@ -1,0 +1,23 @@
+Plumbing Facilities by Occupants Per Room by Year Structure Built
+-----------------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25050001 Total:
+B25050002  Complete plumbing facilities:
+B25050003   1.00 or less occupants per room:
+B25050004    Built 1950 or later
+B25050005    Built 1940 to 1949
+B25050006    Built 1939 or earlier
+B25050007   1.01 or more occupants per room:
+B25050008    Built 1950 or later
+B25050009    Built 1940 to 1949
+B25050010    Built 1939 or earlier
+B25050011  Lacking complete plumbing facilities:
+B25050012   1.00 or less occupants per room:
+B25050013    Built 1950 or later
+B25050014    Built 1940 to 1949
+B25050015    Built 1939 or earlier
+B25050016   1.01 or more occupants per room:
+B25050017    Built 1950 or later
+B25050018    Built 1940 to 1949
+B25050019    Built 1939 or earlier

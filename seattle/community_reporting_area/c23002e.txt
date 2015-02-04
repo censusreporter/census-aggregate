@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Native Hawaiian and Other Pacific Islander Alone)
+----------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over
+
+C23002E001 Total:
+C23002E002  Male:
+C23002E003   16 to 64 years:
+C23002E004    In labor force:
+C23002E005     In Armed Forces
+C23002E006     Civilian:
+C23002E007      Employed
+C23002E008      Unemployed
+C23002E009    Not in labor force
+C23002E010   65 years and over:
+C23002E011    In labor force:
+C23002E012      Employed
+C23002E013      Unemployed
+C23002E014    Not in labor force
+C23002E015  Female:
+C23002E016   16 to 64 years:
+C23002E017    In labor force:
+C23002E018     In Armed Forces
+C23002E019     Civilian:
+C23002E020      Employed
+C23002E021      Unemployed
+C23002E022    Not in labor force
+C23002E023   65 years and over:
+C23002E024    In labor force:
+C23002E025      Employed
+C23002E026      Unemployed
+C23002E027    Not in labor force

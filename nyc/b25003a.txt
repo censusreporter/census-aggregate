@@ -1,0 +1,7 @@
+Tenure (White Alone Householder)
+--------------------------------
+Universe: Occupied Housing Units With a Householder Who Is White Alone
+
+B25003A001 Total:
+B25003A002  Owner occupied
+B25003A003  Renter occupied

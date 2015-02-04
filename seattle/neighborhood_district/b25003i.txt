@@ -1,0 +1,7 @@
+Tenure (Hispanic or Latino Householder)
+---------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Hispanic or Latino
+
+B25003I001 Total:
+B25003I002  Owner occupied
+B25003I003  Renter occupied

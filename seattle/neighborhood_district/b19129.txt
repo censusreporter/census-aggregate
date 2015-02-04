@@ -1,0 +1,11 @@
+Aggregate Family Income by Number of Workers in Family
+------------------------------------------------------
+Universe: Families
+
+B19129001 Aggregate family income in the past 12 months (in 2012 inflation-adjusted dollars):
+B19129002  No workers (dollars)
+B19129003  1 worker (dollars)
+B19129004  2 workers, husband and wife worked (dollars)
+B19129005  2 workers, other (dollars)
+B19129006  3 or more workers, husband and wife worked (dollars)
+B19129007  3 or more workers, other (dollars)

@@ -1,0 +1,23 @@
+Women Who Had a Birth by Marital Status and Poverty Status
+----------------------------------------------------------
+Universe: Women 15 to 50 Years for Whom Poverty Status Is Determined
+
+B13010001 Total:
+B13010002  Women who had a birth in the past 12 months:
+B13010003   Now married (including separated and spouse absent):
+B13010004    Below 100 percent of poverty level in the past 12 months
+B13010005    100 to 199 percent of poverty level in the past 12 months
+B13010006    200 percent or more of poverty level in the past 12 months
+B13010007   Unmarried (never married, widowed and divorced):
+B13010008    Below 100 percent of poverty level in the past 12 months
+B13010009    100 to 199 percent of poverty level in the past 12 months
+B13010010    200 percent or more of poverty level in the past 12 months
+B13010011  Women who did not have a birth in the past 12 months:
+B13010012   Now married (including separated and spouse absent):
+B13010013    Below 100 percent of poverty level in the past 12 months
+B13010014    100 to 199 percent of poverty level in the past 12 months
+B13010015    200 percent or more of poverty level in the past 12 months
+B13010016   Unmarried (never married, widowed and divorced):
+B13010017    Below 100 percent of poverty level in the past 12 months
+B13010018    100 to 199 percent of poverty level in the past 12 months
+B13010019    200 percent or more of poverty level in the past 12 months

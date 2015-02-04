@@ -1,0 +1,45 @@
+Poverty Status of Families by Family Type by Presence of Related Children by Age of Related Children (Asian Alone Householder)
+------------------------------------------------------------------------------------------------------------------------------
+Universe: Families With a Householder Who Is Asian Alone
+
+B17010D001 Total:
+B17010D002  Income in the past 12 months below poverty level:
+B17010D003   Married-couple family:
+B17010D004    With related children under 18 years:
+B17010D005     Under 5 years only
+B17010D006     Under 5 years and 5 to 17 years
+B17010D007     5 to 17 years only
+B17010D008    No related children under 18 years
+B17010D009   Other family:
+B17010D010    Male householder, no wife present:
+B17010D011     With related children under 18 years:
+B17010D012      Under 5 years only
+B17010D013      Under 5 years and 5 to 17 years
+B17010D014      5 to 17 years only
+B17010D015     No related children under 18 years
+B17010D016    Female householder, no husband present:
+B17010D017     With related children under 18 years:
+B17010D018      Under 5 years only
+B17010D019      Under 5 years and 5 to 17 years
+B17010D020      5 to 17 years only
+B17010D021     No related children under 18 years
+B17010D022  Income in the past 12 months at or above poverty level:
+B17010D023   Married-couple family:
+B17010D024    With related children under 18 years:
+B17010D025     Under 5 years only
+B17010D026     Under 5 years and 5 to 17 years
+B17010D027     5 to 17 years only
+B17010D028    No related children under 18 years
+B17010D029   Other family:
+B17010D030    Male householder, no wife present:
+B17010D031     With related children under 18 years:
+B17010D032      Under 5 years only
+B17010D033      Under 5 years and 5 to 17 years
+B17010D034      5 to 17 years only
+B17010D035     No related children under 18 years
+B17010D036    Female householder, no husband present:
+B17010D037     With related children under 18 years:
+B17010D038      Under 5 years only
+B17010D039      Under 5 years and 5 to 17 years
+B17010D040      5 to 17 years only
+B17010D041     No related children under 18 years

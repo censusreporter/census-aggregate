@@ -1,0 +1,164 @@
+Place of Birth for the Foreign-born Population in the United States
+-------------------------------------------------------------------
+Universe: Foreign-born Population Excluding Population Born at Sea
+
+B05006001 Total:
+B05006002  Europe:
+B05006003   Northern Europe:
+B05006004    United Kingdom (inc. Crown Dependencies):
+B05006005     United Kingdom, excluding England and Scotland
+B05006006     England
+B05006007     Scotland
+B05006008    Ireland
+B05006009    Denmark
+B05006010    Norway
+B05006011    Sweden
+B05006012    Other Northern Europe
+B05006013   Western Europe:
+B05006014    Austria
+B05006015    Belgium
+B05006016    France
+B05006017    Germany
+B05006018    Netherlands
+B05006019    Switzerland
+B05006020    Other Western Europe
+B05006021   Southern Europe:
+B05006022    Greece
+B05006023    Italy
+B05006024    Portugal
+B05006025    Spain
+B05006026    Other Southern Europe
+B05006027   Eastern Europe:
+B05006028    Albania
+B05006029    Belarus
+B05006030    Bulgaria
+B05006031    Croatia
+B05006032    Czechoslovakia (includes Czech Republic and Slovakia)
+B05006033    Hungary
+B05006034    Latvia
+B05006035    Lithuania
+B05006036    Macedonia
+B05006037    Moldova
+B05006038    Poland
+B05006039    Romania
+B05006040    Russia
+B05006041    Ukraine
+B05006042    Bosnia and Herzegovina
+B05006043    Serbia
+B05006044    Other Eastern Europe
+B05006045   Europe, n.e.c.
+B05006046  Asia:
+B05006047   Eastern Asia:
+B05006048    China:
+B05006049     China, excluding Hong Kong and Taiwan
+B05006050     Hong Kong
+B05006051     Taiwan
+B05006052    Japan
+B05006053    Korea
+B05006054    Other Eastern Asia
+B05006055   South Central Asia:
+B05006056    Afghanistan
+B05006057    Bangladesh
+B05006058    India
+B05006059    Iran
+B05006060    Kazakhstan
+B05006061    Nepal
+B05006062    Pakistan
+B05006063    Sri Lanka
+B05006064    Uzbekistan
+B05006065    Other South Central Asia
+B05006066   South Eastern Asia:
+B05006067    Cambodia
+B05006068    Indonesia
+B05006069    Laos
+B05006070    Malaysia
+B05006071    Burma
+B05006072    Philippines
+B05006073    Singapore
+B05006074    Thailand
+B05006075    Vietnam
+B05006076    Other South Eastern Asia
+B05006077   Western Asia:
+B05006078    Iraq
+B05006079    Israel
+B05006080    Jordan
+B05006081    Kuwait
+B05006082    Lebanon
+B05006083    Saudi Arabia
+B05006084    Syria
+B05006085    Yemen
+B05006086    Turkey
+B05006087    Armenia
+B05006088    Other Western Asia
+B05006089   Asia,n.e.c.
+B05006090  Africa:
+B05006091   Eastern Africa:
+B05006092    Eritrea
+B05006093    Ethiopia
+B05006094    Kenya
+B05006095    Other Eastern Africa
+B05006096   Middle Africa:
+B05006097    Cameroon
+B05006098    Other Middle Africa
+B05006099   Northern Africa:
+B05006100    Egypt
+B05006101    Morocco
+B05006102    Sudan
+B05006103    Other Northern Africa
+B05006104   Southern Africa:
+B05006105    South Africa
+B05006106    Other Southern Africa
+B05006107   Western Africa:
+B05006108    Cape Verde
+B05006109    Ghana
+B05006110    Liberia
+B05006111    Nigeria
+B05006112    Sierra Leone
+B05006113    Other Western Africa
+B05006114   Africa, n.e.c.
+B05006115  Oceania:
+B05006116   Australia and New Zealand Subregion:
+B05006117    Australia
+B05006118    Other Australian and New Zealand Subregion
+B05006119   Fiji
+B05006120   Oceania, n.e.c.
+B05006121  Americas:
+B05006122   Latin America:
+B05006123    Caribbean:
+B05006124     Bahamas
+B05006125     Barbados
+B05006126     Cuba
+B05006127     Dominica
+B05006128     Dominican Republic
+B05006129     Grenada
+B05006130     Haiti
+B05006131     Jamaica
+B05006132     St. Vincent and the Grenadines
+B05006133     Trinidad and Tobago
+B05006134     West Indies
+B05006135     Other Caribbean
+B05006136    Central America:
+B05006137     Mexico
+B05006138     Belize
+B05006139     Costa Rica
+B05006140     El Salvador
+B05006141     Guatemala
+B05006142     Honduras
+B05006143     Nicaragua
+B05006144     Panama
+B05006145     Other Central America
+B05006146    South America:
+B05006147     Argentina
+B05006148     Bolivia
+B05006149     Brazil
+B05006150     Chile
+B05006151     Colombia
+B05006152     Ecuador
+B05006153     Guyana
+B05006154     Peru
+B05006155     Uruguay
+B05006156     Venezuela
+B05006157     Other South America
+B05006158   Northern America:
+B05006159    Canada
+B05006160    Other Northern America

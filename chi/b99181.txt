@@ -1,0 +1,7 @@
+Imputation of Disability Items for the Civilian Noninstitutionalized Population
+-------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B99181001 Total:
+B99181002  One or more disability items imputed
+B99181003  No disability items imputed

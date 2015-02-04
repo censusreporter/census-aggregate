@@ -1,0 +1,31 @@
+Presence of Own Children in Married-couple Families by Work Experience of Householder and Spouse
+------------------------------------------------------------------------------------------------
+Universe: Married-couple Families
+
+B23010001 Total:
+B23010002  With own children under 18 years:
+B23010003   Householder worked full-time, year-round in the past 12 months:
+B23010004    Spouse worked full-time, year-round in the past 12 months
+B23010005    Spouse worked less than full-time, year-round in the past 12 months
+B23010006    Spouse did not work in the past 12 months
+B23010007   Householder worked less than full-time, year-round in the past 12 months:
+B23010008    Spouse worked full-time, year-round in the past 12 months
+B23010009    Spouse worked less than full-time, year-round in the past 12 months
+B23010010    Spouse did not work in the past 12 months
+B23010011   Householder did not work in the past 12 months:
+B23010012    Spouse worked full-time, year-round in the past 12 months
+B23010013    Spouse worked less than full-time, year-round in the past 12 months
+B23010014    Spouse did not work in the past 12 months
+B23010015  No own children under 18 years:
+B23010016   Householder worked full-time, year-round in the past 12 months:
+B23010017    Spouse worked full-time, year-round in the past 12 months
+B23010018    Spouse worked less than full-time, year-round in the past 12 months
+B23010019    Spouse did not work in the past 12 months
+B23010020   Householder worked less than full-time, year-round in the past 12 months:
+B23010021    Spouse worked full-time, year-round in the past 12 months
+B23010022    Spouse worked less than full-time, year-round in the past 12 months
+B23010023    Spouse did not work in the past 12 months
+B23010024   Householder did not work in the past 12 months:
+B23010025    Spouse worked full-time, year-round in the past 12 months
+B23010026    Spouse worked less than full-time, year-round in the past 12 months
+B23010027    Spouse did not work in the past 12 months

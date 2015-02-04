@@ -1,0 +1,7 @@
+Imputation of Age
+-----------------
+Universe: Total Population
+
+B99012001 Total:
+B99012002  Imputed
+B99012003  Not imputed

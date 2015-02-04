@@ -1,0 +1,19 @@
+Households by Presence of People 60 Years and Over by Household Type
+--------------------------------------------------------------------
+Universe: Households
+
+B11006001 Total:
+B11006002  Households with one or more people 60 years and over:
+B11006003   Family households:
+B11006004    Married-couple family
+B11006005    Other family:
+B11006006     Male householder, no wife present
+B11006007     Female householder, no husband present
+B11006008   Nonfamily households
+B11006009  Households with no people 60 years and over:
+B11006010   Family households:
+B11006011    Married-couple family
+B11006012    Other family:
+B11006013     Male householder, no wife present
+B11006014     Female householder, no husband present
+B11006015   Nonfamily households

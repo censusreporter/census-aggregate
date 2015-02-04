@@ -1,0 +1,11 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent (Asian Alone)
+-----------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents (Asian Alone) Living With Own Grandchildren Under 18 Years
+
+B10051D001 Total:
+B10051D002  Grandparent responsible for own grandchildren under 18 years:
+B10051D003   30 to 59 years
+B10051D004   60 years and over
+B10051D005  Grandparent not responsible for own grandchildren under 18 years:
+B10051D006   30 to 59 years
+B10051D007   60 years and over

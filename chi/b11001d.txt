@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (Asian Alone)
+-----------------------------------------------------
+Universe: Households With a Householder Who Is Asian Alone
+
+B11001D001 Total:
+B11001D002  Family households:
+B11001D003   Married-couple family
+B11001D004   Other family:
+B11001D005    Male householder, no wife present
+B11001D006    Female householder, no husband present
+B11001D007  Nonfamily households:
+B11001D008   Householder living alone
+B11001D009   Householder not living alone

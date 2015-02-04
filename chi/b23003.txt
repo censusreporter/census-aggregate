@@ -1,0 +1,34 @@
+Presence of Own Children by Age of Own Children by Employment Status for Females 20 to 64 Years
+-----------------------------------------------------------------------------------------------
+Universe: Females 20 to 64 Years in Households
+
+B23003001 Total:
+B23003002  With own children under 18 years:
+B23003003   Under 6 years only:
+B23003004    In labor force:
+B23003005     In Armed Forces
+B23003006     Civilian:
+B23003007      Employed
+B23003008      Unemployed
+B23003009    Not in labor force
+B23003010   Under 6 years and 6 to 17 years:
+B23003011    In labor force:
+B23003012     In Armed Forces
+B23003013     Civilian:
+B23003014      Employed
+B23003015      Unemployed
+B23003016    Not in labor force
+B23003017   6 to 17 years only:
+B23003018    In labor force:
+B23003019     In Armed Forces
+B23003020     Civilian:
+B23003021      Employed
+B23003022      Unemployed
+B23003023    Not in labor force
+B23003024  No own children under 18 years:
+B23003025   In labor force:
+B23003026    In Armed Forces
+B23003027    Civilian:
+B23003028     Employed
+B23003029     Unemployed
+B23003030   Not in labor force

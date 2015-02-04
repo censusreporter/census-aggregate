@@ -1,0 +1,70 @@
+Geographical Mobility in the Past Year by Individual Income for Current Residence in the United States
+------------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over in the United States
+
+B07010001 Total:
+B07010002   No income
+B07010003   With income:
+B07010004    $1 to $9,999 or loss
+B07010005    $10,000 to $14,999
+B07010006    $15,000 to $24,999
+B07010007    $25,000 to $34,999
+B07010008    $35,000 to $49,999
+B07010009    $50,000 to $64,999
+B07010010    $65,000 to $74,999
+B07010011    $75,000 or more
+B07010012  Same house 1 year ago:
+B07010013   No income
+B07010014   With income:
+B07010015    $1 to $9,999 or loss
+B07010016    $10,000 to $14,999
+B07010017    $15,000 to $24,999
+B07010018    $25,000 to $34,999
+B07010019    $35,000 to $49,999
+B07010020    $50,000 to $64,999
+B07010021    $65,000 to $74,999
+B07010022    $75,000 or more
+B07010023  Moved within same county:
+B07010024   No income
+B07010025   With income:
+B07010026    $1 to $9,999 or loss
+B07010027    $10,000 to $14,999
+B07010028    $15,000 to $24,999
+B07010029    $25,000 to $34,999
+B07010030    $35,000 to $49,999
+B07010031    $50,000 to $64,999
+B07010032    $65,000 to $74,999
+B07010033    $75,000 or more
+B07010034  Moved from different county within same state:
+B07010035   No income
+B07010036   With income:
+B07010037    $1 to $9,999 or loss
+B07010038    $10,000 to $14,999
+B07010039    $15,000 to $24,999
+B07010040    $25,000 to $34,999
+B07010041    $35,000 to $49,999
+B07010042    $50,000 to $64,999
+B07010043    $65,000 to $74,999
+B07010044    $75,000 or more
+B07010045  Moved from different state:
+B07010046   No income
+B07010047   With income:
+B07010048    $1 to $9,999 or loss
+B07010049    $10,000 to $14,999
+B07010050    $15,000 to $24,999
+B07010051    $25,000 to $34,999
+B07010052    $35,000 to $49,999
+B07010053    $50,000 to $64,999
+B07010054    $65,000 to $74,999
+B07010055    $75,000 or more
+B07010056  Moved from abroad:
+B07010057   No income
+B07010058   With income:
+B07010059    $1 to $9,999 or loss
+B07010060    $10,000 to $14,999
+B07010061    $15,000 to $24,999
+B07010062    $25,000 to $34,999
+B07010063    $35,000 to $49,999
+B07010064    $50,000 to $64,999
+B07010065    $65,000 to $74,999
+B07010066    $75,000 or more

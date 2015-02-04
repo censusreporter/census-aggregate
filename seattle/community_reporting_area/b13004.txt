@@ -1,0 +1,15 @@
+Women Who Had a Birth by Marital Status and Presence of Unmarried Partner
+-------------------------------------------------------------------------
+Universe: Women 15 to 50 Years in Households
+
+B13004001 Total:
+B13004002  Women who had a birth in the past 12 months:
+B13004003   Now married (including separated and spouse absent)
+B13004004   Unmarried (never married, widowed and divorced):
+B13004005    Partner in an unmarried partner household
+B13004006    Not an unmarried partner
+B13004007  Women who did not have a birth in the past 12 months:
+B13004008   Now married (including separated and spouse absent)
+B13004009   Unmarried (never married, widowed and divorced):
+B13004010    Partner in an unmarried partner household
+B13004011    Not an unmarried partner

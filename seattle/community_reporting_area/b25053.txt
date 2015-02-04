@@ -1,0 +1,11 @@
+Tenure by Kitchen Facilities
+----------------------------
+Universe: Occupied Housing Units
+
+B25053001 Total:
+B25053002  Owner occupied:
+B25053003   Complete kitchen facilities
+B25053004   Lacking complete kitchen facilities
+B25053005  Renter occupied:
+B25053006   Complete kitchen facilities
+B25053007   Lacking complete kitchen facilities

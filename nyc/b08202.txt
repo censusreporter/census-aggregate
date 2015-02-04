@@ -1,0 +1,26 @@
+Household Size by Number of Workers in Household
+------------------------------------------------
+Universe: Households
+
+B08202001 Total:
+B08202002   No workers
+B08202003   1 worker
+B08202004   2 workers
+B08202005   3 or more workers
+B08202006  1-person household:
+B08202007   No workers
+B08202008   1 worker
+B08202009  2-person household:
+B08202010   No workers
+B08202011   1 worker
+B08202012   2 workers
+B08202013  3-person household:
+B08202014   No workers
+B08202015   1 worker
+B08202016   2 workers
+B08202017   3 workers
+B08202018  4-or-more-person household:
+B08202019   No workers
+B08202020   1 worker
+B08202021   2 workers
+B08202022   3 or more workers

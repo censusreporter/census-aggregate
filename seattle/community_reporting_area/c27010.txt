@@ -1,0 +1,25 @@
+Types of Health Insurance Coverage by Age
+-----------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27010001 Total:
+C27010002  Under 18 years:
+C27010003   With private health insurance  only
+C27010004   With public coverage only
+C27010005   With both private and public coverage
+C27010006   No health insurance coverage
+C27010007  18 to 34 years:
+C27010008   With private health insurance  only
+C27010009   With public coverage only
+C27010010   With both private and public coverage
+C27010011   No health insurance coverage
+C27010012  35 to 64 years:
+C27010013   With private health insurance  only
+C27010014   With public coverage only
+C27010015   With both private and public coverage
+C27010016   No health insurance coverage
+C27010017  65 years and over:
+C27010018   With private health insurance  only
+C27010019   With public coverage only
+C27010020   With both private and public coverage
+C27010021   No health insurance coverage

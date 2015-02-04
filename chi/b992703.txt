@@ -1,0 +1,7 @@
+Imputation of Public Health Insurance
+-------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992703001 Total:
+B992703002  One or more public coverage items imputed
+B992703003  No public coverage items imputed

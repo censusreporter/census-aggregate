@@ -1,0 +1,7 @@
+Tenure (Black or African American Alone Householder)
+----------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Black or African American Alone
+
+B25003B001 Total:
+B25003B002  Owner occupied
+B25003B003  Renter occupied

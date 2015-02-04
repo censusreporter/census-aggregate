@@ -1,0 +1,9 @@
+Place of Birth (White Alone, Not Hispanic or Latino) in the United States
+-------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population in the United States
+
+B06004H001 Total:
+B06004H002  Born in state of residence
+B06004H003  Born in other state in the United States
+B06004H004  Native; born outside the United States
+B06004H005  Foreign born

@@ -1,0 +1,8 @@
+Median Family Income for Families With Grandparent Householders And/or Spouses Living With Own Grandchildren by Responsibility for Own Grandchildren and Presence of Parent of Grandchild
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Families With Grandparent Householders And/or Spouses Living With Grandchildren
+
+B10010000.5 Median family income in the past 12 months--
+B10010001  Total:
+B10010002  Grandparent householder and/or spouse responsible for grandchildren under 18 years (dollars)
+B10010003  Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars)

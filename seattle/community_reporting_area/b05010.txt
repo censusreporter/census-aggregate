@@ -1,0 +1,29 @@
+Ratio of Income to Poverty Level by Nativity of Children in Families and Subfamilies by Living Arrangements and Nativity of Parents
+-----------------------------------------------------------------------------------------------------------------------------------
+Universe: Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined
+
+B05010001 Total:
+B05010002  Under 1.00:
+B05010003   Living with two parents:
+B05010004    Both parents native
+B05010005    Both parents foreign born
+B05010006    One native and one foreign-born parent
+B05010007   Living with one parent:
+B05010008    Native parent
+B05010009    Foreign-born parent
+B05010010  1.00 to 1.99:
+B05010011   Living with two parents:
+B05010012    Both parents native
+B05010013    Both parents foreign born
+B05010014    One native and one foreign-born parent
+B05010015   Living with one parent:
+B05010016    Native parent
+B05010017    Foreign-born parent
+B05010018  2.0  and over:
+B05010019   Living with two parents:
+B05010020    Both parents native
+B05010021    Both parents foreign born
+B05010022    One native and one foreign-born parent
+B05010023   Living with one parent:
+B05010024    Native parent
+B05010025    Foreign-born parent

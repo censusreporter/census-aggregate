@@ -1,0 +1,5 @@
+Aggregate Rent Asked (Dollars)
+------------------------------
+Universe: Vacant-for-rent and Rented, Not Occupied Housing Units
+
+B25062001 Aggregate rent asked

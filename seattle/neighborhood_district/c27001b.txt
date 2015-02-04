@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Black or African American Alone)
+-------------------------------------------------------------------------
+Universe: BLACK OR AFRICAN AMERICAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001B001 Total:
+C27001B002  Under 18 years:
+C27001B003   With health insurance coverage
+C27001B004   No health insurance coverage
+C27001B005  18 to 64 years:
+C27001B006   With health insurance coverage
+C27001B007   No health insurance coverage
+C27001B008  65 years and over:
+C27001B009   With health insurance coverage
+C27001B010   No health insurance coverage

@@ -1,0 +1,39 @@
+Poverty Status of Families by Household Type by Number of Related Children
+--------------------------------------------------------------------------
+Universe: Families
+
+B17012001 Total:
+B17012002  Income in the past 12 months below poverty level:
+B17012003   Married-couple family:
+B17012004     No child
+B17012005     1 or 2 children
+B17012006     3 or 4 children
+B17012007     5 or more children
+B17012008   Other families:
+B17012009    Male householder, no wife present:
+B17012010     No child
+B17012011     1 or 2 children
+B17012012     3 or 4 children
+B17012013     5 or more children
+B17012014    Female householder, no husband present:
+B17012015     No child
+B17012016     1 or 2 children
+B17012017     3 or 4 children
+B17012018     5 or more children
+B17012019  Income in the past 12 months at or above poverty level:
+B17012020   Married-couple family:
+B17012021     No child
+B17012022     1 or 2 children
+B17012023     3 or 4 children
+B17012024     5 or more children
+B17012025   Other families:
+B17012026    Male householder, no wife present:
+B17012027     No child
+B17012028     1 or 2 children
+B17012029     3 or 4 children
+B17012030     5 or more children
+B17012031    Female householder, no husband present:
+B17012032     No child
+B17012033     1 or 2 children
+B17012034     3 or 4 children
+B17012035     5 or more children

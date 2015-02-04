@@ -1,0 +1,8 @@
+Median Age by Sex (Some Other Race Alone)
+-----------------------------------------
+Universe: People Who Are Some Other Race Alone
+
+B01002F000.5 Median age --
+B01002F001  Total:
+B01002F002  Male
+B01002F003  Female

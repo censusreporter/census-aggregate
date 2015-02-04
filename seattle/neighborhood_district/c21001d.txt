@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Asian Alone)
+----------------------------------------------------------------------------------------
+Universe: Asian Alone Civilian Population 18 Years and Over
+
+C21001D001 Total:
+C21001D002  Male:
+C21001D003   18 to 64 years:
+C21001D004    Veteran
+C21001D005    Nonveteran
+C21001D006   65 years and over:
+C21001D007    Veteran
+C21001D008    Nonveteran
+C21001D009  Female:
+C21001D010   18 to 64 years:
+C21001D011    Veteran
+C21001D012    Nonveteran
+C21001D013   65 years and over:
+C21001D014    Veteran
+C21001D015    Nonveteran

@@ -1,0 +1,7 @@
+Aggregate Income Deficit (Dollars) of Unrelated Individuals by Sex
+------------------------------------------------------------------
+Universe: Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined
+
+B17008001 Aggregate income deficit in the past 12 months of unrelated individuals (dollars):
+B17008002  Male (dollars)
+B17008003  Female (dollars)

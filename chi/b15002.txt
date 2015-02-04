@@ -1,0 +1,39 @@
+Sex by Educational Attainment
+-----------------------------
+Universe: Population 25 Years and Over
+
+B15002001 Total:
+B15002002  Male:
+B15002003   No schooling completed
+B15002004   Nursery to 4th grade
+B15002005   5th and 6th grade
+B15002006   7th and 8th grade
+B15002007   9th grade
+B15002008   10th grade
+B15002009   11th grade
+B15002010   12th grade, no diploma
+B15002011   High school graduate, GED, or alternative
+B15002012   Some college, less than 1 year
+B15002013   Some college, 1 or more years, no degree
+B15002014   Associate's degree
+B15002015   Bachelor's degree
+B15002016   Master's degree
+B15002017   Professional school degree
+B15002018   Doctorate degree
+B15002019  Female:
+B15002020   No schooling completed
+B15002021   Nursery to 4th grade
+B15002022   5th and 6th grade
+B15002023   7th and 8th grade
+B15002024   9th grade
+B15002025   10th grade
+B15002026   11th grade
+B15002027   12th grade, no diploma
+B15002028   High school graduate, GED, or alternative
+B15002029   Some college, less than 1 year
+B15002030   Some college, 1 or more years, no degree
+B15002031   Associate's degree
+B15002032   Bachelor's degree
+B15002033   Master's degree
+B15002034   Professional school degree
+B15002035   Doctorate degree

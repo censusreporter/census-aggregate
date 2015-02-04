@@ -1,0 +1,19 @@
+Sex of Workers by Place of Work--Minor Civil Division Level for 12 Selected States (CT, ME, MA, MI, MN, NH, NJ, NY, PA, RI, VT, WI)
+-----------------------------------------------------------------------------------------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08009001 Total:
+B08009002   Living in the 12 selected states:
+B08009003    Worked in MCD of residence
+B08009004    Worked outside MCD of residence
+B08009005   Not living in the 12 selected states
+B08009006  Male:
+B08009007   Living in the 12 selected states:
+B08009008    Worked in MCD of residence
+B08009009    Worked outside MCD of residence
+B08009010   Not living in the 12 selected states
+B08009011  Female:
+B08009012   Living in the 12 selected states:
+B08009013    Worked in MCD of residence
+B08009014    Worked outside MCD of residence
+B08009015   Not living in the 12 selected states

@@ -1,0 +1,11 @@
+Women Who Had a Birth by Marital Status (Hispanic or Latino)
+------------------------------------------------------------
+Universe: Hispanic or Latino Women 15 to 50 Years
+
+B13002I001 Total:
+B13002I002  Women who had a birth in the past 12 months:
+B13002I003   Now married (including separated and spouse absent)
+B13002I004   Unmarried (never married, widowed and divorced)
+B13002I005  Women who did not have a birth in the past 12 months:
+B13002I006   Now married (including separated and spouse absent)
+B13002I007   Unmarried (never married, widowed and divorced)

@@ -1,0 +1,7 @@
+Imputation of Race
+------------------
+Universe: Total Population
+
+B99021001 Total:
+B99021002  Imputed
+B99021003  Not imputed

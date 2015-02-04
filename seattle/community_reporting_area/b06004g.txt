@@ -1,0 +1,9 @@
+Place of Birth (Two or More Races) in the United States
+-------------------------------------------------------
+Universe: Two or More Races Population in the United States
+
+B06004G001 Total:
+B06004G002  Born in state of residence
+B06004G003  Born in other state in the United States
+B06004G004  Native; born outside the United States
+B06004G005  Foreign born

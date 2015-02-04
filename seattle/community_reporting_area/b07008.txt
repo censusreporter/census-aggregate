@@ -1,0 +1,40 @@
+Geographical Mobility in the Past Year by Marital Status for Current Residence in the United States
+---------------------------------------------------------------------------------------------------
+Universe: Population 15 Years and Over in the United States
+
+B07008001 Total:
+B07008002   Never married
+B07008003   Now married, except separated
+B07008004   Divorced
+B07008005   Separated
+B07008006   Widowed
+B07008007  Same house 1 year ago:
+B07008008   Never married
+B07008009   Now married, except separated
+B07008010   Divorced
+B07008011   Separated
+B07008012   Widowed
+B07008013  Moved within same county:
+B07008014   Never married
+B07008015   Now married, except separated
+B07008016   Divorced
+B07008017   Separated
+B07008018   Widowed
+B07008019  Moved from different county within same state:
+B07008020   Never married
+B07008021   Now married, except separated
+B07008022   Divorced
+B07008023   Separated
+B07008024   Widowed
+B07008025  Moved from different state:
+B07008026   Never married
+B07008027   Now married, except separated
+B07008028   Divorced
+B07008029   Separated
+B07008030   Widowed
+B07008031  Moved from abroad:
+B07008032   Never married
+B07008033   Now married, except separated
+B07008034   Divorced
+B07008035   Separated
+B07008036   Widowed

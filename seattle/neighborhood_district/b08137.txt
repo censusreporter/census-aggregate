@@ -1,0 +1,25 @@
+Means of Transportation to Work by Tenure
+-----------------------------------------
+Universe: Workers 16 Years and Over in Households
+
+B08137001 Total:
+B08137002   Householder lived in owner-occupied housing units
+B08137003   Householder lived in renter-occupied housing units
+B08137004  Car, truck, or van - drove alone:
+B08137005   Householder lived in owner-occupied housing units
+B08137006   Householder lived in renter-occupied housing units
+B08137007  Car, truck, or van - carpooled:
+B08137008   Householder lived in owner-occupied housing units
+B08137009   Householder lived in renter-occupied housing units
+B08137010  Public transportation (excluding taxicab):
+B08137011   Householder lived in owner-occupied housing units
+B08137012   Householder lived in renter-occupied housing units
+B08137013  Walked:
+B08137014   Householder lived in owner-occupied housing units
+B08137015   Householder lived in renter-occupied housing units
+B08137016  Taxicab, motorcycle, bicycle, or other means:
+B08137017   Householder lived in owner-occupied housing units
+B08137018   Householder lived in renter-occupied housing units
+B08137019  Worked at home:
+B08137020   Householder lived in owner-occupied housing units
+B08137021   Householder lived in renter-occupied housing units

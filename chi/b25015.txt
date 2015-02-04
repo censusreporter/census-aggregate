@@ -1,0 +1,31 @@
+Tenure by Age of Householder by Occupants Per Room
+--------------------------------------------------
+Universe: Occupied Housing Units
+
+B25015001 Total:
+B25015002  Owner occupied:
+B25015003   Householder 15 to 34 years:
+B25015004    1.00 or less occupants per room
+B25015005    1.01 to 1.50 occupants per room
+B25015006    1.51 or more occupants per room
+B25015007   Householder 35 to 64 years:
+B25015008    1.00 or less occupants per room
+B25015009    1.01 to 1.50 occupants per room
+B25015010    1.51 or more occupants per room
+B25015011   Householder 65 years and over:
+B25015012    1.00 or less occupants per room
+B25015013    1.01 to 1.50 occupants per room
+B25015014    1.51 or more occupants per room
+B25015015  Renter occupied:
+B25015016   Householder 15 to 34 years:
+B25015017    1.00 or less occupants per room
+B25015018    1.01 to 1.50 occupants per room
+B25015019    1.51 or more occupants per room
+B25015020   Householder 35 to 64 years:
+B25015021    1.00 or less occupants per room
+B25015022    1.01 to 1.50 occupants per room
+B25015023    1.51 or more occupants per room
+B25015024   Householder 65 years and over:
+B25015025    1.00 or less occupants per room
+B25015026    1.01 to 1.50 occupants per room
+B25015027    1.51 or more occupants per room

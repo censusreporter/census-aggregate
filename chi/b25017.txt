@@ -1,0 +1,14 @@
+Rooms
+-----
+Universe: Housing Units
+
+B25017001 Total:
+B25017002  1 room
+B25017003  2 rooms
+B25017004  3 rooms
+B25017005  4 rooms
+B25017006  5 rooms
+B25017007  6 rooms
+B25017008  7 rooms
+B25017009  8 rooms
+B25017010  9 or more rooms

@@ -1,0 +1,12 @@
+Vacancy Status
+--------------
+Universe: Vacant Housing Units
+
+B25004001 Total:
+B25004002  For rent
+B25004003  Rented, not occupied
+B25004004  For sale only
+B25004005  Sold, not occupied
+B25004006  For seasonal, recreational, or occasional use
+B25004007  For migrant workers
+B25004008  Other vacant

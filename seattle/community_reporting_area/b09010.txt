@@ -1,0 +1,17 @@
+Receipt of Supplemental Security Income (SSI), Cash Public Assistance Income, or Food Stamps/SNAP by Household Type for Children in Households
+----------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Population Under 18 Years in Households
+
+B09010001 Total:
+B09010002  Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:
+B09010003   In family households:
+B09010004    In married-couple family
+B09010005    In male householder, no wife present, family
+B09010006    In female householder, no husband present, family
+B09010007   In nonfamily households
+B09010008  Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:
+B09010009   In family households:
+B09010010    In married-couple family
+B09010011    In male householder, no wife present, family
+B09010012    In female householder, no husband present, family
+B09010013   In nonfamily households

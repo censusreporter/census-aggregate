@@ -1,0 +1,7 @@
+Imputation of Private Health Insurance
+--------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992702001 Total:
+B992702002  One or more private health insurance items imputed
+B992702003  No private health insurance items imputed

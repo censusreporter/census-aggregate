@@ -1,0 +1,21 @@
+Family Income (White Alone, Not Hispanic or Latino Householder)
+---------------------------------------------------------------
+Universe: Families With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B19101H001 Total:
+B19101H002  Less than $10,000
+B19101H003  $10,000 to $14,999
+B19101H004  $15,000 to $19,999
+B19101H005  $20,000 to $24,999
+B19101H006  $25,000 to $29,999
+B19101H007  $30,000 to $34,999
+B19101H008  $35,000 to $39,999
+B19101H009  $40,000 to $44,999
+B19101H010  $45,000 to $49,999
+B19101H011  $50,000 to $59,999
+B19101H012  $60,000 to $74,999
+B19101H013  $75,000 to $99,999
+B19101H014  $100,000 to $124,999
+B19101H015  $125,000 to $149,999
+B19101H016  $150,000 to $199,999
+B19101H017  $200,000 or more

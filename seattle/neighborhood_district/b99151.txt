@@ -1,0 +1,7 @@
+Imputation of Educational Attainment
+------------------------------------
+Universe: Population 25 Years and Over
+
+B99151001 Total:
+B99151002  Imputed
+B99151003  Not imputed

@@ -1,0 +1,43 @@
+Sex by Age by Vision Difficulty
+-------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B18103001 Total:
+B18103002  Male:
+B18103003   Under 5 years:
+B18103004    With a vision difficulty
+B18103005    No vision difficulty
+B18103006   5 to 17 years:
+B18103007    With a vision difficulty
+B18103008    No vision difficulty
+B18103009   18 to 34 years:
+B18103010    With a vision difficulty
+B18103011    No vision difficulty
+B18103012   35 to 64 years:
+B18103013    With a vision difficulty
+B18103014    No vision difficulty
+B18103015   65 to 74 years:
+B18103016    With a vision difficulty
+B18103017    No vision difficulty
+B18103018   75 years and over:
+B18103019    With a vision difficulty
+B18103020    No vision difficulty
+B18103021  Female:
+B18103022   Under 5 years:
+B18103023    With a vision difficulty
+B18103024    No vision difficulty
+B18103025   5 to 17 years:
+B18103026    With a vision difficulty
+B18103027    No vision difficulty
+B18103028   18 to 34 years:
+B18103029    With a vision difficulty
+B18103030    No vision difficulty
+B18103031   35 to 64 years:
+B18103032    With a vision difficulty
+B18103033    No vision difficulty
+B18103034   65 to 74 years:
+B18103035    With a vision difficulty
+B18103036    No vision difficulty
+B18103037   75 years and over:
+B18103038    With a vision difficulty
+B18103039    No vision difficulty

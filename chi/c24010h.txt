@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------------------------------
+Universe: Civilian Employed White Alone, Not Hispanic or Latino Population 16 Years and Over
+
+C24010H001 Total:
+C24010H002  Male:
+C24010H003   Management, business, science, and arts occupations:
+C24010H004   Service occupations:
+C24010H005   Sales and office occupations:
+C24010H006   Natural resources, construction, and maintenance occupations:
+C24010H007   Production, transportation, and material moving occupations:
+C24010H008  Female:
+C24010H009   Management, business, science, and arts occupations:
+C24010H010   Service occupations:
+C24010H011   Sales and office occupations:
+C24010H012   Natural resources, construction, and maintenance occupations:
+C24010H013   Production, transportation, and material moving occupations:

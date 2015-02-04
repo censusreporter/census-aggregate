@@ -1,0 +1,13 @@
+Imputation of Family Income -- Percent of Income Imputed
+--------------------------------------------------------
+Universe: Families
+
+B99193001 Total:
+B99193001.5 Percent of income imputed --
+B99193002  No income imputed
+B99193003  Dollar value of zero imputed
+B99193004  More than 0 to less than 10 percent of total income for family imputed
+B99193005  10 to less than 25 percent of total income for family imputed
+B99193006  25 to less than 50 percent of total income for family imputed
+B99193007  50 to less than 100 percent of total income for family imputed
+B99193008  100 percent of total income for family imputed

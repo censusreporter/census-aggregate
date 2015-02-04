@@ -1,0 +1,12 @@
+Imputation of Length of Time Grandparent Responsible for Own Grandchildren
+--------------------------------------------------------------------------
+Universe: Population 30 Years and Over
+
+B99104001 Total:
+B99104002  Living with own grandchildren under 18 years:
+B99104003   Grandparent responsible for own grandchildren under 18 years:
+B99104003.5    Length of time --
+B99104004     Imputed
+B99104005     Not imputed
+B99104006   Grandparent not responsible for own grandchildren under 18 years
+B99104007  Not living with own grandchildren under 18 years

@@ -1,0 +1,7 @@
+Imputation of Married
+---------------------
+Universe: Population 15 Years and Over
+
+B99123001 Total:
+B99123002  Imputed
+B99123003  Not imputed

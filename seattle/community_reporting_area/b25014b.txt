@@ -1,0 +1,7 @@
+Occupants Per Room (Black or African American Alone Householder)
+----------------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Black or African American Alone
+
+B25014B001 Total:
+B25014B002  1.00 or less occupants per room
+B25014B003  1.01 or more occupants per room

@@ -1,0 +1,63 @@
+Poverty Status by Household Type by Age of Householder
+------------------------------------------------------
+Universe: Households
+
+B17017001 Total:
+B17017002  Income in the past 12 months below poverty level:
+B17017003   Family households:
+B17017004    Married-couple family:
+B17017005     Householder under 25 years
+B17017006     Householder 25 to 44 years
+B17017007     Householder 45 to 64 years
+B17017008     Householder 65 years and over
+B17017009    Other family:
+B17017010     Male householder, no wife present:
+B17017011      Householder under 25 years
+B17017012      Householder 25 to 44 years
+B17017013      Householder 45 to 64 years
+B17017014      Householder 65 years and over
+B17017015     Female householder, no husband present:
+B17017016      Householder under 25 years
+B17017017      Householder 25 to 44 years
+B17017018      Householder 45 to 64 years
+B17017019      Householder 65 years and over
+B17017020   Nonfamily households:
+B17017021    Male householder:
+B17017022     Householder under 25 years
+B17017023     Householder 25 to 44 years
+B17017024     Householder 45 to 64 years
+B17017025     Householder 65 years and over
+B17017026    Female householder:
+B17017027     Householder under 25 years
+B17017028     Householder 25 to 44 years
+B17017029     Householder 45 to 64 years
+B17017030     Householder 65 years and over
+B17017031  Income in the past 12 months at or above poverty level:
+B17017032   Family households:
+B17017033    Married-couple family:
+B17017034     Householder under 25 years
+B17017035     Householder 25 to 44 years
+B17017036     Householder 45 to 64 years
+B17017037     Householder 65 years and over
+B17017038    Other family:
+B17017039     Male householder, no wife present:
+B17017040      Householder under 25 years
+B17017041      Householder 25 to 44 years
+B17017042      Householder 45 to 64 years
+B17017043      Householder 65 years and over
+B17017044     Female householder, no husband present:
+B17017045      Householder under 25 years
+B17017046      Householder 25 to 44 years
+B17017047      Householder 45 to 64 years
+B17017048      Householder 65 years and over
+B17017049   Nonfamily households:
+B17017050    Male householder:
+B17017051     Householder under 25 years
+B17017052     Householder 25 to 44 years
+B17017053     Householder 45 to 64 years
+B17017054     Householder 65 years and over
+B17017055    Female householder:
+B17017056     Householder under 25 years
+B17017057     Householder 25 to 44 years
+B17017058     Householder 45 to 64 years
+B17017059     Householder 65 years and over

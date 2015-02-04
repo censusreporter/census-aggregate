@@ -1,0 +1,11 @@
+Receipt of Food Stamps/SNAP by Poverty Status for Households
+------------------------------------------------------------
+Universe: Households
+
+B22003001 Total:
+B22003002  Household received Food Stamps/SNAP in the past 12 months:
+B22003003   Income in the past 12 months below poverty level
+B22003004   Income in the past 12 months at or above poverty level
+B22003005  Household did not receive Food Stamps/SNAP in the past 12 months:
+B22003006   Income in the past 12 months below poverty level
+B22003007   Income in the past 12 months at or above poverty level

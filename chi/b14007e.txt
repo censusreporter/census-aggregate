@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 3 Years and Over
+
+B14007E001 Total:
+B14007E002  Enrolled in school:
+B14007E003   Enrolled in nursery school, preschool
+B14007E004   Enrolled in kindergarten
+B14007E005   Enrolled in grade 1
+B14007E006   Enrolled in grade 2
+B14007E007   Enrolled in grade 3
+B14007E008   Enrolled in grade 4
+B14007E009   Enrolled in grade 5
+B14007E010   Enrolled in grade 6
+B14007E011   Enrolled in grade 7
+B14007E012   Enrolled in grade 8
+B14007E013   Enrolled in grade 9
+B14007E014   Enrolled in grade 10
+B14007E015   Enrolled in grade 11
+B14007E016   Enrolled in grade 12
+B14007E017   Enrolled in college, undergraduate years
+B14007E018   Graduate or professional school
+B14007E019  Not enrolled in school

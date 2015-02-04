@@ -1,0 +1,88 @@
+Industry by Occupation for the Civilian Population
+--------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+C24050001 Total:
+C24050002   Agriculture, forestry, fishing and hunting, and mining
+C24050003   Construction
+C24050004   Manufacturing
+C24050005   Wholesale trade
+C24050006   Retail trade
+C24050007   Transportation and warehousing, and utilities
+C24050008   Information
+C24050009   Finance and insurance, and real estate and rental and leasing
+C24050010   Professional, scientific, and management, and administrative and waste management services
+C24050011   Educational services, and health care and social assistance
+C24050012   Arts, entertainment, and recreation, and accommodation and food services
+C24050013   Other services, except public administration
+C24050014   Public administration
+C24050015  Management, business, science, and arts occupations:
+C24050016   Agriculture, forestry, fishing and hunting, and mining
+C24050017   Construction
+C24050018   Manufacturing
+C24050019   Wholesale trade
+C24050020   Retail trade
+C24050021   Transportation and warehousing, and utilities
+C24050022   Information
+C24050023   Finance and insurance, and real estate and rental and leasing
+C24050024   Professional, scientific, and management, and administrative and waste management services
+C24050025   Educational services, and health care and social assistance
+C24050026   Arts, entertainment, and recreation, and accommodation and food services
+C24050027   Other services, except public administration
+C24050028   Public administration
+C24050029  Service occupations:
+C24050030   Agriculture, forestry, fishing and hunting, and mining
+C24050031   Construction
+C24050032   Manufacturing
+C24050033   Wholesale trade
+C24050034   Retail trade
+C24050035   Transportation and warehousing, and utilities
+C24050036   Information
+C24050037   Finance and insurance, and real estate and rental and leasing
+C24050038   Professional, scientific, and management, and administrative and waste management services
+C24050039   Educational services, and health care and social assistance
+C24050040   Arts, entertainment, and recreation, and accommodation and food services
+C24050041   Other services, except public administration
+C24050042   Public administration
+C24050043  Sales and office occupations:
+C24050044   Agriculture, forestry, fishing and hunting, and mining
+C24050045   Construction
+C24050046   Manufacturing
+C24050047   Wholesale trade
+C24050048   Retail trade
+C24050049   Transportation and warehousing, and utilities
+C24050050   Information
+C24050051   Finance and insurance, and real estate and rental and leasing
+C24050052   Professional, scientific, and management, and administrative and waste management services
+C24050053   Educational services, and health care and social assistance
+C24050054   Arts, entertainment, and recreation, and accommodation and food services
+C24050055   Other services, except public administration
+C24050056   Public administration
+C24050057  Natural resources, construction, and maintenance occupations:
+C24050058   Agriculture, forestry, fishing and hunting, and mining
+C24050059   Construction
+C24050060   Manufacturing
+C24050061   Wholesale trade
+C24050062   Retail trade
+C24050063   Transportation and warehousing, and utilities
+C24050064   Information
+C24050065   Finance and insurance, and real estate and rental and leasing
+C24050066   Professional, scientific, and management, and administrative and waste management services
+C24050067   Educational services, and health care and social assistance
+C24050068   Arts, entertainment, and recreation, and accommodation and food services
+C24050069   Other services, except public administration
+C24050070   Public administration
+C24050071  Production, transportation, and material moving occupations:
+C24050072   Agriculture, forestry, fishing and hunting, and mining
+C24050073   Construction
+C24050074   Manufacturing
+C24050075   Wholesale trade
+C24050076   Retail trade
+C24050077   Transportation and warehousing, and utilities
+C24050078   Information
+C24050079   Finance and insurance, and real estate and rental and leasing
+C24050080   Professional, scientific, and management, and administrative and waste management services
+C24050081   Educational services, and health care and social assistance
+C24050082   Arts, entertainment, and recreation, and accommodation and food services
+C24050083   Other services, except public administration
+C24050084   Public administration

@@ -1,0 +1,11 @@
+Employment Status
+-----------------
+Universe: Population 16 Years and Over
+
+B23025001 Total:
+B23025002  In labor force:
+B23025003   Civilian labor force:
+B23025004    Employed
+B23025005    Unemployed
+B23025006   Armed Forces
+B23025007  Not in labor force

@@ -1,0 +1,15 @@
+Period of Naturalization
+------------------------
+Universe: Foreign-born Population
+
+B05011001 Total:
+B05011002  Not a U.S. citizen
+B05011003  Naturalized citizens:
+B05011004   Naturalized 2010 or later
+B05011005   Naturalized 2005 to 2009
+B05011006   Naturalized 2000 to 2004
+B05011007   Naturalized 1995 to 1999
+B05011008   Naturalized 1990 to 1994
+B05011009   Naturalized 1985 to 1989
+B05011010   Naturalized 1980 to 1984
+B05011011   Naturalized before 1980

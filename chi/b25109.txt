@@ -1,0 +1,12 @@
+Median Value by Year Householder Moved Into Unit
+------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25109000.5 Median value --
+B25109001  Total:
+B25109002   Moved in 2010 or later
+B25109003   Moved in 2000 to 2009
+B25109004   Moved in 1990 to 1999
+B25109005   Moved in 1980 to 1989
+B25109006   Moved in 1970 to 1979
+B25109007   Moved in 1969 or earlier

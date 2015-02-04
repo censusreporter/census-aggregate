@@ -1,0 +1,14 @@
+Median Income by Sex by Work Experience With Income
+---------------------------------------------------
+Universe: Population 15 Years and Over With Income in the Past 12 Months
+
+B19326000.5 Median income in the past 12 months (in 2012 inflation-adjusted dollars) --
+B19326001  Total (dollars):
+B19326001.5  Male --
+B19326002   Total (dollars)
+B19326003   Worked full-time, year-round in the past 12 months (dollars)
+B19326004   Other (dollars)
+B19326004.5  Female --
+B19326005   Total (dollars)
+B19326006   Worked full-time, year-round in the past 12 months (dollars)
+B19326007   Other (dollars)

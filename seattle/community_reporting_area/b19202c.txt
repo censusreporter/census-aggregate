@@ -1,0 +1,5 @@
+Median Nonfamily Household Income (American Indian and Alaska Native Alone Householder)
+---------------------------------------------------------------------------------------
+Universe: Nonfamily Households With Householder Who Is American Indian and Alaska Native Alone
+
+B19202C001 Median nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

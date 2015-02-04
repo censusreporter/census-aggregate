@@ -1,0 +1,24 @@
+Family Type by Presence and Age of Own Children
+-----------------------------------------------
+Universe: Families
+
+B11003001 Total:
+B11003002  Married-couple family:
+B11003003   With own children under 18 years:
+B11003004    Under 6 years only
+B11003005    Under 6 years and 6 to 17 years
+B11003006    6 to 17 years only
+B11003007   No own children under 18 years
+B11003008  Other family:
+B11003009   Male householder, no wife present:
+B11003010    With own children under 18 years:
+B11003011     Under 6 years only
+B11003012     Under 6 years and 6 to 17 years
+B11003013     6 to 17 years only
+B11003014    No own children under 18 years
+B11003015   Female householder, no husband present:
+B11003016    With own children under 18 years:
+B11003017     Under 6 years only
+B11003018     Under 6 years and 6 to 17 years
+B11003019     6 to 17 years only
+B11003020    No own children under 18 years

@@ -1,0 +1,7 @@
+Imputation of Hispanic or Latino Origin
+---------------------------------------
+Universe: Total Population
+
+B99031001 Total:
+B99031002  Imputed
+B99031003  Not imputed

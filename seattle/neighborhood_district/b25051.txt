@@ -1,0 +1,7 @@
+Kitchen Facilities for All Housing Units
+----------------------------------------
+Universe: Housing Units
+
+B25051001 Total:
+B25051002  Complete kitchen facilities
+B25051003  Lacking complete kitchen facilities

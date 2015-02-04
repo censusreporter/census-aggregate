@@ -1,0 +1,7 @@
+Tenure (American Indian and Alaska Native Alone Householder)
+------------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is American Indian and Alaska Native Alone
+
+B25003C001 Total:
+B25003C002  Owner occupied
+B25003C003  Renter occupied

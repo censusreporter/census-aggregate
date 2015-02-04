@@ -1,0 +1,31 @@
+Poverty Status by Age by Language Spoken at Home
+------------------------------------------------
+Universe: Population 5 Years and Over for Whom Poverty Status Is Determined
+
+B16009001 Total:
+B16009002  Income in the past 12 months below poverty level:
+B16009003   5 to 17 years:
+B16009004    Speak only English
+B16009005    Speak Spanish
+B16009006    Speak other Indo-European languages
+B16009007    Speak Asian and Pacific Island languages
+B16009008    Speak other languages
+B16009009   18 years and over:
+B16009010    Speak only English
+B16009011    Speak Spanish
+B16009012    Speak other Indo-European languages
+B16009013    Speak Asian and Pacific Island languages
+B16009014    Speak other languages
+B16009015  Income in the past 12 months at or above poverty level:
+B16009016   5 to 17 years:
+B16009017    Speak only English
+B16009018    Speak Spanish
+B16009019    Speak other Indo-European languages
+B16009020    Speak Asian and Pacific Island languages
+B16009021    Speak other languages
+B16009022   18 years and over:
+B16009023    Speak only English
+B16009024    Speak Spanish
+B16009025    Speak other Indo-European languages
+B16009026    Speak Asian and Pacific Island languages
+B16009027    Speak other languages

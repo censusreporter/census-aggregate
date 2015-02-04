@@ -1,0 +1,11 @@
+Means of Transportation to Work (White Alone)
+---------------------------------------------
+Universe: White Alone Workers 16 Years and Over
+
+B08105A001 Total:
+B08105A002  Car, truck, or van - drove alone
+B08105A003  Car, truck, or van - carpooled
+B08105A004  Public transportation (excluding taxicab)
+B08105A005  Walked
+B08105A006  Taxicab, motorcycle, bicycle, or other means
+B08105A007  Worked at home

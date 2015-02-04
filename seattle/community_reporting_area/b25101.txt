@@ -1,0 +1,49 @@
+Mortgage Status by Monthly Housing Costs as a Percentage of Household Income
+----------------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25101001 Total:
+B25101002  With a mortgage:
+B25101003   Less than $20,000:
+B25101004    Less than 20 percent
+B25101005    20 to 29 percent
+B25101006    30 percent or more
+B25101007   $20,000 to $34,999:
+B25101008    Less than 20 percent
+B25101009    20 to 29 percent
+B25101010    30 percent or more
+B25101011   $35,000 to $49,999:
+B25101012    Less than 20 percent
+B25101013    20 to 29 percent
+B25101014    30 percent or more
+B25101015   $50,000 to $74,999:
+B25101016    Less than 20 percent
+B25101017    20 to 29 percent
+B25101018    30 percent or more
+B25101019   $75,000 or more:
+B25101020    Less than 20 percent
+B25101021    20 to 29 percent
+B25101022    30 percent or more
+B25101023   Zero or negative income
+B25101024  Not mortgaged:
+B25101025   Less than $20,000:
+B25101026    Less than 20 percent
+B25101027    20 to 29 percent
+B25101028    30 percent or more
+B25101029   $20,000 to $34,999:
+B25101030    Less than 20 percent
+B25101031    20 to 29 percent
+B25101032    30 percent or more
+B25101033   $35,000 to $49,999:
+B25101034    Less than 20 percent
+B25101035    20 to 29 percent
+B25101036    30 percent or more
+B25101037   $50,000 to $74,999:
+B25101038    Less than 20 percent
+B25101039    20 to 29 percent
+B25101040    30 percent or more
+B25101041   $75,000 or more:
+B25101042    Less than 20 percent
+B25101043    20 to 29 percent
+B25101044    30 percent or more
+B25101045   Zero or negative income

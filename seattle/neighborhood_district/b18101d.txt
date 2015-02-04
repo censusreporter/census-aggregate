@@ -1,0 +1,14 @@
+Age by Disability Status (Asian Alone)
+--------------------------------------
+Universe: Asian Alone Civilian Noninstitutionalized Population
+
+B18101D001 Total:
+B18101D002  Under 18 years:
+B18101D003   With a disability
+B18101D004   No disability
+B18101D005  18 to 64 years:
+B18101D006   With a disability
+B18101D007   No disability
+B18101D008  65 years and over:
+B18101D009   With a disability
+B18101D010   No disability

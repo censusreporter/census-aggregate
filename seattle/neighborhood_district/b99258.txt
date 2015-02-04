@@ -1,0 +1,7 @@
+Imputation of Bedrooms
+----------------------
+Universe: Housing Units
+
+B99258001 Total:
+B99258002  Imputed
+B99258003  Not imputed

@@ -1,0 +1,19 @@
+Tenure by Vehicles Available
+----------------------------
+Universe: Occupied Housing Units
+
+B25044001 Total:
+B25044002  Owner occupied:
+B25044003   No vehicle available
+B25044004   1 vehicle available
+B25044005   2 vehicles available
+B25044006   3 vehicles available
+B25044007   4 vehicles available
+B25044008   5 or more vehicles available
+B25044009  Renter occupied:
+B25044010   No vehicle available
+B25044011   1 vehicle available
+B25044012   2 vehicles available
+B25044013   3 vehicles available
+B25044014   4 vehicles available
+B25044015   5 or more vehicles available

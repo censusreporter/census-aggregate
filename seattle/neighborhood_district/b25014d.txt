@@ -1,0 +1,7 @@
+Occupants Per Room (Asian Alone Householder)
+--------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Asian Alone
+
+B25014D001 Total:
+B25014D002  1.00 or less occupants per room
+B25014D003  1.01 or more occupants per room

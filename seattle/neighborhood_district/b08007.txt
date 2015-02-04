@@ -1,0 +1,19 @@
+Sex of Workers by Place of Work--State and County Level
+-------------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08007001 Total:
+B08007002   Worked in state of residence:
+B08007003    Worked in county of residence
+B08007004    Worked outside county of residence
+B08007005   Worked outside state of residence
+B08007006  Male:
+B08007007   Worked in state of residence:
+B08007008    Worked in county of residence
+B08007009    Worked outside county of residence
+B08007010   Worked outside state of residence
+B08007011  Female:
+B08007012   Worked in state of residence:
+B08007013    Worked in county of residence
+B08007014    Worked outside county of residence
+B08007015   Worked outside state of residence

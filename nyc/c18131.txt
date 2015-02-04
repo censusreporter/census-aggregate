@@ -1,0 +1,20 @@
+Ratio of Income to Poverty Level by Disability Status
+-----------------------------------------------------
+Universe: Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined
+
+C18131001 Total:
+C18131002  Under .50:
+C18131003   With a disability
+C18131004   No disability
+C18131005  .50 to .99:
+C18131006   With a disability
+C18131007   No disability
+C18131008  1.00 to 1.49:
+C18131009   With a disability
+C18131010   No disability
+C18131011  1.50 to 1.99:
+C18131012   With a disability
+C18131013   No disability
+C18131014  2.00 and over:
+C18131015   With a disability
+C18131016   No disability

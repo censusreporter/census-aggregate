@@ -1,0 +1,7 @@
+Public Assistance Income for Households
+---------------------------------------
+Universe: Households
+
+B19057001 Total:
+B19057002  With public assistance income
+B19057003  No public assistance income

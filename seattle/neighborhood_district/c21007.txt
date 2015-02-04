@@ -1,0 +1,35 @@
+Age by Veteran Status by Poverty Status by Disability Status for the Civilian Population 18 Years and Over
+----------------------------------------------------------------------------------------------------------
+Universe: Civilian Population 18 Years and Over for Whom Poverty Status Is Determined
+
+C21007001 Total:
+C21007002  18 to 64 years:
+C21007003   Veteran:
+C21007004    Income in the past 12 months below poverty level:
+C21007005     With a disability
+C21007006     No disability
+C21007007    Income in the past 12 months at or above poverty level:
+C21007008     With a disability
+C21007009     No disability
+C21007010   Nonveteran:
+C21007011    Income in the past 12 months below poverty level:
+C21007012     With a disability
+C21007013     No disability
+C21007014    Income in the past 12 months at or above poverty level:
+C21007015     With a disability
+C21007016     No disability
+C21007017  65 years and over:
+C21007018   Veteran:
+C21007019    Income in the past 12 months below poverty level:
+C21007020     With a disability
+C21007021     No disability
+C21007022    Income in the past 12 months at or above poverty level:
+C21007023     With a disability
+C21007024     No disability
+C21007025   Nonveteran:
+C21007026    Income in the past 12 months below poverty level:
+C21007027     With a disability
+C21007028     No disability
+C21007029    Income in the past 12 months at or above poverty level:
+C21007030     With a disability
+C21007031     No disability

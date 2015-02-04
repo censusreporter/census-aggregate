@@ -1,0 +1,43 @@
+Sex by Age by Hearing Difficulty
+--------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B18102001 Total:
+B18102002  Male:
+B18102003   Under 5 years:
+B18102004    With a hearing difficulty
+B18102005    No hearing difficulty
+B18102006   5 to 17 years:
+B18102007    With a hearing difficulty
+B18102008    No hearing difficulty
+B18102009   18 to 34 years:
+B18102010    With a hearing difficulty
+B18102011    No hearing difficulty
+B18102012   35 to 64 years:
+B18102013    With a hearing difficulty
+B18102014    No hearing difficulty
+B18102015   65 to 74 years:
+B18102016    With a hearing difficulty
+B18102017    No hearing difficulty
+B18102018   75 years and over:
+B18102019    With a hearing difficulty
+B18102020    No hearing difficulty
+B18102021  Female:
+B18102022   Under 5 years:
+B18102023    With a hearing difficulty
+B18102024    No hearing difficulty
+B18102025   5 to 17 years:
+B18102026    With a hearing difficulty
+B18102027    No hearing difficulty
+B18102028   18 to 34 years:
+B18102029    With a hearing difficulty
+B18102030    No hearing difficulty
+B18102031   35 to 64 years:
+B18102032    With a hearing difficulty
+B18102033    No hearing difficulty
+B18102034   65 to 74 years:
+B18102035    With a hearing difficulty
+B18102036    No hearing difficulty
+B18102037   75 years and over:
+B18102038    With a hearing difficulty
+B18102039    No hearing difficulty

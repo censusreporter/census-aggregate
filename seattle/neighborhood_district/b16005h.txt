@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 5 Years and Over
+
+B16005H001 Total:
+B16005H002  Native:
+B16005H003   Speak only English
+B16005H004   Speak another language
+B16005H005    Speak English "very well"
+B16005H006    Speak English less than "very well"
+B16005H007  Foreign born:
+B16005H008   Speak only English
+B16005H009   Speak another language
+B16005H010    Speak English "very well"
+B16005H011    Speak English less than "very well"

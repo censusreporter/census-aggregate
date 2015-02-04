@@ -1,0 +1,8 @@
+Median Year Structure Built by Tenure
+-------------------------------------
+Universe: Occupied Housing Units
+
+B25037000.5 Median year structure built --
+B25037001  Total:
+B25037002  Owner occupied
+B25037003  Renter occupied

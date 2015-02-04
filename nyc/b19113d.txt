@@ -1,0 +1,5 @@
+Median Family Income (Asian Alone Householder)
+----------------------------------------------
+Universe: Families With a Householder Who Is Asian Alone
+
+B19113D001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

@@ -1,0 +1,7 @@
+Aggregate Travel Time to Work of Workers by Sex
+-----------------------------------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08013001 Aggregate travel time to work (in minutes):
+B08013002  Male
+B08013003  Female

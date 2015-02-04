@@ -1,0 +1,27 @@
+Poverty Status of Individuals by Sex by Educational Attainment
+--------------------------------------------------------------
+Universe: Population 25 Years and Over for Whom Poverty Status Is Determined
+
+B17003001 Total:
+B17003002  Income in the past 12 months below poverty level:
+B17003003   Male:
+B17003004    Less than high school graduate
+B17003005    High school graduate (includes equivalency)
+B17003006    Some college, associate's degree
+B17003007    Bachelor's degree or higher
+B17003008   Female:
+B17003009    Less than high school graduate
+B17003010    High school graduate (includes equivalency)
+B17003011    Some college, associate's degree
+B17003012    Bachelor's degree or higher
+B17003013  Income in the past 12 months at or above poverty level:
+B17003014   Male:
+B17003015    Less than high school graduate
+B17003016    High school graduate (includes equivalency)
+B17003017    Some college, associate's degree
+B17003018    Bachelor's degree or higher
+B17003019   Female:
+B17003020    Less than high school graduate
+B17003021    High school graduate (includes equivalency)
+B17003022    Some college, associate's degree
+B17003023    Bachelor's degree or higher

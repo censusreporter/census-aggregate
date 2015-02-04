@@ -1,0 +1,35 @@
+Means of Transportation to Work by Place of Work--State and County Level
+------------------------------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08130001 Total:
+B08130002   Worked in state of residence:
+B08130003    Worked in county of residence
+B08130004    Worked outside county of residence
+B08130005   Worked outside state of residence
+B08130006  Car, truck, or van - drove alone:
+B08130007   Worked in state of residence:
+B08130008    Worked in county of residence
+B08130009    Worked outside county of residence
+B08130010   Worked outside state of residence
+B08130011  Car, truck, or van - carpooled:
+B08130012   Worked in state of residence:
+B08130013    Worked in county of residence
+B08130014    Worked outside county of residence
+B08130015   Worked outside state of residence
+B08130016  Public transportation (excluding taxicab):
+B08130017   Worked in state of residence:
+B08130018    Worked in county of residence
+B08130019    Worked outside county of residence
+B08130020   Worked outside state of residence
+B08130021  Walked:
+B08130022   Worked in state of residence:
+B08130023    Worked in county of residence
+B08130024    Worked outside county of residence
+B08130025   Worked outside state of residence
+B08130026  Taxicab, motorcycle, bicycle, or other means:
+B08130027   Worked in state of residence:
+B08130028    Worked in county of residence
+B08130029    Worked outside county of residence
+B08130030   Worked outside state of residence
+B08130031  Worked at home

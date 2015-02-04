@@ -1,0 +1,19 @@
+Health Insurance Coverage Status by Sex by Enrollment Status for Young Adults Aged 19 to 25
+-------------------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 19 to 25 Years
+
+B27022001 Total:
+B27022002  Male:
+B27022003   Enrolled in school:
+B27022004    With health insurance coverage
+B27022005    No health insurance coverage
+B27022006   Not enrolled in school:
+B27022007    With health insurance coverage
+B27022008    No health insurance coverage
+B27022009  Female:
+B27022010   Enrolled in school:
+B27022011    With health insurance coverage
+B27022012    No health insurance coverage
+B27022013   Not enrolled in school:
+B27022014    With health insurance coverage
+B27022015    No health insurance coverage

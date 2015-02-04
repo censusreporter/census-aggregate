@@ -1,0 +1,33 @@
+Age of Householder by Selected Monthly Owner Costs as a Percentage of Household Income
+--------------------------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25093001 Total:
+B25093002  Householder 15 to 24 years:
+B25093003   Less than 20.0 percent
+B25093004   20.0 to 24.9 percent
+B25093005   25.0 to 29.9 percent
+B25093006   30.0 to 34.9 percent
+B25093007   35.0 percent or more
+B25093008   Not computed
+B25093009  Householder 25 to 34 years:
+B25093010   Less than 20.0 percent
+B25093011   20.0 to 24.9 percent
+B25093012   25.0 to 29.9 percent
+B25093013   30.0 to 34.9 percent
+B25093014   35.0 percent or more
+B25093015   Not computed
+B25093016  Householder 35 to 64 years:
+B25093017   Less than 20.0 percent
+B25093018   20.0 to 24.9 percent
+B25093019   25.0 to 29.9 percent
+B25093020   30.0 to 34.9 percent
+B25093021   35.0 percent or more
+B25093022   Not computed
+B25093023  Householder 65 years and over:
+B25093024   Less than 20.0 percent
+B25093025   20.0 to 24.9 percent
+B25093026   25.0 to 29.9 percent
+B25093027   30.0 to 34.9 percent
+B25093028   35.0 percent or more
+B25093029   Not computed

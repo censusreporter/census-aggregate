@@ -1,0 +1,7 @@
+Imputation of Industry for the Civilian Population
+--------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+B99241001 Total:
+B99241002  Imputed
+B99241003  Not Imputed

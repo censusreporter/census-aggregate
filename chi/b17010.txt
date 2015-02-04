@@ -1,0 +1,45 @@
+Poverty Status of Families by Family Type by Presence of Related Children by Age of Related Children
+----------------------------------------------------------------------------------------------------
+Universe: Families
+
+B17010001 Total:
+B17010002  Income in the past 12 months below poverty level:
+B17010003   Married-couple family:
+B17010004    With related children under 18 years:
+B17010005     Under 5 years only
+B17010006     Under 5 years and 5 to 17 years
+B17010007     5 to 17 years only
+B17010008    No related children under 18 years
+B17010009   Other family:
+B17010010    Male householder, no wife present:
+B17010011     With related children under 18 years:
+B17010012      Under 5 years only
+B17010013      Under 5 years and 5 to 17 years
+B17010014      5 to 17 years only
+B17010015     No related children under 18 years
+B17010016    Female householder, no husband present:
+B17010017     With related children under 18 years:
+B17010018      Under 5 years only
+B17010019      Under 5 years and 5 to 17 years
+B17010020      5 to 17 years only
+B17010021     No related children under 18 years
+B17010022  Income in the past 12 months at or above poverty level:
+B17010023   Married-couple family:
+B17010024    With related children under 18 years:
+B17010025     Under 5 years only
+B17010026     Under 5 years and 5 to 17 years
+B17010027     5 to 17 years only
+B17010028    No related children under 18 years
+B17010029   Other family:
+B17010030    Male householder, no wife present:
+B17010031     With related children under 18 years:
+B17010032      Under 5 years only
+B17010033      Under 5 years and 5 to 17 years
+B17010034      5 to 17 years only
+B17010035     No related children under 18 years
+B17010036    Female householder, no husband present:
+B17010037     With related children under 18 years:
+B17010038      Under 5 years only
+B17010039      Under 5 years and 5 to 17 years
+B17010040      5 to 17 years only
+B17010041     No related children under 18 years

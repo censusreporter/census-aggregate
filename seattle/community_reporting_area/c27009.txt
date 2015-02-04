@@ -1,0 +1,25 @@
+VA Health Care by Sex by Age
+----------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27009001 Total:
+C27009002  Male:
+C27009003   Under 18 years:
+C27009004    With VA Health Care
+C27009005    No VA Health Care
+C27009006   18 to 64 years:
+C27009007    With VA Health Care
+C27009008    No VA Health Care
+C27009009   65 years and over:
+C27009010    With VA Health Care
+C27009011    No VA Health Care
+C27009012  Female:
+C27009013   Under 18 years:
+C27009014    With VA Health Care
+C27009015    No VA Health Care
+C27009016   18 to 64 years:
+C27009017    With VA Health Care
+C27009018    No VA Health Care
+C27009019   65 years and over:
+C27009020    With VA Health Care
+C27009021    No VA Health Care

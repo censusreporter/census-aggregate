@@ -1,0 +1,9 @@
+Aggregate Household Income by Tenure and Mortgage Status
+--------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25120001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars):
+B25120002  Owner occupied :
+B25120003   Housing units with a mortgage
+B25120004   Housing units without a mortgage
+B25120005  Renter occupied

@@ -1,0 +1,67 @@
+Tenure by Age of Householder by Year Structure Built
+----------------------------------------------------
+Universe: Occupied Housing Units
+
+B25126001 Total:
+B25126002  Owner occupied:
+B25126003   Householder 15 to 34 years:
+B25126004    Built 2010 or later
+B25126005    Built 2000 to 2009
+B25126006    Built 1990 to 1999
+B25126007    Built 1980 to 1989
+B25126008    Built 1970 to 1979
+B25126009    Built 1960 to 1969
+B25126010    Built 1950 to 1959
+B25126011    Built 1940 to 1949
+B25126012    Built 1939 or earlier
+B25126013   Householder 35 to 64 years:
+B25126014    Built 2010 or later
+B25126015    Built 2000 to 2009
+B25126016    Built 1990 to 1999
+B25126017    Built 1980 to 1989
+B25126018    Built 1970 to 1979
+B25126019    Built 1960 to 1969
+B25126020    Built 1950 to 1959
+B25126021    Built 1940 to 1949
+B25126022    Built 1939 or earlier
+B25126023   Householder 65 years and over:
+B25126024    Built 2010 or later
+B25126025    Built 2000 to 2009
+B25126026    Built 1990 to 1999
+B25126027    Built 1980 to 1989
+B25126028    Built 1970 to 1979
+B25126029    Built 1960 to 1969
+B25126030    Built 1950 to 1959
+B25126031    Built 1940 to 1949
+B25126032    Built 1939 or earlier
+B25126033  Renter occupied:
+B25126034   Householder 15 to 34 years:
+B25126035    Built 2010 or later
+B25126036    Built 2000 to 2009
+B25126037    Built 1990 to 1999
+B25126038    Built 1980 to 1989
+B25126039    Built 1970 to 1979
+B25126040    Built 1960 to 1969
+B25126041    Built 1950 to 1959
+B25126042    Built 1940 to 1949
+B25126043    Built 1939 or earlier
+B25126044   Householder 35 to 64 years:
+B25126045    Built 2010 or later
+B25126046    Built 2000 to 2009
+B25126047    Built 1990 to 1999
+B25126048    Built 1980 to 1989
+B25126049    Built 1970 to 1979
+B25126050    Built 1960 to 1969
+B25126051    Built 1950 to 1959
+B25126052    Built 1940 to 1949
+B25126053    Built 1939 or earlier
+B25126054   Householder 65 years and over:
+B25126055    Built 2010 or later
+B25126056    Built 2000 to 2009
+B25126057    Built 1990 to 1999
+B25126058    Built 1980 to 1989
+B25126059    Built 1970 to 1979
+B25126060    Built 1960 to 1969
+B25126061    Built 1950 to 1959
+B25126062    Built 1940 to 1949
+B25126063    Built 1939 or earlier

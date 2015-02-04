@@ -1,0 +1,5 @@
+Aggregate Household Income (Some Other Race Alone Householder)
+--------------------------------------------------------------
+Universe: Households With a Householder Who Is Some Other Race Alone
+
+B19025F001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

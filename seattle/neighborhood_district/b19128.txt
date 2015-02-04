@@ -1,0 +1,15 @@
+Aggregate Family Income by Family Type by Presence of Own Children
+------------------------------------------------------------------
+Universe: Families
+
+B19128001 Aggregate family income in the past 12 months (in 2012 inflation-adjusted dollars):
+B19128002  Married-couple family:
+B19128003   With own children under 18 years
+B19128004   No own children under 18 years
+B19128005  Other family:
+B19128006   Male householder, no wife present:
+B19128007    With own children under 18 years
+B19128008    No own children under 18 years
+B19128009   Female householder, no husband present:
+B19128010    With own children under 18 years
+B19128011    No own children under 18 years

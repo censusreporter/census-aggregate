@@ -1,0 +1,7 @@
+Imputation of Value
+-------------------
+Universe: Owner-occupied Housing Units
+
+B992519001 Total:
+B992519002  Imputed
+B992519003  Not imputed

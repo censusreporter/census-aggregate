@@ -1,0 +1,5 @@
+Median Family Income (Two or More Races)
+----------------------------------------
+Universe: Families With a Householder Who Is Two or More Races
+
+B19113G001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

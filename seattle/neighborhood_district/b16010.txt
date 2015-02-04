@@ -1,0 +1,57 @@
+Educational Attainment and Employment Status by Language Spoken at Home
+-----------------------------------------------------------------------
+Universe: Population 25 Years and Over
+
+B16010001 Total:
+B16010002  Less than high school graduate:
+B16010003   In labor force:
+B16010004    Speak only English
+B16010005    Speak Spanish
+B16010006    Speak other Indo-European languages
+B16010007    Speak Asian and Pacific Island languages
+B16010008    Speak other languages
+B16010009   Not in labor force:
+B16010010    Speak only English
+B16010011    Speak Spanish
+B16010012    Speak other Indo-European languages
+B16010013    Speak Asian and Pacific Island languages
+B16010014    Speak other languages
+B16010015  High school graduate (includes equivalency):
+B16010016   In labor force:
+B16010017    Speak only English
+B16010018    Speak Spanish
+B16010019    Speak other Indo-European languages
+B16010020    Speak Asian and Pacific Island languages
+B16010021    Speak other languages
+B16010022   Not in labor force:
+B16010023    Speak only English
+B16010024    Speak Spanish
+B16010025    Speak other Indo-European languages
+B16010026    Speak Asian and Pacific Island languages
+B16010027    Speak other languages
+B16010028  Some college or associate's degree:
+B16010029   In labor force:
+B16010030    Speak only English
+B16010031    Speak Spanish
+B16010032    Speak other Indo-European languages
+B16010033    Speak Asian and Pacific Island languages
+B16010034    Speak other languages
+B16010035   Not in labor force:
+B16010036    Speak only English
+B16010037    Speak Spanish
+B16010038    Speak other Indo-European languages
+B16010039    Speak Asian and Pacific Island languages
+B16010040    Speak other languages
+B16010041  Bachelor's degree or higher:
+B16010042   In labor force:
+B16010043    Speak only English
+B16010044    Speak Spanish
+B16010045    Speak other Indo-European languages
+B16010046    Speak Asian and Pacific Island languages
+B16010047    Speak other languages
+B16010048   Not in labor force:
+B16010049    Speak only English
+B16010050    Speak Spanish
+B16010051    Speak other Indo-European languages
+B16010052    Speak Asian and Pacific Island languages
+B16010053    Speak other languages

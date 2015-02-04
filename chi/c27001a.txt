@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (White Alone)
+-----------------------------------------------------
+Universe: WHITE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001A001 Total:
+C27001A002  Under 18 years:
+C27001A003   With health insurance coverage
+C27001A004   No health insurance coverage
+C27001A005  18 to 64 years:
+C27001A006   With health insurance coverage
+C27001A007   No health insurance coverage
+C27001A008  65 years and over:
+C27001A009   With health insurance coverage
+C27001A010   No health insurance coverage

@@ -1,0 +1,7 @@
+Imputation of Plumbing Facilities
+---------------------------------
+Universe: Housing Units
+
+B99259001 Total:
+B99259002  Imputed
+B99259003  Not imputed

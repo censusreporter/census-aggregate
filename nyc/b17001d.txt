@@ -1,0 +1,63 @@
+Poverty Status by Sex by Age (Asian Alone)
+------------------------------------------
+Universe: Asian Alone Population for Whom Poverty Status Is Determined
+
+B17001D001 Total:
+B17001D002  Income in the past 12 months below poverty level:
+B17001D003   Male:
+B17001D004    Under 5 years
+B17001D005    5 years
+B17001D006    6 to 11 years
+B17001D007    12 to 14 years
+B17001D008    15 years
+B17001D009    16 and 17 years
+B17001D010    18 to 24 years
+B17001D011    25 to 34 years
+B17001D012    35 to 44 years
+B17001D013    45 to 54 years
+B17001D014    55 to 64 years
+B17001D015    65 to 74 years
+B17001D016    75 years and over
+B17001D017   Female:
+B17001D018    Under 5 years
+B17001D019    5 years
+B17001D020    6 to 11 years
+B17001D021    12 to 14 years
+B17001D022    15 years
+B17001D023    16 and 17 years
+B17001D024    18 to 24 years
+B17001D025    25 to 34 years
+B17001D026    35 to 44 years
+B17001D027    45 to 54 years
+B17001D028    55 to 64 years
+B17001D029    65 to 74 years
+B17001D030    75 years and over
+B17001D031  Income in the past 12 months at or above poverty level:
+B17001D032   Male:
+B17001D033    Under 5 years
+B17001D034    5 years
+B17001D035    6 to 11 years
+B17001D036    12 to 14 years
+B17001D037    15 years
+B17001D038    16 and 17 years
+B17001D039    18 to 24 years
+B17001D040    25 to 34 years
+B17001D041    35 to 44 years
+B17001D042    45 to 54 years
+B17001D043    55 to 64 years
+B17001D044    65 to 74 years
+B17001D045    75 years and over
+B17001D046   Female:
+B17001D047    Under 5 years
+B17001D048    5 years
+B17001D049    6 to 11 years
+B17001D050    12 to 14 years
+B17001D051    15 years
+B17001D052    16 and 17 years
+B17001D053    18 to 24 years
+B17001D054    25 to 34 years
+B17001D055    35 to 44 years
+B17001D056    45 to 54 years
+B17001D057    55 to 64 years
+B17001D058    65 to 74 years
+B17001D059    75 years and over

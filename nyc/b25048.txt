@@ -1,0 +1,7 @@
+Plumbing Facilities for Occupied Housing Units
+----------------------------------------------
+Universe: Occupied Housing Units
+
+B25048001 Total:
+B25048002  Complete plumbing facilities
+B25048003  Lacking complete plumbing facilities

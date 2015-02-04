@@ -1,0 +1,45 @@
+Poverty Status of Families by Family Type by Presence of Related Children by Age of Related Children (Some Other Race Alone Householder)
+----------------------------------------------------------------------------------------------------------------------------------------
+Universe: Families With a Householder Who Is Some Other Race Alone
+
+B17010F001 Total:
+B17010F002  Income in the past 12 months below poverty level:
+B17010F003   Married-couple family:
+B17010F004    With related children under 18 years:
+B17010F005     Under 5 years only
+B17010F006     Under 5 years and 5 to 17 years
+B17010F007     5 to 17 years only
+B17010F008    No related children under 18 years
+B17010F009   Other family:
+B17010F010    Male householder, no wife present:
+B17010F011     With related children under 18 years:
+B17010F012      Under 5 years only
+B17010F013      Under 5 years and 5 to 17 years
+B17010F014      5 to 17 years only
+B17010F015     No related children under 18 years
+B17010F016    Female householder, no husband present:
+B17010F017     With related children under 18 years:
+B17010F018      Under 5 years only
+B17010F019      Under 5 years and 5 to 17 years
+B17010F020      5 to 17 years only
+B17010F021     No related children under 18 years
+B17010F022  Income in the past 12 months at or above poverty level:
+B17010F023   Married-couple family:
+B17010F024    With related children under 18 years:
+B17010F025     Under 5 years only
+B17010F026     Under 5 years and 5 to 17 years
+B17010F027     5 to 17 years only
+B17010F028    No related children under 18 years
+B17010F029   Other family:
+B17010F030    Male householder, no wife present:
+B17010F031     With related children under 18 years:
+B17010F032      Under 5 years only
+B17010F033      Under 5 years and 5 to 17 years
+B17010F034      5 to 17 years only
+B17010F035     No related children under 18 years
+B17010F036    Female householder, no husband present:
+B17010F037     With related children under 18 years:
+B17010F038      Under 5 years only
+B17010F039      Under 5 years and 5 to 17 years
+B17010F040      5 to 17 years only
+B17010F041     No related children under 18 years

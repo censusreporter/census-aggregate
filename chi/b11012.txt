@@ -1,0 +1,19 @@
+Household Type by Tenure
+------------------------
+Universe: Households
+
+B11012001 Total:
+B11012002  Family households:
+B11012003   Married-couple family:
+B11012004    Owner-occupied housing units
+B11012005    Renter-occupied housing units
+B11012006   Other family:
+B11012007    Male householder, no wife present:
+B11012008     Owner-occupied housing units
+B11012009     Renter-occupied housing units
+B11012010    Female householder, no husband present:
+B11012011     Owner-occupied housing units
+B11012012     Renter-occupied housing units
+B11012013  Nonfamily households:
+B11012014   Owner-occupied housing units
+B11012015   Renter-occupied housing units

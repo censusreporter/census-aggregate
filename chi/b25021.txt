@@ -1,0 +1,8 @@
+Median Number of Rooms by Tenure
+--------------------------------
+Universe: Occupied Housing Units
+
+B25021000.5 Median number of rooms --
+B25021001  Total:
+B25021002  Owner occupied
+B25021003  Renter occupied

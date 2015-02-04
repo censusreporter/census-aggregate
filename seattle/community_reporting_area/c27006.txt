@@ -1,0 +1,25 @@
+Medicare Coverage by Sex by Age
+-------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27006001 Total:
+C27006002  Male:
+C27006003   Under 18 years:
+C27006004    With Medicare coverage
+C27006005    No Medicare coverage
+C27006006   18 to 64 years:
+C27006007    With Medicare coverage
+C27006008    No Medicare coverage
+C27006009   65 years and over:
+C27006010    With Medicare coverage
+C27006011    No Medicare coverage
+C27006012  Female:
+C27006013   Under 18 years:
+C27006014    With Medicare coverage
+C27006015    No Medicare coverage
+C27006016   18 to 64 years:
+C27006017    With Medicare coverage
+C27006018    No Medicare coverage
+C27006019   65 years and over:
+C27006020    With Medicare coverage
+C27006021    No Medicare coverage

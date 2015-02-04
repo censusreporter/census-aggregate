@@ -1,0 +1,17 @@
+Sex by Marital Status (Asian Alone)
+-----------------------------------
+Universe: Asian Alone Population 15 Years and Over
+
+B12002D001 Total:
+B12002D002  Male:
+B12002D003   Never married
+B12002D004   Now married (except separated)
+B12002D005   Separated
+B12002D006   Widowed
+B12002D007   Divorced
+B12002D008  Female:
+B12002D009   Never married
+B12002D010   Now married (except separated)
+B12002D011   Separated
+B12002D012   Widowed
+B12002D013   Divorced

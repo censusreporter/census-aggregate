@@ -1,0 +1,88 @@
+Industry by Class of Worker for the Civilian Population
+-------------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+C24070001 Total:
+C24070002  Agriculture, forestry, fishing and hunting, and mining:
+C24070003  Construction
+C24070004  Manufacturing
+C24070005  Wholesale trade
+C24070006  Retail trade
+C24070007  Transportation and warehousing, and utilities:
+C24070008  Information
+C24070009  Finance and insurance, and real estate and rental and leasing:
+C24070010  Professional, scientific, and management, and administrative and waste management services:
+C24070011  Educational services, and  health care and social assistance:
+C24070012  Arts, entertainment, and recreation, and accommodation and food services:
+C24070013  Other services, except public administration
+C24070014  Public administration
+C24070015  Employee of private company workers:
+C24070016   Agriculture, forestry, fishing and hunting, and mining
+C24070017   Construction
+C24070018   Manufacturing
+C24070019   Wholesale trade
+C24070020   Retail trade
+C24070021   Transportation and warehousing, and utilities
+C24070022   Information
+C24070023   Finance and insurance, and real estate and rental and leasing
+C24070024   Professional, scientific, and management, and administrative and waste management services
+C24070025   Educational services, and  health care and social assistance
+C24070026   Arts, entertainment, and recreation, and accommodation and food services
+C24070027   Other services, except public administration
+C24070028   Public administration
+C24070029  Self-employed in own incorporated business workers:
+C24070030   Agriculture, forestry, fishing and hunting, and mining
+C24070031   Construction
+C24070032   Manufacturing
+C24070033   Wholesale trade
+C24070034   Retail trade
+C24070035   Transportation and warehousing, and utilities
+C24070036   Information
+C24070037   Finance and insurance, and real estate and rental and leasing
+C24070038   Professional, scientific, and management, and administrative and waste management services
+C24070039   Educational services, and  health care and social assistance
+C24070040   Arts, entertainment, and recreation, and accommodation and food services
+C24070041   Other services, except public administration
+C24070042   Public administration
+C24070043  Private not-for-profit wage and salary workers:
+C24070044   Agriculture, forestry, fishing and hunting, and mining
+C24070045   Construction
+C24070046   Manufacturing
+C24070047   Wholesale trade
+C24070048   Retail trade
+C24070049   Transportation and warehousing, and utilities
+C24070050   Information
+C24070051   Finance and insurance, and real estate and rental and leasing
+C24070052   Professional, scientific, and management, and administrative and waste management services
+C24070053   Educational services, and  health care and social assistance
+C24070054   Arts, entertainment, and recreation, and accommodation and food services
+C24070055   Other services, except public administration
+C24070056   Public administration
+C24070057  Local, state, and federal government workers:
+C24070058   Agriculture, forestry, fishing and hunting, and mining
+C24070059   Construction
+C24070060   Manufacturing
+C24070061   Wholesale trade
+C24070062   Retail trade
+C24070063   Transportation and warehousing, and utilities
+C24070064   Information
+C24070065   Finance and insurance, and real estate and rental and leasing
+C24070066   Professional, scientific, and management, and administrative and waste management services
+C24070067   Educational services, and  health care and social assistance
+C24070068   Arts, entertainment, and recreation, and accommodation and food services
+C24070069   Other services, except public administration
+C24070070   Public administration
+C24070071  Self-employed in own not incorporated business workers and unpaid family workers:
+C24070072   Agriculture, forestry, fishing and hunting, and mining
+C24070073   Construction
+C24070074   Manufacturing
+C24070075   Wholesale trade
+C24070076   Retail trade
+C24070077   Transportation and warehousing, and utilities
+C24070078   Information
+C24070079   Finance and insurance, and real estate and rental and leasing
+C24070080   Professional, scientific, and management, and administrative and waste management services
+C24070081   Educational services, and  health care and social assistance
+C24070082   Arts, entertainment, and recreation, and accommodation and food services
+C24070083   Other services, except public administration
+C24070084   Public administration

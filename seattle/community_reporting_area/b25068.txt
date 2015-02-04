@@ -1,0 +1,41 @@
+Bedrooms by Gross Rent
+----------------------
+Universe: Renter-occupied Housing Units
+
+B25068001 Total:
+B25068002  No bedroom:
+B25068003   With cash rent:
+B25068004    Less than $200
+B25068005    $200 to $299
+B25068006    $300 to $499
+B25068007    $500 to $749
+B25068008    $750 to $999
+B25068009    $1,000 or more
+B25068010   No cash rent
+B25068011  1 bedroom:
+B25068012   With cash rent:
+B25068013    Less than $200
+B25068014    $200 to $299
+B25068015    $300 to $499
+B25068016    $500 to $749
+B25068017    $750 to $999
+B25068018    $1,000 or more
+B25068019   No cash rent
+B25068020  2 bedrooms:
+B25068021   With cash rent:
+B25068022    Less than $200
+B25068023    $200 to $299
+B25068024    $300 to $499
+B25068025    $500 to $749
+B25068026    $750 to $999
+B25068027    $1,000 or more
+B25068028   No cash rent
+B25068029  3 or more bedrooms:
+B25068030   With cash rent:
+B25068031    Less than $200
+B25068032    $200 to $299
+B25068033    $300 to $499
+B25068034    $500 to $749
+B25068035    $750 to $999
+B25068036    $1,000 or more
+B25068037   No cash rent

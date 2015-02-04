@@ -1,0 +1,7 @@
+Supplemental Security Income (SSI) for Households
+-------------------------------------------------
+Universe: Households
+
+B19056001 Total:
+B19056002  With Supplemental Security Income (SSI)
+B19056003  No Supplemental Security Income (SSI)

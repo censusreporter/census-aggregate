@@ -1,0 +1,5 @@
+Median Nonfamily Household Income (Hispanic or Latino Householder)
+------------------------------------------------------------------
+Universe: Nonfamily Households With a Householder Who Is Hispanic or Latino
+
+B19202I001 Median nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

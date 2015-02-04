@@ -1,0 +1,54 @@
+area_id,area_name,b23013001,b23013001_moe,b23013002,b23013002_moe,b23013003,b23013003_moe
+1.1,Arbor Heights,87,2,87,2,86,3
+1.2,Fauntleroy/Seaview,86,2,87,3,86,2
+1.3,West Seattle Junction/Genesee Hill,122,2,123,3,122,4
+1.4,Alki/Admiral,88,3,90,3,85,4
+2.1,North Delridge,37,2,40,3,35,4
+2.2,High Point,70,4,72,8,74,4
+2.3,Riverview,39,1,38,2,40,3
+2.4,Roxhill/Westwood,116,6,113,9,120,11
+2.5,Highland Park,81,8,81,4,81,18
+3.1,South Park,36,3,37,3,34,4
+3.2,Georgetown,41,4,42,3,34,11
+3.3,Duwamish/SODO,34,5,38,8,32,2
+3.4,South Beacon Hill/NewHolly,117,6,116,9,119,7
+3.5,Beacon Hill,84,4,84,5,85,4
+3.6,North Beacon Hill/Jefferson Park,111,5,109,5,114,7
+4.1,Rainier Beach,84,3,86,5,84,6
+4.2,Columbia City,121,3,122,6,118,5
+4.3,Seward Park,85,4,83,6,91,10
+4.4,Mt. Baker/North Rainier,44,2,46,5,43,2
+5.1,Madrona/Leschi,83,3,84,4,80,7
+5.2,Judkins Park,34,4,33,5,36,4
+5.3,Central Area/Squire Park,141,5,146,8,134,7
+6.1,First Hill,119,4,124,4,113,5
+6.2,Capitol Hill,125,3,129,4,120,4
+6.3,North Capitol Hill,40,4,41,2,35,3
+6.4,Miller Park,74,2,76,3,71,4
+6.5,Madison Park,41,1,42,3,40,3
+7.1,Montlake/Portage Bay,74,4,77,4,71,5
+7.2,University District,64,2,66,2,63,1
+7.3,Ravenna/Bryant,212,8,207,12,214,13
+7.4,Wedgwood/View Ridge,170,5,167,4,172,6
+7.5,Laurelhurst/Sand Point,81,3,83,4,80,5
+8.1,Northgate/Maple Leaf,112,3,111,6,113,5
+8.2,Olympic Hills/Victory Heights,114,5,111,7,116,7
+8.3,Cedar Park/Meadowbrook,168,7,169,5,166,13
+9.1,Broadview/Bitter Lake,127,5,130,6,125,7
+9.2,Licton Springs,63,3,66,4,60,4
+9.3,Greenwood/Phinney Ridge,233,6,238,8,228,8
+9.4,Green Lake,107,4,106,6,110,5
+9.5,Haller Lake,83,5,84,5,81,5
+10.1,North Beach/Blue Ridge,129,4,128,5,131,6
+10.2,Whittier Heights,77,3,76,4,77,3
+10.3,Sunset Hill/Loyal Heights,79,4,81,5,78,5
+10.4,Ballard,33,1,32,2,33,2
+11.1,Fremont,101,3,103,5,100,4
+11.2,Wallingford,130,4,129,7,130,7
+11.3,Cascade/Eastlake,94,2,97,4,92,4
+12.1,Magnolia,90,5,92,4,90,8
+12.2,Interbay,72,4,72,5,72,4
+12.3,Queen Anne,240,6,247,7,228,8
+13.1,Belltown,67,4,68,7,67,6
+13.2,Downtown Commercial Core,36,4,37,5,35,4
+13.3,Pioneer Square/International District,77,8,81,9,75,9

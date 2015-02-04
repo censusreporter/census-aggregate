@@ -1,0 +1,11 @@
+Aggregate Earnings by Sex by Work Experience With Earnings
+----------------------------------------------------------
+Universe: Population 16 Years and Over With Earnings
+
+B20003001 Aggregate earnings in the past 12 months (in 2012 inflation-adjusted dollars):
+B20003002  Male:
+B20003003   Worked full-time, year-round in the past 12 months
+B20003004   Other
+B20003005  Female:
+B20003006   Worked full-time, year-round in the past 12 months
+B20003007   Other

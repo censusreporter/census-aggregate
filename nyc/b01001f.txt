@@ -1,0 +1,35 @@
+Sex by Age (Some Other Race Alone)
+----------------------------------
+Universe: People Who Are Some Other Race Alone
+
+B01001F001 Total:
+B01001F002  Male:
+B01001F003   Under 5 years
+B01001F004   5 to 9 years
+B01001F005   10 to 14 years
+B01001F006   15 to 17 years
+B01001F007   18 and 19 years
+B01001F008   20 to 24 years
+B01001F009   25 to 29 years
+B01001F010   30 to 34 years
+B01001F011   35 to 44 years
+B01001F012   45 to 54 years
+B01001F013   55 to 64 years
+B01001F014   65 to 74 years
+B01001F015   75 to 84 years
+B01001F016   85 years and over
+B01001F017  Female:
+B01001F018   Under 5 years
+B01001F019   5 to 9 years
+B01001F020   10 to 14 years
+B01001F021   15 to 17 years
+B01001F022   18 and 19 years
+B01001F023   20 to 24 years
+B01001F024   25 to 29 years
+B01001F025   30 to 34 years
+B01001F026   35 to 44 years
+B01001F027   45 to 54 years
+B01001F028   55 to 64 years
+B01001F029   65 to 74 years
+B01001F030   75 to 84 years
+B01001F031   85 years and over

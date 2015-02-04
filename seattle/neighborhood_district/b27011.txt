@@ -1,0 +1,39 @@
+Health Insurance Coverage Status and Type by Employment Status by Age
+---------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 18 Years and Over
+
+B27011001 Total:
+B27011002  In labor force:
+B27011003   Employed:
+B27011004    18 to 64 years:
+B27011005     With health insurance coverage
+B27011006      With private health insurance
+B27011007      With public coverage
+B27011008     No health insurance coverage
+B27011009    65 years and over:
+B27011010     With health insurance coverage
+B27011011      With private health insurance
+B27011012      With public coverage
+B27011013     No health insurance coverage
+B27011014   Unemployed:
+B27011015    18 to 64 years:
+B27011016     With health insurance coverage
+B27011017      With private health insurance
+B27011018      With public coverage
+B27011019     No health insurance coverage
+B27011020    65 years and over:
+B27011021     With health insurance coverage
+B27011022      With private health insurance
+B27011023      With public coverage
+B27011024     No health insurance coverage
+B27011025  Not in labor force:
+B27011026   18 to 64 years:
+B27011027    With health insurance coverage
+B27011028     With private health insurance
+B27011029     With public coverage
+B27011030    No health insurance coverage
+B27011031   65 years and over:
+B27011032    With health insurance coverage
+B27011033     With private health insurance
+B27011034     With public coverage
+B27011035    No health insurance coverage

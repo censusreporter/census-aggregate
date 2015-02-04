@@ -1,0 +1,17 @@
+Age by Number of Disabilities
+-----------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C18108001 Total:
+C18108002  Under 18 years:
+C18108003   With one type of disability
+C18108004   With two or more types of disability
+C18108005   No disability
+C18108006  18 to 64 years:
+C18108007   With one type of disability
+C18108008   With two or more types of disability
+C18108009   No disability
+C18108010  65 years and over:
+C18108011   With one type of disability
+C18108012   With two or more types of disability
+C18108013   No disability

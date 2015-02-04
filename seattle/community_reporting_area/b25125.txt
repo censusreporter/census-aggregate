@@ -1,0 +1,49 @@
+Tenure by Age of Householder by Units in Structure
+--------------------------------------------------
+Universe: Occupied Housing Units
+
+B25125001 Total:
+B25125002  Owner occupied:
+B25125003   Householder 15 to 34 years:
+B25125004    1, detached  or attached
+B25125005    2 to 4
+B25125006    5 to 19
+B25125007    20 to 49
+B25125008    50 or more
+B25125009    Mobile home, boat, RV, van, etc.
+B25125010   Householder 35 to 64 years:
+B25125011    1, detached  or attached
+B25125012    2 to 4
+B25125013    5 to 19
+B25125014    20 to 49
+B25125015    50 or more
+B25125016    Mobile home, boat, RV, van, etc.
+B25125017   Householder 65 years and over:
+B25125018    1, detached  or attached
+B25125019    2 to 4
+B25125020    5 to 19
+B25125021    20 to 49
+B25125022    50 or more
+B25125023    Mobile home, boat, RV, van, etc.
+B25125024  Renter occupied:
+B25125025   Householder 15 to 34 years:
+B25125026    1, detached  or attached
+B25125027    2 to 4
+B25125028    5 to 19
+B25125029    20 to 49
+B25125030    50 or more
+B25125031    Mobile home, boat, RV, van, etc.
+B25125032   Householder 35 to 64 years:
+B25125033    1, detached  or attached
+B25125034    2 to 4
+B25125035    5 to 19
+B25125036    20 to 49
+B25125037    50 or more
+B25125038    Mobile home, boat, RV, van, etc.
+B25125039   Householder 65 years and over:
+B25125040    1, detached  or attached
+B25125041    2 to 4
+B25125042    5 to 19
+B25125043    20 to 49
+B25125044    50 or more
+B25125045    Mobile home, boat, RV, van, etc.

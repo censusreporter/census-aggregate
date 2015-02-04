@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino, Population 3 Years and Over
+
+B14007H001 Total:
+B14007H002  Enrolled in school:
+B14007H003   Enrolled in nursery school, preschool
+B14007H004   Enrolled in kindergarten
+B14007H005   Enrolled in grade 1
+B14007H006   Enrolled in grade 2
+B14007H007   Enrolled in grade 3
+B14007H008   Enrolled in grade 4
+B14007H009   Enrolled in grade 5
+B14007H010   Enrolled in grade 6
+B14007H011   Enrolled in grade 7
+B14007H012   Enrolled in grade 8
+B14007H013   Enrolled in grade 9
+B14007H014   Enrolled in grade 10
+B14007H015   Enrolled in grade 11
+B14007H016   Enrolled in grade 12
+B14007H017   Enrolled in college, undergraduate years
+B14007H018   Graduate or professional school
+B14007H019  Not enrolled in school

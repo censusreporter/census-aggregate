@@ -1,0 +1,5 @@
+Median Contract Rent (Dollars)
+------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25058001 Median contract rent

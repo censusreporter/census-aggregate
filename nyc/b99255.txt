@@ -1,0 +1,7 @@
+Imputation of Units in Structure
+--------------------------------
+Universe: Housing Units
+
+B99255001 Total:
+B99255002  Imputed
+B99255003  Not imputed

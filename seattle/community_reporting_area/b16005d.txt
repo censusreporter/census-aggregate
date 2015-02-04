@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (Asian Alone)
+-----------------------------------------------------------------------------
+Universe: Asian Alone Population 5 Years and Over
+
+B16005D001 Total:
+B16005D002  Native:
+B16005D003   Speak only English
+B16005D004   Speak another language
+B16005D005    Speak English "very well"
+B16005D006    Speak English less than "very well"
+B16005D007  Foreign born:
+B16005D008   Speak only English
+B16005D009   Speak another language
+B16005D010    Speak English "very well"
+B16005D011    Speak English less than "very well"

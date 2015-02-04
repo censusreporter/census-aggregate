@@ -1,0 +1,11 @@
+Receipt of Food Stamps/SNAP by Presence of People 60 Years and Over for Households
+----------------------------------------------------------------------------------
+Universe: Households
+
+B22001001 Total:
+B22001002  Household received Food Stamps/SNAP in the past 12 months:
+B22001003   At least one person in household 60 years or over
+B22001004   No people in household 60 years or over
+B22001005  Household did not receive Food Stamps/SNAP in the past 12 months:
+B22001006   At least one person in household 60 years or over
+B22001007   No people in household 60 years or over

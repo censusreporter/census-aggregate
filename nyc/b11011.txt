@@ -1,0 +1,23 @@
+Household Type by Units in Structure
+------------------------------------
+Universe: Households
+
+B11011001 Total:
+B11011002  Family households:
+B11011003   Married-couple family:
+B11011004    1-unit structures
+B11011005    2-or-more-unit structures
+B11011006    Mobile homes and all other types of units
+B11011007   Other family:
+B11011008    Male householder, no wife present:
+B11011009     1-unit structures
+B11011010     2-or-more-unit structures
+B11011011     Mobile homes and all other types of units
+B11011012    Female householder, no husband present:
+B11011013     1-unit structures
+B11011014     2-or-more-unit structures
+B11011015     Mobile homes and all other types of units
+B11011016  Nonfamily households:
+B11011017   1-unit structures
+B11011018   2-or-more-unit structures
+B11011019   Mobile homes and all other types of units

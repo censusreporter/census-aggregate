@@ -1,0 +1,41 @@
+Age and Nativity of Own Children in Families and Subfamilies by Number and Nativity of Parents
+----------------------------------------------------------------------------------------------
+Universe: Own Children Under 18 Years Living in Families or Subfamilies
+
+B05009001 Total:
+B05009002  Under 6 years:
+B05009003   Living with two parents:
+B05009004     Child is native
+B05009005     Child is foreign born
+B05009006    Both parents native
+B05009007    Both parents foreign born:
+B05009008     Child is native
+B05009009     Child is foreign born
+B05009010    One native and one foreign-born parent:
+B05009011     Child is native
+B05009012     Child is foreign born
+B05009013   Living with one parent:
+B05009014     Child is native
+B05009015     Child is foreign born
+B05009016    Native parent
+B05009017    Foreign-born parent:
+B05009018     Child is native
+B05009019     Child is foreign born
+B05009020  6 to 17 years:
+B05009021   Living with two parents:
+B05009022     Child is native
+B05009023     Child is foreign born
+B05009024    Both parents native
+B05009025    Both parents foreign born:
+B05009026     Child is native
+B05009027     Child is foreign born
+B05009028    One native and one foreign-born parent:
+B05009029     Child is native
+B05009030     Child is foreign born
+B05009031   Living with one parent:
+B05009032     Child is native
+B05009033     Child is foreign born
+B05009034    Native parent
+B05009035    Foreign-born parent:
+B05009036     Child is native
+B05009037     Child is foreign born

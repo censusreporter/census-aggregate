@@ -1,0 +1,8 @@
+Median Earnings by Sex With Earnings
+------------------------------------
+Universe: Population 16 Years and Over With Earnings
+
+B20002000.5 Median earnings in the past 12 months (in 2012 inflation-adjusted dollars) --
+B20002001  Total:
+B20002002  Male
+B20002003  Female

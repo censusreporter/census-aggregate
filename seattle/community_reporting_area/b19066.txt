@@ -1,0 +1,5 @@
+Aggregate Supplemental Security Income (SSI) for Households
+-----------------------------------------------------------
+Universe: Households
+
+B19066001 Aggregate Supplemental Security Income (SSI) in the past 12 months (in 2012 inflation-adjusted dollars)

@@ -1,0 +1,23 @@
+Poverty Status of Individuals by Sex by Work Experience
+-------------------------------------------------------
+Universe: Population 16 Years and Over for Whom Poverty Status Is Determined
+
+B17004001 Total:
+B17004002  Income in the past 12 months below poverty level:
+B17004003   Male:
+B17004004    Worked full time, year-round
+B17004005    Worked part-time or part-year
+B17004006    Did not work
+B17004007   Female:
+B17004008    Worked full time, year-round
+B17004009    Worked part-time or part-year
+B17004010    Did not work
+B17004011  Income in the past 12 months at or above poverty level:
+B17004012   Male:
+B17004013    Worked full time, year-round
+B17004014    Worked part-time or part-year
+B17004015    Did not work
+B17004016   Female:
+B17004017    Worked full time, year-round
+B17004018    Worked part-time or part-year
+B17004019    Did not work

@@ -1,0 +1,5 @@
+Aggregate Gross Rent (Dollars)
+------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25065001 Aggregate gross rent

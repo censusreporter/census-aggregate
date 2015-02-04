@@ -1,0 +1,15 @@
+Disability Status of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+------------------------------------------------------------------------------------------------------------------------------
+Universe: Civilian Grandparents Living With Own Grandchildren Under 18 Years
+
+B10052001 Total:
+B10052002  With any disability:
+B10052003   Grandparent responsible for own grandchildren under 18 years:
+B10052004    30 to 59 years
+B10052005    60 years and over
+B10052006   Grandparent not responsible for own grandchildren under 18 years
+B10052007  No disability:
+B10052008   Grandparent responsible for own grandchildren under 18 years:
+B10052009    30 to 59 years
+B10052010    60 years and over
+B10052011   Grandparent not responsible for own grandchildren under 18 years

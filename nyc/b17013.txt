@@ -1,0 +1,39 @@
+Poverty Status of Families by Household Type by Number of Persons in Family
+---------------------------------------------------------------------------
+Universe: Families
+
+B17013001 Total:
+B17013002  Income in the past 12 months below poverty level:
+B17013003   Married-couple family:
+B17013004     2 people
+B17013005     3 to 4 people
+B17013006     5 to 6 people
+B17013007     7 or more people
+B17013008   Other families:
+B17013009    Male householder, no wife present:
+B17013010     2 people
+B17013011     3 to 4 people
+B17013012     5 to 6 people
+B17013013     7 or more people
+B17013014    Female householder, no husband present:
+B17013015     2 people
+B17013016     3 to 4 people
+B17013017     5 to 6 people
+B17013018     7 or more people
+B17013019  Income in the past 12 months at or above poverty level:
+B17013020   Married-couple family:
+B17013021     2 people
+B17013022     3 to 4 people
+B17013023     5 to 6 people
+B17013024     7 or more people
+B17013025   Other families:
+B17013026    Male householder, no wife present:
+B17013027     2 people
+B17013028     3 to 4 people
+B17013029     5 to 6 people
+B17013030     7 or more people
+B17013031    Female householder, no husband present:
+B17013032     2 people
+B17013033     3 to 4 people
+B17013034     5 to 6 people
+B17013035     7 or more people

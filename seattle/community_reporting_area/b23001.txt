@@ -1,0 +1,177 @@
+Sex by Age by Employment Status
+-------------------------------
+Universe: Population 16 Years and Over
+
+B23001001 Total:
+B23001002  Male:
+B23001003   16 to 19 years:
+B23001004    In labor force:
+B23001005     In Armed Forces
+B23001006     Civilian:
+B23001007      Employed
+B23001008      Unemployed
+B23001009    Not in labor force
+B23001010   20 and 21 years:
+B23001011    In labor force:
+B23001012     In Armed Forces
+B23001013     Civilian:
+B23001014      Employed
+B23001015      Unemployed
+B23001016    Not in labor force
+B23001017   22 to 24 years:
+B23001018    In labor force:
+B23001019     In Armed Forces
+B23001020     Civilian:
+B23001021      Employed
+B23001022      Unemployed
+B23001023    Not in labor force
+B23001024   25 to 29 years:
+B23001025    In labor force:
+B23001026     In Armed Forces
+B23001027     Civilian:
+B23001028      Employed
+B23001029      Unemployed
+B23001030    Not in labor force
+B23001031   30 to 34 years:
+B23001032    In labor force:
+B23001033     In Armed Forces
+B23001034     Civilian:
+B23001035      Employed
+B23001036      Unemployed
+B23001037    Not in labor force
+B23001038   35 to 44 years:
+B23001039    In labor force:
+B23001040     In Armed Forces
+B23001041     Civilian:
+B23001042      Employed
+B23001043      Unemployed
+B23001044    Not in labor force
+B23001045   45 to 54 years:
+B23001046    In labor force:
+B23001047     In Armed Forces
+B23001048     Civilian:
+B23001049      Employed
+B23001050      Unemployed
+B23001051    Not in labor force
+B23001052   55 to 59 years:
+B23001053    In labor force:
+B23001054     In Armed Forces
+B23001055     Civilian:
+B23001056      Employed
+B23001057      Unemployed
+B23001058    Not in labor force
+B23001059   60 and 61 years:
+B23001060    In labor force:
+B23001061     In Armed Forces
+B23001062     Civilian:
+B23001063      Employed
+B23001064      Unemployed
+B23001065    Not in labor force
+B23001066   62 to 64 years:
+B23001067    In labor force:
+B23001068     In Armed Forces
+B23001069     Civilian:
+B23001070      Employed
+B23001071      Unemployed
+B23001072    Not in labor force
+B23001073   65 to 69 years:
+B23001074    In labor force:
+B23001075      Employed
+B23001076      Unemployed
+B23001077    Not in labor force
+B23001078   70 to 74 years:
+B23001079    In labor force:
+B23001080      Employed
+B23001081      Unemployed
+B23001082    Not in labor force
+B23001083   75 years and over:
+B23001084    In labor force:
+B23001085      Employed
+B23001086      Unemployed
+B23001087    Not in labor force
+B23001088  Female:
+B23001089   16 to 19 years:
+B23001090    In labor force:
+B23001091     In Armed Forces
+B23001092     Civilian:
+B23001093      Employed
+B23001094      Unemployed
+B23001095    Not in labor force
+B23001096   20 and 21 years:
+B23001097    In labor force:
+B23001098     In Armed Forces
+B23001099     Civilian:
+B23001100      Employed
+B23001101      Unemployed
+B23001102    Not in labor force
+B23001103   22 to 24 years:
+B23001104    In labor force:
+B23001105     In Armed Forces
+B23001106     Civilian:
+B23001107      Employed
+B23001108      Unemployed
+B23001109    Not in labor force
+B23001110   25 to 29 years:
+B23001111    In labor force:
+B23001112     In Armed Forces
+B23001113     Civilian:
+B23001114      Employed
+B23001115      Unemployed
+B23001116    Not in labor force
+B23001117   30 to 34 years:
+B23001118    In labor force:
+B23001119     In Armed Forces
+B23001120     Civilian:
+B23001121      Employed
+B23001122      Unemployed
+B23001123    Not in labor force
+B23001124   35 to 44 years:
+B23001125    In labor force:
+B23001126     In Armed Forces
+B23001127     Civilian:
+B23001128      Employed
+B23001129      Unemployed
+B23001130    Not in labor force
+B23001131   45 to 54 years:
+B23001132    In labor force:
+B23001133     In Armed Forces
+B23001134     Civilian:
+B23001135      Employed
+B23001136      Unemployed
+B23001137    Not in labor force
+B23001138   55 to 59 years:
+B23001139    In labor force:
+B23001140     In Armed Forces
+B23001141     Civilian:
+B23001142      Employed
+B23001143      Unemployed
+B23001144    Not in labor force
+B23001145   60 and 61 years:
+B23001146    In labor force:
+B23001147     In Armed Forces
+B23001148     Civilian:
+B23001149      Employed
+B23001150      Unemployed
+B23001151    Not in labor force
+B23001152   62 to 64 years:
+B23001153    In labor force:
+B23001154     In Armed Forces
+B23001155     Civilian:
+B23001156      Employed
+B23001157      Unemployed
+B23001158    Not in labor force
+B23001159   65 to 69 years:
+B23001160    In labor force:
+B23001161      Employed
+B23001162      Unemployed
+B23001163    Not in labor force
+B23001164   70 to 74 years:
+B23001165    In labor force:
+B23001166      Employed
+B23001167      Unemployed
+B23001168    Not in labor force
+B23001169   75 years and over:
+B23001170    In labor force:
+B23001171      Employed
+B23001172      Unemployed
+B23001173    Not in labor force

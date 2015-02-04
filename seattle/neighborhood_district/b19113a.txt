@@ -1,0 +1,5 @@
+Median Family Income (White Alone Householder)
+----------------------------------------------
+Universe: Families With a Householder Who Is White Alone
+
+B19113A001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

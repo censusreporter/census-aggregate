@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (White Alone)
+---------------------------------------------
+Universe: White Alone Population 16 Years and Over
+
+C23002A001 Total:
+C23002A002  Male:
+C23002A003   16 to 64 years:
+C23002A004    In labor force:
+C23002A005     In Armed Forces
+C23002A006     Civilian:
+C23002A007      Employed
+C23002A008      Unemployed
+C23002A009    Not in labor force
+C23002A010   65 years and over:
+C23002A011    In labor force:
+C23002A012      Employed
+C23002A013      Unemployed
+C23002A014    Not in labor force
+C23002A015  Female:
+C23002A016   16 to 64 years:
+C23002A017    In labor force:
+C23002A018     In Armed Forces
+C23002A019     Civilian:
+C23002A020      Employed
+C23002A021      Unemployed
+C23002A022    Not in labor force
+C23002A023   65 years and over:
+C23002A024    In labor force:
+C23002A025      Employed
+C23002A026      Unemployed
+C23002A027    Not in labor force

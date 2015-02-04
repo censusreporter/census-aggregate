@@ -1,0 +1,19 @@
+Place of Birth by Nativity and Citizenship Status
+-------------------------------------------------
+Universe: Total Population
+
+B05002001 Total:
+B05002002  Native:
+B05002003   Born in state of residence
+B05002004   Born in other state in the United States:
+B05002005    Northeast
+B05002006    Midwest
+B05002007    South
+B05002008    West
+B05002009   Born outside the United States:
+B05002010    Puerto Rico
+B05002011    U.S. Island Areas
+B05002012    Born abroad of American parent(s)
+B05002013  Foreign born:
+B05002014   Naturalized U.S. citizen
+B05002015   Not a U.S. citizen

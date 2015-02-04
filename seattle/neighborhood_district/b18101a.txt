@@ -1,0 +1,14 @@
+Age by Disability Status (White Alone)
+--------------------------------------
+Universe: White Alone Civilian Noninstitutionalized Population
+
+B18101A001 Total:
+B18101A002  Under 18 years:
+B18101A003   With a disability
+B18101A004   No disability
+B18101A005  18 to 64 years:
+B18101A006   With a disability
+B18101A007   No disability
+B18101A008  65 years and over:
+B18101A009   With a disability
+B18101A010   No disability

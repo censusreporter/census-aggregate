@@ -1,0 +1,25 @@
+Tenure by Rooms
+---------------
+Universe: Occupied Housing Units
+
+B25020001 Total:
+B25020002  Owner occupied:
+B25020003   1 room
+B25020004   2 rooms
+B25020005   3 rooms
+B25020006   4 rooms
+B25020007   5 rooms
+B25020008   6 rooms
+B25020009   7 rooms
+B25020010   8 rooms
+B25020011   9 or more rooms
+B25020012  Renter occupied:
+B25020013   1 room
+B25020014   2 rooms
+B25020015   3 rooms
+B25020016   4 rooms
+B25020017   5 rooms
+B25020018   6 rooms
+B25020019   7 rooms
+B25020020   8 rooms
+B25020021   9 or more rooms

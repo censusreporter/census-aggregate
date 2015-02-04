@@ -1,0 +1,7 @@
+Tenure (Two or More Races Householder)
+--------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Two or More Races
+
+B25003G001 Total:
+B25003G002  Owner occupied
+B25003G003  Renter occupied

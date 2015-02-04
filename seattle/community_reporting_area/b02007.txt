@@ -1,0 +1,19 @@
+Native Hawaiian and Other Pacific Islander Alone by Selected Groups
+-------------------------------------------------------------------
+Universe: Total Native Hawaiian and Other Pacific Islander Alone Population
+
+B02007001 Total:
+B02007002  Polynesian:
+B02007003   Native Hawaiian
+B02007004   Samoan
+B02007005   Tongan
+B02007006   Other Polynesian
+B02007007  Micronesian:
+B02007008   Guamanian or Chamorro
+B02007009   Other Micronesian
+B02007010  Melanesian :
+B02007011   Fijian
+B02007012   Other Melanesian
+B02007013  Other Pacific Islander
+B02007014  Other Pacific Islander, not specified (check box only)
+B02007015  Other Pacific Islander, not specified

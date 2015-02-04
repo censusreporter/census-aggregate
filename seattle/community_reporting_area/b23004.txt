@@ -1,0 +1,23 @@
+Work Status by Age by Employment Status for the Civilian Population 65 Years and Over
+-------------------------------------------------------------------------------------
+Universe: Civilian Population 65 Years and Over
+
+B23004001 Total:
+B23004002  Worked in the past 12 months:
+B23004003   65 to 74 years:
+B23004004    In labor force:
+B23004005     Employed
+B23004006     Unemployed
+B23004007    Not in labor force
+B23004008   75 years and over:
+B23004009    In labor force:
+B23004010     Employed
+B23004011     Unemployed
+B23004012    Not in labor force
+B23004013  Did not work in the past 12 months:
+B23004014   65 to 74 years:
+B23004015    Unemployed
+B23004016    Not in labor force
+B23004017   75 years and over:
+B23004018    Unemployed
+B23004019    Not in labor force

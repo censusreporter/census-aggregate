@@ -1,0 +1,13 @@
+Imputation of Nonfamily Household Income -- Percent of Income Imputed
+---------------------------------------------------------------------
+Universe: Nonfamily Households
+
+B99194001 Total:
+B99194001.5 Percent of income imputed --
+B99194002  No income imputed
+B99194003  Dollar value of zero imputed
+B99194004  More than 0 to less than 10 percent of total income for household imputed
+B99194005  10 to less than 25 percent of total income for household imputed
+B99194006  25 to less than 50 percent of total income for household imputed
+B99194007  50 to less than 100 percent of total income for household imputed
+B99194008  100 percent of total income for household imputed

@@ -1,0 +1,11 @@
+Women Who Had a Birth by Marital Status (Asian Alone)
+-----------------------------------------------------
+Universe: Asian Alone Women 15 to 50 Years
+
+B13002D001 Total:
+B13002D002  Women who had a birth in the past 12 months:
+B13002D003   Now married (including separated and spouse absent)
+B13002D004   Unmarried (never married, widowed and divorced)
+B13002D005  Women who did not have a birth in the past 12 months:
+B13002D006   Now married (including separated and spouse absent)
+B13002D007   Unmarried (never married, widowed and divorced)

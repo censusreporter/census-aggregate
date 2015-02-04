@@ -1,0 +1,27 @@
+Sex by Age by Nativity and Citizenship Status (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------------
+Universe: People Who Are American Indian and Alaska Native Alone
+
+B05003C001 Total:
+B05003C002  Male:
+B05003C003   Under 18 years:
+B05003C004    Native
+B05003C005    Foreign born:
+B05003C006     Naturalized U.S. citizen
+B05003C007     Not a U.S. citizen
+B05003C008   18 years and over:
+B05003C009    Native
+B05003C010    Foreign born:
+B05003C011     Naturalized U.S. citizen
+B05003C012     Not a U.S. citizen
+B05003C013  Female:
+B05003C014   Under 18 years:
+B05003C015    Native
+B05003C016    Foreign born:
+B05003C017     Naturalized U.S. citizen
+B05003C018     Not a U.S. citizen
+B05003C019   18 years and over:
+B05003C020    Native
+B05003C021    Foreign born:
+B05003C022     Naturalized U.S. citizen
+B05003C023     Not a U.S. citizen

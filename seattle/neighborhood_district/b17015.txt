@@ -1,0 +1,51 @@
+Poverty Status of Families by Family Type by Social Security Income by Supplemental Security Income (SSI) and Cash Public Assistance Income
+-------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Families
+
+B17015001 Total:
+B17015002  Income in the past 12 months below poverty level:
+B17015003   Married-couple family:
+B17015004    With Social Security income in the past 12 months:
+B17015005     With SSI and/or cash public assistance income in the past 12 months
+B17015006     Without SSI or cash public assistance income in the past 12 months
+B17015007    Without Social Security income in the past 12 months:
+B17015008     With SSI and/or cash public assistance income in the past 12 months
+B17015009     Without SSI or cash public assistance income in the past 12 months
+B17015010   Other family:
+B17015011    Male householder, no wife present:
+B17015012     With Social Security income in the past 12 months:
+B17015013      With SSI and/or cash public assistance income in the past 12 months
+B17015014      Without SSI or cash public assistance income in the past 12 months
+B17015015     Without Social Security income in the past 12 months:
+B17015016      With SSI and/or cash public assistance income in the past 12 months
+B17015017      Without SSI or cash public assistance income in the past 12 months
+B17015018    Female householder, no husband present:
+B17015019     With Social Security income in the past 12 months:
+B17015020      With SSI and/or cash public assistance income in the past 12 months
+B17015021      Without SSI or cash public assistance income in the past 12 months
+B17015022     Without Social Security income in the past 12 months:
+B17015023      With SSI and/or cash public assistance income in the past 12 months
+B17015024      Without SSI or cash public assistance income in the past 12 months
+B17015025  Income in the past 12 months at or above poverty level:
+B17015026   Married-couple family:
+B17015027    With Social Security income in the past 12 months:
+B17015028     With SSI and/or cash public assistance income in the past 12 months
+B17015029     Without SSI or cash public assistance income in the past 12 months
+B17015030    Without Social Security income in the past 12 months:
+B17015031     With SSI and/or cash public assistance income in the past 12 months
+B17015032     Without SSI or cash public assistance income in the past 12 months
+B17015033   Other family:
+B17015034    Male householder, no wife present:
+B17015035     With Social Security income in the past 12 months:
+B17015036      With SSI and/or cash public assistance income in the past 12 months
+B17015037      Without SSI or cash public assistance income in the past 12 months
+B17015038     Without Social Security income in the past 12 months:
+B17015039      With SSI and/or cash public assistance income in the past 12 months
+B17015040      Without SSI or cash public assistance income in the past 12 months
+B17015041    Female householder, no husband present:
+B17015042     With Social Security income in the past 12 months:
+B17015043      With SSI and/or cash public assistance income in the past 12 months
+B17015044      Without SSI or cash public assistance income in the past 12 months
+B17015045     Without Social Security income in the past 12 months:
+B17015046      With SSI and/or cash public assistance income in the past 12 months
+B17015047      Without SSI or cash public assistance income in the past 12 months

@@ -1,0 +1,11 @@
+Bedrooms
+--------
+Universe: Housing Units
+
+B25041001 Total:
+B25041002  No bedroom
+B25041003  1 bedroom
+B25041004  2 bedrooms
+B25041005  3 bedrooms
+B25041006  4 bedrooms
+B25041007  5 or more bedrooms

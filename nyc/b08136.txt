@@ -1,0 +1,16 @@
+Aggregate Travel Time to Work of Workers by Means of Transportation to Work
+---------------------------------------------------------------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08136001 Aggregate travel time to work (in minutes):
+B08136002  Car, truck, or van:
+B08136003   Drove alone
+B08136004   Carpooled:
+B08136005    In 2-person carpool
+B08136006    In 3-or-more-person carpool
+B08136007  Public transportation (excluding taxicab):
+B08136008   Bus or trolley bus
+B08136009   Streetcar or trolley car (carro publico in Puerto Rico), subway or elevated
+B08136010   Railroad or ferryboat
+B08136011  Walked
+B08136012  Taxicab, motorcycle, bicycle, or other means

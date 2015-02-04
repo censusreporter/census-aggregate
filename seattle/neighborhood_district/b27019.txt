@@ -1,0 +1,47 @@
+Health Insurance Coverage Status and Type by Age by Educational Attainment
+--------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 25 Years and Over
+
+B27019001 Total:
+B27019002  25 to 64 years:
+B27019003   Less than high school graduate:
+B27019004    With health insurance coverage
+B27019005     With private health insurance
+B27019006     With public coverage
+B27019007    No health insurance coverage
+B27019008   High school graduate (includes equivalency):
+B27019009    With health insurance coverage
+B27019010     With private health insurance
+B27019011     With public coverage
+B27019012    No health insurance coverage
+B27019013   Some college or associate's degree:
+B27019014    With health insurance coverage
+B27019015     With private health insurance
+B27019016     With public coverage
+B27019017    No health insurance coverage
+B27019018   Bachelor's degree or higher:
+B27019019    With health insurance coverage
+B27019020     With private health insurance
+B27019021     With public coverage
+B27019022    No health insurance coverage
+B27019023  65 years and over:
+B27019024   Less than high school graduate:
+B27019025    With health insurance coverage
+B27019026     With private health insurance
+B27019027     With public coverage
+B27019028    No health insurance coverage
+B27019029   High school graduate (includes equivalency):
+B27019030    With health insurance coverage
+B27019031     With private health insurance
+B27019032     With public coverage
+B27019033    No health insurance coverage
+B27019034   Some college or associate's degree:
+B27019035    With health insurance coverage
+B27019036     With private health insurance
+B27019037     With public coverage
+B27019038    No health insurance coverage
+B27019039   Bachelor's degree or higher:
+B27019040    With health insurance coverage
+B27019041     With private health insurance
+B27019042     With public coverage
+B27019043    No health insurance coverage

@@ -1,0 +1,78 @@
+area_id,area_name,b25014g001,b25014g001_moe,b25014g002,b25014g002_moe,b25014g003,b25014g003_moe
+1,Rogers Park,572,167,537,158,35,72
+2,West Ridge,464,170,459,169,5,51
+3,Uptown,750,245,731,243,19,53
+4,Lincoln Square,312,128,312,128,0,40
+5,North Center,233,94,233,94,0,43
+6,Lake View,752,192,735,190,17,70
+7,Lincoln Park,461,167,461,167,0,51
+8,Near North Side,646,248,646,248,0,54
+9,Edison Park,67,55,67,55,0,25
+10,Norwood Park,153,110,153,110,0,39
+11,Jefferson Park,173,83,166,82,7,30
+12,Forest Glen,58,55,36,43,22,45
+13,North Park,186,114,186,114,0,27
+14,Albany Park,368,109,293,97,75,67
+15,Portage Park,244,93,240,93,4,46
+16,Irving Park,266,100,246,98,20,49
+17,Dunning,110,66,103,66,7,40
+18,Montclare,5,18,5,18,0,23
+19,Belmont Cragin,316,108,312,108,4,51
+20,Hermosa,133,66,133,66,0,29
+21,Avondale,295,109,268,105,27,46
+22,Logan Square,469,135,469,135,0,57
+23,Humboldt Park,320,127,270,118,50,67
+24,West Town,541,138,528,135,13,64
+25,Austin,111,73,111,73,0,61
+26,West Garfield Park,18,38,18,38,0,35
+27,East Garfield Park,40,42,40,42,0,38
+28,Near West Side,439,125,422,122,17,57
+29,North Lawndale,73,65,73,65,0,43
+30,South Lawndale,174,83,150,80,24,53
+31,Lower West Side,336,128,336,128,0,42
+32,Loop,200,93,200,93,0,30
+33,Near South Side,242,200,242,200,0,24
+34,Armour Square,140,104,140,104,0,27
+35,Douglas,108,64,104,65,4,34
+36,Oakland,3,16,3,16,0,19
+37,Fuller Park,0,16,0,16,0,16
+38,Grand Boulevard,171,80,171,80,0,43
+39,Kenwood,145,81,145,81,0,31
+40,Washington Park,35,34,29,33,6,27
+41,Hyde Park,300,102,300,102,0,38
+42,Woodlawn,209,91,209,91,0,36
+43,South Shore,315,139,253,120,62,83
+44,Chatham,191,108,191,108,0,37
+45,Avalon Park,40,35,40,35,0,19
+46,South Chicago,130,107,130,107,0,37
+47,Burnside,0,11,0,11,0,11
+48,Calumet Heights,0,27,0,27,0,27
+49,Roseland,163,90,158,89,5,42
+50,Pullman,8,20,8,20,0,19
+51,South Deering,62,52,62,52,0,25
+52,East Side,152,77,152,77,0,29
+53,West Pullman,116,106,116,106,0,39
+54,Riverdale,0,16,0,16,0,16
+55,Hegewisch,56,47,56,47,0,19
+56,Garfield Ridge,235,100,212,96,23,55
+57,Archer Heights,34,29,34,29,0,27
+58,Brighton Park,56,54,39,48,17,49
+59,McKinley Park,29,30,15,26,14,26
+60,Bridgeport,166,70,166,70,0,37
+61,New City,134,79,115,74,19,52
+62,West Elsdon,20,29,20,29,0,27
+63,Gage Park,73,55,54,54,19,42
+64,Clearing,96,68,82,64,14,37
+65,West Lawn,301,142,189,86,112,127
+66,Chicago Lawn,135,84,108,80,27,53
+67,West Englewood,102,67,102,67,0,48
+68,Englewood,81,56,81,56,0,36
+69,Greater Grand Crossing,79,61,61,56,18,45
+70,Ashburn,62,52,48,50,14,43
+71,Auburn Gresham,72,66,72,66,0,46
+72,Beverly,83,48,83,48,0,29
+73,Washington Heights,22,38,22,38,0,33
+74,Mount Greenwood,13,28,13,28,0,25
+75,Morgan Park,125,57,125,57,0,31
+76,O'Hare,150,127,136,124,14,43
+77,Edgewater,810,238,810,238,0,48

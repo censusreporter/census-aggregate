@@ -1,0 +1,8 @@
+Mean Usual Hours Worked for Workers 16 to 64 Years
+--------------------------------------------------
+Universe: Population 16 to 64 Years Who Have Worked in the Past 12 Months
+
+B23020000.5 Mean usual hours--
+B23020001 Total:
+B23020002  Male
+B23020003  Female

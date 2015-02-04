@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Asian Alone)
+---------------------------------------------
+Universe: Asian Alone Population 16 Years and Over
+
+C23002D001 Total:
+C23002D002  Male:
+C23002D003   16 to 64 years:
+C23002D004    In labor force:
+C23002D005     In Armed Forces
+C23002D006     Civilian:
+C23002D007      Employed
+C23002D008      Unemployed
+C23002D009    Not in labor force
+C23002D010   65 years and over:
+C23002D011    In labor force:
+C23002D012      Employed
+C23002D013      Unemployed
+C23002D014    Not in labor force
+C23002D015  Female:
+C23002D016   16 to 64 years:
+C23002D017    In labor force:
+C23002D018     In Armed Forces
+C23002D019     Civilian:
+C23002D020      Employed
+C23002D021      Unemployed
+C23002D022    Not in labor force
+C23002D023   65 years and over:
+C23002D024    In labor force:
+C23002D025      Employed
+C23002D026      Unemployed
+C23002D027    Not in labor force

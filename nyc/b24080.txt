@@ -1,0 +1,25 @@
+Sex by Class of Worker for the Civilian Population
+--------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+B24080001 Total:
+B24080002  Male:
+B24080003   Private for-profit wage and salary workers:
+B24080004    Employee of private company workers
+B24080005    Self-employed in own incorporated business workers
+B24080006   Private not-for-profit wage and salary workers
+B24080007   Local government workers
+B24080008   State government workers
+B24080009   Federal government workers
+B24080010   Self-employed in own not incorporated business workers
+B24080011   Unpaid family workers
+B24080012  Female:
+B24080013   Private for-profit wage and salary workers:
+B24080014    Employee of private company workers
+B24080015    Self-employed in own incorporated business workers
+B24080016   Private not-for-profit wage and salary workers
+B24080017   Local government workers
+B24080018   State government workers
+B24080019   Federal government workers
+B24080020   Self-employed in own not incorporated business workers
+B24080021   Unpaid family workers

@@ -1,0 +1,11 @@
+Mean Household Income of Quintiles
+----------------------------------
+Universe: Households
+
+B19081000.5 Quintile Means:
+B19081001  Lowest Quintile
+B19081002  Second Quintile
+B19081003  Third Quintile
+B19081004  Fourth Quintile
+B19081005  Highest Quintile
+B19081006 Top 5 Percent

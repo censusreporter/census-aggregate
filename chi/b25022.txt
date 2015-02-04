@@ -1,0 +1,7 @@
+Aggregate Number of Rooms by Tenure
+-----------------------------------
+Universe: Occupied Housing Units
+
+B25022001 Aggregate number of rooms:
+B25022002  Owner occupied
+B25022003  Renter occupied

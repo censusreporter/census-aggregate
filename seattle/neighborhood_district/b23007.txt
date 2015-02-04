@@ -1,0 +1,63 @@
+Presence of Own Children by Family Type by Employment Status
+------------------------------------------------------------
+Universe: Families
+
+B23007001 Total:
+B23007002  With own children under 18 years:
+B23007003   Married-couple family:
+B23007004    Husband in labor force:
+B23007005     Employed or in Armed Forces:
+B23007006      Wife in labor force:
+B23007007       Employed or in Armed Forces
+B23007008       Unemployed
+B23007009      Wife not in labor force
+B23007010     Unemployed:
+B23007011      Wife in labor force:
+B23007012       Employed or in Armed Forces
+B23007013       Unemployed
+B23007014      Wife not in labor force
+B23007015    Husband not in labor force:
+B23007016     Wife in labor force:
+B23007017      Employed or in Armed Forces
+B23007018      Unemployed
+B23007019     Wife not in labor force
+B23007020   Other family:
+B23007021    Male householder, no wife present:
+B23007022     In labor force:
+B23007023      Employed or in Armed Forces
+B23007024      Unemployed
+B23007025     Not in labor force
+B23007026    Female householder, no husband present:
+B23007027     In labor force:
+B23007028      Employed or in Armed Forces
+B23007029      Unemployed
+B23007030     Not in labor force
+B23007031  No children under 18 years:
+B23007032   Married-couple family:
+B23007033    Husband in labor force:
+B23007034     Employed or in Armed Forces:
+B23007035      Wife in labor force:
+B23007036       Employed or in Armed Forces
+B23007037       Unemployed
+B23007038      Wife not in labor force
+B23007039     Unemployed:
+B23007040      Wife in labor force:
+B23007041       Employed or in Armed Forces
+B23007042       Unemployed
+B23007043      Wife not in labor force
+B23007044    Husband not in labor force:
+B23007045     Wife in labor force:
+B23007046      Employed or in Armed Forces
+B23007047      Unemployed
+B23007048     Wife not in labor force
+B23007049   Other family:
+B23007050    Male householder, no wife present:
+B23007051     In labor force:
+B23007052      Employed or in Armed Forces
+B23007053      Unemployed
+B23007054     Not in labor force
+B23007055    Female householder, no husband present:
+B23007056     In labor force:
+B23007057      Employed or in Armed Forces
+B23007058      Unemployed
+B23007059     Not in labor force

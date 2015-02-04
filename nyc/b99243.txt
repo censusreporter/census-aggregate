@@ -1,0 +1,7 @@
+Imputation of Class of Worker for the Civilian Population
+---------------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+B99243001 Total:
+B99243002  Imputed
+B99243003  Not Imputed

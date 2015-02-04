@@ -1,0 +1,7 @@
+Aggregate Number of Vehicles Available by Tenure
+------------------------------------------------
+Universe: Occupied Housing Units
+
+B25046001 Aggregate number of vehicles available:
+B25046002  Owner occupied
+B25046003  Renter occupied

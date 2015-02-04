@@ -1,0 +1,5 @@
+Aggregate Household Income (Black or African American Alone Householder)
+------------------------------------------------------------------------
+Universe: Households With a Householder Who Is Black or African American Alone
+
+B19025B001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

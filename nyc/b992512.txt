@@ -1,0 +1,7 @@
+Imputation of Vehicles Available
+--------------------------------
+Universe: Occupied Housing Units
+
+B992512001 Total:
+B992512002  Imputed
+B992512003  Not imputed

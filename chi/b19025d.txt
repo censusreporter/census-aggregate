@@ -1,0 +1,5 @@
+Aggregate Household Income (Asian Alone Householder)
+----------------------------------------------------
+Universe: Households With a Householder Who Is Asian Alone
+
+B19025D001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

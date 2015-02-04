@@ -1,0 +1,27 @@
+Sex by Disability Status by Full-time Work Status for the Population 16 to 64 Years
+-----------------------------------------------------------------------------------
+Universe: Population 16 to 64 Years
+
+C23023001 Total:
+C23023002  Male:
+C23023003   With a disability:
+C23023004    Worked in the past 12 months:
+C23023005     Worked full-time, year-round
+C23023006     Worked less than full-time, year-round
+C23023007    Did not work in the past 12 months
+C23023008   No disability:
+C23023009    Worked in the past 12 months:
+C23023010     Worked full-time, year-round
+C23023011     Worked less than full-time, year-round
+C23023012    Did not work in the past 12 months
+C23023013  Female:
+C23023014   With a disability:
+C23023015    Worked in the past 12 months:
+C23023016     Worked full-time, year-round
+C23023017     Worked less than full-time, year-round
+C23023018    Did not work in the past 12 months
+C23023019   No disability:
+C23023020    Worked in the past 12 months:
+C23023021     Worked full-time, year-round
+C23023022     Worked less than full-time, year-round
+C23023023    Did not work in the past 12 months

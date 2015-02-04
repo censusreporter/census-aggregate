@@ -1,0 +1,11 @@
+Means of Transportation to Work (Two or More Races)
+---------------------------------------------------
+Universe: Two or More Races Workers 16 Years and Over
+
+B08105G001 Total:
+B08105G002  Car, truck, or van - drove alone
+B08105G003  Car, truck, or van - carpooled
+B08105G004  Public transportation (excluding taxicab)
+B08105G005  Walked
+B08105G006  Taxicab, motorcycle, bicycle, or other means
+B08105G007  Worked at home

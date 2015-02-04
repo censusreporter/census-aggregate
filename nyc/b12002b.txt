@@ -1,0 +1,17 @@
+Sex by Marital Status (Black or African American Alone)
+-------------------------------------------------------
+Universe: Black or African American Alone Population 15 Years and Over
+
+B12002B001 Total:
+B12002B002  Male:
+B12002B003   Never married
+B12002B004   Now married (except separated)
+B12002B005   Separated
+B12002B006   Widowed
+B12002B007   Divorced
+B12002B008  Female:
+B12002B009   Never married
+B12002B010   Now married (except separated)
+B12002B011   Separated
+B12002B012   Widowed
+B12002B013   Divorced

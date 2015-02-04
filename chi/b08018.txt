@@ -1,0 +1,12 @@
+Place of Work--not Metropolitan or Micropolitan Statistical Area Level
+----------------------------------------------------------------------
+Universe: Workers 16 Years and Over Not Living in a Metropolitan or Micropolitan Statistical Area
+
+B08018001 Total:
+B08018002  Worked in a Metropolitan Statistical Area:
+B08018003   Worked in a principal city
+B08018004   Worked outside any principal city
+B08018005  Worked in a Micropolitan Statistical Area:
+B08018006   Worked in a principal city
+B08018007   Worked outside any principal city
+B08018008  Worked outside any Metropolitan or Micropolitan Statistical Area

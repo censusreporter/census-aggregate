@@ -1,0 +1,25 @@
+Relationship by Household Type (Including Living Alone)
+-------------------------------------------------------
+Universe: Population 65 Years and Over
+
+B09020001 Total:
+B09020002  In households:
+B09020003   In family households:
+B09020004    Householder:
+B09020005     Male
+B09020006     Female
+B09020007    Spouse
+B09020008    Parent
+B09020009    Parent-in-law
+B09020010    Other relatives
+B09020011    Nonrelatives
+B09020012   In nonfamily households:
+B09020013    Householder:
+B09020014     Male:
+B09020015      Living alone
+B09020016      Not living alone
+B09020017     Female:
+B09020018      Living alone
+B09020019      Not living alone
+B09020020    Nonrelatives
+B09020021  In group quarters

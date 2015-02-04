@@ -1,0 +1,11 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent (Two or More Races)
+-----------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents (Two or More Races) Living With Own Grandchildren Under 18 Years
+
+B10051G001 Total:
+B10051G002  Grandparent responsible for own grandchildren under 18 years:
+B10051G003   30 to 59 years
+B10051G004   60 years and over
+B10051G005  Grandparent not responsible for own grandchildren under 18 years:
+B10051G006   30 to 59 years
+B10051G007   60 years and over

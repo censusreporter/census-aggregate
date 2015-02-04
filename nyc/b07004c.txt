@@ -1,0 +1,10 @@
+Geographical Mobility in the Past Year (American Indian and Alaska Native Alone) for Current Residence in the United States
+---------------------------------------------------------------------------------------------------------------------------
+Universe: American Indian and Alaskan Native Alone Population 1 Year and Over in the United States
+
+B07004C001 Total:
+B07004C002  Same house 1 year ago
+B07004C003  Moved within same county
+B07004C004  Moved from different county within same state
+B07004C005  Moved from different state
+B07004C006  Moved from abroad

@@ -1,0 +1,11 @@
+Aggregate Value (Dollars) by Year Householder Moved Into Unit
+-------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25110001 Aggregate value (dollars):
+B25110002  Moved in 2010 or later
+B25110003  Moved in 2000 to 2009
+B25110004  Moved in 1990 to 1999
+B25110005  Moved in 1980 to 1989
+B25110006  Moved in 1970 to 1979
+B25110007  Moved in 1969 or earlier

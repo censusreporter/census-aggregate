@@ -1,0 +1,19 @@
+Tenure by Bedrooms
+------------------
+Universe: Occupied Housing Units
+
+B25042001 Total:
+B25042002  Owner occupied:
+B25042003   No bedroom
+B25042004   1 bedroom
+B25042005   2 bedrooms
+B25042006   3 bedrooms
+B25042007   4 bedrooms
+B25042008   5 or more bedrooms
+B25042009  Renter occupied:
+B25042010   No bedroom
+B25042011   1 bedroom
+B25042012   2 bedrooms
+B25042013   3 bedrooms
+B25042014   4 bedrooms
+B25042015   5 or more bedrooms

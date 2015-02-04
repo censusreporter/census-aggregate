@@ -1,0 +1,7 @@
+Imputation of House Heating Fuel
+--------------------------------
+Universe: Occupied Housing Units
+
+B992511001 Total:
+B992511002  Imputed
+B992511003  Not imputed

@@ -1,0 +1,19 @@
+Nonfamily Households by Sex of Householder by Living Alone by Age of Householder
+--------------------------------------------------------------------------------
+Universe: Nonfamily Households
+
+B11010001 Total:
+B11010002  Male householder:
+B11010003   Living alone:
+B11010004    Householder 15 to 64 years
+B11010005    Householder 65 years and over
+B11010006   Not living alone:
+B11010007    Householder 15 to 64 years
+B11010008    Householder 65 years and over
+B11010009  Female householder:
+B11010010   Living alone:
+B11010011    Householder 15 to 64 years
+B11010012    Householder 65 years and over
+B11010013   Not living alone:
+B11010014    Householder 15 to 64 years
+B11010015    Householder 65 years and over

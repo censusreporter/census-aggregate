@@ -1,0 +1,12 @@
+Median Income by Veteran Status by Sex for the Civilian Population 18 Years and Over With Income
+------------------------------------------------------------------------------------------------
+Universe: Civilian Population 18 Years and Over With Income in the Past 12 Months
+
+B21004000.5 Median income in the past 12 months (in 2012 inflation-adjusted dollars)--
+B21004001 Total:
+B21004002  Veteran:
+B21004003   Male
+B21004004   Female
+B21004005  Nonveteran:
+B21004006   Male
+B21004007   Female

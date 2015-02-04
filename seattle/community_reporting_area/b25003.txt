@@ -1,0 +1,7 @@
+Tenure
+------
+Universe: Occupied Housing Units
+
+B25003001 Total:
+B25003002  Owner occupied
+B25003003  Renter occupied

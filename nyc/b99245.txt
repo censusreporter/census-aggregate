@@ -1,0 +1,7 @@
+Imputation of Occupation for the Full-time, Year-round Civilian Population
+--------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over
+
+B99245001 Total:
+B99245002  Imputed
+B99245003  Not imputed

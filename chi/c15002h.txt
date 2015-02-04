@@ -1,0 +1,15 @@
+Sex by Educational Attainment (White Alone, Not Hispanic or Latino)
+-------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 25 Years and Over
+
+C15002H001 Total:
+C15002H002  Male:
+C15002H003   Less than high school diploma
+C15002H004   High school graduate, GED, or alternative
+C15002H005   Some college or associate's degree
+C15002H006   Bachelor's degree or higher
+C15002H007  Female:
+C15002H008   Less than high school diploma
+C15002H009   High school graduate, GED, or alternative
+C15002H010   Some college or associate's degree
+C15002H011   Bachelor's degree or higher

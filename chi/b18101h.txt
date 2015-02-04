@@ -1,0 +1,14 @@
+Age by Disability Status (White Alone, Not Hispanic or Latino)
+--------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Civilian Noninstitutionalized Population
+
+B18101H001 Total:
+B18101H002  Under 18 years:
+B18101H003   With a disability
+B18101H004   No disability
+B18101H005  18 to 64 years:
+B18101H006   With a disability
+B18101H007   No disability
+B18101H008  65 years and over:
+B18101H009   With a disability
+B18101H010   No disability

@@ -1,0 +1,14 @@
+Median Earnings by Sex by Work Experience With Earnings
+-------------------------------------------------------
+Universe: Population 16 Years and Over With Earnings
+
+B20017000.5 Median earnings in the past 12 months (in 2012 inflation-adjusted dollars) --
+B20017001  Total (dollars):
+B20017001.5  Male --
+B20017002   Total (dollars)
+B20017003   Worked full-time, year-round in the past 12 months (dollars)
+B20017004   Other (dollars)
+B20017004.5  Female --
+B20017005   Total (dollars)
+B20017006   Worked full-time, year-round in the past 12 months (dollars)
+B20017007   Other (dollars)

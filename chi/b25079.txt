@@ -1,0 +1,9 @@
+Aggregate Value (Dollars) by Age of Householder
+-----------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25079001 Aggregate value (dollars):
+B25079002  Householder 15 to 24 years (dollars)
+B25079003  Householder 25 to 34 years (dollars)
+B25079004  Householder 35 to 64 years (dollars)
+B25079005  Householder 65 years and over (dollars)

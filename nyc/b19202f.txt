@@ -1,0 +1,5 @@
+Median Nonfamily Household Income (Some Other Race Alone Householder)
+---------------------------------------------------------------------
+Universe: Nonfamily Households With a Householder Who Is Some Other Race Alone
+
+B19202F001 Median nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

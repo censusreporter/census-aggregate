@@ -1,0 +1,109 @@
+Means of Transportation to Work by Industry
+-------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08126001 Total:
+B08126002   Agriculture, forestry, fishing and hunting, and mining
+B08126003   Construction
+B08126004   Manufacturing
+B08126005   Wholesale trade
+B08126006   Retail trade
+B08126007   Transportation and warehousing, and utilities
+B08126008   Information
+B08126009   Finance and insurance, and real estate and rental and leasing
+B08126010   Professional, scientific, and management, and administrative and waste management services
+B08126011   Educational services, and health care and social assistance
+B08126012   Arts, entertainment, and recreation, and accommodation and food services
+B08126013   Other services (except public administration)
+B08126014   Public administration
+B08126015   Armed forces
+B08126016  Car, truck, or van - drove alone:
+B08126017   Agriculture, forestry, fishing and hunting, and mining
+B08126018   Construction
+B08126019   Manufacturing
+B08126020   Wholesale trade
+B08126021   Retail trade
+B08126022   Transportation and warehousing, and utilities
+B08126023   Information
+B08126024   Finance and insurance, and real estate and rental and leasing
+B08126025   Professional, scientific, and management, and administrative and waste management services
+B08126026   Educational services, and health care and social assistance
+B08126027   Arts, entertainment, and recreation, and accommodation and food services
+B08126028   Other services (except public administration)
+B08126029   Public administration
+B08126030   Armed forces
+B08126031  Car, truck, or van - carpooled:
+B08126032   Agriculture, forestry, fishing and hunting, and mining
+B08126033   Construction
+B08126034   Manufacturing
+B08126035   Wholesale trade
+B08126036   Retail trade
+B08126037   Transportation and warehousing, and utilities
+B08126038   Information
+B08126039   Finance and insurance, and real estate and rental and leasing
+B08126040   Professional, scientific, and management, and administrative and waste management services
+B08126041   Educational services, and health care and social assistance
+B08126042   Arts, entertainment, and recreation, and accommodation and food services
+B08126043   Other services (except public administration)
+B08126044   Public administration
+B08126045   Armed forces
+B08126046  Public transportation (excluding taxicab):
+B08126047   Agriculture, forestry, fishing and hunting, and mining
+B08126048   Construction
+B08126049   Manufacturing
+B08126050   Wholesale trade
+B08126051   Retail trade
+B08126052   Transportation and warehousing, and utilities
+B08126053   Information
+B08126054   Finance and insurance, and real estate and rental and leasing
+B08126055   Professional, scientific, and management, and administrative and waste management services
+B08126056   Educational services, and health care and social assistance
+B08126057   Arts, entertainment, and recreation, and accommodation and food services
+B08126058   Other services (except public administration)
+B08126059   Public administration
+B08126060   Armed forces
+B08126061  Walked:
+B08126062   Agriculture, forestry, fishing and hunting, and mining
+B08126063   Construction
+B08126064   Manufacturing
+B08126065   Wholesale trade
+B08126066   Retail trade
+B08126067   Transportation and warehousing, and utilities
+B08126068   Information
+B08126069   Finance and insurance, and real estate and rental and leasing
+B08126070   Professional, scientific, and management, and administrative and waste management services
+B08126071   Educational services, and health care and social assistance
+B08126072   Arts, entertainment, and recreation, and accommodation and food services
+B08126073   Other services (except public administration)
+B08126074   Public administration
+B08126075   Armed forces
+B08126076  Taxicab, motorcycle, bicycle, or other means:
+B08126077   Agriculture, forestry, fishing and hunting, and mining
+B08126078   Construction
+B08126079   Manufacturing
+B08126080   Wholesale trade
+B08126081   Retail trade
+B08126082   Transportation and warehousing, and utilities
+B08126083   Information
+B08126084   Finance and insurance, and real estate and rental and leasing
+B08126085   Professional, scientific, and management, and administrative and waste management services
+B08126086   Educational services, and health care and social assistance
+B08126087   Arts, entertainment, and recreation, and accommodation and food services
+B08126088   Other services (except public administration)
+B08126089   Public administration
+B08126090   Armed forces
+B08126091  Worked at home:
+B08126092   Agriculture, forestry, fishing and hunting, and mining
+B08126093   Construction
+B08126094   Manufacturing
+B08126095   Wholesale trade
+B08126096   Retail trade
+B08126097   Transportation and warehousing, and utilities
+B08126098   Information
+B08126099   Finance and insurance, and real estate and rental and leasing
+B08126100   Professional, scientific, and management, and administrative and waste management services
+B08126101   Educational services, and health care and social assistance
+B08126102   Arts, entertainment, and recreation, and accommodation and food services
+B08126103   Other services (except public administration)
+B08126104   Public administration
+B08126105   Armed forces

@@ -1,0 +1,7 @@
+Tenure (Native Hawaiian and Other Pacific Islander Alone Householder)
+---------------------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone
+
+B25003E001 Total:
+B25003E002  Owner occupied
+B25003E003  Renter occupied

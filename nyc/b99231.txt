@@ -1,0 +1,7 @@
+Imputation of Employment Status
+-------------------------------
+Universe: Population 16 Years and Over
+
+B99231001 Total:
+B99231002  Imputed
+B99231003  Not imputed

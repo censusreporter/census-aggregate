@@ -1,0 +1,7 @@
+Imputation of Grandparents Responsible for Grandchildren
+--------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B99103001 Total:
+B99103002  Imputed
+B99103003  Not imputed

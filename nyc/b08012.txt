@@ -1,0 +1,43 @@
+Sex of Workers by Travel Time to Work
+-------------------------------------
+Universe: Workers 16 Years and Over Who Did Not Work at Home
+
+B08012001 Total:
+B08012002   Less than 5 minutes
+B08012003   5 to 9 minutes
+B08012004   10 to 14 minutes
+B08012005   15 to 19 minutes
+B08012006   20 to 24 minutes
+B08012007   25 to 29 minutes
+B08012008   30 to 34 minutes
+B08012009   35 to 39 minutes
+B08012010   40 to 44 minutes
+B08012011   45 to 59 minutes
+B08012012   60 to 89 minutes
+B08012013   90 or more minutes
+B08012014  Male:
+B08012015   Less than 5 minutes
+B08012016   5 to 9 minutes
+B08012017   10 to 14 minutes
+B08012018   15 to 19 minutes
+B08012019   20 to 24 minutes
+B08012020   25 to 29 minutes
+B08012021   30 to 34 minutes
+B08012022   35 to 39 minutes
+B08012023   40 to 44 minutes
+B08012024   45 to 59 minutes
+B08012025   60 to 89 minutes
+B08012026   90 or more minutes
+B08012027  Female:
+B08012028   Less than 5 minutes
+B08012029   5 to 9 minutes
+B08012030   10 to 14 minutes
+B08012031   15 to 19 minutes
+B08012032   20 to 24 minutes
+B08012033   25 to 29 minutes
+B08012034   30 to 34 minutes
+B08012035   35 to 39 minutes
+B08012036   40 to 44 minutes
+B08012037   45 to 59 minutes
+B08012038   60 to 89 minutes
+B08012039   90 or more minutes

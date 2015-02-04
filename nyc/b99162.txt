@@ -1,0 +1,12 @@
+Imputation of Language Spoken at Home
+-------------------------------------
+Universe: Population 5 Years and Over
+
+B99162001 Total:
+B99162002  Speak only English
+B99162003  Speak other languages:
+B99162003.5   Specific languages spoken --
+B99162004    Imputed:
+B99162005     Language status imputed
+B99162006     Language status not imputed
+B99162007    Not imputed

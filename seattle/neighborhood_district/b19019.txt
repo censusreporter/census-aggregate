@@ -1,0 +1,12 @@
+Median Household Income by Household Size
+-----------------------------------------
+Universe: Households
+
+B19019001 Total:
+B19019002  1-person households
+B19019003  2-person households
+B19019004  3-person households
+B19019005  4-person households
+B19019006  5-person households
+B19019007  6-person households
+B19019008  7-or-more-person households

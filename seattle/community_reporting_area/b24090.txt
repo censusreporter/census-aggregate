@@ -1,0 +1,25 @@
+Sex by Class of Worker for the Full-time, Year-round Civilian Population
+------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over
+
+B24090001 Total:
+B24090002  Male:
+B24090003   Private for-profit wage and salary workers:
+B24090004    Employee of private company workers
+B24090005    Self-employed in own incorporated business workers
+B24090006   Private not-for-profit wage and salary workers
+B24090007   Local government workers
+B24090008   State government workers
+B24090009   Federal government workers
+B24090010   Self-employed in own not incorporated business workers
+B24090011   Unpaid family workers
+B24090012  Female:
+B24090013   Private for-profit wage and salary workers:
+B24090014    Employee of private company workers
+B24090015    Self-employed in own incorporated business workers
+B24090016   Private not-for-profit wage and salary workers
+B24090017   Local government workers
+B24090018   State government workers
+B24090019   Federal government workers
+B24090020   Self-employed in own not incorporated business workers
+B24090021   Unpaid family workers

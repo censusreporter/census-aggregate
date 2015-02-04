@@ -1,0 +1,21 @@
+Health Insurance Coverage Status and Type by Citizenship Status
+---------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B27020001 Total:
+B27020002  Native Born:
+B27020003   With health insurance coverage
+B27020004    With private health insurance
+B27020005    With public coverage
+B27020006   No health insurance coverage
+B27020007  Foreign Born:
+B27020008   Naturalized:
+B27020009    With health insurance coverage
+B27020010     With private health insurance
+B27020011     With public coverage
+B27020012    No health insurance coverage
+B27020013   Noncitizen:
+B27020014    With health insurance coverage
+B27020015     With private health insurance
+B27020016     With public coverage
+B27020017    No health insurance coverage

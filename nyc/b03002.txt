@@ -1,0 +1,25 @@
+Hispanic or Latino Origin by Race
+---------------------------------
+Universe: Total Population
+
+B03002001 Total:
+B03002002  Not Hispanic or Latino:
+B03002003   White alone
+B03002004   Black or African American alone
+B03002005   American Indian and Alaska Native alone
+B03002006   Asian alone
+B03002007   Native Hawaiian and Other Pacific Islander alone
+B03002008   Some other race alone
+B03002009   Two or more races:
+B03002010    Two races including Some other race
+B03002011    Two races excluding Some other race, and three or more races
+B03002012  Hispanic or Latino:
+B03002013   White alone
+B03002014   Black or African American alone
+B03002015   American Indian and Alaska Native alone
+B03002016   Asian alone
+B03002017   Native Hawaiian and Other Pacific Islander alone
+B03002018   Some other race alone
+B03002019   Two or more races:
+B03002020    Two races including Some other race
+B03002021    Two races excluding Some other race, and three or more races

@@ -1,0 +1,7 @@
+Imputation of Tenure
+--------------------
+Universe: Occupied Housing Units
+
+B99252001 Total:
+B99252002  Imputed
+B99252003  Not imputed

@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Two or More Races)
+---------------------------------------------------
+Universe: Two or More Races Population 16 Years and Over
+
+C23002G001 Total:
+C23002G002  Male:
+C23002G003   16 to 64 years:
+C23002G004    In labor force:
+C23002G005     In Armed Forces
+C23002G006     Civilian:
+C23002G007      Employed
+C23002G008      Unemployed
+C23002G009    Not in labor force
+C23002G010   65 years and over:
+C23002G011    In labor force:
+C23002G012      Employed
+C23002G013      Unemployed
+C23002G014    Not in labor force
+C23002G015  Female:
+C23002G016   16 to 64 years:
+C23002G017    In labor force:
+C23002G018     In Armed Forces
+C23002G019     Civilian:
+C23002G020      Employed
+C23002G021      Unemployed
+C23002G022    Not in labor force
+C23002G023   65 years and over:
+C23002G024    In labor force:
+C23002G025      Employed
+C23002G026      Unemployed
+C23002G027    Not in labor force

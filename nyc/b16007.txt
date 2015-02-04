@@ -1,0 +1,23 @@
+Age by Language Spoken at Home
+------------------------------
+Universe: Population 5 Years and Over
+
+B16007001 Total:
+B16007002  5 to 17 years:
+B16007003   Speak only English
+B16007004   Speak Spanish
+B16007005   Speak other Indo-European languages
+B16007006   Speak Asian and Pacific Island languages
+B16007007   Speak other languages
+B16007008  18 to 64 years:
+B16007009   Speak only English
+B16007010   Speak Spanish
+B16007011   Speak other Indo-European languages
+B16007012   Speak Asian and Pacific Island languages
+B16007013   Speak other languages
+B16007014  65 years and over:
+B16007015   Speak only English
+B16007016   Speak Spanish
+B16007017   Speak other Indo-European languages
+B16007018   Speak Asian and Pacific Island languages
+B16007019   Speak other languages

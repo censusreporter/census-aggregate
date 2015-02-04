@@ -1,0 +1,5 @@
+Upper Contract Rent Quartile (Dollars)
+--------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25059001 Upper contract rent quartile

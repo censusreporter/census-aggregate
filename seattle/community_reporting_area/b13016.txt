@@ -1,0 +1,21 @@
+Women Who Had a Birth by Age
+----------------------------
+Universe: Women 15 to 50 Years
+
+B13016001 Total:
+B13016002  Women who had a birth in the past 12 months:
+B13016003   15 to 19 years old
+B13016004   20 to 24 years old
+B13016005   25 to 29 years old
+B13016006   30 to 34 years old
+B13016007   35 to 39 years old
+B13016008   40 to 44 years old
+B13016009   45 to 50 years old
+B13016010  Women who did not have a birth in the past 12 months:
+B13016011   15 to 19 years old
+B13016012   20 to 24 years old
+B13016013   25 to 29 years old
+B13016014   30 to 34 years old
+B13016015   35 to 39 years old
+B13016016   40 to 44 years old
+B13016017   45 to 50 years old

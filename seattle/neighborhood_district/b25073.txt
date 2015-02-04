@@ -1,0 +1,54 @@
+Units in Structure by Gross Rent as a Percentage of Household Income
+--------------------------------------------------------------------
+Universe: Renter-occupied Housing Units
+
+B25073001 Total:
+B25073002  1, detached or attached:
+B25073003   Less than 20.0 percent
+B25073004   20.0 to 24.9 percent
+B25073005   25.0 to 29.9 percent
+B25073006   30.0 to 34.9 percent
+B25073007   35.0 percent or more
+B25073008   Not computed
+B25073009  2 to 4:
+B25073010   Less than 20.0 percent
+B25073011   20.0 to 24.9 percent
+B25073012   25.0 to 29.9 percent
+B25073013   30.0 to 34.9 percent
+B25073014   35.0 percent or more
+B25073015   Not computed
+B25073016  5 to 19:
+B25073017   Less than 20.0 percent
+B25073018   20.0 to 24.9 percent
+B25073019   25.0 to 29.9 percent
+B25073020   30.0 to 34.9 percent
+B25073021   35.0 percent or more
+B25073022   Not computed
+B25073023  20 to 49:
+B25073024   Less than 20.0 percent
+B25073025   20.0 to 24.9 percent
+B25073026   25.0 to 29.9 percent
+B25073027   30.0 to 34.9 percent
+B25073028   35.0 percent or more
+B25073029   Not computed
+B25073030  50 or more:
+B25073031   Less than 20.0 percent
+B25073032   20.0 to 24.9 percent
+B25073033   25.0 to 29.9 percent
+B25073034   30.0 to 34.9 percent
+B25073035   35.0 percent or more
+B25073036   Not computed
+B25073037  Mobile home:
+B25073038   Less than 20.0 percent
+B25073039   20.0 to 24.9 percent
+B25073040   25.0 to 29.9 percent
+B25073041   30.0 to 34.9 percent
+B25073042   35.0 percent or more
+B25073043   Not computed
+B25073044  Boat, RV, van, etc.:
+B25073045   Less than 20.0 percent
+B25073046   20.0 to 24.9 percent
+B25073047   25.0 to 29.9 percent
+B25073048   30.0 to 34.9 percent
+B25073049   35.0 percent or more
+B25073050   Not computed

@@ -1,0 +1,31 @@
+Sex by Age by Independent Living Difficulty
+-------------------------------------------
+Universe: Civilian Noninstitutionalized Population 18 Years and Over
+
+B18107001 Total:
+B18107002  Male:
+B18107003   18 to 34 years:
+B18107004    With an independent living difficulty
+B18107005    No independent living difficulty
+B18107006   35 to 64 years:
+B18107007    With an independent living difficulty
+B18107008    No independent living difficulty
+B18107009   65 to 74 years:
+B18107010    With an independent living difficulty
+B18107011    No independent living difficulty
+B18107012   75 years and over:
+B18107013    With an independent living difficulty
+B18107014    No independent living difficulty
+B18107015  Female:
+B18107016   18 to 34 years:
+B18107017    With an independent living difficulty
+B18107018    No independent living difficulty
+B18107019   35 to 64 years:
+B18107020    With an independent living difficulty
+B18107021    No independent living difficulty
+B18107022   65 to 74 years:
+B18107023    With an independent living difficulty
+B18107024    No independent living difficulty
+B18107025   75 years and over:
+B18107026    With an independent living difficulty
+B18107027    No independent living difficulty

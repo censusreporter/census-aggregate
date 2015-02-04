@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (Hispanic or Latino)
+------------------------------------------------------------
+Universe: Households With a Householder Who Is Hispanic or Latino
+
+B11001I001 Total:
+B11001I002  Family households:
+B11001I003   Married-couple family
+B11001I004   Other family:
+B11001I005    Male householder, no wife present
+B11001I006    Female householder, no husband present
+B11001I007  Nonfamily households:
+B11001I008   Householder living alone
+B11001I009   Householder not living alone

@@ -1,0 +1,5 @@
+Per Capita Income
+-----------------
+Universe: Total Population
+
+B19301001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

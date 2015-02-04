@@ -1,0 +1,53 @@
+Tenure by Household Type (Including Living Alone) and Age of Householder
+------------------------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25011001 Total:
+B25011002  Owner occupied:
+B25011003   Family households:
+B25011004    Married-couple family:
+B25011005     Householder 15 to 34 years
+B25011006     Householder 35 to 64 years
+B25011007     Householder 65 years and over
+B25011008    Other family:
+B25011009     Male householder, no wife present:
+B25011010      Householder 15 to 34 years
+B25011011      Householder 35 to 64 years
+B25011012      Householder 65 years and over
+B25011013     Female householder, no husband present:
+B25011014      Householder 15 to 34 years
+B25011015      Householder 35 to 64 years
+B25011016      Householder 65 years and over
+B25011017   Nonfamily households:
+B25011018    Householder living alone:
+B25011019     Householder 15 to 34 years
+B25011020     Householder 35 to 64 years
+B25011021     Householder 65 years and over
+B25011022    Householder not living alone:
+B25011023     Householder 15 to 34 years
+B25011024     Householder 35 to 64 years
+B25011025     Householder 65 years and over
+B25011026  Renter occupied:
+B25011027   Family households:
+B25011028    Married-couple family:
+B25011029     Householder 15 to 34 years
+B25011030     Householder 35 to 64 years
+B25011031     Householder 65 years and over
+B25011032    Other family:
+B25011033     Male householder, no wife present:
+B25011034      Householder 15 to 34 years
+B25011035      Householder 35 to 64 years
+B25011036      Householder 65 years and over
+B25011037     Female householder, no husband present:
+B25011038      Householder 15 to 34 years
+B25011039      Householder 35 to 64 years
+B25011040      Householder 65 years and over
+B25011041   Nonfamily households:
+B25011042    Householder living alone:
+B25011043     Householder 15 to 34 years
+B25011044     Householder 35 to 64 years
+B25011045     Householder 65 years and over
+B25011046    Householder not living alone:
+B25011047     Householder 15 to 34 years
+B25011048     Householder 35 to 64 years
+B25011049     Householder 65 years and over

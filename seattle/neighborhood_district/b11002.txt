@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households
+-------------------------------------------------------------------------
+Universe: Population in Households
+
+B11002001 Total:
+B11002002  In family households:
+B11002003   In married-couple family:
+B11002004    Relatives
+B11002005    Nonrelatives
+B11002006   In male householder, no wife present, family:
+B11002007    Relatives
+B11002008    Nonrelatives
+B11002009   In female householder, no husband present, family:
+B11002010    Relatives
+B11002011    Nonrelatives
+B11002012  In nonfamily households

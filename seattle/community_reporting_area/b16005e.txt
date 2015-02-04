@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 5 Years and Over
+
+B16005E001 Total:
+B16005E002  Native:
+B16005E003   Speak only English
+B16005E004   Speak another language
+B16005E005    Speak English "very well"
+B16005E006    Speak English less than "very well"
+B16005E007  Foreign born:
+B16005E008   Speak only English
+B16005E009   Speak another language
+B16005E010    Speak English "very well"
+B16005E011    Speak English less than "very well"

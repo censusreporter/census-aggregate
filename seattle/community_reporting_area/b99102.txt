@@ -1,0 +1,7 @@
+Imputation of Grandparents Living With Grandchildren
+----------------------------------------------------
+Universe: Population 30 Years and Over
+
+B99102001 Total:
+B99102002  Imputed
+B99102003  Not imputed

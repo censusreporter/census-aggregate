@@ -1,0 +1,7 @@
+Tenure (Some Other Race Alone Householder)
+------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Some Other Race Alone
+
+B25003F001 Total:
+B25003F002  Owner occupied
+B25003F003  Renter occupied

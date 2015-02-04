@@ -1,0 +1,8 @@
+Median Age by Sex for Workers 16 to 64 Years
+--------------------------------------------
+Universe: Population 16 to 64 Years Who Have Worked in the Past 12 Months
+
+B23013000.5 Median age--
+B23013001 Total:
+B23013002  Male
+B23013003  Female

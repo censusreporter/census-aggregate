@@ -1,0 +1,5 @@
+Median Family Income (American Indian and Alaska Native Alone Householder)
+--------------------------------------------------------------------------
+Universe: Families With a Householder Who Is American Indian and Alaska Native Alone
+
+B19113C001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

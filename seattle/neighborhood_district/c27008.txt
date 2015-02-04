@@ -1,0 +1,25 @@
+Tricare/Military Health Coverage by Sex by Age
+----------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27008001 Total:
+C27008002  Male:
+C27008003   Under 18 years:
+C27008004    With TRICARE/military health coverage
+C27008005    No TRICARE/military health coverage
+C27008006   18 to 64 years:
+C27008007    With TRICARE/military health coverage
+C27008008    No TRICARE/military health coverage
+C27008009   65 years and over:
+C27008010    With TRICARE/military health coverage
+C27008011    No TRICARE/military health coverage
+C27008012  Female:
+C27008013   Under 18 years:
+C27008014    With TRICARE/military health coverage
+C27008015    No TRICARE/military health coverage
+C27008016   18 to 64 years:
+C27008017    With TRICARE/military health coverage
+C27008018    No TRICARE/military health coverage
+C27008019   65 years and over:
+C27008020    With TRICARE/military health coverage
+C27008021    No TRICARE/military health coverage

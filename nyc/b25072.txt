@@ -1,0 +1,33 @@
+Age of Householder by Gross Rent as a Percentage of Household Income
+--------------------------------------------------------------------
+Universe: Renter-occupied Housing Units
+
+B25072001 Total:
+B25072002  Householder 15 to 24 years:
+B25072003   Less than 20.0 percent
+B25072004   20.0 to 24.9 percent
+B25072005   25.0 to 29.9 percent
+B25072006   30.0 to 34.9 percent
+B25072007   35.0 percent or more
+B25072008   Not computed
+B25072009  Householder 25 to 34 years:
+B25072010   Less than 20.0 percent
+B25072011   20.0 to 24.9 percent
+B25072012   25.0 to 29.9 percent
+B25072013   30.0 to 34.9 percent
+B25072014   35.0 percent or more
+B25072015   Not computed
+B25072016  Householder 35 to 64 years:
+B25072017   Less than 20.0 percent
+B25072018   20.0 to 24.9 percent
+B25072019   25.0 to 29.9 percent
+B25072020   30.0 to 34.9 percent
+B25072021   35.0 percent or more
+B25072022   Not computed
+B25072023  Householder 65 years and over:
+B25072024   Less than 20.0 percent
+B25072025   20.0 to 24.9 percent
+B25072026   25.0 to 29.9 percent
+B25072027   30.0 to 34.9 percent
+B25072028   35.0 percent or more
+B25072029   Not computed

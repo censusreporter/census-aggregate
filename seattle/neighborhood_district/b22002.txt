@@ -1,0 +1,31 @@
+Receipt of Food Stamps/SNAP by Presence of Children by Household Type for Households
+------------------------------------------------------------------------------------
+Universe: Households
+
+B22002001 Total:
+B22002002  Household received Food Stamps/SNAP in the past 12 months:
+B22002003   With children under 18 years:
+B22002004    Married-couple family
+B22002005    Other family:
+B22002006     Male householder, no wife present
+B22002007     Female householder, no husband present
+B22002008    Nonfamily households
+B22002009   No children under 18 years:
+B22002010    Married-couple family
+B22002011    Other family:
+B22002012     Male householder, no wife present
+B22002013     Female householder, no husband present
+B22002014    Nonfamily households
+B22002015  Household did not receive Food Stamps/SNAP in the past 12 months:
+B22002016   With children under 18 years:
+B22002017    Married-couple family
+B22002018    Other family:
+B22002019     Male householder, no wife present
+B22002020     Female householder, no husband present
+B22002021    Nonfamily households
+B22002022   No children under 18 years:
+B22002023    Married-couple family
+B22002024    Other family:
+B22002025     Male householder, no wife present
+B22002026     Female householder, no husband present
+B22002027    Nonfamily households

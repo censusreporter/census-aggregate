@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Asian Alone)
+-----------------------------------------------------
+Universe: ASIAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001D001 Total:
+C27001D002  Under 18 years:
+C27001D003   With health insurance coverage
+C27001D004   No health insurance coverage
+C27001D005  18 to 64 years:
+C27001D006   With health insurance coverage
+C27001D007   No health insurance coverage
+C27001D008  65 years and over:
+C27001D009   With health insurance coverage
+C27001D010   No health insurance coverage

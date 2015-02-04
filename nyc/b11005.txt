@@ -1,0 +1,23 @@
+Households by Presence of People Under 18 Years by Household Type
+-----------------------------------------------------------------
+Universe: Households
+
+B11005001 Total:
+B11005002  Households with one or more people under 18 years:
+B11005003   Family households:
+B11005004    Married-couple family
+B11005005    Other family:
+B11005006     Male householder, no wife present
+B11005007     Female householder, no husband present
+B11005008   Nonfamily households:
+B11005009    Male householder
+B11005010    Female householder
+B11005011  Households with no people under 18 years:
+B11005012   Family households:
+B11005013    Married-couple family
+B11005014    Other family:
+B11005015     Male householder, no wife present
+B11005016     Female householder, no husband present
+B11005017   Nonfamily households:
+B11005018    Male householder
+B11005019    Female householder

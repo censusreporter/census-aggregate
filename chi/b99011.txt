@@ -1,0 +1,7 @@
+Imputation of Sex
+-----------------
+Universe: Total Population
+
+B99011001 Total:
+B99011002  Imputed
+B99011003  Not imputed

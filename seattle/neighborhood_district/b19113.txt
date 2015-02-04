@@ -1,0 +1,5 @@
+Median Family Income
+--------------------
+Universe: Families
+
+B19113001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

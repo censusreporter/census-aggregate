@@ -1,0 +1,77 @@
+Sex by Occupation for the Civilian Population
+---------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+C24010001 Total:
+C24010002  Male:
+C24010003   Management, business, science, and arts occupations:
+C24010004    Management, business, and financial occupations:
+C24010005     Management occupations
+C24010006     Business and financial operations occupations
+C24010007    Computer, engineering, and science occupations:
+C24010008     Computer and mathematical occupations
+C24010009     Architecture and engineering occupations
+C24010010     Life, physical, and social science occupations
+C24010011    Education, legal, community service, arts, and media occupations:
+C24010012     Community and social service occupations
+C24010013     Legal occupations
+C24010014     Education, training, and library occupations
+C24010015     Arts, design, entertainment, sports, and media occupations
+C24010016    Healthcare practitioners and technical occupations:
+C24010017     Health diagnosing and treating practitioners and other technical occupations
+C24010018     Health technologists and technicians
+C24010019   Service occupations:
+C24010020    Healthcare support occupations
+C24010021    Protective service occupations:
+C24010022     Fire fighting and prevention, and other protective service workers including supervisors
+C24010023     Law enforcement workers including supervisors
+C24010024    Food preparation and serving related occupations
+C24010025    Building and grounds cleaning and maintenance occupations
+C24010026    Personal care and service occupations
+C24010027   Sales and office occupations:
+C24010028    Sales and related occupations
+C24010029    Office and administrative support occupations
+C24010030   Natural resources, construction, and maintenance occupations:
+C24010031    Farming, fishing, and forestry occupations
+C24010032    Construction and extraction occupations
+C24010033    Installation, maintenance, and repair occupations
+C24010034   Production, transportation, and material moving occupations:
+C24010035    Production occupations
+C24010036    Transportation occupations
+C24010037    Material moving occupations
+C24010038  Female:
+C24010039   Management, business, science, and arts occupations:
+C24010040    Management, business, and financial occupations:
+C24010041     Management occupations
+C24010042     Business and financial operations occupations
+C24010043    Computer, engineering, and science occupations:
+C24010044     Computer and mathematical occupations
+C24010045     Architecture and engineering occupations
+C24010046     Life, physical, and social science occupations
+C24010047    Education, legal, community service, arts, and media occupations:
+C24010048     Community and social service occupations
+C24010049     Legal occupations
+C24010050     Education, training, and library occupations
+C24010051     Arts, design, entertainment, sports, and media occupations
+C24010052    Healthcare practitioners and technical occupations:
+C24010053     Health diagnosing and treating practitioners and other technical occupations
+C24010054     Health technologists and technicians
+C24010055   Service occupations:
+C24010056    Healthcare support occupations
+C24010057    Protective service occupations:
+C24010058     Fire fighting and prevention, and other protective service workers including supervisors
+C24010059     Law enforcement workers including supervisors
+C24010060    Food preparation and serving related occupations
+C24010061    Building and grounds cleaning and maintenance occupations
+C24010062    Personal care and service occupations
+C24010063   Sales and office occupations:
+C24010064    Sales and related occupations
+C24010065    Office and administrative support occupations
+C24010066   Natural resources, construction, and maintenance occupations:
+C24010067    Farming, fishing, and forestry occupations
+C24010068    Construction and extraction occupations
+C24010069    Installation, maintenance, and repair occupations
+C24010070   Production, transportation, and material moving occupations:
+C24010071    Production occupations
+C24010072    Transportation occupations
+C24010073    Material moving occupations

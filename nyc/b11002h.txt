@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (White Alone, Not Hispanic or Latino)
+---------------------------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B11002H001 Total:
+B11002H002  In family households:
+B11002H003   In married-couple family:
+B11002H004    Relatives
+B11002H005    Nonrelatives
+B11002H006   In male householder, no wife present, family:
+B11002H007    Relatives
+B11002H008    Nonrelatives
+B11002H009   In female householder, no husband present, family:
+B11002H010    Relatives
+B11002H011    Nonrelatives
+B11002H012  In nonfamily households

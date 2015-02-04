@@ -1,0 +1,13 @@
+Household Type (Including Living Alone)
+---------------------------------------
+Universe: Households
+
+B11001001 Total:
+B11001002  Family households:
+B11001003   Married-couple family
+B11001004   Other family:
+B11001005    Male householder, no wife present
+B11001006    Female householder, no husband present
+B11001007  Nonfamily households:
+B11001008   Householder living alone
+B11001009   Householder not living alone

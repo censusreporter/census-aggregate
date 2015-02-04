@@ -1,0 +1,35 @@
+Poverty Status by Disability Status by Employment Status for the Population 20 to 64 Years
+------------------------------------------------------------------------------------------
+Universe: Population 20 to 64 Years for Whom Poverty Status Is Determined
+
+B23024027     In Armed Forces
+B23024001 Total:
+B23024002  Income in the past 12 months below poverty level:
+B23024003   With a disability:
+B23024004    In labor force:
+B23024005     In Armed Forces
+B23024006     Civilian:
+B23024007      Employed
+B23024008      Unemployed
+B23024009    Not in labor force
+B23024010   No disability:
+B23024011    In labor force:
+B23024012     In Armed Forces
+B23024013     Civilian:
+B23024014      Employed
+B23024015      Unemployed
+B23024016    Not in labor force
+B23024017  Income in the past 12 months at or above poverty level:
+B23024018   With a disability:
+B23024019    In labor force:
+B23024020     In Armed Forces
+B23024021     Civilian:
+B23024022      Employed
+B23024023      Unemployed
+B23024024    Not in labor force
+B23024025   No disability:
+B23024026    In labor force:
+B23024028     Civilian:
+B23024029      Employed
+B23024030      Unemployed
+B23024031    Not in labor force

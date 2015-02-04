@@ -1,0 +1,7 @@
+Plumbing Facilities for All Housing Units
+-----------------------------------------
+Universe: Housing Units
+
+B25047001 Total:
+B25047002  Complete plumbing facilities
+B25047003  Lacking complete plumbing facilities

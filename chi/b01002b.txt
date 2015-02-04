@@ -1,0 +1,8 @@
+Median Age by Sex (Black or African American Alone)
+---------------------------------------------------
+Universe: Black or African American Alone
+
+B01002B000.5 Median age --
+B01002B001  Total:
+B01002B002  Male
+B01002B003  Female

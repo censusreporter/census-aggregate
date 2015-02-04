@@ -1,0 +1,5 @@
+Aggregate Price Asked (Dollars)
+-------------------------------
+Universe: Vacant-for-sale-only and Sold, Not Occupied Housing Units
+
+B25086001 Aggregate price asked (dollars)

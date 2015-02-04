@@ -1,0 +1,7 @@
+Imputation of Occupation for the Civilian Population
+----------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+B99242001 Total:
+B99242002  Imputed
+B99242003  Not Imputed

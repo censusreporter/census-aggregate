@@ -1,0 +1,9 @@
+Median Family Income by Number of Earners in Family
+---------------------------------------------------
+Universe: Families
+
+B19121001 Total:
+B19121002  No earners (dollars)
+B19121003  1 earner (dollars)
+B19121004  2 earners (dollars)
+B19121005  3 or more earners (dollars)

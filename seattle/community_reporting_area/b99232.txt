@@ -1,0 +1,7 @@
+Imputation of Work Status
+-------------------------
+Universe: Population 16 Years and Over
+
+B99232001 Total:
+B99232002  Imputed
+B99232003  Not imputed

@@ -1,0 +1,21 @@
+Mortgage Status by Age of Householder
+-------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25027001 Total:
+B25027002  Housing units with a mortgage:
+B25027003   Householder 15 to 34 years
+B25027004   Householder 35 to 44 years
+B25027005   Householder 45 to 54 years
+B25027006   Householder 55 to 59 years
+B25027007   Householder 60 to 64 years
+B25027008   Householder 65 to 74 years
+B25027009   Householder 75 years and over
+B25027010  Housing units without a mortgage:
+B25027011   Householder 15 to 34 years
+B25027012   Householder 35 to 44 years
+B25027013   Householder 45 to 54 years
+B25027014   Householder 55 to 59 years
+B25027015   Householder 60 to 64 years
+B25027016   Householder 65 to 74 years
+B25027017   Householder 75 years and over

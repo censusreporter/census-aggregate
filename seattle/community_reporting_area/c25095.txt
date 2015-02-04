@@ -1,0 +1,33 @@
+Household Income by Selected Monthly Owner Costs as a Percentage of Household Income
+------------------------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+C25095001 Total:
+C25095002  Less than $10,000:
+C25095003   Less than 30.0 percent
+C25095004   30.0 percent or more
+C25095005   Not computed
+C25095006  $10,000 to $19,999:
+C25095007   Less than 30.0 percent
+C25095008   30.0 percent or more
+C25095009   Not computed
+C25095010  $20,000 to $34,999:
+C25095011   Less than 30.0 percent
+C25095012   30.0 percent or more
+C25095013   Not computed
+C25095014  $35,000 to $49,999:
+C25095015   Less than 30.0 percent
+C25095016   30.0 percent or more
+C25095017   Not computed
+C25095018  $50,000 to $74,999:
+C25095019   Less than 30.0 percent
+C25095020   30.0 percent or more
+C25095021   Not computed
+C25095022  $75,000 to $99,999:
+C25095023   Less than 30.0 percent
+C25095024   30.0 percent or more
+C25095025   Not computed
+C25095026  $100,000 or more:
+C25095027   Less than 30.0 percent
+C25095028   30.0 percent or more
+C25095029   Not computed

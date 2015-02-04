@@ -1,0 +1,23 @@
+Asian Alone by Selected Groups
+------------------------------
+Universe: Total Asian Alone Population
+
+B02006001 Total:
+B02006002  Asian Indian
+B02006003  Bangladeshi
+B02006004  Cambodian
+B02006005  Chinese , except Taiwanese
+B02006006  Filipino
+B02006007  Hmong
+B02006008  Indonesian
+B02006009  Japanese
+B02006010  Korean
+B02006011  Laotian
+B02006012  Malaysian
+B02006013  Pakistani
+B02006014  Sri Lankan
+B02006015  Taiwanese
+B02006016  Thai
+B02006017  Vietnamese
+B02006018  Other Asian
+B02006019  Other Asian, not specified

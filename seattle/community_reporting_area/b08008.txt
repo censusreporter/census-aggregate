@@ -1,0 +1,19 @@
+Sex of Workers by Place of Work--Place Level
+--------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08008001 Total:
+B08008002   Living in a place:
+B08008003    Worked in place of residence
+B08008004    Worked outside place of residence
+B08008005   Not living in a place
+B08008006  Male:
+B08008007   Living in a place:
+B08008008    Worked in place of residence
+B08008009    Worked outside place of residence
+B08008010   Not living in a place
+B08008011  Female:
+B08008012   Living in a place:
+B08008013    Worked in place of residence
+B08008014    Worked outside place of residence
+B08008015   Not living in a place

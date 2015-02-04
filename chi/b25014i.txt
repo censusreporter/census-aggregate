@@ -1,0 +1,7 @@
+Occupants Per Room (Hispanic or Latino Householder)
+---------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Hispanic or Latino
+
+B25014I001 Total:
+B25014I002  1.00 or less occupants per room
+B25014I003  1.01 or more occupants per room

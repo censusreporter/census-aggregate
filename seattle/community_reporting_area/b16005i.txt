@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (Hispanic or Latino)
+------------------------------------------------------------------------------------
+Universe: Hispanic or Latino Population 5 Years and Over
+
+B16005I001 Total:
+B16005I002  Native:
+B16005I003   Speak only English
+B16005I004   Speak another language
+B16005I005    Speak English "very well"
+B16005I006    Speak English less than "very well"
+B16005I007  Foreign born:
+B16005I008   Speak only English
+B16005I009   Speak another language
+B16005I010    Speak English "very well"
+B16005I011    Speak English less than "very well"

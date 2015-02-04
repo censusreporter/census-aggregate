@@ -1,0 +1,64 @@
+Place of Birth by Age in the United States
+------------------------------------------
+Universe: Total Population in the United States
+
+B06001001 Total:
+B06001002   Under 5 years
+B06001003   5 to 17 years
+B06001004   18 to 24 years
+B06001005   25 to 34 years
+B06001006   35 to 44 years
+B06001007   45 to 54 years
+B06001008   55 to 59 years
+B06001009   60 and 61 years
+B06001010   62 to 64 years
+B06001011   65 to 74 years
+B06001012   75 years and over
+B06001013  Born in state of residence:
+B06001014   Under 5 years
+B06001015   5 to 17 years
+B06001016   18 to 24 years
+B06001017   25 to 34 years
+B06001018   35 to 44 years
+B06001019   45 to 54 years
+B06001020   55 to 59 years
+B06001021   60 and 61 years
+B06001022   62 to 64 years
+B06001023   65 to 74 years
+B06001024   75 years and over
+B06001025  Born in other state in the United States:
+B06001026   Under 5 years
+B06001027   5 to 17 years
+B06001028   18 to 24 years
+B06001029   25 to 34 years
+B06001030   35 to 44 years
+B06001031   45 to 54 years
+B06001032   55 to 59 years
+B06001033   60 and 61 years
+B06001034   62 to 64 years
+B06001035   65 to 74 years
+B06001036   75 years and over
+B06001037  Native; born outside the United States:
+B06001038   Under 5 years
+B06001039   5 to 17 years
+B06001040   18 to 24 years
+B06001041   25 to 34 years
+B06001042   35 to 44 years
+B06001043   45 to 54 years
+B06001044   55 to 59 years
+B06001045   60 and 61 years
+B06001046   62 to 64 years
+B06001047   65 to 74 years
+B06001048   75 years and over
+B06001049  Foreign born:
+B06001050   Under 5 years
+B06001051   5 to 17 years
+B06001052   18 to 24 years
+B06001053   25 to 34 years
+B06001054   35 to 44 years
+B06001055   45 to 54 years
+B06001056   55 to 59 years
+B06001057   60 and 61 years
+B06001058   62 to 64 years
+B06001059   65 to 74 years
+B06001060   75 years and over

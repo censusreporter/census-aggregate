@@ -1,0 +1,45 @@
+Poverty Status of Families by Family Type by Presence of Related Children by Age of Related Children (White Alone, Not Hispanic or Latino Householder)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Families With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B17010H001 Total:
+B17010H002  Income in the past 12 months below poverty level:
+B17010H003   Married-couple family:
+B17010H004    With related children under 18 years:
+B17010H005     Under 5 years only
+B17010H006     Under 5 years and 5 to 17 years
+B17010H007     5 to 17 years only
+B17010H008    No related children under 18 years
+B17010H009   Other family:
+B17010H010    Male householder, no wife present:
+B17010H011     With related children under 18 years:
+B17010H012      Under 5 years only
+B17010H013      Under 5 years and 5 to 17 years
+B17010H014      5 to 17 years only
+B17010H015     No related children under 18 years
+B17010H016    Female householder, no husband present:
+B17010H017     With related children under 18 years:
+B17010H018      Under 5 years only
+B17010H019      Under 5 years and 5 to 17 years
+B17010H020      5 to 17 years only
+B17010H021     No related children under 18 years
+B17010H022  Income in the past 12 months at or above poverty level:
+B17010H023   Married-couple family:
+B17010H024    With related children under 18 years:
+B17010H025     Under 5 years only
+B17010H026     Under 5 years and 5 to 17 years
+B17010H027     5 to 17 years only
+B17010H028    No related children under 18 years
+B17010H029   Other family:
+B17010H030    Male householder, no wife present:
+B17010H031     With related children under 18 years:
+B17010H032      Under 5 years only
+B17010H033      Under 5 years and 5 to 17 years
+B17010H034      5 to 17 years only
+B17010H035     No related children under 18 years
+B17010H036    Female householder, no husband present:
+B17010H037     With related children under 18 years:
+B17010H038      Under 5 years only
+B17010H039      Under 5 years and 5 to 17 years
+B17010H040      5 to 17 years only
+B17010H041     No related children under 18 years

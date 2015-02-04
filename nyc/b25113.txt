@@ -1,0 +1,12 @@
+Median Gross Rent by Year Householder Moved Into Unit
+-----------------------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25113000.5 Median gross rent --
+B25113001  Total:
+B25113002   Moved in 2010 or later
+B25113003   Moved in 2000 to 2009
+B25113004   Moved in 1990 to 1999
+B25113005   Moved in 1980 to 1989
+B25113006   Moved in 1970 to 1979
+B25113007   Moved in 1969 or earlier

@@ -1,0 +1,14 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren by Length of Time Responsible for Own Grandchildren
+--------------------------------------------------------------------------------------------------------------------------------------
+Universe: Population 30 Years and Over
+
+B10050001 Total:
+B10050002  Living with own grandchildren under 18 years:
+B10050003   Grandparent responsible for own grandchildren under 18 years:
+B10050004    Grandparent responsible less than 6 months
+B10050005    Grandparent responsible 6 to 11 months
+B10050006    Grandparent responsible 1 or 2 years
+B10050007    Grandparent responsible 3 or 4 years
+B10050008    Grandparent responsible 5 years or more
+B10050009   Grandparent not responsible for own grandchildren under 18 years
+B10050010  Not living with own grandchildren under 18 years

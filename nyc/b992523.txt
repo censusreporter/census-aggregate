@@ -1,0 +1,7 @@
+Imputation of Selected Monthly Owner Costs for Owner-occupied Housing Units
+---------------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B992523001 Total:
+B992523002  1 or more items imputed
+B992523003  Not imputed

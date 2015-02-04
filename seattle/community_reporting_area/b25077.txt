@@ -1,0 +1,5 @@
+Median Value (Dollars)
+----------------------
+Universe: Owner-occupied Housing Units
+
+B25077001 Median value (dollars)

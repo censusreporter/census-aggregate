@@ -1,0 +1,19 @@
+Women Who Had a Birth by Marital Status and Receipt of Public Assistance Income
+-------------------------------------------------------------------------------
+Universe: Women 15 to 50 Years
+
+B13015001 Total:
+B13015002  Women who had a birth in the past 12 months:
+B13015003   Now married (including separated and spouse absent):
+B13015004    Received public assistance income
+B13015005    Did not receive public assistance income
+B13015006   Unmarried (never married, widowed and divorced):
+B13015007    Received public assistance income
+B13015008    Did not receive public assistance income
+B13015009  Women who did not have a birth in the past 12 months:
+B13015010   Now married (including separated and spouse absent):
+B13015011    Received public assistance income
+B13015012    Did not receive public assistance income
+B13015013   Unmarried (never married, widowed and divorced):
+B13015014    Received public assistance income
+B13015015    Did not receive public assistance income

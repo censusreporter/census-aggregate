@@ -1,0 +1,61 @@
+Sex by School Enrollment by Type of School by Age
+-------------------------------------------------
+Universe: Population 3 Years and Over
+
+B14003001 Total:
+B14003002  Male:
+B14003003   Enrolled in public school:
+B14003004    3 and 4 years
+B14003005    5 to 9 years
+B14003006    10 to 14 years
+B14003007    15 to 17 years
+B14003008    18 and 19 years
+B14003009    20 to 24 years
+B14003010    25 to 34 years
+B14003011    35 years and over
+B14003012   Enrolled in private school:
+B14003013    3 and 4 years
+B14003014    5 to 9 years
+B14003015    10 to 14 years
+B14003016    15 to 17 years
+B14003017    18 and 19 years
+B14003018    20 to 24 years
+B14003019    25 to 34 years
+B14003020    35 years and over
+B14003021   Not enrolled in school:
+B14003022    3 and 4 years
+B14003023    5 to 9 years
+B14003024    10 to 14 years
+B14003025    15 to 17 years
+B14003026    18 and 19 years
+B14003027    20 to 24 years
+B14003028    25 to 34 years
+B14003029    35 years and over
+B14003030  Female:
+B14003031   Enrolled in public school:
+B14003032    3 and 4 years
+B14003033    5 to 9 years
+B14003034    10 to 14 years
+B14003035    15 to 17 years
+B14003036    18 and 19 years
+B14003037    20 to 24 years
+B14003038    25 to 34 years
+B14003039    35 years and over
+B14003040   Enrolled in private school:
+B14003041    3 and 4 years
+B14003042    5 to 9 years
+B14003043    10 to 14 years
+B14003044    15 to 17 years
+B14003045    18 and 19 years
+B14003046    20 to 24 years
+B14003047    25 to 34 years
+B14003048    35 years and over
+B14003049   Not enrolled in school:
+B14003050    3 and 4 years
+B14003051    5 to 9 years
+B14003052    10 to 14 years
+B14003053    15 to 17 years
+B14003054    18 and 19 years
+B14003055    20 to 24 years
+B14003056    25 to 34 years
+B14003057    35 years and over

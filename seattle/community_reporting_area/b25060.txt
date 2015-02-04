@@ -1,0 +1,5 @@
+Aggregate Contract Rent (Dollars)
+---------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25060001 Aggregate contract rent

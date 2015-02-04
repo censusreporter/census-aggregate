@@ -1,0 +1,11 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents (American Indian and Alaska Native Alone) Living With Own Grandchildren Under 18 Years
+
+B10051C001 Total:
+B10051C002  Grandparent responsible for own grandchildren under 18 years:
+B10051C003   30 to 59 years
+B10051C004   60 years and over
+B10051C005  Grandparent not responsible for own grandchildren under 18 years:
+B10051C006   30 to 59 years
+B10051C007   60 years and over

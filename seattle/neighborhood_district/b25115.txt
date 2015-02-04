@@ -1,0 +1,31 @@
+Tenure by Household Type and Presence and Age of Own Children
+-------------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25115001 Total:
+B25115002  Owner occupied:
+B25115003   Family households:
+B25115004    Married-couple family:
+B25115005     With own children under 18 years
+B25115006     No own children under 18 years
+B25115007    Other family:
+B25115008     Male householder, no wife present:
+B25115009      With own children under 18 years
+B25115010      No own children under 18 years
+B25115011     Female householder, no husband present:
+B25115012      With own children under 18 years
+B25115013      No own children under 18 years
+B25115014   Nonfamily households
+B25115015  Renter occupied:
+B25115016   Family households:
+B25115017    Married-couple family:
+B25115018     With own children under 18 years
+B25115019     No own children under 18 years
+B25115020    Other family:
+B25115021     Male householder, no wife present:
+B25115022      With own children under 18 years
+B25115023      No own children under 18 years
+B25115024     Female householder, no husband present:
+B25115025      With own children under 18 years
+B25115026      No own children under 18 years
+B25115027   Nonfamily households

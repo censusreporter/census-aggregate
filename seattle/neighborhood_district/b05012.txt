@@ -1,0 +1,7 @@
+Nativity in the United States
+-----------------------------
+Universe: Total Population in the United States
+
+B05012001 Total:
+B05012002  Native
+B05012003  Foreign-Born

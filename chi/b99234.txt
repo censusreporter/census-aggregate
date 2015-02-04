@@ -1,0 +1,10 @@
+Imputation of Weeks Worked
+--------------------------
+Universe: Population 16 Years and Over
+
+B99234001 Total:
+B99234002  Worked in the past 12 months:
+B99234002.5   Weeks worked in the past 12 months --
+B99234003    Imputed
+B99234004    Not imputed
+B99234005  Did not work in the past 12 months

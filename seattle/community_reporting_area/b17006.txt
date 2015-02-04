@@ -1,0 +1,33 @@
+Poverty Status of Related Children by Family Type by Age of Related Children
+----------------------------------------------------------------------------
+Universe: Related Children Under 18 Years
+
+B17006001 Total:
+B17006002  Income in the past 12 months below poverty level:
+B17006003   In married-couple family:
+B17006004    Under 5 years
+B17006005    5 years
+B17006006    6 to 17 years
+B17006007   In other family:
+B17006008    Male householder, no wife present:
+B17006009     Under 5 years
+B17006010     5 years
+B17006011     6 to 17 years
+B17006012    Female householder, no husband present:
+B17006013     Under 5 years
+B17006014     5 years
+B17006015     6 to 17 years
+B17006016  Income in the past 12 months at or above poverty level:
+B17006017   In married-couple family:
+B17006018    Under 5 years
+B17006019    5 years
+B17006020    6 to 17 years
+B17006021   In other family:
+B17006022    Male householder, no wife present:
+B17006023     Under 5 years
+B17006024     5 years
+B17006025     6 to 17 years
+B17006026    Female householder, no husband present:
+B17006027     Under 5 years
+B17006028     5 years
+B17006029     6 to 17 years

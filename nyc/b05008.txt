@@ -1,0 +1,73 @@
+Sex by Place of Birth by Year of Entry for the Foreign-born Population
+----------------------------------------------------------------------
+Universe: Foreign-born Population
+
+B05008001 Total:
+B05008002  Male:
+B05008003   Europe:
+B05008004    Entered 2010 or later
+B05008005    Entered 2000 to 2009
+B05008006    Entered before 2000
+B05008007   Asia:
+B05008008    Entered 2010 or later
+B05008009    Entered 2000 to 2009
+B05008010    Entered before 2000
+B05008011   Latin America:
+B05008012     Entered 2010 or later
+B05008013     Entered 2000 to 2009
+B05008014     Entered before 2000
+B05008015    Caribbean:
+B05008016     Entered 2010 or later
+B05008017     Entered 2000 to 2009
+B05008018     Entered before 2000
+B05008019    Central America:
+B05008020     Mexico:
+B05008021      Entered 2010 or later
+B05008022      Entered 2000 to 2009
+B05008023      Entered before 2000
+B05008024     Other Central America:
+B05008025      Entered 2010 or later
+B05008026      Entered 2000 to 2009
+B05008027      Entered before 2000
+B05008028    South America:
+B05008029     Entered 2010 or later
+B05008030     Entered 2000 to 2009
+B05008031     Entered before 2000
+B05008032   Other areas:
+B05008033    Entered 2010 or later
+B05008034    Entered 2000 to 2009
+B05008035    Entered before 2000
+B05008036  Female:
+B05008037   Europe:
+B05008038    Entered 2010 or later
+B05008039    Entered 2000 to 2009
+B05008040    Entered before 2000
+B05008041   Asia:
+B05008042    Entered 2010 or later
+B05008043    Entered 2000 to 2009
+B05008044    Entered before 2000
+B05008045   Latin America:
+B05008046     Entered 2010 or later
+B05008047     Entered 2000 to 2009
+B05008048     Entered before 2000
+B05008049    Caribbean:
+B05008050     Entered 2010 or later
+B05008051     Entered 2000 to 2009
+B05008052     Entered before 2000
+B05008053    Central America:
+B05008054     Mexico:
+B05008055      Entered 2010 or later
+B05008056      Entered 2000 to 2009
+B05008057      Entered before 2000
+B05008058     Other Central America:
+B05008059      Entered 2010 or later
+B05008060      Entered 2000 to 2009
+B05008061      Entered before 2000
+B05008062    South America:
+B05008063     Entered 2010 or later
+B05008064     Entered 2000 to 2009
+B05008065     Entered before 2000
+B05008066   Other areas:
+B05008067    Entered 2010 or later
+B05008068    Entered 2000 to 2009
+B05008069    Entered before 2000

@@ -1,0 +1,10 @@
+Imputation of Travel Time to Work
+---------------------------------
+Universe: Workers 16 Years and Over
+
+B99084001 Total:
+B99084002  Did not work at home:
+B99084002.5   Travel time to work --
+B99084003    Imputed
+B99084004    Not imputed
+B99084005  Worked at home

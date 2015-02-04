@@ -1,0 +1,11 @@
+Women Who Had a Birth by Marital Status (White Alone)
+-----------------------------------------------------
+Universe: White Alone Women 15 to 50 Years
+
+B13002A001 Total:
+B13002A002  Women who had a birth in the past 12 months:
+B13002A003   Now married (including separated and spouse absent)
+B13002A004   Unmarried (never married, widowed and divorced)
+B13002A005  Women who did not have a birth in the past 12 months:
+B13002A006   Now married (including separated and spouse absent)
+B13002A007   Unmarried (never married, widowed and divorced)

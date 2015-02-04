@@ -1,0 +1,19 @@
+Women Who Had a Birth by Marital Status and Nativity
+----------------------------------------------------
+Universe: Women 15 to 50 Years
+
+B13008001 Total:
+B13008002  Women who had a birth in the past 12 months:
+B13008003   Now married (including separated and spouse absent):
+B13008004    Native
+B13008005    Foreign born
+B13008006   Unmarried (never married, widowed and divorced):
+B13008007    Native
+B13008008    Foreign born
+B13008009  Women who did not have a birth in the past 12 months:
+B13008010   Now married (including separated and spouse absent):
+B13008011    Native
+B13008012    Foreign born
+B13008013   Unmarried (never married, widowed and divorced):
+B13008014    Native
+B13008015    Foreign born

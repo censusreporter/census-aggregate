@@ -1,0 +1,39 @@
+Poverty Status of Individuals by Living Arrangement
+---------------------------------------------------
+Universe: Population for Whom Poverty Status Is Determined
+
+B17021001 Total:
+B17021002  Income in the past 12 months below poverty level:
+B17021003   In family households:
+B17021004    In married couple families:
+B17021005      All relatives
+B17021006      Non-relatives
+B17021007    In other families:
+B17021008     Male householder, no wife present:
+B17021009      All relatives
+B17021010      Non-relatives
+B17021011     Female householder, no husband present:
+B17021012      All relatives
+B17021013      Non-relatives
+B17021014   In non-family households and other living arrangement:
+B17021015    Householder:
+B17021016      Living alone
+B17021017      Not living alone
+B17021018    Other living arrangement
+B17021019  Income in the past 12 months at or above poverty level:
+B17021020   In family households:
+B17021021    In married couple families:
+B17021022      All relatives
+B17021023      Non-relatives
+B17021024    In other families:
+B17021025     Male householder, no wife present:
+B17021026      All relatives
+B17021027      Non-relatives
+B17021028     Female householder, no husband present:
+B17021029      All relatives
+B17021030      Non-relatives
+B17021031   In non-family households and other living arrangement:
+B17021032    Householder:
+B17021033      Living alone
+B17021034      Not living alone
+B17021035    Other living arrangement

@@ -1,0 +1,7 @@
+Earnings for Households
+-----------------------
+Universe: Households
+
+B19051001 Total:
+B19051002  With earnings
+B19051003  No earnings

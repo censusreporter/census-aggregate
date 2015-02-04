@@ -1,0 +1,9 @@
+Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in the United States
+--------------------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population in the United States
+
+B06004E001 Total:
+B06004E002  Born in state of residence
+B06004E003  Born in other state in the United States
+B06004E004  Native; born outside the United States
+B06004E005  Foreign born

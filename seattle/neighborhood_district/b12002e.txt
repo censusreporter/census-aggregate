@@ -1,0 +1,17 @@
+Sex by Marital Status (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over
+
+B12002E001 Total:
+B12002E002  Male:
+B12002E003   Never married
+B12002E004   Now married (except separated)
+B12002E005   Separated
+B12002E006   Widowed
+B12002E007   Divorced
+B12002E008  Female:
+B12002E009   Never married
+B12002E010   Now married (except separated)
+B12002E011   Separated
+B12002E012   Widowed
+B12002E013   Divorced

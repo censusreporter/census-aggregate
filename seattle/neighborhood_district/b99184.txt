@@ -1,0 +1,7 @@
+Imputation of Cognitive Difficulty for the Civilian Noninstitutionalized Population 5 Years and Over
+----------------------------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B99184001 Total:
+B99184002  Imputed
+B99184003  Not imputed

@@ -1,0 +1,44 @@
+Place of Birth by Language Spoken at Home and Ability to Speak English in the United States
+-------------------------------------------------------------------------------------------
+Universe: Population 5 Years and Over in the United States
+
+B06007001 Total:
+B06007002   Speak only English
+B06007003   Speak Spanish:
+B06007004    Speak English "very well"
+B06007005    Speak English less than "very well"
+B06007006   Speak other languages:
+B06007007    Speak English "very well"
+B06007008    Speak English less than "very well"
+B06007009  Born in state of residence:
+B06007010   Speak only English
+B06007011   Speak Spanish:
+B06007012    Speak English "very well"
+B06007013    Speak English less than "very well"
+B06007014   Speak other languages:
+B06007015    Speak English "very well"
+B06007016    Speak English less than "very well"
+B06007017  Born in other state in the United States:
+B06007018   Speak only English
+B06007019   Speak Spanish:
+B06007020    Speak English "very well"
+B06007021    Speak English less than "very well"
+B06007022   Speak other languages:
+B06007023    Speak English "very well"
+B06007024    Speak English less than "very well"
+B06007025  Native; born outside the United States:
+B06007026   Speak only English
+B06007027   Speak Spanish:
+B06007028    Speak English "very well"
+B06007029    Speak English less than "very well"
+B06007030   Speak other languages:
+B06007031    Speak English "very well"
+B06007032    Speak English less than "very well"
+B06007033  Foreign born:
+B06007034   Speak only English
+B06007035   Speak Spanish:
+B06007036    Speak English "very well"
+B06007037    Speak English less than "very well"
+B06007038   Speak other languages:
+B06007039    Speak English "very well"
+B06007040    Speak English less than "very well"

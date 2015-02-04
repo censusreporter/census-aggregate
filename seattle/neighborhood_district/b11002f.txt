@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Some Other Race Alone)
+-------------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Some Other Race Alone
+
+B11002F001 Total:
+B11002F002  In family households:
+B11002F003   In married-couple family:
+B11002F004    Relatives
+B11002F005    Nonrelatives
+B11002F006   In male householder, no wife present, family:
+B11002F007    Relatives
+B11002F008    Nonrelatives
+B11002F009   In female householder, no husband present, family:
+B11002F010    Relatives
+B11002F011    Nonrelatives
+B11002F012  In nonfamily households

@@ -1,0 +1,7 @@
+Aggregate Gross Rent (Dollars) by Meals Included in Rent
+--------------------------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25067001 Aggregate gross rent:
+B25067002  Meals included in rent
+B25067003  No meals included in rent

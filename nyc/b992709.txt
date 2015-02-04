@@ -1,0 +1,7 @@
+Imputation of VA Health Care
+----------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992709001 Total:
+B992709002  Imputed
+B992709003  Not imputed

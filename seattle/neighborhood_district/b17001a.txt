@@ -1,0 +1,63 @@
+Poverty Status by Sex by Age (White Alone)
+------------------------------------------
+Universe: White Alone Population for Whom Poverty Status Is Determined
+
+B17001A001 Total:
+B17001A002  Income in the past 12 months below poverty level:
+B17001A003   Male:
+B17001A004    Under 5 years
+B17001A005    5 years
+B17001A006    6 to 11 years
+B17001A007    12 to 14 years
+B17001A008    15 years
+B17001A009    16 and 17 years
+B17001A010    18 to 24 years
+B17001A011    25 to 34 years
+B17001A012    35 to 44 years
+B17001A013    45 to 54 years
+B17001A014    55 to 64 years
+B17001A015    65 to 74 years
+B17001A016    75 years and over
+B17001A017   Female:
+B17001A018    Under 5 years
+B17001A019    5 years
+B17001A020    6 to 11 years
+B17001A021    12 to 14 years
+B17001A022    15 years
+B17001A023    16 and 17 years
+B17001A024    18 to 24 years
+B17001A025    25 to 34 years
+B17001A026    35 to 44 years
+B17001A027    45 to 54 years
+B17001A028    55 to 64 years
+B17001A029    65 to 74 years
+B17001A030    75 years and over
+B17001A031  Income in the past 12 months at or above poverty level:
+B17001A032   Male:
+B17001A033    Under 5 years
+B17001A034    5 years
+B17001A035    6 to 11 years
+B17001A036    12 to 14 years
+B17001A037    15 years
+B17001A038    16 and 17 years
+B17001A039    18 to 24 years
+B17001A040    25 to 34 years
+B17001A041    35 to 44 years
+B17001A042    45 to 54 years
+B17001A043    55 to 64 years
+B17001A044    65 to 74 years
+B17001A045    75 years and over
+B17001A046   Female:
+B17001A047    Under 5 years
+B17001A048    5 years
+B17001A049    6 to 11 years
+B17001A050    12 to 14 years
+B17001A051    15 years
+B17001A052    16 and 17 years
+B17001A053    18 to 24 years
+B17001A054    25 to 34 years
+B17001A055    35 to 44 years
+B17001A056    45 to 54 years
+B17001A057    55 to 64 years
+B17001A058    65 to 74 years
+B17001A059    75 years and over

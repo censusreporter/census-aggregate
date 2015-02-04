@@ -1,0 +1,61 @@
+Health Insurance Coverage Status by Sex by Age
+----------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B27001001 Total:
+B27001002  Male:
+B27001003   Under 6 years:
+B27001004    With health insurance coverage
+B27001005    No health insurance coverage
+B27001006   6 to 17 years:
+B27001007    With health insurance coverage
+B27001008    No health insurance coverage
+B27001009   18 to 24 years:
+B27001010    With health insurance coverage
+B27001011    No health insurance coverage
+B27001012   25 to 34 years:
+B27001013    With health insurance coverage
+B27001014    No health insurance coverage
+B27001015   35 to 44 years:
+B27001016    With health insurance coverage
+B27001017    No health insurance coverage
+B27001018   45 to 54 years:
+B27001019    With health insurance coverage
+B27001020    No health insurance coverage
+B27001021   55 to 64 years:
+B27001022    With health insurance coverage
+B27001023    No health insurance coverage
+B27001024   65 to 74 years:
+B27001025    With health insurance coverage
+B27001026    No health insurance coverage
+B27001027   75 years and over:
+B27001028    With health insurance coverage
+B27001029    No health insurance coverage
+B27001030  Female:
+B27001031   Under 6 years:
+B27001032    With health insurance coverage
+B27001033    No health insurance coverage
+B27001034   6 to 17 years:
+B27001035    With health insurance coverage
+B27001036    No health insurance coverage
+B27001037   18 to 24 years:
+B27001038    With health insurance coverage
+B27001039    No health insurance coverage
+B27001040   25 to 34 years:
+B27001041    With health insurance coverage
+B27001042    No health insurance coverage
+B27001043   35 to 44 years:
+B27001044    With health insurance coverage
+B27001045    No health insurance coverage
+B27001046   45 to 54 years:
+B27001047    With health insurance coverage
+B27001048    No health insurance coverage
+B27001049   55 to 64 years:
+B27001050    With health insurance coverage
+B27001051    No health insurance coverage
+B27001052   65 to 74 years:
+B27001053    With health insurance coverage
+B27001054    No health insurance coverage
+B27001055   75 years and over:
+B27001056    With health insurance coverage
+B27001057    No health insurance coverage

@@ -1,0 +1,9 @@
+Place of Birth (Some Other Race Alone) in the United States
+-----------------------------------------------------------
+Universe: Some Other Race Alone Population in the United States
+
+B06004F001 Total:
+B06004F002  Born in state of residence
+B06004F003  Born in other state in the United States
+B06004F004  Native; born outside the United States
+B06004F005  Foreign born

@@ -1,0 +1,14 @@
+Median Earnings by Sex by Work Experience With Earnings (Whi
+------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 16 Years and Over With Earnings in the Past 12 Months
+
+B20017H000.5 Median earnings in the past 12 months (in 2012 inflation-adjusted dollars) --
+B20017H001  Total:
+B20017H001.5  Male --
+B20017H002   Total
+B20017H003   Worked full-time, year-round in the past 12 months
+B20017H004   Other
+B20017H004.5  Female --
+B20017H005   Total
+B20017H006   Worked full-time, year-round in the past 12 months
+B20017H007   Other

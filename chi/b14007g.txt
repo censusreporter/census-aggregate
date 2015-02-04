@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Two or More Races)
+-----------------------------------------------------------------
+Universe: Two or More Races Population 3 Years and Over
+
+B14007G001 Total:
+B14007G002  Enrolled in school:
+B14007G003   Enrolled in nursery school, preschool
+B14007G004   Enrolled in kindergarten
+B14007G005   Enrolled in grade 1
+B14007G006   Enrolled in grade 2
+B14007G007   Enrolled in grade 3
+B14007G008   Enrolled in grade 4
+B14007G009   Enrolled in grade 5
+B14007G010   Enrolled in grade 6
+B14007G011   Enrolled in grade 7
+B14007G012   Enrolled in grade 8
+B14007G013   Enrolled in grade 9
+B14007G014   Enrolled in grade 10
+B14007G015   Enrolled in grade 11
+B14007G016   Enrolled in grade 12
+B14007G017   Enrolled in college, undergraduate years
+B14007G018   Graduate or professional school
+B14007G019  Not enrolled in school

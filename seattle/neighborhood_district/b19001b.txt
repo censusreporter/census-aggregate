@@ -1,0 +1,21 @@
+Household Income (Black or African American Alone Householder)
+--------------------------------------------------------------
+Universe: Households With a Householder Who Is Black or African American Alone
+
+B19001B001 Total:
+B19001B002  Less than $10,000
+B19001B003  $10,000 to $14,999
+B19001B004  $15,000 to $19,999
+B19001B005  $20,000 to $24,999
+B19001B006  $25,000 to $29,999
+B19001B007  $30,000 to $34,999
+B19001B008  $35,000 to $39,999
+B19001B009  $40,000 to $44,999
+B19001B010  $45,000 to $49,999
+B19001B011  $50,000 to $59,999
+B19001B012  $60,000 to $74,999
+B19001B013  $75,000 to $99,999
+B19001B014  $100,000 to $124,999
+B19001B015  $125,000 to $149,999
+B19001B016  $150,000 to $199,999
+B19001B017  $200,000 or more

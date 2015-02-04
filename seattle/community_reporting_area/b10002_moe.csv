@@ -1,0 +1,54 @@
+area_id,area_name,b10002001,b10002001_moe,b10002002,b10002002_moe,b10002003,b10002003_moe,b10002004,b10002004_moe,b10002005,b10002005_moe
+1.1,Arbor Heights,40,40,9,18,9,18,0,17,31,40
+1.2,Fauntleroy/Seaview,118,89,90,81,75,75,15,31,28,33
+1.3,West Seattle Junction/Genesee Hill,20,35,1,26,0,29,1,26,19,38
+1.4,Alki/Admiral,0,24,0,24,0,24,0,24,0,24
+2.1,North Delridge,55,82,0,12,0,12,0,12,55,82
+2.2,High Point,38,39,0,17,0,17,0,17,38,39
+2.3,Riverview,77,70,11,18,11,18,0,12,66,71
+2.4,Roxhill/Westwood,123,72,32,36,32,36,0,21,91,67
+2.5,Highland Park,6,27,2,23,2,23,0,21,4,16
+3.1,South Park,92,76,84,75,20,34,64,66,8,18
+3.2,Georgetown,59,36,0,12,0,12,0,12,59,36
+3.3,Duwamish/SODO,0,12,0,12,0,12,0,12,0,12
+3.4,South Beacon Hill/NewHolly,353,138,209,109,148,97,61,58,144,100
+3.5,Beacon Hill,113,80,19,25,19,25,0,17,94,74
+3.6,North Beacon Hill/Jefferson Park,154,117,77,77,23,42,54,65,77,86
+4.1,Rainier Beach,556,288,303,235,243,216,60,97,253,198
+4.2,Columbia City,136,95,75,70,21,42,54,64,61,59
+4.3,Seward Park,47,38,14,23,0,17,14,23,33,33
+4.4,Mt. Baker/North Rainier,76,54,62,55,15,23,47,53,14,24
+5.1,Madrona/Leschi,16,30,0,21,0,21,0,21,16,30
+5.2,Judkins Park,0,12,0,12,0,12,0,12,0,12
+5.3,Central Area/Squire Park,77,89,36,67,28,67,8,25,41,63
+6.1,First Hill,22,42,22,42,22,42,0,24,0,24
+6.2,Capitol Hill,0,29,0,29,0,29,0,29,0,29
+6.3,North Capitol Hill,17,26,17,26,0,12,17,26,0,12
+6.4,Miller Park,193,219,193,219,0,17,193,219,0,17
+6.5,Madison Park,0,17,0,17,0,17,0,17,0,17
+7.1,Montlake/Portage Bay,11,25,11,25,0,21,11,25,0,21
+7.2,University District,0,29,0,29,0,29,0,29,0,29
+7.3,Ravenna/Bryant,55,72,41,70,0,32,41,70,14,36
+7.4,Wedgwood/View Ridge,72,68,55,62,34,53,21,42,17,36
+7.5,Laurelhurst/Sand Point,32,34,0,21,0,21,0,21,32,34
+8.1,Northgate/Maple Leaf,52,55,32,45,32,45,0,24,20,40
+8.2,Olympic Hills/Victory Heights,79,64,12,29,12,29,0,24,67,61
+8.3,Cedar Park/Meadowbrook,44,41,7,27,7,27,0,27,37,40
+9.1,Broadview/Bitter Lake,21,40,0,27,0,27,0,27,21,40
+9.2,Licton Springs,0,17,0,17,0,17,0,17,0,17
+9.3,Greenwood/Phinney Ridge,203,100,141,114,124,112,17,37,62,63
+9.4,Green Lake,44,39,14,30,14,30,0,24,30,37
+9.5,Haller Lake,109,124,30,37,14,23,16,34,79,121
+10.1,North Beach/Blue Ridge,31,37,31,37,31,37,0,21,0,21
+10.2,Whittier Heights,13,27,13,27,0,24,13,27,0,24
+10.3,Sunset Hill/Loyal Heights,81,68,13,27,0,24,13,27,68,70
+10.4,Ballard,17,27,17,27,0,17,17,27,0,17
+11.1,Fremont,0,24,0,24,0,24,0,24,0,24
+11.2,Wallingford,24,43,0,27,0,27,0,27,24,43
+11.3,Cascade/Eastlake,8,22,0,21,0,21,0,21,8,22
+12.1,Magnolia,0,24,0,24,0,24,0,24,0,24
+12.2,Interbay,0,21,0,21,0,21,0,21,0,21
+12.3,Queen Anne,37,56,12,43,0,40,12,43,25,54
+13.1,Belltown,0,21,0,21,0,21,0,21,0,21
+13.2,Downtown Commercial Core,0,12,0,12,0,12,0,12,0,12
+13.3,Pioneer Square/International District,16,22,7,16,7,16,0,17,9,20

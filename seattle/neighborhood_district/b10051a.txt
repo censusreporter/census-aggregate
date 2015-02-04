@@ -1,0 +1,11 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent (White Alone)
+-----------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents (White Alone) Living With Own Grandchildren Under 18 Years
+
+B10051A001 Total:
+B10051A002  Grandparent responsible for own grandchildren under 18 years:
+B10051A003   30 to 59 years
+B10051A004   60 years and over
+B10051A005  Grandparent not responsible for own grandchildren under 18 years:
+B10051A006   30 to 59 years
+B10051A007   60 years and over

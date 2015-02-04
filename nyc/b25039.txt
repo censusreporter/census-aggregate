@@ -1,0 +1,8 @@
+Median Year Householder Moved Into Unit by Tenure
+-------------------------------------------------
+Universe: Occupied Housing Units
+
+B25039000.5 Median year householder moved into unit --
+B25039001  Total:
+B25039002  Owner occupied
+B25039003  Renter occupied

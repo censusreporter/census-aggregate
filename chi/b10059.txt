@@ -1,0 +1,15 @@
+Poverty Status of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+---------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years for Whom Poverty Status Is Determined
+
+B10059001 Total:
+B10059002  Income in the past 12 months below poverty level:
+B10059003   Grandparent responsible for own grandchildren under 18 years:
+B10059004    30 to 59 years
+B10059005    60 years and over
+B10059006   Grandparent not responsible for own grandchildren under 18 years
+B10059007  Income in the past 12 months at or above poverty level:
+B10059008   Grandparent responsible for own grandchildren under 18 years:
+B10059009    30 to 59 years
+B10059010    60 years and over
+B10059011   Grandparent not responsible for own grandchildren under 18 years

@@ -1,0 +1,71 @@
+Age by Language Spoken at Home by Ability to Speak English
+----------------------------------------------------------
+Universe: Population 5 Years and Over
+
+B16004001 Total:
+B16004002  5 to 17 years:
+B16004003   Speak only English
+B16004004   Speak Spanish:
+B16004005    Speak English "very well"
+B16004006    Speak English "well"
+B16004007    Speak English "not well"
+B16004008    Speak English "not at all"
+B16004009   Speak other Indo-European languages:
+B16004010    Speak English "very well"
+B16004011    Speak English "well"
+B16004012    Speak English "not well"
+B16004013    Speak English "not at all"
+B16004014   Speak Asian and Pacific Island languages:
+B16004015    Speak English "very well"
+B16004016    Speak English "well"
+B16004017    Speak English "not well"
+B16004018    Speak English "not at all"
+B16004019   Speak other languages:
+B16004020    Speak English "very well"
+B16004021    Speak English "well"
+B16004022    Speak English "not well"
+B16004023    Speak English "not at all"
+B16004024  18 to 64 years:
+B16004025   Speak only English
+B16004026   Speak Spanish:
+B16004027    Speak English "very well"
+B16004028    Speak English "well"
+B16004029    Speak English "not well"
+B16004030    Speak English "not at all"
+B16004031   Speak other Indo-European languages:
+B16004032    Speak English "very well"
+B16004033    Speak English "well"
+B16004034    Speak English "not well"
+B16004035    Speak English "not at all"
+B16004036   Speak Asian and Pacific Island languages:
+B16004037    Speak English "very well"
+B16004038    Speak English "well"
+B16004039    Speak English "not well"
+B16004040    Speak English "not at all"
+B16004041   Speak other languages:
+B16004042    Speak English "very well"
+B16004043    Speak English "well"
+B16004044    Speak English "not well"
+B16004045    Speak English "not at all"
+B16004046  65 years and over:
+B16004047   Speak only English
+B16004048   Speak Spanish:
+B16004049    Speak English "very well"
+B16004050    Speak English "well"
+B16004051    Speak English "not well"
+B16004052    Speak English "not at all"
+B16004053   Speak other Indo-European languages:
+B16004054    Speak English "very well"
+B16004055    Speak English "well"
+B16004056    Speak English "not well"
+B16004057    Speak English "not at all"
+B16004058   Speak Asian and Pacific Island languages:
+B16004059    Speak English "very well"
+B16004060    Speak English "well"
+B16004061    Speak English "not well"
+B16004062    Speak English "not at all"
+B16004063   Speak other languages:
+B16004064    Speak English "very well"
+B16004065    Speak English "well"
+B16004066    Speak English "not well"
+B16004067    Speak English "not at all"

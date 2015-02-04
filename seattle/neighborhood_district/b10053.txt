@@ -1,0 +1,15 @@
+Nativity by Grandparents Responsible for Own Grandchildren by Age of Grandparent
+--------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10053001 Total:
+B10053002  Native:
+B10053003   Grandparent responsible for own grandchildren under 18 years:
+B10053004    30 to 59 years
+B10053005    60 years and over
+B10053006   Grandparent not responsible for own grandchildren under 18 years
+B10053007  Foreign-born:
+B10053008   Grandparent responsible for own grandchildren under 18 years:
+B10053009    30 to 59 years
+B10053010    60 years and over
+B10053011   Grandparent not responsible for own grandchildren under 18 years

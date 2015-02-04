@@ -1,0 +1,23 @@
+Women Who Had a Birth by Marital Status and Age
+-----------------------------------------------
+Universe: Women 15 to 50 Years
+
+B13002001 Total:
+B13002002  Women who had a birth in the past 12 months:
+B13002003   Now married (including separated and spouse absent):
+B13002004    15 to 19 years old
+B13002005    20 to 34 years old
+B13002006    35 to 50 years old
+B13002007   Unmarried (never married, widowed, and divorced):
+B13002008    15 to 19 years old
+B13002009    20 to 34 years old
+B13002010    35 to 50 years old
+B13002011  Women who did not have a birth in the past 12 months:
+B13002012   Now married (including separated and spouse absent):
+B13002013    15 to 19 years old
+B13002014    20 to 34 years old
+B13002015    35 to 50 years old
+B13002016   Unmarried (never married, widowed, and divorced):
+B13002017    15 to 19 years old
+B13002018    20 to 34 years old
+B13002019    35 to 50 years old

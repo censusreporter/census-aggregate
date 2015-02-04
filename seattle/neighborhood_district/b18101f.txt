@@ -1,0 +1,14 @@
+Age by Disability Status (Some Other Race Alone)
+------------------------------------------------
+Universe: Some Other Race Alone Civilian Noninstitutionalized Population
+
+B18101F001 Total:
+B18101F002  Under 18 years:
+B18101F003   With a disability
+B18101F004   No disability
+B18101F005  18 to 64 years:
+B18101F006   With a disability
+B18101F007   No disability
+B18101F008  65 years and over:
+B18101F009   With a disability
+B18101F010   No disability

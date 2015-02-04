@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population 3 Years and Over
+
+B14007C001 Total:
+B14007C002  Enrolled in school:
+B14007C003   Enrolled in nursery school, preschool
+B14007C004   Enrolled in kindergarten
+B14007C005   Enrolled in grade 1
+B14007C006   Enrolled in grade 2
+B14007C007   Enrolled in grade 3
+B14007C008   Enrolled in grade 4
+B14007C009   Enrolled in grade 5
+B14007C010   Enrolled in grade 6
+B14007C011   Enrolled in grade 7
+B14007C012   Enrolled in grade 8
+B14007C013   Enrolled in grade 9
+B14007C014   Enrolled in grade 10
+B14007C015   Enrolled in grade 11
+B14007C016   Enrolled in grade 12
+B14007C017   Enrolled in college, undergraduate years
+B14007C018   Graduate or professional school
+B14007C019  Not enrolled in school

@@ -1,0 +1,5 @@
+Group Quarters Population
+-------------------------
+Universe: Population in Group Quarters
+
+B26001001 Total:

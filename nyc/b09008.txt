@@ -1,0 +1,16 @@
+Presence of Unmarried Partner of Householder by Household Type for Children in Households
+-----------------------------------------------------------------------------------------
+Universe: Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)
+
+B09008001 Total:
+B09008002  Unmarried partner of householder present:
+B09008003   In family households:
+B09008004    In male householder, no wife present, family
+B09008005    In female householder, no husband present, family
+B09008006   In nonfamily households
+B09008007  No unmarried partner of householder present:
+B09008008   In family households:
+B09008009    In married-couple family
+B09008010    In male householder, no wife present, family
+B09008011    In female householder, no husband present, family
+B09008012   In nonfamily households

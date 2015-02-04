@@ -1,0 +1,5 @@
+Lower Contract Rent Quartile (Dollars)
+--------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25057001 Lower contract rent quartile

@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Black or African American Alone)
+------------------------------------------------------------------------------------------------------------
+Universe: Black or African American Alone Civilian Population 18 Years and Over
+
+C21001B001 Total:
+C21001B002  Male:
+C21001B003   18 to 64 years:
+C21001B004    Veteran
+C21001B005    Nonveteran
+C21001B006   65 years and over:
+C21001B007    Veteran
+C21001B008    Nonveteran
+C21001B009  Female:
+C21001B010   18 to 64 years:
+C21001B011    Veteran
+C21001B012    Nonveteran
+C21001B013   65 years and over:
+C21001B014    Veteran
+C21001B015    Nonveteran

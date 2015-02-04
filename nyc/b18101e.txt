@@ -1,0 +1,14 @@
+Age by Disability Status (Native Hawaiian and Other Pacific Islander Alone)
+---------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Civilian Noninstitutionalized Population
+
+B18101E001 Total:
+B18101E002  Under 18 years:
+B18101E003   With a disability
+B18101E004   No disability
+B18101E005  18 to 64 years:
+B18101E006   With a disability
+B18101E007   No disability
+B18101E008  65 years and over:
+B18101E009   With a disability
+B18101E010   No disability

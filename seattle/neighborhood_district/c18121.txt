@@ -1,0 +1,14 @@
+Work Experience by Disability Status
+------------------------------------
+Universe: Civilian Noninstitutionalized Population 18 to 64 Years
+
+C18121001 Total:
+C18121002  Worked full-time, year round:
+C18121003   With a disability
+C18121004   No disability
+C18121005  Worked less than full-time, year round:
+C18121006   With a disability
+C18121007   No disability
+C18121008  Did not work:
+C18121009   With a disability
+C18121010   No disability

@@ -1,0 +1,14 @@
+Race of Householder
+-------------------
+Universe: Occupied Housing Units
+
+B25006001 Total:
+B25006002  Householder who is White alone
+B25006003  Householder who is Black or African American alone
+B25006004  Householder who is American Indian and Alaska Native alone
+B25006005  Householder who is Asian alone
+B25006006  Householder who is Native Hawaiian and Other Pacific Islander alone
+B25006007  Householder who is Some other race alone
+B25006008  Householder who is Two or more races:
+B25006009   Householder who is Two races including Some other race
+B25006010   Householder who is Two races excluding Some other race, and three or more races

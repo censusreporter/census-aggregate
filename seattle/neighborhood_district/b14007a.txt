@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (White Alone)
+-----------------------------------------------------------
+Universe: White Alone Population 3 Years and Over
+
+B14007A001 Total:
+B14007A002  Enrolled in school:
+B14007A003   Enrolled in nursery school, preschool
+B14007A004   Enrolled in kindergarten
+B14007A005   Enrolled in grade 1
+B14007A006   Enrolled in grade 2
+B14007A007   Enrolled in grade 3
+B14007A008   Enrolled in grade 4
+B14007A009   Enrolled in grade 5
+B14007A010   Enrolled in grade 6
+B14007A011   Enrolled in grade 7
+B14007A012   Enrolled in grade 8
+B14007A013   Enrolled in grade 9
+B14007A014   Enrolled in grade 10
+B14007A015   Enrolled in grade 11
+B14007A016   Enrolled in grade 12
+B14007A017   Enrolled in college, undergraduate years
+B14007A018   Graduate or professional school
+B14007A019  Not enrolled in school

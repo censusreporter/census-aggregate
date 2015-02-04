@@ -1,0 +1,15 @@
+Population in Subfamilies by Subfamily Type by Relationship
+-----------------------------------------------------------
+Universe: Population in Subfamilies
+
+B11014001 Total:
+B11014002  In married-couple subfamilies:
+B11014003   Husband/wife in a childless subfamily
+B11014004   Husband/wife in a subfamily with children
+B11014005   Child
+B11014006  In mother-child subfamilies:
+B11014007   Parent
+B11014008   Child
+B11014009  In father-child subfamilies:
+B11014010   Parent
+B11014011   Child

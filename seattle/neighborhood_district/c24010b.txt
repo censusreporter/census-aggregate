@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (Black or African American Alone)
+-------------------------------------------------------------------------------
+Universe: Civilian Employed Black or African American Alone Population 16 Years and Over
+
+C24010B001 Total:
+C24010B002  Male:
+C24010B003   Management, business, science, and arts occupations:
+C24010B004   Service occupations:
+C24010B005   Sales and office occupations:
+C24010B006   Natural resources, construction, and maintenance occupations:
+C24010B007   Production, transportation, and material moving occupations:
+C24010B008  Female:
+C24010B009   Management, business, science, and arts occupations:
+C24010B010   Service occupations:
+C24010B011   Sales and office occupations:
+C24010B012   Natural resources, construction, and maintenance occupations:
+C24010B013   Production, transportation, and material moving occupations:

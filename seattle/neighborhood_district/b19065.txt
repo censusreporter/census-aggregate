@@ -1,0 +1,5 @@
+Aggregate Social Security Income for Households
+-----------------------------------------------
+Universe: Households
+
+B19065001 Aggregate Social Security income in the past 12 months (in 2012 inflation-adjusted dollars)

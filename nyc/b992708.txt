@@ -1,0 +1,7 @@
+Imputation of Tricare/Military Health Coverage
+----------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992708001 Total:
+B992708002  Imputed
+B992708003  Not imputed

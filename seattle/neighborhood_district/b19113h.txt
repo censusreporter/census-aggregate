@@ -1,0 +1,5 @@
+Median Family Income (White Alone, Not Hispanic or Latino Householder)
+----------------------------------------------------------------------
+Universe: Families With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B19113H001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

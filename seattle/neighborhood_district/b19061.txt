@@ -1,0 +1,5 @@
+Aggregate Earnings for Households
+---------------------------------
+Universe: Households
+
+B19061001 Aggregate earnings in the past 12 months (in 2012 inflation-adjusted dollars)

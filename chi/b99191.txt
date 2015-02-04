@@ -1,0 +1,13 @@
+Imputation of Individuals' Income - Percent of Income Imputed
+-------------------------------------------------------------
+Universe: Population 15 Years and Over
+
+B99191001 Total:
+B99191001.5 Percent of income imputed --
+B99191002  No income imputed
+B99191003  Dollar value of zero imputed
+B99191004  More than 0 to less than 10 percent of total income for individual imputed
+B99191005  10 to less than 25 percent of total income for individual imputed
+B99191006  25 to less than 50 percent of total income for individual imputed
+B99191007  50 to less than 100 percent of total income for individual imputed
+B99191008  100 percent of total income for individual imputed

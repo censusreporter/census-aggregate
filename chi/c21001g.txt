@@ -1,0 +1,19 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Two or More Races)
+----------------------------------------------------------------------------------------------
+Universe: Two or More Races Civilian Population 18 Years and Over
+
+C21001G001 Total:
+C21001G002  Male:
+C21001G003   18 to 64 years:
+C21001G004    Veteran
+C21001G005    Nonveteran
+C21001G006   65 years and over:
+C21001G007    Veteran
+C21001G008    Nonveteran
+C21001G009  Female:
+C21001G010   18 to 64 years:
+C21001G011    Veteran
+C21001G012    Nonveteran
+C21001G013   65 years and over:
+C21001G014    Veteran
+C21001G015    Nonveteran

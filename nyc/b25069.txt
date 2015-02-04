@@ -1,0 +1,7 @@
+Inclusion of Utilities in Rent
+------------------------------
+Universe: Renter-occupied Housing Units
+
+B25069001 Total:
+B25069002  Pay extra for one or more utilities
+B25069003  No extra payment for any utilities

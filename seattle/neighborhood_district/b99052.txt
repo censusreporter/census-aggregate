@@ -1,0 +1,11 @@
+Imputation of Year of Entry
+---------------------------
+Universe: Population Born Outside the United States
+
+B99052001 Total:
+B99052002  Native:
+B99052003   Imputed
+B99052004   Not imputed
+B99052005  Foreign born:
+B99052006   Imputed
+B99052007   Not imputed

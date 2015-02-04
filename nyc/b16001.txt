@@ -1,0 +1,123 @@
+Language Spoken at Home by Ability to Speak English
+---------------------------------------------------
+Universe: Population 5 Years and Over
+
+B16001001 Total:
+B16001002  Speak only English
+B16001003  Spanish or Spanish Creole:
+B16001004   Speak English "very well"
+B16001005   Speak English less than "very well"
+B16001006  French (incl. Patois, Cajun):
+B16001007   Speak English "very well"
+B16001008   Speak English less than "very well"
+B16001009  French Creole:
+B16001010   Speak English "very well"
+B16001011   Speak English less than "very well"
+B16001012  Italian:
+B16001013   Speak English "very well"
+B16001014   Speak English less than "very well"
+B16001015  Portuguese or Portuguese Creole:
+B16001016   Speak English "very well"
+B16001017   Speak English less than "very well"
+B16001018  German:
+B16001019   Speak English "very well"
+B16001020   Speak English less than "very well"
+B16001021  Yiddish:
+B16001022   Speak English "very well"
+B16001023   Speak English less than "very well"
+B16001024  Other West Germanic languages:
+B16001025   Speak English "very well"
+B16001026   Speak English less than "very well"
+B16001027  Scandinavian languages:
+B16001028   Speak English "very well"
+B16001029   Speak English less than "very well"
+B16001030  Greek:
+B16001031   Speak English "very well"
+B16001032   Speak English less than "very well"
+B16001033  Russian:
+B16001034   Speak English "very well"
+B16001035   Speak English less than "very well"
+B16001036  Polish:
+B16001037   Speak English "very well"
+B16001038   Speak English less than "very well"
+B16001039  Serbo-Croatian:
+B16001040   Speak English "very well"
+B16001041   Speak English less than "very well"
+B16001042  Other Slavic languages:
+B16001043   Speak English "very well"
+B16001044   Speak English less than "very well"
+B16001045  Armenian:
+B16001046   Speak English "very well"
+B16001047   Speak English less than "very well"
+B16001048  Persian:
+B16001049   Speak English "very well"
+B16001050   Speak English less than "very well"
+B16001051  Gujarati:
+B16001052   Speak English "very well"
+B16001053   Speak English less than "very well"
+B16001054  Hindi:
+B16001055   Speak English "very well"
+B16001056   Speak English less than "very well"
+B16001057  Urdu:
+B16001058   Speak English "very well"
+B16001059   Speak English less than "very well"
+B16001060  Other Indic languages:
+B16001061   Speak English "very well"
+B16001062   Speak English less than "very well"
+B16001063  Other Indo-European languages:
+B16001064   Speak English "very well"
+B16001065   Speak English less than "very well"
+B16001066  Chinese:
+B16001067   Speak English "very well"
+B16001068   Speak English less than "very well"
+B16001069  Japanese:
+B16001070   Speak English "very well"
+B16001071   Speak English less than "very well"
+B16001072  Korean:
+B16001073   Speak English "very well"
+B16001074   Speak English less than "very well"
+B16001075  Mon-Khmer, Cambodian:
+B16001076   Speak English "very well"
+B16001077   Speak English less than "very well"
+B16001078  Hmong:
+B16001079   Speak English "very well"
+B16001080   Speak English less than "very well"
+B16001081  Thai:
+B16001082   Speak English "very well"
+B16001083   Speak English less than "very well"
+B16001084  Laotian:
+B16001085   Speak English "very well"
+B16001086   Speak English less than "very well"
+B16001087  Vietnamese:
+B16001088   Speak English "very well"
+B16001089   Speak English less than "very well"
+B16001090  Other Asian languages:
+B16001091   Speak English "very well"
+B16001092   Speak English less than "very well"
+B16001093  Tagalog:
+B16001094   Speak English "very well"
+B16001095   Speak English less than "very well"
+B16001096  Other Pacific Island languages:
+B16001097   Speak English "very well"
+B16001098   Speak English less than "very well"
+B16001099  Navajo:
+B16001100   Speak English "very well"
+B16001101   Speak English less than "very well"
+B16001102  Other Native North American languages:
+B16001103   Speak English "very well"
+B16001104   Speak English less than "very well"
+B16001105  Hungarian:
+B16001106   Speak English "very well"
+B16001107   Speak English less than "very well"
+B16001108  Arabic:
+B16001109   Speak English "very well"
+B16001110   Speak English less than "very well"
+B16001111  Hebrew:
+B16001112   Speak English "very well"
+B16001113   Speak English less than "very well"
+B16001114  African languages:
+B16001115   Speak English "very well"
+B16001116   Speak English less than "very well"
+B16001117  Other and unspecified languages:
+B16001118   Speak English "very well"
+B16001119   Speak English less than "very well"

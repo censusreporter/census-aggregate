@@ -1,0 +1,5 @@
+Aggregate Household Income (White Alone, Not Hispanic or Latino Householder)
+----------------------------------------------------------------------------
+Universe: Households With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B19025H001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

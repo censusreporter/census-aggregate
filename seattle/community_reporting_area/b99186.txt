@@ -1,0 +1,7 @@
+Imputation of Self-care Difficulty for the Civilian Noninstitutionalized Population 5 Years and Over
+----------------------------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B99186001 Total:
+B99186002  Imputed
+B99186003  Not imputed

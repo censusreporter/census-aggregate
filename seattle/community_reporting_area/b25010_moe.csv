@@ -1,0 +1,54 @@
+area_id,area_name,b25010001,b25010001_moe,b25010002,b25010002_moe,b25010003,b25010003_moe
+1.1,Arbor Heights,5,0,5,0,5,1
+1.2,Fauntleroy/Seaview,4,0,5,0,3,0
+1.3,West Seattle Junction/Genesee Hill,6,0,7,0,5,0
+1.4,Alki/Admiral,4,0,4,0,3,0
+2.1,North Delridge,2,0,2,0,2,0
+2.2,High Point,5,0,4,0,5,0
+2.3,Riverview,3,0,3,0,3,0
+2.4,Roxhill/Westwood,7,0,7,0,7,1
+2.5,Highland Park,7,2,8,1,4,1
+3.1,South Park,3,0,3,0,4,1
+3.2,Georgetown,2,0,2,1,2,0
+3.3,Duwamish/SODO,2,0,2,0,2,0
+3.4,South Beacon Hill/NewHolly,10,1,10,1,10,2
+3.5,Beacon Hill,6,0,6,1,7,1
+3.6,North Beacon Hill/Jefferson Park,7,0,8,1,7,1
+4.1,Rainier Beach,6,0,6,0,6,1
+4.2,Columbia City,8,0,9,1,7,0
+4.3,Seward Park,5,0,5,0,5,1
+4.4,Mt. Baker/North Rainier,2,0,2,0,2,0
+5.1,Madrona/Leschi,5,0,5,0,4,1
+5.2,Judkins Park,2,0,2,0,2,0
+5.3,Central Area/Squire Park,8,0,9,0,8,1
+6.1,First Hill,6,0,6,0,6,0
+6.2,Capitol Hill,6,0,6,0,6,0
+6.3,North Capitol Hill,2,0,2,0,1,0
+6.4,Miller Park,5,0,5,0,4,1
+6.5,Madison Park,2,0,2,0,2,0
+7.1,Montlake/Portage Bay,4,0,4,0,4,1
+7.2,University District,6,1,6,1,6,1
+7.3,Ravenna/Bryant,14,0,14,1,14,1
+7.4,Wedgwood/View Ridge,10,0,10,0,9,1
+7.5,Laurelhurst/Sand Point,5,0,5,0,4,0
+8.1,Northgate/Maple Leaf,6,0,7,0,5,0
+8.2,Olympic Hills/Victory Heights,6,0,7,0,6,0
+8.3,Cedar Park/Meadowbrook,9,0,9,0,9,1
+9.1,Broadview/Bitter Lake,6,0,7,1,5,1
+9.2,Licton Springs,4,0,4,0,4,0
+9.3,Greenwood/Phinney Ridge,13,0,14,0,12,1
+9.4,Green Lake,6,0,7,0,5,0
+9.5,Haller Lake,4,0,4,0,5,1
+10.1,North Beach/Blue Ridge,7,0,7,0,8,1
+10.2,Whittier Heights,4,0,5,0,4,0
+10.3,Sunset Hill/Loyal Heights,4,0,5,0,4,0
+10.4,Ballard,2,0,2,0,2,0
+11.1,Fremont,6,0,6,0,5,0
+11.2,Wallingford,9,0,9,0,9,1
+11.3,Cascade/Eastlake,4,0,5,1,4,0
+12.1,Magnolia,5,0,5,0,4,1
+12.2,Interbay,4,0,4,0,3,0
+12.3,Queen Anne,13,0,15,0,12,1
+13.1,Belltown,3,0,3,0,3,0
+13.2,Downtown Commercial Core,1,0,2,0,1,0
+13.3,Pioneer Square/International District,3,0,3,1,3,0

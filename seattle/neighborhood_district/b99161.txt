@@ -1,0 +1,7 @@
+Imputation of Language Status
+-----------------------------
+Universe: Population 5 Years and Over
+
+B99161001 Total:
+B99161002  Imputed
+B99161003  Not imputed

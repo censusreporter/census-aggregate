@@ -1,0 +1,15 @@
+Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren by Presence of Parent of Grandchildren and Age of Grandparent
+------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10051001 Total:
+B10051002  Grandparent responsible for own grandchildren under 18 years:
+B10051003   Householder or spouse with no parent of grandchildren present:
+B10051004    30 to 59 years
+B10051005    60 years and over
+B10051006   Other grandparents:
+B10051007    30 to 59 years
+B10051008    60 years and over
+B10051009  Grandparent not responsible for own grandchildren under 18 years:
+B10051010   30 to 59 years
+B10051011   60 years and over

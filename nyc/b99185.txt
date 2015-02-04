@@ -1,0 +1,7 @@
+Imputation of Ambulatory Difficulty for the Civilian Noninstitutionalized Population 5 Years and Over
+-----------------------------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population 5 Years and Over
+
+B99185001 Total:
+B99185002  Imputed
+B99185003  Not imputed

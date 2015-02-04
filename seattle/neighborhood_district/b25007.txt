@@ -1,0 +1,25 @@
+Tenure by Age of Householder
+----------------------------
+Universe: Occupied Housing Units
+
+B25007001 Total:
+B25007002  Owner occupied:
+B25007003   Householder 15 to 24 years
+B25007004   Householder 25 to 34 years
+B25007005   Householder 35 to 44 years
+B25007006   Householder 45 to 54 years
+B25007007   Householder 55 to 59 years
+B25007008   Householder 60 to 64 years
+B25007009   Householder 65 to 74 years
+B25007010   Householder 75 to 84 years
+B25007011   Householder 85 years and over
+B25007012  Renter occupied:
+B25007013   Householder 15 to 24 years
+B25007014   Householder 25 to 34 years
+B25007015   Householder 35 to 44 years
+B25007016   Householder 45 to 54 years
+B25007017   Householder 55 to 59 years
+B25007018   Householder 60 to 64 years
+B25007019   Householder 65 to 74 years
+B25007020   Householder 75 to 84 years
+B25007021   Householder 85 years and over

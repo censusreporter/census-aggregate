@@ -1,0 +1,5 @@
+Median Family Income (Hispanic or Latino Householder)
+-----------------------------------------------------
+Universe: Families With a Householder Who Is Hispanic or Latino
+
+B19113I001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

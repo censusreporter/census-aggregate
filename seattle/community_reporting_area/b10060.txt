@@ -1,0 +1,20 @@
+Units in Structure of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+-------------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years in Households
+
+B10060001 Total:
+B10060002  In 1-unit structures:
+B10060003   Grandparent responsible for own grandchildren under 18 years:
+B10060004    30 to 59 years
+B10060005    60 years and over
+B10060006   Grandparent not responsible for own grandchildren under 18 years
+B10060007  In 2-or-more-unit structures:
+B10060008   Grandparent responsible for own grandchildren under 18 years:
+B10060009    30 to 59 years
+B10060010    60 years and over
+B10060011   Grandparent not responsible for own grandchildren under 18 years
+B10060012  In mobile homes and all other types of units:
+B10060013   Grandparent responsible for own grandchildren under 18 years:
+B10060014    30 to 59 years
+B10060015    60 years and over
+B10060016   Grandparent not responsible for own grandchildren under 18 years

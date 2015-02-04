@@ -1,0 +1,55 @@
+Sex of Workers by Means of Transportation to Work
+-------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08006001 Total:
+B08006002   Car, truck, or van:
+B08006003    Drove alone
+B08006004    Carpooled:
+B08006005     In 2-person carpool
+B08006006     In 3-person carpool
+B08006007     In 4-or-more-person carpool
+B08006008   Public transportation (excluding taxicab):
+B08006009    Bus or trolley bus
+B08006010    Streetcar or trolley car (carro publico in Puerto Rico)
+B08006011    Subway or elevated
+B08006012    Railroad
+B08006013    Ferryboat
+B08006014   Bicycle
+B08006015   Walked
+B08006016   Taxicab, motorcycle, or other means
+B08006017   Worked at home
+B08006018  Male:
+B08006019   Car, truck, or van:
+B08006020    Drove alone
+B08006021    Carpooled:
+B08006022     In 2-person carpool
+B08006023     In 3-person carpool
+B08006024     In 4-or-more-person carpool
+B08006025   Public transportation (excluding taxicab):
+B08006026    Bus or trolley bus
+B08006027    Streetcar or trolley car (carro publico in Puerto Rico)
+B08006028    Subway or elevated
+B08006029    Railroad
+B08006030    Ferryboat
+B08006031   Bicycle
+B08006032   Walked
+B08006033   Taxicab, motorcycle, or other means
+B08006034   Worked at home
+B08006035  Female:
+B08006036   Car, truck, or van:
+B08006037    Drove alone
+B08006038    Carpooled:
+B08006039     In 2-person carpool
+B08006040     In 3-person carpool
+B08006041     In 4-or-more-person carpool
+B08006042   Public transportation (excluding taxicab):
+B08006043    Bus or trolley bus
+B08006044    Streetcar or trolley car (carro publico in Puerto Rico)
+B08006045    Subway or elevated
+B08006046    Railroad
+B08006047    Ferryboat
+B08006048   Bicycle
+B08006049   Walked
+B08006050   Taxicab, motorcycle, or other means
+B08006051   Worked at home

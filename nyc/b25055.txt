@@ -1,0 +1,17 @@
+Age of Householder by Meals Included in Rent
+--------------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25055001 Total:
+B25055002  Householder 15 to 54 years:
+B25055003   Meals included in rent
+B25055004   No meals included in rent
+B25055005  Householder 55 to 64 years:
+B25055006   Meals included in rent
+B25055007   No meals included in rent
+B25055008  Householder 65 to 74 years:
+B25055009   Meals included in rent
+B25055010   No meals included in rent
+B25055011  Householder 75 years and over:
+B25055012   Meals included in rent
+B25055013   No meals included in rent

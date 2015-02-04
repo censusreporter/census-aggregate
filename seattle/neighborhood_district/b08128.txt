@@ -1,0 +1,74 @@
+Means of Transportation to Work by Class of Worker
+--------------------------------------------------
+Universe: Workers 16 Years and Over
+
+B08128001 Total:
+B08128002   Private for-profit wage and salary workers:
+B08128003    Employee of private company workers
+B08128004    Self-employed in own incorporated business workers
+B08128005   Private not-for-profit wage and salary workers
+B08128006   Local government workers
+B08128007   State government workers
+B08128008   Federal government workers
+B08128009   Self-employed in own not incorporated business workers
+B08128010   Unpaid family workers
+B08128011  Car, truck, or van - drove alone:
+B08128012   Private for-profit wage and salary workers:
+B08128013    Employee of private company workers
+B08128014    Self-employed in own incorporated business workers
+B08128015   Private not-for-profit wage and salary workers
+B08128016   Local government workers
+B08128017   State government workers
+B08128018   Federal government workers
+B08128019   Self-employed in own not incorporated business workers
+B08128020   Unpaid family workers
+B08128021  Car, truck, or van - carpooled:
+B08128022   Private for-profit wage and salary workers:
+B08128023    Employee of private company workers
+B08128024    Self-employed in own incorporated business workers
+B08128025   Private not-for-profit wage and salary workers
+B08128026   Local government workers
+B08128027   State government workers
+B08128028   Federal government workers
+B08128029   Self-employed in own not incorporated business workers
+B08128030   Unpaid family workers
+B08128031  Public transportation (excluding taxicab):
+B08128032   Private for-profit wage and salary workers:
+B08128033    Employee of private company workers
+B08128034    Self-employed in own incorporated business workers
+B08128035   Private not-for-profit wage and salary workers
+B08128036   Local government workers
+B08128037   State government workers
+B08128038   Federal government workers
+B08128039   Self-employed in own not incorporated business workers
+B08128040   Unpaid family workers
+B08128041  Walked:
+B08128042   Private for-profit wage and salary workers:
+B08128043    Employee of private company workers
+B08128044    Self-employed in own incorporated business workers
+B08128045   Private not-for-profit wage and salary workers
+B08128046   Local government workers
+B08128047   State government workers
+B08128048   Federal government workers
+B08128049   Self-employed in own not incorporated business workers
+B08128050   Unpaid family workers
+B08128051  Taxicab, motorcycle, bicycle, or other means:
+B08128052   Private for-profit wage and salary workers:
+B08128053    Employee of private company workers
+B08128054    Self-employed in own incorporated business workers
+B08128055   Private not-for-profit wage and salary workers
+B08128056   Local government workers
+B08128057   State government workers
+B08128058   Federal government workers
+B08128059   Self-employed in own not incorporated business workers
+B08128060   Unpaid family workers
+B08128061  Worked at home:
+B08128062   Private for-profit wage and salary workers:
+B08128063    Employee of private company workers
+B08128064    Self-employed in own incorporated business workers
+B08128065   Private not-for-profit wage and salary workers
+B08128066   Local government workers
+B08128067   State government workers
+B08128068   Federal government workers
+B08128069   Self-employed in own not incorporated business workers
+B08128070   Unpaid family workers

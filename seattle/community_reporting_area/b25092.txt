@@ -1,0 +1,8 @@
+Median Selected Monthly Owner Costs as a Percentage of Household Income
+-----------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25092000.5 Median selected monthly owner costs as a percentage of household income in the past 12 months --
+B25092001  Total:
+B25092002  Housing units with a mortgage
+B25092003  Housing units without a mortgage

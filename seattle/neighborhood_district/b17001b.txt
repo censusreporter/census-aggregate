@@ -1,0 +1,63 @@
+Poverty Status by Sex by Age (Black or African American Alone)
+--------------------------------------------------------------
+Universe: Black or African American Alone Population for Whom Poverty Status Is Determined
+
+B17001B001 Total:
+B17001B002  Income in the past 12 months below poverty level:
+B17001B003   Male:
+B17001B004    Under 5 years
+B17001B005    5 years
+B17001B006    6 to 11 years
+B17001B007    12 to 14 years
+B17001B008    15 years
+B17001B009    16 and 17 years
+B17001B010    18 to 24 years
+B17001B011    25 to 34 years
+B17001B012    35 to 44 years
+B17001B013    45 to 54 years
+B17001B014    55 to 64 years
+B17001B015    65 to 74 years
+B17001B016    75 years and over
+B17001B017   Female:
+B17001B018    Under 5 years
+B17001B019    5 years
+B17001B020    6 to 11 years
+B17001B021    12 to 14 years
+B17001B022    15 years
+B17001B023    16 and 17 years
+B17001B024    18 to 24 years
+B17001B025    25 to 34 years
+B17001B026    35 to 44 years
+B17001B027    45 to 54 years
+B17001B028    55 to 64 years
+B17001B029    65 to 74 years
+B17001B030    75 years and over
+B17001B031  Income in the past 12 months at or above poverty level:
+B17001B032   Male:
+B17001B033    Under 5 years
+B17001B034    5 years
+B17001B035    6 to 11 years
+B17001B036    12 to 14 years
+B17001B037    15 years
+B17001B038    16 and 17 years
+B17001B039    18 to 24 years
+B17001B040    25 to 34 years
+B17001B041    35 to 44 years
+B17001B042    45 to 54 years
+B17001B043    55 to 64 years
+B17001B044    65 to 74 years
+B17001B045    75 years and over
+B17001B046   Female:
+B17001B047    Under 5 years
+B17001B048    5 years
+B17001B049    6 to 11 years
+B17001B050    12 to 14 years
+B17001B051    15 years
+B17001B052    16 and 17 years
+B17001B053    18 to 24 years
+B17001B054    25 to 34 years
+B17001B055    35 to 44 years
+B17001B056    45 to 54 years
+B17001B057    55 to 64 years
+B17001B058    65 to 74 years
+B17001B059    75 years and over

@@ -1,0 +1,85 @@
+Ratio of Income to Poverty Level of Families by Family Type by Presence of Related Children by Age of Related Children
+----------------------------------------------------------------------------------------------------------------------
+Universe: Families
+
+B17022001 Total:
+B17022002  Under 1.30:
+B17022003   Married-couple family:
+B17022004    With related children under 18 years:
+B17022005     Under 5 years only
+B17022006     Under 5 years and 5 to 17 years
+B17022007     5 to 17 years only
+B17022008    No related children under 18 years
+B17022009   Other family:
+B17022010    Male householder, no wife present:
+B17022011     With related children under 18 years:
+B17022012      Under 5 years only
+B17022013      Under 5 years and 5 to 17 years
+B17022014      5 to 17 years only
+B17022015     No related children under 18 years
+B17022016    Female householder, no husband present:
+B17022017     With related children under 18 years:
+B17022018      Under 5 years only
+B17022019      Under 5 years and 5 to 17 years
+B17022020      5 to 17 years only
+B17022021     No related children under 18 years
+B17022022  1.30 to 1.49:
+B17022023   Married-couple family:
+B17022024    With related children under 18 years:
+B17022025     Under 5 years only
+B17022026     Under 5 years and 5 to 17 years
+B17022027     5 to 17 years only
+B17022028    No related children under 18 years
+B17022029   Other family:
+B17022030    Male householder, no wife present:
+B17022031     With related children under 18 years:
+B17022032      Under 5 years only
+B17022033      Under 5 years and 5 to 17 years
+B17022034      5 to 17 years only
+B17022035     No related children under 18 years
+B17022036    Female householder, no husband present:
+B17022037     With related children under 18 years:
+B17022038      Under 5 years only
+B17022039      Under 5 years and 5 to 17 years
+B17022040      5 to 17 years only
+B17022041     No related children under 18 years
+B17022042  1.50 to 1.84:
+B17022043   Married-couple family:
+B17022044    With related children under 18 years:
+B17022045     Under 5 years only
+B17022046     Under 5 years and 5 to 17 years
+B17022047     5 to 17 years only
+B17022048    No related children under 18 years
+B17022049   Other family:
+B17022050    Male householder, no wife present:
+B17022051     With related children under 18 years:
+B17022052      Under 5 years only
+B17022053      Under 5 years and 5 to 17 years
+B17022054      5 to 17 years only
+B17022055     No related children under 18 years
+B17022056    Female householder, no husband present:
+B17022057     With related children under 18 years:
+B17022058      Under 5 years only
+B17022059      Under 5 years and 5 to 17 years
+B17022060      5 to 17 years only
+B17022061     No related children under 18 years
+B17022062  1.85 and above:
+B17022063   Married-couple family:
+B17022064    With related children under 18 years:
+B17022065     Under 5 years only
+B17022066     Under 5 years and 5 to 17 years
+B17022067     5 to 17 years only
+B17022068    No related children under 18 years
+B17022069   Other family:
+B17022070    Male householder, no wife present:
+B17022071     With related children under 18 years:
+B17022072      Under 5 years only
+B17022073      Under 5 years and 5 to 17 years
+B17022074      5 to 17 years only
+B17022075     No related children under 18 years
+B17022076    Female householder, no husband present:
+B17022077     With related children under 18 years:
+B17022078      Under 5 years only
+B17022079      Under 5 years and 5 to 17 years
+B17022080      5 to 17 years only
+B17022081     No related children under 18 years

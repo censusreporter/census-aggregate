@@ -1,0 +1,25 @@
+Poverty Status by School Enrollment by Level of School
+------------------------------------------------------
+Universe: Population 3 Years and Over for Whom Poverty Status Is Determined
+
+B14006001 Total:
+B14006002  Income in the past 12 months below the poverty level:
+B14006003   Enrolled in school:
+B14006004    Enrolled in nursery school, preschool
+B14006005    Enrolled in kindergarten
+B14006006    Enrolled in grade 1 to grade 4
+B14006007    Enrolled in grade 5 to grade 8
+B14006008    Enrolled in grade 9 to grade 12
+B14006009    Enrolled in college undergraduate years
+B14006010    Enrolled in graduate or professional school
+B14006011   Not enrolled in school
+B14006012  Income in the past 12 months at or above the poverty level:
+B14006013   Enrolled in school:
+B14006014    Enrolled in nursery school, preschool
+B14006015    Enrolled in kindergarten
+B14006016    Enrolled in grade 1 to grade 4
+B14006017    Enrolled in grade 5 to grade 8
+B14006018    Enrolled in grade 9 to grade 12
+B14006019    Enrolled in college undergraduate years
+B14006020    Enrolled in graduate or professional school
+B14006021   Not enrolled in school

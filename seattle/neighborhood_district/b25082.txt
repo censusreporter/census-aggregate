@@ -1,0 +1,7 @@
+Aggregate Value (Dollars) by Mortgage Status
+--------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25082001 Aggregate value (dollars):
+B25082002  Housing units with a mortgage (dollars)
+B25082003  Housing units without a mortgage (dollars)

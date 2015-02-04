@@ -1,0 +1,5 @@
+Aggregate Interest, Dividends, or Net Rental Income for Households
+------------------------------------------------------------------
+Universe: Households
+
+B19064001 Aggregate interest, dividends, or net rental income in the past 12 months (in 2012 inflation-adjusted dollars)

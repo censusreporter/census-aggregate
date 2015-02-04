@@ -1,0 +1,7 @@
+Other Types of Income for Households
+------------------------------------
+Universe: Households
+
+B19060001 Total:
+B19060002  With other types of income
+B19060003  No other types of income

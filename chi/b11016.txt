@@ -1,0 +1,20 @@
+Household Type by Household Size
+--------------------------------
+Universe: Households
+
+B11016001 Total:
+B11016002  Family households:
+B11016003   2-person household
+B11016004   3-person household
+B11016005   4-person household
+B11016006   5-person household
+B11016007   6-person household
+B11016008   7-or-more person household
+B11016009  Nonfamily households:
+B11016010   1-person household
+B11016011   2-person household
+B11016012   3-person household
+B11016013   4-person household
+B11016014   5-person household
+B11016015   6-person household
+B11016016   7-or-more person household

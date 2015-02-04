@@ -1,0 +1,13 @@
+Class of Worker by Median Earnings for the Full-time, Year-round Civilian Population
+------------------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings
+
+B24091001 Total:
+B24091002  Private for-profit wage and salary workers:
+B24091003   Employee of private company workers
+B24091004   Self-employed in own incorporated business workers
+B24091005  Private not-for-profit wage and salary workers
+B24091006  Local government workers
+B24091007  State government workers
+B24091008  Federal government workers
+B24091009  Self-employed in own not incorporated business workers and unpaid family workers

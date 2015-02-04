@@ -1,0 +1,25 @@
+Poverty Status by Work Experience of Unrelated Individuals by Householder Status
+--------------------------------------------------------------------------------
+Universe: Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined
+
+B17009001 Total:
+B17009002  Income in the past 12 months below the poverty level:
+B17009003   Worked full-time, year-round:
+B17009004    Nonfamily householder
+B17009005    Other
+B17009006   Worked less than full-time, year-round:
+B17009007    Nonfamily householder
+B17009008    Other
+B17009009   Did not work:
+B17009010    Nonfamily householder
+B17009011    Other
+B17009012  Income in the past 12 months at or above the poverty level:
+B17009013   Worked full-time, year-round:
+B17009014    Nonfamily householder
+B17009015    Other
+B17009016   Worked less than full-time, year-round:
+B17009017    Nonfamily householder
+B17009018    Other
+B17009019   Did not work:
+B17009020    Nonfamily householder
+B17009021    Other

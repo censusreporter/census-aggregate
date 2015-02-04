@@ -1,0 +1,34 @@
+Place of Birth by Educational Attainment in the United States
+-------------------------------------------------------------
+Universe: Population 25 Years and Over in the United States
+
+B06009001 Total:
+B06009002   Less than high school graduate
+B06009003   High school graduate (includes equivalency)
+B06009004   Some college or associate's degree
+B06009005   Bachelor's degree
+B06009006   Graduate or professional degree
+B06009007  Born in state of residence:
+B06009008   Less than high school graduate
+B06009009   High school graduate (includes equivalency)
+B06009010   Some college or associate's degree
+B06009011   Bachelor's degree
+B06009012   Graduate or professional degree
+B06009013  Born in other state in the United States:
+B06009014   Less than high school graduate
+B06009015   High school graduate (includes equivalency)
+B06009016   Some college or associate's degree
+B06009017   Bachelor's degree
+B06009018   Graduate or professional degree
+B06009019  Native; born outside the United States:
+B06009020   Less than high school graduate
+B06009021   High school graduate (includes equivalency)
+B06009022   Some college or associate's degree
+B06009023   Bachelor's degree
+B06009024   Graduate or professional degree
+B06009025  Foreign born:
+B06009026   Less than high school graduate
+B06009027   High school graduate (includes equivalency)
+B06009028   Some college or associate's degree
+B06009029   Bachelor's degree
+B06009030   Graduate or professional degree

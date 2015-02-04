@@ -1,0 +1,21 @@
+Imputation of Poverty Status for Families
+-----------------------------------------
+Universe: Families
+
+B99172001 Total:
+B99172001.5 Percent of family income imputed for families with income in the past 12 months below poverty level --
+B99172002  No income imputed
+B99172003  Dollar value of zero imputed
+B99172004  More than 0 to less than 10 percent of total income for family imputed
+B99172005  10 to less than 25 percent of total income for family imputed
+B99172006  25 to less than 50 percent of total income for family imputed
+B99172007  50 to less than 100 percent of total income for family imputed
+B99172008  100 percent of total income for family imputed
+B99172008.5 Percent of family income imputed for families with income in the past 12 months at or above poverty level --
+B99172009  No income imputed
+B99172010  Dollar value of zero imputed
+B99172011  More than 0 to less than 10 percent of total income for family imputed
+B99172012  10 to less than 25 percent of total income for family imputed
+B99172013  25 to less than 50 percent of total income for family imputed
+B99172014  50 to less than 100 percent of total income for family imputed
+B99172015  100 percent of total income for family imputed

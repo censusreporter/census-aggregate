@@ -1,0 +1,5 @@
+Per Capita Income (Two or More Races)
+-------------------------------------
+Universe: Two or More Races Population
+
+B19301G001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

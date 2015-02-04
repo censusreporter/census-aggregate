@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (White Alone)
+-----------------------------------------------------------------------------
+Universe: White Alone Population 5 Years and Over
+
+B16005A001 Total:
+B16005A002  Native:
+B16005A003   Speak only English
+B16005A004   Speak another language
+B16005A005    Speak English "very well"
+B16005A006    Speak English less than "very well"
+B16005A007  Foreign born:
+B16005A008   Speak only English
+B16005A009   Speak another language
+B16005A010    Speak English "very well"
+B16005A011    Speak English less than "very well"

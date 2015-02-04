@@ -1,0 +1,5 @@
+Per Capita Income (Hispanic or Latino)
+--------------------------------------
+Universe: People Who Are Hispanic or Latino
+
+B19301I001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

@@ -1,0 +1,39 @@
+Poverty Status of Families by Household Type by Number of Own Children
+----------------------------------------------------------------------
+Universe: Families
+
+B17023001 Total:
+B17023002  Income in the past 12 months below poverty level:
+B17023003   Married-couple family:
+B17023004     No own child
+B17023005     1 or 2 own children
+B17023006     3 or 4 own children
+B17023007     5 or more own children
+B17023008   Other families:
+B17023009    Male householder, no wife present:
+B17023010     No own child
+B17023011     1 or 2 own children
+B17023012     3 or 4 own children
+B17023013     5 or more own children
+B17023014    Female householder, no husband present:
+B17023015     No own child
+B17023016     1 or 2 own children
+B17023017     3 or 4 own children
+B17023018     5 or more own children
+B17023019  Income in the past 12 months at or above poverty level:
+B17023020    Married-couple family:
+B17023021     No own child
+B17023022     1 or 2 own children
+B17023023     3 or 4 own children
+B17023024     5 or more own children
+B17023025   Other families:
+B17023026    Male householder, no wife present:
+B17023027     No own child
+B17023028     1 or 2 own children
+B17023029     3 or 4 own children
+B17023030     5 or more own children
+B17023031    Female householder, no husband present:
+B17023032     No own child
+B17023033     1 or 2 own children
+B17023034     3 or 4 own children
+B17023035     5 or more own children

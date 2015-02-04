@@ -1,0 +1,10 @@
+Imputation of Ability to Speak English
+--------------------------------------
+Universe: Population 5 Years and Over
+
+B99163001 Total:
+B99163002  Speak only English
+B99163003  Speak other languages:
+B99163003.5   Ability to speak English --
+B99163004    Imputed
+B99163005    Not imputed

@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Black or African American Alone)
+-------------------------------------------------------------------------------
+Universe: Black or African American Alone Population 3 Years and Over
+
+B14007B001 Total:
+B14007B002  Enrolled in school:
+B14007B003   Enrolled in nursery school, preschool
+B14007B004   Enrolled in kindergarten
+B14007B005   Enrolled in grade 1
+B14007B006   Enrolled in grade 2
+B14007B007   Enrolled in grade 3
+B14007B008   Enrolled in grade 4
+B14007B009   Enrolled in grade 5
+B14007B010   Enrolled in grade 6
+B14007B011   Enrolled in grade 7
+B14007B012   Enrolled in grade 8
+B14007B013   Enrolled in grade 9
+B14007B014   Enrolled in grade 10
+B14007B015   Enrolled in grade 11
+B14007B016   Enrolled in grade 12
+B14007B017   Enrolled in college, undergraduate years
+B14007B018   Graduate or professional school
+B14007B019  Not enrolled in school

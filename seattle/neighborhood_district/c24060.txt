@@ -1,0 +1,40 @@
+Occupation by Class of Worker for the Civilian Population
+---------------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over
+
+C24060001 Total:
+C24060002   Management, business, science, and arts occupations
+C24060003   Service occupations
+C24060004   Sales and office occupations
+C24060005   Natural resources, construction, and maintenance occupations
+C24060006   Production, transportation, and material moving occupations
+C24060007  Employee of private company workers:
+C24060008   Management, business, science, and arts occupations
+C24060009   Service occupations
+C24060010   Sales and office occupations
+C24060011   Natural resources, construction, and maintenance occupations
+C24060012   Production, transportation, and material moving occupations
+C24060013  Self-employed in own incorporated business workers:
+C24060014   Management, business, science, and arts occupations
+C24060015   Service occupations
+C24060016   Sales and office occupations
+C24060017   Natural resources, construction, and maintenance occupations
+C24060018   Production, transportation, and material moving occupations
+C24060019  Private not-for-profit wage and salary workers:
+C24060020   Management, business, science, and arts occupations
+C24060021   Service occupations
+C24060022   Sales and office occupations
+C24060023   Natural resources, construction, and maintenance occupations
+C24060024   Production, transportation, and material moving occupations
+C24060025  Local, state, and federal government workers:
+C24060026   Management, business, science, and arts occupations
+C24060027   Service occupations
+C24060028   Sales and office occupations
+C24060029   Natural resources, construction, and maintenance occupations
+C24060030   Production, transportation, and material moving occupations
+C24060031  Self-employed in own not incorporated business workers and unpaid family workers:
+C24060032   Management, business, science, and arts occupations
+C24060033   Service occupations
+C24060034   Sales and office occupations
+C24060035   Natural resources, construction, and maintenance occupations
+C24060036   Production, transportation, and material moving occupations

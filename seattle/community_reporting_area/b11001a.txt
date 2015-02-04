@@ -1,0 +1,13 @@
+Household Type (Including Living Alone) (White Alone)
+-----------------------------------------------------
+Universe: Households With a Householder Who Is White Alone
+
+B11001A001 Total:
+B11001A002  Family households:
+B11001A003   Married-couple family
+B11001A004   Other family:
+B11001A005    Male householder, no wife present
+B11001A006    Female householder, no husband present
+B11001A007  Nonfamily households:
+B11001A008   Householder living alone
+B11001A009   Householder not living alone

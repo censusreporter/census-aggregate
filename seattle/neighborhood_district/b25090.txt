@@ -1,0 +1,7 @@
+Mortgage Status by Aggregate Real Estate Taxes Paid (Dollars)
+-------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25090001  Aggregate real estate taxes paid (dollars):
+B25090002   Aggregate real estate taxes paid for units with a mortgage (dollars)
+B25090003   Aggregate real estate taxes paid for units without a mortgage (dollars)

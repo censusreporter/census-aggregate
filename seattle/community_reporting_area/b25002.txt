@@ -1,0 +1,7 @@
+Occupancy Status
+----------------
+Universe: Housing Units
+
+B25002001 Total:
+B25002002  Occupied
+B25002003  Vacant

@@ -1,0 +1,15 @@
+Units in Structure (White Alone Householder)
+--------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is White Alone
+
+B25032A001 Total:
+B25032A002  1, detached
+B25032A003  1, attached
+B25032A004  2.0
+B25032A005  3 or 4
+B25032A006  5 to 9
+B25032A007  10 to 19
+B25032A008  20 to 49
+B25032A009  50 or more
+B25032A010  Mobile home
+B25032A011  Boat, RV, van, etc.

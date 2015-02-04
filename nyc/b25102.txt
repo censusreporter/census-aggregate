@@ -1,0 +1,19 @@
+Mortgage Status by Real Estate Taxes Paid
+-----------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25102001 Total:
+B25102002  With a mortgage:
+B25102003   Less than $800
+B25102004   $800 to $1,499
+B25102005   $1,500 to $1,999
+B25102006   $2,000 to $2,999
+B25102007   $3,000 or more
+B25102008   No real estate taxes paid
+B25102009  Not mortgaged:
+B25102010   Less than $800
+B25102011   $800 to $1,499
+B25102012   $1,500 to $1,999
+B25102013   $2,000 to $2,999
+B25102014   $3,000 or more
+B25102015   No real estate taxes paid

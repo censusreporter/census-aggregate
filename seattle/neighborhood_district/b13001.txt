@@ -1,0 +1,13 @@
+Marital Status by Age for Women 15 to 50 Years
+----------------------------------------------
+Universe: Women 15 to 50 Years
+
+B13001001 Total:
+B13001002  Now married (including spouse absent):
+B13001003   15 to 19 years
+B13001004   20 to 34 years
+B13001005   35 to 50 years
+B13001006  Unmarried (never married, widowed, and divorced):
+B13001007   15 to 19 years
+B13001008   20 to 34 years
+B13001009   35 to 50 years

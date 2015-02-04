@@ -1,0 +1,34 @@
+Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the United States
+-------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07007001 Total:
+B07007002   Native
+B07007003   Foreign born:
+B07007004    Naturalized U.S. citizen
+B07007005    Not a U.S. citizen
+B07007006  Same house 1 year ago:
+B07007007   Native
+B07007008   Foreign born:
+B07007009    Naturalized U.S. citizen
+B07007010    Not a U.S. citizen
+B07007011  Moved within same county:
+B07007012   Native
+B07007013   Foreign born:
+B07007014    Naturalized U.S. citizen
+B07007015    Not a U.S. citizen
+B07007016  Moved from different county within same state:
+B07007017   Native
+B07007018   Foreign born:
+B07007019    Naturalized U.S. citizen
+B07007020    Not a U.S. citizen
+B07007021  Moved from different state:
+B07007022   Native
+B07007023   Foreign born:
+B07007024    Naturalized U.S. citizen
+B07007025    Not a U.S. citizen
+B07007026  Moved from abroad:
+B07007027   Native
+B07007028   Foreign born:
+B07007029    Naturalized U.S. citizen
+B07007030    Not a U.S. citizen

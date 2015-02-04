@@ -1,0 +1,7 @@
+Imputation of Veteran Status
+----------------------------
+Universe: Population 18 Years and Over
+
+B99211001 Total:
+B99211002  Imputed
+B99211003  Not imputed

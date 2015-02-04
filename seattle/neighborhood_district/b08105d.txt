@@ -1,0 +1,11 @@
+Means of Transportation to Work (Asian Alone)
+---------------------------------------------
+Universe: Asian Alone Workers 16 Years and Over
+
+B08105D001 Total:
+B08105D002  Car, truck, or van - drove alone
+B08105D003  Car, truck, or van - carpooled
+B08105D004  Public transportation (excluding taxicab)
+B08105D005  Walked
+B08105D006  Taxicab, motorcycle, bicycle, or other means
+B08105D007  Worked at home

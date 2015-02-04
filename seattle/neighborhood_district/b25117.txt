@@ -1,0 +1,25 @@
+Tenure by House Heating Fuel
+----------------------------
+Universe: Occupied Housing Units
+
+B25117001 Total:
+B25117002  Owner occupied:
+B25117003   Utility gas
+B25117004   Bottled, tank, or LP gas
+B25117005   Electricity
+B25117006   Fuel oil, kerosene, etc.
+B25117007   Coal or coke
+B25117008   Wood
+B25117009   Solar energy
+B25117010   Other fuel
+B25117011   No fuel used
+B25117012  Renter occupied:
+B25117013   Utility gas
+B25117014   Bottled, tank, or LP gas
+B25117015   Electricity
+B25117016   Fuel oil, kerosene, etc.
+B25117017   Coal or coke
+B25117018   Wood
+B25117019   Solar energy
+B25117020   Other fuel
+B25117021   No fuel used

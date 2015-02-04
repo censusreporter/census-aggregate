@@ -1,0 +1,15 @@
+Units in Structure (Hispanic or Latino Householder)
+---------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Hispanic or Latino
+
+B25032I001 Total:
+B25032I002  1, detached
+B25032I003  1, attached
+B25032I004  2.0
+B25032I005  3 or 4
+B25032I006  5 to 9
+B25032I007  10 to 19
+B25032I008  20 to 49
+B25032I009  50 or more
+B25032I010  Mobile home
+B25032I011  Boat, RV, van, etc.

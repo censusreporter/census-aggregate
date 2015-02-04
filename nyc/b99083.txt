@@ -1,0 +1,10 @@
+Imputation of Time Leaving Home to Go to Work
+---------------------------------------------
+Universe: Workers 16 Years and Over
+
+B99083001 Total:
+B99083002  Did not work at home:
+B99083002.5   Time leaving home to go to work --
+B99083003    Imputed
+B99083004    Not imputed
+B99083005  Worked at home

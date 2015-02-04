@@ -1,0 +1,35 @@
+Sex by Age (White Alone, Not Hispanic or Latino)
+------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population
+
+B01001H001 Total:
+B01001H002  Male:
+B01001H003   Under 5 years
+B01001H004   5 to 9 years
+B01001H005   10 to 14 years
+B01001H006   15 to 17 years
+B01001H007   18 and 19 years
+B01001H008   20 to 24 years
+B01001H009   25 to 29 years
+B01001H010   30 to 34 years
+B01001H011   35 to 44 years
+B01001H012   45 to 54 years
+B01001H013   55 to 64 years
+B01001H014   65 to 74 years
+B01001H015   75 to 84 years
+B01001H016   85 years and over
+B01001H017  Female:
+B01001H018   Under 5 years
+B01001H019   5 to 9 years
+B01001H020   10 to 14 years
+B01001H021   15 to 17 years
+B01001H022   18 and 19 years
+B01001H023   20 to 24 years
+B01001H024   25 to 29 years
+B01001H025   30 to 34 years
+B01001H026   35 to 44 years
+B01001H027   45 to 54 years
+B01001H028   55 to 64 years
+B01001H029   65 to 74 years
+B01001H030   75 to 84 years
+B01001H031   85 years and over

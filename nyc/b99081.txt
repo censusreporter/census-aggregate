@@ -1,0 +1,9 @@
+Imputation of Place of Work
+---------------------------
+Universe: Workers 16 Years and Over
+
+B99081001 Total:
+B99081002  Imputed:
+B99081003   One or more but not all geographic parts imputed
+B99081004   All geographic parts imputed
+B99081005  Not imputed

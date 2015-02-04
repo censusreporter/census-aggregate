@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Hispanic or Latino)
+------------------------------------------------------------
+Universe: HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001I001 Total:
+C27001I002  Under 18 years:
+C27001I003   With health insurance coverage
+C27001I004   No health insurance coverage
+C27001I005  18 to 64 years:
+C27001I006   With health insurance coverage
+C27001I007   No health insurance coverage
+C27001I008  65 years and over:
+C27001I009   With health insurance coverage
+C27001I010   No health insurance coverage

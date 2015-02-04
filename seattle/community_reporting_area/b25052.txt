@@ -1,0 +1,7 @@
+Kitchen Facilities for Occupied Housing Units
+---------------------------------------------
+Universe: Occupied Housing Units
+
+B25052001 Total:
+B25052002  Complete kitchen facilities
+B25052003  Lacking complete kitchen facilities

@@ -1,0 +1,31 @@
+Age of Own Children in Families and Subfamilies by Living Arrangements by Employment Status of Parents
+------------------------------------------------------------------------------------------------------
+Universe: Own Children Under 18 Years in Families and Subfamilies
+
+B23008001 Total:
+B23008002  Under 6 years:
+B23008003   Living with two parents:
+B23008004    Both parents in labor force
+B23008005    Father only in labor force
+B23008006    Mother only in labor force
+B23008007    Neither parent in labor force
+B23008008   Living with one parent:
+B23008009    Living with father:
+B23008010     In labor force
+B23008011     Not in labor force
+B23008012    Living with mother:
+B23008013     In labor force
+B23008014     Not in labor force
+B23008015  6 to 17 years:
+B23008016   Living with two parents:
+B23008017    Both parents in labor force
+B23008018    Father only in labor force
+B23008019    Mother only in labor force
+B23008020    Neither parent in labor force
+B23008021   Living with one parent:
+B23008022    Living with father:
+B23008023     In labor force
+B23008024     Not in labor force
+B23008025    Living with mother:
+B23008026     In labor force
+B23008027     Not in labor force

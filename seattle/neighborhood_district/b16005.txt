@@ -1,0 +1,49 @@
+Nativity by Language Spoken at Home by Ability to Speak English
+---------------------------------------------------------------
+Universe: Population 5 Years and Over
+
+B16005003   Speak only English
+B16005001 Total:
+B16005002  Native:
+B16005004   Speak Spanish:
+B16005005    Speak English "very well"
+B16005006    Speak English "well"
+B16005007    Speak English "not well"
+B16005008    Speak English "not at all"
+B16005009   Speak other Indo-European languages:
+B16005010    Speak English "very well"
+B16005011    Speak English "well"
+B16005012    Speak English "not well"
+B16005013    Speak English "not at all"
+B16005014   Speak Asian and Pacific Island languages:
+B16005015    Speak English "very well"
+B16005016    Speak English "well"
+B16005017    Speak English "not well"
+B16005018    Speak English "not at all"
+B16005019   Speak other languages:
+B16005020    Speak English "very well"
+B16005021    Speak English "well"
+B16005022    Speak English "not well"
+B16005023    Speak English "not at all"
+B16005024  Foreign born:
+B16005025   Speak only English
+B16005026   Speak Spanish:
+B16005027    Speak English "very well"
+B16005028    Speak English "well"
+B16005029    Speak English "not well"
+B16005030    Speak English "not at all"
+B16005031   Speak other Indo-European languages:
+B16005032    Speak English "very well"
+B16005033    Speak English "well"
+B16005034    Speak English "not well"
+B16005035    Speak English "not at all"
+B16005036   Speak Asian and Pacific Island languages:
+B16005037    Speak English "very well"
+B16005038    Speak English "well"
+B16005039    Speak English "not well"
+B16005040    Speak English "not at all"
+B16005041   Speak other languages:
+B16005042    Speak English "very well"
+B16005043    Speak English "well"
+B16005044    Speak English "not well"
+B16005045    Speak English "not at all"

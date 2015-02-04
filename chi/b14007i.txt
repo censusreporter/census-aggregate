@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Hispanic or Latino)
+------------------------------------------------------------------
+Universe: Hispanic or Latino Population 3 Years and Over
+
+B14007I001 Total:
+B14007I002  Enrolled in school:
+B14007I003   Enrolled in nursery school, preschool
+B14007I004   Enrolled in kindergarten
+B14007I005   Enrolled in grade 1
+B14007I006   Enrolled in grade 2
+B14007I007   Enrolled in grade 3
+B14007I008   Enrolled in grade 4
+B14007I009   Enrolled in grade 5
+B14007I010   Enrolled in grade 6
+B14007I011   Enrolled in grade 7
+B14007I012   Enrolled in grade 8
+B14007I013   Enrolled in grade 9
+B14007I014   Enrolled in grade 10
+B14007I015   Enrolled in grade 11
+B14007I016   Enrolled in grade 12
+B14007I017   Enrolled in college, undergraduate years
+B14007I018   Graduate or professional school
+B14007I019  Not enrolled in school

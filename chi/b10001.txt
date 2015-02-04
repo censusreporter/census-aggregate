@@ -1,0 +1,8 @@
+Grandchildren Living With a Grandparent Householder by Age of Grandchild
+------------------------------------------------------------------------
+Universe: Grandchildren Under 18 Living With Grandparent Householder
+
+B10001001 Total:
+B10001002  Under 6 years
+B10001003  6 to 11 years
+B10001004  12 to 17 years

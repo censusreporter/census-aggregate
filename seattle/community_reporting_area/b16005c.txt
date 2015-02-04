@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (American Indian and Alaska Native Alone)
+---------------------------------------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population 5 Years and Over
+
+B16005C001 Total:
+B16005C002  Native:
+B16005C003   Speak only English
+B16005C004   Speak another language
+B16005C005    Speak English "very well"
+B16005C006    Speak English less than "very well"
+B16005C007  Foreign born:
+B16005C008   Speak only English
+B16005C009   Speak another language
+B16005C010    Speak English "very well"
+B16005C011    Speak English less than "very well"

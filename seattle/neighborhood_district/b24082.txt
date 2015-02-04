@@ -1,0 +1,22 @@
+Sex by Class of Worker and Median Earnings for the Civilian Population
+----------------------------------------------------------------------
+Universe: Civilian Employed Population 16 Years and Over With Earnings
+
+B24082001  Male:
+B24082002   Private for-profit wage and salary workers:
+B24082003    Employee of private company workers
+B24082004    Self-employed in own incorporated business workers
+B24082005   Private not-for-profit wage and salary workers
+B24082006   Local government workers
+B24082007   State government workers
+B24082008   Federal government workers
+B24082009   Self-employed in own not incorporated business workers and unpaid family workers
+B24082010  Female:
+B24082011   Private for-profit wage and salary workers:
+B24082012    Employee of private company workers
+B24082013    Self-employed in own incorporated business workers
+B24082014   Private not-for-profit wage and salary workers
+B24082015   Local government workers
+B24082016   State government workers
+B24082017   Federal government workers
+B24082018   Self-employed in own not incorporated business workers and unpaid family workers

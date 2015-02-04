@@ -1,0 +1,28 @@
+Geographical Mobility in the Past Year by Poverty Status for Current Residence in the United States
+---------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States for Whom Poverty Status Is Determined
+
+B07012001 Total:
+B07012002   Below 100 percent of the poverty level
+B07012003   100 to 149 percent of the poverty level
+B07012004   At or above 150 percent of the poverty level
+B07012005  Same house 1 year ago:
+B07012006   Below 100 percent of the poverty level
+B07012007   100 to 149 percent of the poverty level
+B07012008   At or above 150 percent of the poverty level
+B07012009  Moved within same county:
+B07012010   Below 100 percent of the poverty level
+B07012011   100 to 149 percent of the poverty level
+B07012012   At or above 150 percent of the poverty level
+B07012013  Moved from different county within same state:
+B07012014   Below 100 percent of the poverty level
+B07012015   100 to 149 percent of the poverty level
+B07012016   At or above 150 percent of the poverty level
+B07012017  Moved from different state:
+B07012018   Below 100 percent of the poverty level
+B07012019   100 to 149 percent of the poverty level
+B07012020   At or above 150 percent of the poverty level
+B07012021  Moved from abroad:
+B07012022   Below 100 percent of the poverty level
+B07012023   100 to 149 percent of the poverty level
+B07012024   At or above 150 percent of the poverty level

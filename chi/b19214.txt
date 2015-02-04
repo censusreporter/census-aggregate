@@ -1,0 +1,5 @@
+Aggregate Nonfamily Household Income
+------------------------------------
+Universe: Nonfamily Households
+
+B19214001 Aggregate nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

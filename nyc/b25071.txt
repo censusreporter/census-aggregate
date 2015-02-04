@@ -1,0 +1,5 @@
+Median Gross Rent as a Percentage of Household Income (Dollars)
+---------------------------------------------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25071001 Median gross rent as a percentage of household income

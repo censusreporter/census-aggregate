@@ -1,0 +1,5 @@
+Unweighted Sample Count of the Population
+-----------------------------------------
+Universe: Total Population
+
+B00001001 Total

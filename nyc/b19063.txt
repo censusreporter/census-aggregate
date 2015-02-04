@@ -1,0 +1,5 @@
+Aggregate Self-employment Income for Households
+-----------------------------------------------
+Universe: Households
+
+B19063001 Aggregate self-employment income in the past 12 months (in 2012 inflation-adjusted dollars)

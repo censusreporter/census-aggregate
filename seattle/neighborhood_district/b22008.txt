@@ -1,0 +1,8 @@
+Median Household Income by Receipt of Food Stamps/SNAP
+------------------------------------------------------
+Universe: Households
+
+B22008000.5 Median household income in the past 12 months (in 2012 inflation-adjusted dollars)--
+B22008001 Total:
+B22008002  Household received Food Stamps/SNAP in the past 12 months
+B22008003  Household did not receive Food Stamps/SNAP in the past 12 months

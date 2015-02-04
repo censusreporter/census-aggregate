@@ -1,0 +1,7 @@
+Receipt of Food Stamps/SNAP by Race of Householder (Hispanic or Latino)
+-----------------------------------------------------------------------
+Universe: Households With a Householder Who Is Hispanic or Latino
+
+B22005I001 Total:
+B22005I002  Household received Food Stamps/SNAP in the past 12 months
+B22005I003  Household did not receive Food Stamps/SNAP in the past 12 months

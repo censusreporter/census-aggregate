@@ -1,0 +1,196 @@
+area_id,area_name,b99141001,b99141001_moe,b99141002,b99141002_moe,b99141003,b99141003_moe
+BK09,Brooklyn Heights-Cobble Hill,22448,-1,716,-1,21732,-1
+BK17,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,59491,-1,2953,-1,56538,-1
+BK19,Brighton Beach,30890,-1,1909,-1,28981,-1
+BK21,Seagate-Coney Island,29229,-1,1933,-1,27296,-1
+BK23,West Brighton,15216,-1,721,-1,14495,-1
+BK25,Homecrest,40397,-1,2608,-1,37789,-1
+BK26,Gravesend,26759,-1,1747,-1,25012,-1
+BK27,Bath Beach,28245,-1,2241,-1,26004,-1
+BK28,Bensonhurst West,83623,-1,7522,-1,76101,-1
+BK29,Bensonhurst East,59015,-1,3584,-1,55431,-1
+BK30,Dyker Heights,43526,-1,2002,-1,41524,-1
+BK31,Bay Ridge,80398,-1,2920,-1,77478,-1
+BK32,Sunset Park West,52558,-1,2768,-1,49790,-1
+BK33,Carroll Gardens-Columbia Street-Red Hook,38014,-1,1524,-1,36490,-1
+BK34,Sunset Park East,68359,-1,2941,-1,65418,-1
+BK35,Stuyvesant Heights,61380,-1,3199,-1,58181,-1
+BK37,Park Slope-Gowanus,69875,-1,2339,-1,67536,-1
+BK38,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,33904,-1,1486,-1,32418,-1
+BK40,Windsor Terrace,21494,-1,708,-1,20786,-1
+BK41,Kensington-Ocean Parkway,34438,-1,1464,-1,32974,-1
+BK42,Flatbush,100642,-1,5172,-1,95470,-1
+BK43,Midwood,49131,-1,2654,-1,46477,-1
+BK44,Madison,38396,-1,1784,-1,36612,-1
+BK45,Georgetown-Marine Park-Bergen Beach-Mill Basin,46292,-1,2634,-1,43658,-1
+BK46,Ocean Parkway South,18599,-1,1267,-1,17332,-1
+BK50,Canarsie,83131,-1,4891,-1,78240,-1
+BK58,Flatlands,68600,-1,5023,-1,63577,-1
+BK60,Prospect Lefferts Gardens-Wingate,66438,-1,4491,-1,61947,-1
+BK61,Crown Heights North,96158,-1,4713,-1,91445,-1
+BK63,Crown Heights South,39390,-1,2310,-1,37080,-1
+BK64,Prospect Heights,19759,-1,673,-1,19086,-1
+BK68,Fort Greene,25892,-1,1441,-1,24451,-1
+BK69,Clinton Hill,34878,-1,1691,-1,33187,-1
+BK72,Williamsburg,29012,-1,1783,-1,27229,-1
+BK73,North Side-South Side,44045,-1,1441,-1,42604,-1
+BK75,Bedford,65769,-1,3710,-1,62059,-1
+BK76,Greenpoint,30834,-1,1030,-1,29804,-1
+BK77,Bushwick North,58766,-1,1729,-1,57037,-1
+BK78,Bushwick South,68573,-1,3462,-1,65111,-1
+BK79,Ocean Hill,30182,-1,1658,-1,28524,-1
+BK81,Brownsville,52517,-1,2796,-1,49721,-1
+BK82,East New York,87413,-1,5577,-1,81836,-1
+BK83,Cypress Hills-City Line,45056,-1,2376,-1,42680,-1
+BK85,East New York (Pennsylvania Ave),28380,-1,1174,-1,27206,-1
+BK88,Borough Park,97900,-1,6118,-1,91782,-1
+BK90,East Williamsburg,32314,-1,1473,-1,30841,-1
+BK91,East Flatbush-Farragut,50685,-1,2724,-1,47961,-1
+BK93,Starrett City,12293,-1,568,-1,11725,-1
+BK95,Erasmus,28762,-1,1783,-1,26979,-1
+BK96,Rugby-Remsen Village,54004,-1,3594,-1,50410,-1
+BK99,park-cemetery-etc-Brooklyn,416,-1,0,-1,416,-1
+BX01,Claremont-Bathgate,29193,-1,1562,-1,27631,-1
+BX03,Eastchester-Edenwald-Baychester,35331,-1,1417,-1,33914,-1
+BX05,Bedford Park-Fordham North,50066,-1,1598,-1,48468,-1
+BX06,Belmont,24317,-1,990,-1,23327,-1
+BX07,Bronxdale,32477,-1,1921,-1,30556,-1
+BX08,West Farms-Bronx River,33335,-1,1715,-1,31620,-1
+BX09,Soundview-Castle Hill-Clason Point-Harding Park,52079,-1,2038,-1,50041,-1
+BX10,Pelham Bay-Country Club-City Island,25347,-1,739,-1,24608,-1
+BX13,Co-op City,43290,-1,2427,-1,40863,-1
+BX14,East Concourse-Concourse Village,60280,-1,2983,-1,57297,-1
+BX17,East Tremont,39820,-1,2161,-1,37659,-1
+BX22,North Riverdale-Fieldston-Riverdale,25753,-1,905,-1,24848,-1
+BX26,Highbridge,35190,-1,1865,-1,33325,-1
+BX27,Hunts Point,26222,-1,1149,-1,25073,-1
+BX28,Van Cortlandt Village,47645,-1,2407,-1,45238,-1
+BX29,Spuyten Duyvil-Kingsbridge,28522,-1,1049,-1,27473,-1
+BX30,Kingsbridge Heights,29529,-1,1898,-1,27631,-1
+BX31,Allerton-Pelham Gardens,32407,-1,1541,-1,30866,-1
+BX33,Longwood,24063,-1,1302,-1,22761,-1
+BX34,Melrose South-Mott Haven North,36949,-1,1522,-1,35427,-1
+BX35,Morrisania-Melrose,36069,-1,1313,-1,34756,-1
+BX36,University Heights-Morris Heights,51255,-1,1850,-1,49405,-1
+BX37,Van Nest-Morris Park-Westchester Square,28607,-1,996,-1,27611,-1
+BX39,Mott Haven-Port Morris,49423,-1,2398,-1,47025,-1
+BX40,Fordham South,24763,-1,878,-1,23885,-1
+BX41,Mount Hope,49506,-1,2998,-1,46508,-1
+BX43,Norwood,38697,-1,1533,-1,37164,-1
+BX44,Williamsbridge-Olinville,58600,-1,3339,-1,55261,-1
+BX46,Parkchester,29044,-1,1702,-1,27342,-1
+BX49,Pelham Parkway,28750,-1,937,-1,27813,-1
+BX52,Schuylerville-Throgs Neck-Edgewater Park,44841,-1,1777,-1,43064,-1
+BX55,Soundview-Bruckner,34036,-1,1354,-1,32682,-1
+BX59,Westchester-Unionport,26376,-1,1268,-1,25108,-1
+BX62,Woodlawn-Wakefield,43956,-1,2378,-1,41578,-1
+BX63,West Concourse,37518,-1,1902,-1,35616,-1
+BX75,Crotona Park East,19050,-1,895,-1,18155,-1
+BX98,Rikers Island,9741,-1,36,-1,9705,-1
+BX99,park-cemetery-etc-Bronx,1303,-1,40,-1,1263,-1
+MN01,Marble Hill-Inwood,48442,-1,2110,-1,46332,-1
+MN03,Central Harlem North-Polo Grounds,75618,-1,4255,-1,71363,-1
+MN04,Hamilton Heights,49808,-1,2733,-1,47075,-1
+MN06,Manhattanville,23144,-1,764,-1,22380,-1
+MN09,Morningside Heights,53016,-1,3606,-1,49410,-1
+MN11,Central Harlem South,44474,-1,2179,-1,42295,-1
+MN12,Upper West Side,130650,-1,3998,-1,126652,-1
+MN13,Hudson Yards-Chelsea-Flat Iron-Union Square,67361,-1,2442,-1,64919,-1
+MN14,Lincoln Square,56896,-1,1785,-1,55111,-1
+MN15,Clinton,42125,-1,1450,-1,40675,-1
+MN17,Midtown-Midtown South,27553,-1,1422,-1,26131,-1
+MN19,Turtle Bay-East Midtown,47002,-1,1702,-1,45300,-1
+MN20,Murray Hill-Kips Bay,48377,-1,1666,-1,46711,-1
+MN21,Gramercy,25648,-1,695,-1,24953,-1
+MN22,East Village,43222,-1,2316,-1,40906,-1
+MN23,West Village,65757,-1,2543,-1,63214,-1
+MN24,SoHo-TriBeCa-Civic Center-Little Italy,38649,-1,1269,-1,37380,-1
+MN25,Battery Park City-Lower Manhattan,36068,-1,1394,-1,34674,-1
+MN27,Chinatown,45713,-1,2944,-1,42769,-1
+MN28,Lower East Side,72653,-1,4178,-1,68475,-1
+MN31,Lenox Hill-Roosevelt Island,78191,-1,2661,-1,75530,-1
+MN32,Yorkville,75180,-1,1708,-1,73472,-1
+MN33,East Harlem South,57846,-1,2833,-1,55013,-1
+MN34,East Harlem North,57952,-1,3015,-1,54937,-1
+MN35,Washington Heights North,68926,-1,2351,-1,66575,-1
+MN36,Washington Heights South,86415,-1,4877,-1,81538,-1
+MN40,Upper East Side-Carnegie Hill,57248,-1,2056,-1,55192,-1
+MN50,Stuyvesant Town-Cooper Village,21571,-1,654,-1,20917,-1
+MN99,park-cemetery-etc-Manhattan,1483,-1,229,-1,1254,-1
+QN01,South Jamaica,35455,-1,1870,-1,33585,-1
+QN02,Springfield Gardens North,26075,-1,1760,-1,24315,-1
+QN03,Springfield Gardens South-Brookville,19098,-1,1168,-1,17930,-1
+QN05,Rosedale,26836,-1,1879,-1,24957,-1
+QN06,Jamaica Estates-Holliswood,24428,-1,1161,-1,23267,-1
+QN07,Hollis,20775,-1,1259,-1,19516,-1
+QN08,St. Albans,49360,-1,3161,-1,46199,-1
+QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,28728,-1,1276,-1,27452,-1
+QN12,Hammels-Arverne-Edgemere,33785,-1,3236,-1,30549,-1
+QN15,Far Rockaway-Bayswater,47372,-1,4517,-1,42855,-1
+QN17,Forest Hills,81863,-1,4857,-1,77006,-1
+QN18,Rego Park,26480,-1,1836,-1,24644,-1
+QN19,Glendale,30708,-1,790,-1,29918,-1
+QN20,Ridgewood,66956,-1,2973,-1,63983,-1
+QN21,Middle Village,38193,-1,1428,-1,36765,-1
+QN22,Flushing,68093,-1,5856,-1,62237,-1
+QN23,College Point,23389,-1,1250,-1,22139,-1
+QN25,Corona,51506,-1,4969,-1,46537,-1
+QN26,North Corona,47576,-1,6625,-1,40951,-1
+QN27,East Elmhurst,22008,-1,2273,-1,19735,-1
+QN28,Jackson Heights,101387,-1,6412,-1,94975,-1
+QN29,Elmhurst,81925,-1,6321,-1,75604,-1
+QN30,Maspeth,26632,-1,2414,-1,24218,-1
+QN31,Hunters Point-Sunnyside-West Maspeth,58550,-1,3693,-1,54857,-1
+QN33,Cambria Heights,19637,-1,1036,-1,18601,-1
+QN34,Queens Village,55646,-1,3589,-1,52057,-1
+QN35,Briarwood-Jamaica Hills,36875,-1,2006,-1,34869,-1
+QN37,Kew Gardens Hills,34883,-1,2592,-1,32291,-1
+QN38,Pomonok-Flushing Heights-Hillcrest,32367,-1,1579,-1,30788,-1
+QN41,Fresh Meadows-Utopia,17364,-1,714,-1,16650,-1
+QN42,Oakland Gardens,27143,-1,892,-1,26251,-1
+QN43,Bellerose,24873,-1,1051,-1,23822,-1
+QN44,Glen Oaks-Floral Park-New Hyde Park,21830,-1,501,-1,21329,-1
+QN45,Douglas Manor-Douglaston-Little Neck,24923,-1,872,-1,24051,-1
+QN46,Bayside-Bayside Hills,44263,-1,2092,-1,42171,-1
+QN47,Ft. Totten-Bay Terrace-Clearview,22145,-1,594,-1,21551,-1
+QN48,Auburndale,19826,-1,1057,-1,18769,-1
+QN49,Whitestone,30970,-1,1532,-1,29438,-1
+QN50,Elmhurst-Maspeth,24334,-1,1949,-1,22385,-1
+QN51,Murray Hill,49848,-1,2585,-1,47263,-1
+QN52,East Flushing,27183,-1,1770,-1,25413,-1
+QN53,Woodhaven,56858,-1,4862,-1,51996,-1
+QN54,Richmond Hill,63049,-1,4514,-1,58535,-1
+QN55,South Ozone Park,77254,-1,5748,-1,71506,-1
+QN56,Ozone Park,21202,-1,1574,-1,19628,-1
+QN57,Lindenwood-Howard Beach,28069,-1,3929,-1,24140,-1
+QN60,Kew Gardens,22075,-1,1289,-1,20786,-1
+QN61,Jamaica,48676,-1,2635,-1,46041,-1
+QN62,Queensboro Hill,20299,-1,1798,-1,18501,-1
+QN63,Woodside,43696,-1,4711,-1,38985,-1
+QN66,Laurelton,24514,-1,1200,-1,23314,-1
+QN68,Queensbridge-Ravenswood-Long Island City,17851,-1,2108,-1,15743,-1
+QN70,Astoria,73312,-1,4873,-1,68439,-1
+QN71,Old Astoria,25612,-1,1333,-1,24279,-1
+QN72,Steinway,47614,-1,2937,-1,44677,-1
+QN76,Baisley Park,33119,-1,2293,-1,30826,-1
+QN98,Airport,0,-1,0,-1,0,-1
+QN99,park-cemetery-etc-Queens,438,-1,0,-1,438,-1
+SI01,Annadale-Huguenot-Prince's Bay-Eltingville,28026,-1,1349,-1,26677,-1
+SI05,New Springville-Bloomfield-Travis,38190,-1,1022,-1,37168,-1
+SI07,Westerleigh,23403,-1,912,-1,22491,-1
+SI08,Grymes Hill-Clifton-Fox Hills,22771,-1,1514,-1,21257,-1
+SI11,Charleston-Richmond Valley-Tottenville,23359,-1,597,-1,22762,-1
+SI12,Mariner's Harbor-Arlington-Port Ivory-Graniteville,29155,-1,1463,-1,27692,-1
+SI14,Grasmere-Arrochar-Ft. Wadsworth,14274,-1,565,-1,13709,-1
+SI22,West New Brighton-New Brighton-St. George,29695,-1,931,-1,28764,-1
+SI24,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,31097,-1,1866,-1,29231,-1
+SI25,Oakwood-Oakwood Beach,21341,-1,1132,-1,20209,-1
+SI28,Port Richmond,18043,-1,767,-1,17276,-1
+SI32,Rossville-Woodrow,19372,-1,855,-1,18517,-1
+SI35,New Brighton-Silver Lake,17636,-1,750,-1,16886,-1
+SI36,Old Town-Dongan Hills-South Beach,24261,-1,1023,-1,23238,-1
+SI37,Stapleton-Rosebank,24704,-1,1201,-1,23503,-1
+SI45,New Dorp-Midland Beach,20295,-1,967,-1,19328,-1
+SI48,Arden Heights,24030,-1,711,-1,23319,-1
+SI54,Great Kills,42203,-1,1331,-1,40872,-1
+SI99,park-cemetery-etc-Staten Island,0,-1,0,-1,0,-1

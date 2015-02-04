@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Two or More Races)
+-----------------------------------------------------------
+Universe: TWO OR MORE RACES CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001G001 Total:
+C27001G002  Under 18 years:
+C27001G003   With health insurance coverage
+C27001G004   No health insurance coverage
+C27001G005  18 to 64 years:
+C27001G006   With health insurance coverage
+C27001G007   No health insurance coverage
+C27001G008  65 years and over:
+C27001G009   With health insurance coverage
+C27001G010   No health insurance coverage

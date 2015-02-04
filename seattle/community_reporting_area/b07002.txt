@@ -1,0 +1,11 @@
+Median Age by Geographical Mobility in the Past Year for Current Residence in the United States
+-----------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07002000.5 Median age --
+B07002001  Total:
+B07002002   Same house 1 year ago
+B07002003   Moved within same county
+B07002004   Moved from different county within same state
+B07002005   Moved from different state
+B07002006   Moved from abroad

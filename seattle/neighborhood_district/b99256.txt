@@ -1,0 +1,7 @@
+Imputation of Year Structure Built
+----------------------------------
+Universe: Housing Units
+
+B99256001 Total:
+B99256002  Imputed
+B99256003  Not imputed

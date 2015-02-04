@@ -1,0 +1,10 @@
+Median Age by Place of Birth in the United States
+-------------------------------------------------
+Universe: Total Population in the United States
+
+B06002000.5 Median age --
+B06002001  Total:
+B06002002   Born in state of residence
+B06002003   Born in other state of the United States
+B06002004   Native; born outside the United States
+B06002005   Foreign born

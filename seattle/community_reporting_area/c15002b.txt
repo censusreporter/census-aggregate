@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Black or African American Alone)
+---------------------------------------------------------------
+Universe: Black or African American Alone Population 25 Years and Over
+
+C15002B001 Total:
+C15002B002  Male:
+C15002B003   Less than high school diploma
+C15002B004   High school graduate, GED, or alternative
+C15002B005   Some college or associate's degree
+C15002B006   Bachelor's degree or higher
+C15002B007  Female:
+C15002B008   Less than high school diploma
+C15002B009   High school graduate, GED, or alternative
+C15002B010   Some college or associate's degree
+C15002B011   Bachelor's degree or higher

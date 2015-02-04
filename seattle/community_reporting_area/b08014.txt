@@ -1,0 +1,25 @@
+Sex of Workers by Vehicles Available
+------------------------------------
+Universe: Workers 16 Years and Over in Households
+
+B08014001 Total:
+B08014002   No vehicle available
+B08014003   1 vehicle available
+B08014004   2 vehicles available
+B08014005   3 vehicles available
+B08014006   4 vehicles available
+B08014007   5 or more vehicles available
+B08014008  Male:
+B08014009   No vehicle available
+B08014010   1 vehicle available
+B08014011   2 vehicles available
+B08014012   3 vehicles available
+B08014013   4 vehicles available
+B08014014   5 or more vehicles available
+B08014015  Female:
+B08014016   No vehicle available
+B08014017   1 vehicle available
+B08014018   2 vehicles available
+B08014019   3 vehicles available
+B08014020   4 vehicles available
+B08014021   5 or more vehicles available

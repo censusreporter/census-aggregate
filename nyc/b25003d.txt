@@ -1,0 +1,7 @@
+Tenure (Asian Alone Householder)
+--------------------------------
+Universe: Occupied Housing Units With a Householder Who Is Asian Alone
+
+B25003D001 Total:
+B25003D002  Owner occupied
+B25003D003  Renter occupied

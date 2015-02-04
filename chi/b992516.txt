@@ -1,0 +1,7 @@
+Imputation of Rent Asked
+------------------------
+Universe: Vacant-for-rent and Rented, Not Occupied Housing Units
+
+B992516001 Total:
+B992516002  Imputed
+B992516003  Not imputed

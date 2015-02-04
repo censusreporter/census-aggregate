@@ -1,0 +1,7 @@
+Imputation of Vision Difficulty for the Civilian Noninstitutionalized Population
+--------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B99183001 Total:
+B99183002  Imputed
+B99183003  Not imputed

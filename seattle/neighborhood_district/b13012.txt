@@ -1,0 +1,19 @@
+Women Who Had a Birth by Marital Status and Labor Force Status
+--------------------------------------------------------------
+Universe: Women 16 to 50 Years
+
+B13012001 Total:
+B13012002  Women who had a birth in the past 12 months:
+B13012003   Now married (including separated and spouse absent):
+B13012004    In labor force
+B13012005    Not in labor force
+B13012006   Unmarried (never married, widowed and divorced):
+B13012007    In labor force
+B13012008    Not in labor force
+B13012009  Women who did not have a birth in the past 12 months:
+B13012010   Now married (including separated and spouse absent):
+B13012011    In labor force
+B13012012    Not in labor force
+B13012013   Unmarried (never married, widowed and divorced):
+B13012014    In labor force
+B13012015    Not in labor force

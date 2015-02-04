@@ -1,0 +1,5 @@
+Median Gross Rent (Dollars)
+---------------------------
+Universe: Renter-occupied Housing Units Paying Cash Rent
+
+B25064001 Median gross rent

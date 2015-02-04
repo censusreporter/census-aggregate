@@ -1,0 +1,5 @@
+Median Year Structure Built
+---------------------------
+Universe: Housing Units
+
+B25035001 Median year structure built

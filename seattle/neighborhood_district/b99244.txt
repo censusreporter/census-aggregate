@@ -1,0 +1,7 @@
+Imputation of Industry for the Full-time, Year-round Civilian Population
+------------------------------------------------------------------------
+Universe: Full-time, Year-round Civilian Employed Population 16 Years and Over
+
+B99244001 Total:
+B99244002  Imputed
+B99244003  Not imputed

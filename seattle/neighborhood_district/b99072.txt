@@ -1,0 +1,11 @@
+Imputation of Residence 1 Year Ago for the Population 1 Year and Over
+---------------------------------------------------------------------
+Universe: Population 1 Year and Over
+
+B99072001 Total:
+B99072002  Different house:
+B99072003   Imputed:
+B99072004    One or more but not all geographic parts imputed
+B99072005    All geographic parts imputed
+B99072006   Not imputed
+B99072007  Same house

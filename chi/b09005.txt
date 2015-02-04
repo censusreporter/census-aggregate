@@ -1,0 +1,10 @@
+Household Type for Children in Households (Excluding Householders, Spouses, and Unmarried Partners)
+---------------------------------------------------------------------------------------------------
+Universe: Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)
+
+B09005001 Total:
+B09005002  In family households:
+B09005003   In married-couple family
+B09005004   In male householder, no wife present, family
+B09005005   In female householder, no husband present, family
+B09005006  In nonfamily households

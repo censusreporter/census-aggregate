@@ -1,0 +1,19 @@
+Median Age by Nativity and Citizenship Status by Sex
+----------------------------------------------------
+Universe: Total Population
+
+B05004001 Total:
+B05004002    Male
+B05004003    Female
+B05004004  Native:
+B05004005    Male
+B05004006    Female
+B05004007  Foreign born:
+B05004008    Male
+B05004009    Female
+B05004010   Naturalized U.S. citizen:
+B05004011    Male
+B05004012    Female
+B05004013   Not a U.S. citizen:
+B05004014    Male
+B05004015    Female

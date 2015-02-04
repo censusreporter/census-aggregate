@@ -1,0 +1,27 @@
+Mortgage Status by Selected Monthly Owner Costs as a Percentage of Household Income
+-----------------------------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25091001 Total:
+B25091002  Housing units with a mortgage:
+B25091003   Less than 10.0 percent
+B25091004   10.0 to 14.9 percent
+B25091005   15.0 to 19.9 percent
+B25091006   20.0 to 24.9 percent
+B25091007   25.0 to 29.9 percent
+B25091008   30.0 to 34.9 percent
+B25091009   35.0 to 39.9 percent
+B25091010   40.0 to 49.9 percent
+B25091011   50.0 percent or more
+B25091012   Not computed
+B25091013  Housing units without a mortgage:
+B25091014   Less than 10.0 percent
+B25091015   10.0 to 14.9 percent
+B25091016   15.0 to 19.9 percent
+B25091017   20.0 to 24.9 percent
+B25091018   25.0 to 29.9 percent
+B25091019   30.0 to 34.9 percent
+B25091020   35.0 to 39.9 percent
+B25091021   40.0 to 49.9 percent
+B25091022   50.0 percent or more
+B25091023   Not computed

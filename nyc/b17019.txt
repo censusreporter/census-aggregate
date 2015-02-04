@@ -1,0 +1,27 @@
+Poverty Status of Families by Household Type by Tenure
+------------------------------------------------------
+Universe: Families
+
+B17019001 Total:
+B17019002  Income in the past 12 months below poverty level:
+B17019003   Married-couple family:
+B17019004     Owner occupied
+B17019005     Renter occupied
+B17019006   Other families:
+B17019007    Male householder, no wife present:
+B17019008     Owner occupied
+B17019009     Renter occupied
+B17019010    Female householder, no husband present:
+B17019011     Owner occupied
+B17019012     Renter occupied
+B17019013  Income in the past 12 months at or above poverty level:
+B17019014   Married-couple family:
+B17019015     Owner occupied
+B17019016     Renter occupied
+B17019017   Other families:
+B17019018    Male householder, no wife present:
+B17019019     Owner occupied
+B17019020     Renter occupied
+B17019021    Female householder, no husband present:
+B17019022     Owner occupied
+B17019023     Renter occupied

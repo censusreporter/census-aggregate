@@ -1,0 +1,22 @@
+Geographical Mobility in the Past Year by Tenure for Current Residence in the United States
+-------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in Households in the United States
+
+B07013001 Total:
+B07013002   Householder lived in owner-occupied housing units
+B07013003   Householder lived in renter-occupied housing units
+B07013004  Same house 1 year ago:
+B07013005   Householder lived in owner-occupied housing units
+B07013006   Householder lived in renter-occupied housing units
+B07013007  Moved within same county:
+B07013008   Householder lived in owner-occupied housing units
+B07013009   Householder lived in renter-occupied housing units
+B07013010  Moved from different county within same state:
+B07013011   Householder lived in owner-occupied housing units
+B07013012   Householder lived in renter-occupied housing units
+B07013013  Moved from different state:
+B07013014   Householder lived in owner-occupied housing units
+B07013015   Householder lived in renter-occupied housing units
+B07013016  Moved from abroad:
+B07013017   Householder lived in owner-occupied housing units
+B07013018   Householder lived in renter-occupied housing units

@@ -1,0 +1,26 @@
+Age by Disability Status by Poverty Status
+------------------------------------------
+Universe: Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined
+
+C18130001 Total:
+C18130002  Under 18 years:
+C18130003   With a disability:
+C18130004    Income in the past 12-months below poverty level
+C18130005    Income in the past 12-months at or above poverty level
+C18130006   No disability:
+C18130007    Income in the past 12-months below poverty level
+C18130008    Income in the past 12-months at or above poverty level
+C18130009  18 to 64 years:
+C18130010   With a disability:
+C18130011    Income in the past 12-months below poverty level
+C18130012    Income in the past 12-months at or above poverty level
+C18130013   No disability:
+C18130014    Income in the past 12-months below poverty level
+C18130015    Income in the past 12-months at or above poverty level
+C18130016  65 years and over:
+C18130017   With a disability:
+C18130018    Income in the past 12-months below poverty level
+C18130019    Income in the past 12-months at or above poverty level
+C18130020   No disability:
+C18130021    Income in the past 12-months below poverty level
+C18130022    Income in the past 12-months at or above poverty level

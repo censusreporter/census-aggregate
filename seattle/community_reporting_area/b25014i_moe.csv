@@ -1,0 +1,54 @@
+area_id,area_name,b25014i001,b25014i001_moe,b25014i002,b25014i002_moe,b25014i003,b25014i003_moe
+1.1,Arbor Heights,131,79,131,79,0,17
+1.2,Fauntleroy/Seaview,206,89,191,88,15,30
+1.3,West Seattle Junction/Genesee Hill,253,115,253,115,0,29
+1.4,Alki/Admiral,200,123,200,123,0,24
+2.1,North Delridge,237,87,237,87,0,12
+2.2,High Point,66,45,66,45,0,17
+2.3,Riverview,55,35,55,35,0,12
+2.4,Roxhill/Westwood,928,194,757,197,171,97
+2.5,Highland Park,325,148,325,148,0,21
+3.1,South Park,394,81,194,69,200,91
+3.2,Georgetown,70,56,70,56,0,12
+3.3,Duwamish/SODO,81,59,73,54,8,13
+3.4,South Beacon Hill/NewHolly,89,68,89,68,0,24
+3.5,Beacon Hill,43,43,25,34,18,30
+3.6,North Beacon Hill/Jefferson Park,421,164,268,129,153,114
+4.1,Rainier Beach,486,170,414,163,72,86
+4.2,Columbia City,407,164,344,155,63,70
+4.3,Seward Park,150,96,89,72,61,68
+4.4,Mt. Baker/North Rainier,104,82,89,79,15,24
+5.1,Madrona/Leschi,108,74,108,74,0,21
+5.2,Judkins Park,59,53,59,53,0,12
+5.3,Central Area/Squire Park,514,152,466,135,48,63
+6.1,First Hill,293,116,273,113,20,33
+6.2,Capitol Hill,788,233,734,223,54,69
+6.3,North Capitol Hill,161,77,161,77,0,12
+6.4,Miller Park,143,61,143,61,0,17
+6.5,Madison Park,12,19,12,19,0,17
+7.1,Montlake/Portage Bay,133,89,133,89,0,21
+7.2,University District,246,154,246,154,0,29
+7.3,Ravenna/Bryant,247,100,247,100,0,32
+7.4,Wedgwood/View Ridge,169,67,169,67,0,27
+7.5,Laurelhurst/Sand Point,78,53,56,44,22,38
+8.1,Northgate/Maple Leaf,415,169,415,169,0,24
+8.2,Olympic Hills/Victory Heights,342,125,326,124,16,33
+8.3,Cedar Park/Meadowbrook,391,131,302,129,89,65
+9.1,Broadview/Bitter Lake,229,132,229,132,0,27
+9.2,Licton Springs,303,141,286,138,17,25
+9.3,Greenwood/Phinney Ridge,501,158,435,143,66,66
+9.4,Green Lake,381,149,381,149,0,24
+9.5,Haller Lake,259,134,248,133,11,23
+10.1,North Beach/Blue Ridge,246,108,246,108,0,21
+10.2,Whittier Heights,189,116,189,116,0,24
+10.3,Sunset Hill/Loyal Heights,182,88,182,88,0,24
+10.4,Ballard,327,179,327,179,0,17
+11.1,Fremont,368,139,368,139,0,24
+11.2,Wallingford,137,69,120,65,17,33
+11.3,Cascade/Eastlake,538,181,473,155,65,97
+12.1,Magnolia,70,51,57,46,13,27
+12.2,Interbay,176,88,176,88,0,21
+12.3,Queen Anne,752,212,752,212,0,40
+13.1,Belltown,221,115,144,88,77,75
+13.2,Downtown Commercial Core,125,98,125,98,0,12
+13.3,Pioneer Square/International District,64,51,64,51,0,17

@@ -1,0 +1,7 @@
+Self-employment Income for Households
+-------------------------------------
+Universe: Households
+
+B19053001 Total:
+B19053002  With self-employment income
+B19053003  No self-employment income

@@ -1,0 +1,15 @@
+Veteran Status by Educational Attainment for the Civilian Population 25 Years and Over
+--------------------------------------------------------------------------------------
+Universe: Civilian Population 25 Years and Over
+
+B21003001 Total:
+B21003002  Veteran:
+B21003003   Less than high school graduate
+B21003004   High school graduate (includes equivalency)
+B21003005   Some college or associate's degree
+B21003006   Bachelor's degree or higher
+B21003007  Nonveteran:
+B21003008   Less than high school graduate
+B21003009   High school graduate (includes equivalency)
+B21003010   Some college or associate's degree
+B21003011   Bachelor's degree or higher

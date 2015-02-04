@@ -1,0 +1,21 @@
+Poverty Status by Age (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------
+Universe: Native Hawaiian and Other Pacific Islander Alone Population for Whom Poverty Status Is Determined
+
+B17020E001 Total:
+B17020E002  Income in the past 12 months below poverty level:
+B17020E003   Under 5 years
+B17020E004   5 years
+B17020E005   6 to 11 years
+B17020E006   12 to 17 years
+B17020E007   18 to 64 years
+B17020E008   65 to 74 years
+B17020E009   75 years and over
+B17020E010  Income in the past 12 months at or above poverty level:
+B17020E011   Under 5 years
+B17020E012   5 years
+B17020E013   6 to 11 years
+B17020E014   12 to 17 years
+B17020E015   18 to 64 years
+B17020E016   65 to 74 years
+B17020E017   75 years and over

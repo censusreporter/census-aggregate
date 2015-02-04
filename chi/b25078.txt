@@ -1,0 +1,5 @@
+Upper Value Quartile (Dollars)
+------------------------------
+Universe: Owner-occupied Housing Units
+
+B25078001 Upper value quartile (dollars)

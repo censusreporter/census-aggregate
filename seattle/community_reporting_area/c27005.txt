@@ -1,0 +1,25 @@
+Direct-purchase Health Insurance by Sex by Age
+----------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+C27005001 Total:
+C27005002  Male:
+C27005003   Under 18 years:
+C27005004    With direct-purchase health insurance
+C27005005    No direct-purchase health insurance
+C27005006   18 to 64 years:
+C27005007    With direct-purchase health insurance
+C27005008    No direct-purchase health insurance
+C27005009   65 years and over:
+C27005010    With direct-purchase health insurance
+C27005011    No direct-purchase health insurance
+C27005012  Female:
+C27005013   Under 18 years:
+C27005014    With direct-purchase health insurance
+C27005015    No direct-purchase health insurance
+C27005016   18 to 64 years:
+C27005017    With direct-purchase health insurance
+C27005018    No direct-purchase health insurance
+C27005019   65 years and over:
+C27005020    With direct-purchase health insurance
+C27005021    No direct-purchase health insurance

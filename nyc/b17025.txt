@@ -1,0 +1,19 @@
+Poverty Status by Nativity
+--------------------------
+Universe: Population for Whom Poverty Status Is Determined
+
+B17025001 Total:
+B17025002  Income in the past 12 months below poverty level:
+B17025003   Native:
+B17025004    Born in the United States
+B17025005    Born outside the United States
+B17025006   Foreign born:
+B17025007    Naturalized citizen
+B17025008    Not a citizen
+B17025009  Income in the past 12 months at or above poverty level:
+B17025010   Native:
+B17025011    Born in the United States
+B17025012    Born outside the United States
+B17025013   Foreign born:
+B17025014    Naturalized citizen
+B17025015    Not a citizen

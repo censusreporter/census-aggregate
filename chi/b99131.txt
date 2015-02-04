@@ -1,0 +1,7 @@
+Imputation of Marital Status for Females 15 to 50 Years
+-------------------------------------------------------
+Universe: Women 15 to 50 Years
+
+B99131001 Total:
+B99131002  Imputed
+B99131003  Not imputed

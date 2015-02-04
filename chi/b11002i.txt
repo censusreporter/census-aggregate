@@ -1,0 +1,16 @@
+Household Type by Relatives and Nonrelatives for Population in Households (Hispanic or Latino)
+----------------------------------------------------------------------------------------------
+Universe: Population in Households With a Householder Who Is Hispanic or Latino
+
+B11002I001 Total:
+B11002I002  In family households:
+B11002I003   In married-couple family:
+B11002I004    Relatives
+B11002I005    Nonrelatives
+B11002I006   In male householder, no wife present, family:
+B11002I007    Relatives
+B11002I008    Nonrelatives
+B11002I009   In female householder, no husband present, family:
+B11002I010    Relatives
+B11002I011    Nonrelatives
+B11002I012  In nonfamily households

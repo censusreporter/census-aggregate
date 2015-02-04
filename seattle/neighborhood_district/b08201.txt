@@ -1,0 +1,34 @@
+Household Size by Vehicles Available
+------------------------------------
+Universe: Households
+
+B08201001 Total:
+B08201002   No vehicle available
+B08201003   1 vehicle available
+B08201004   2 vehicles available
+B08201005   3 vehicles available
+B08201006   4 or more vehicles available
+B08201007  1-person household:
+B08201008   No vehicle available
+B08201009   1 vehicle available
+B08201010   2 vehicles available
+B08201011   3 vehicles available
+B08201012   4 or more vehicles available
+B08201013  2-person household:
+B08201014   No vehicle available
+B08201015   1 vehicle available
+B08201016   2 vehicles available
+B08201017   3 vehicles available
+B08201018   4 or more vehicles available
+B08201019  3-person household:
+B08201020   No vehicle available
+B08201021   1 vehicle available
+B08201022   2 vehicles available
+B08201023   3 vehicles available
+B08201024   4 or more vehicles available
+B08201025  4-or-more-person household:
+B08201026   No vehicle available
+B08201027   1 vehicle available
+B08201028   2 vehicles available
+B08201029   3 vehicles available
+B08201030   4 or more vehicles available

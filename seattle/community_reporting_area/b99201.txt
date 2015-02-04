@@ -1,0 +1,13 @@
+Imputation of Earnings - Percent of Earnings Imputed
+----------------------------------------------------
+Universe: Population 16 Years and Over
+
+B99201001 Total:
+B99201001.5 Percent of earnings imputed --
+B99201002  No earnings imputed
+B99201003  Dollar value of zero imputed
+B99201004  More than 0 to less than 10 percent of total earnings for individual imputed
+B99201005  10 to less than 25 percent of total earnings for individual imputed
+B99201006  25 to less than 50 percent of total earnings for individual imputed
+B99201007  50 to less than 100 percent of total earnings for individual imputed
+B99201008  100 percent of total earnings for individual imputed

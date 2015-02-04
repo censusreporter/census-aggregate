@@ -1,0 +1,14 @@
+Age by Disability Status (American Indian and Alaska Native Alone)
+------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Civilian Noninstitutionalized Population
+
+B18101C001 Total:
+B18101C002  Under 18 years:
+B18101C003   With a disability
+B18101C004   No disability
+B18101C005  18 to 64 years:
+B18101C006   With a disability
+B18101C007   No disability
+B18101C008  65 years and over:
+B18101C009   With a disability
+B18101C010   No disability

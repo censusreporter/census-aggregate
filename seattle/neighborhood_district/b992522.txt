@@ -1,0 +1,13 @@
+Imputation of Mortgage Status and Selected Monthly Owner Costs
+--------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B992522001 Total:
+B992522002  Housing units with a mortgage:
+B992522002.5   Selected monthly owner costs --
+B992522003    One or more items imputed
+B992522004    No items imputed
+B992522005  Housing units without a mortgage:
+B992522005.5   Selected monthly owner costs --
+B992522006    One or more items imputed
+B992522007    No items imputed

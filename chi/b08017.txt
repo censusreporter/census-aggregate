@@ -1,0 +1,27 @@
+Place of Work--Micropolitan Statistical Area Level
+--------------------------------------------------
+Universe: Workers 16 Years and Over Living in a Micropolitan Statistical Area
+
+B08017001 Total:
+B08017002  Living in a principal city:
+B08017003   Worked in Micropolitan Statistical Area of residence:
+B08017004    Worked in a principal city
+B08017005    Worked outside any principal city
+B08017006   Worked in a different Micropolitan Statistical Area:
+B08017007    Worked in a principal city
+B08017008    Worked outside any principal city
+B08017009   Worked in a Metropolitan Statistical Area:
+B08017010    Worked in a principal city
+B08017011    Worked outside any principal city
+B08017012   Worked outside any Metropolitan or Micropolitan Statistical Area
+B08017013  Living outside any principal city:
+B08017014   Worked in Micropolitan Statistical Area of residence:
+B08017015    Worked in a principal city
+B08017016    Worked outside any principal city
+B08017017   Worked in a different Micropolitan Statistical Area:
+B08017018    Worked in a principal city
+B08017019    Worked outside any principal city
+B08017020   Worked in a Metropolitan Statistical Area:
+B08017021    Worked in a principal city
+B08017022    Worked outside any principal city
+B08017023   Worked outside any Metropolitan or Micropolitan Statistical Area

@@ -1,0 +1,47 @@
+Receipt of Food Stamps/SNAP by Family Type by Number of Workers in Family
+-------------------------------------------------------------------------
+Universe: Families
+
+B22007001 Total:
+B22007002  Household received Food Stamps/SNAP in the past 12 months:
+B22007003   Married-couple family:
+B22007004    No workers
+B22007005    1 worker
+B22007006    2 workers:
+B22007007     Husband and wife worked
+B22007008     Other
+B22007009    3 or more workers:
+B22007010     Husband and wife worked
+B22007011     Other
+B22007012   Other family:
+B22007013    Male householder, no wife present:
+B22007014     No workers
+B22007015     1 worker
+B22007016     2 workers
+B22007017     3 or more workers
+B22007018    Female householder, no husband present:
+B22007019     No workers
+B22007020     1 worker
+B22007021     2 workers
+B22007022     3 or more workers
+B22007023  Household did not receive Food Stamps/SNAP in the past 12 months:
+B22007024   Married-couple family:
+B22007025    No workers
+B22007026    1 worker
+B22007027    2 workers:
+B22007028     Husband and wife worked
+B22007029     Other
+B22007030    3 or more workers:
+B22007031     Husband and wife worked
+B22007032     Other
+B22007033   Other family:
+B22007034    Male householder, no wife present:
+B22007035     No workers
+B22007036     1 worker
+B22007037     2 workers
+B22007038     3 or more workers
+B22007039    Female householder, no husband present:
+B22007040     No workers
+B22007041     1 worker
+B22007042     2 workers
+B22007043     3 or more workers

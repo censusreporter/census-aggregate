@@ -1,0 +1,8 @@
+Median Age by Sex (Hispanic or Latino)
+--------------------------------------
+Universe: Hispanic or Latino Population
+
+B01002I000.5 Median age --
+B01002I001  Total:
+B01002I002  Male
+B01002I003  Female

@@ -1,0 +1,33 @@
+Sex by School Enrollment by Educational Attainment by Employment Status for the Population 16 to 19 Years
+---------------------------------------------------------------------------------------------------------
+Universe: Population 16 to 19 Years
+
+B14005001 Total:
+B14005002  Male:
+B14005003   Enrolled in school:
+B14005004    Employed
+B14005005    Unemployed
+B14005006    Not in labor force
+B14005007   Not enrolled in school:
+B14005008    High school graduate:
+B14005009     Employed
+B14005010     Unemployed
+B14005011     Not in labor force
+B14005012    Not high school graduate:
+B14005013     Employed
+B14005014     Unemployed
+B14005015     Not in labor force
+B14005016  Female:
+B14005017   Enrolled in school:
+B14005018    Employed
+B14005019    Unemployed
+B14005020    Not in labor force
+B14005021   Not enrolled in school:
+B14005022    High school graduate:
+B14005023     Employed
+B14005024     Unemployed
+B14005025     Not in labor force
+B14005026    Not high school graduate:
+B14005027     Employed
+B14005028     Unemployed
+B14005029     Not in labor force

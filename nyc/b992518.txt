@@ -1,0 +1,7 @@
+Imputation of Gross Rent
+------------------------
+Universe: Renter-occupied Housing Units
+
+B992518001 Total:
+B992518002  Imputed
+B992518003  Not imputed

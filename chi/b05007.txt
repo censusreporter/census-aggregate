@@ -1,0 +1,98 @@
+Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population
+-------------------------------------------------------------------------------------
+Universe: Foreign-born Population
+
+B05007001 Total:
+B05007002  Europe:
+B05007003   Entered 2010 or later
+B05007004    Naturalized U.S. citizen
+B05007005    Not a U.S. citizen
+B05007006   Entered 2000 to 2009
+B05007007    Naturalized U.S. citizen
+B05007008    Not a U.S. citizen
+B05007009   Entered 1990 to 1999:
+B05007010    Naturalized U.S. citizen
+B05007011    Not a U.S. citizen
+B05007012   Entered before 1990:
+B05007013    Naturalized U.S. citizen
+B05007014    Not a U.S. citizen
+B05007015  Asia:
+B05007016   Entered 2010 or later
+B05007017    Naturalized U.S. citizen
+B05007018    Not a U.S. citizen
+B05007019   Entered 2000 to 2009
+B05007020    Naturalized U.S. citizen
+B05007021    Not a U.S. citizen
+B05007022   Entered 1990 to 1999:
+B05007023    Naturalized U.S. citizen
+B05007024    Not a U.S. citizen
+B05007025   Entered before 1990:
+B05007026    Naturalized U.S. citizen
+B05007027    Not a U.S. citizen
+B05007028  Latin America:
+B05007029   Caribbean:
+B05007030    Entered 2010 or later
+B05007031     Naturalized U.S. citizen
+B05007032     Not a U.S. citizen
+B05007033    Entered 2000 to 2009
+B05007034     Naturalized U.S. citizen
+B05007035     Not a U.S. citizen
+B05007036    Entered 1990 to 1999:
+B05007037     Naturalized U.S. citizen
+B05007038     Not a U.S. citizen
+B05007039    Entered before 1990:
+B05007040     Naturalized U.S. citizen
+B05007041     Not a U.S. citizen
+B05007042   Central America:
+B05007043    Mexico:
+B05007044     Entered 2010 or later
+B05007045      Naturalized U.S. citizen
+B05007046      Not a U.S. citizen
+B05007047     Entered 2000 to 2009
+B05007048      Naturalized U.S. citizen
+B05007049      Not a U.S. citizen
+B05007050     Entered 1990 to 1999:
+B05007051      Naturalized U.S. citizen
+B05007052      Not a U.S. citizen
+B05007053     Entered before 1990:
+B05007054      Naturalized U.S. citizen
+B05007055      Not a U.S. citizen
+B05007056    Other Central America:
+B05007057     Entered 2010 or later
+B05007058      Naturalized U.S. citizen
+B05007059      Not a U.S. citizen
+B05007060     Entered 2000 to 2009
+B05007061      Naturalized U.S. citizen
+B05007062      Not a U.S. citizen
+B05007063     Entered 1990 to 1999:
+B05007064      Naturalized U.S. citizen
+B05007065      Not a U.S. citizen
+B05007066     Entered before 1990:
+B05007067      Naturalized U.S. citizen
+B05007068      Not a U.S. citizen
+B05007069   South America:
+B05007070    Entered 2010 or later
+B05007071     Naturalized U.S. citizen
+B05007072     Not a U.S. citizen
+B05007073    Entered 2000 to 2009
+B05007074     Naturalized U.S. citizen
+B05007075     Not a U.S. citizen
+B05007076    Entered 1990 to 1999:
+B05007077     Naturalized U.S. citizen
+B05007078     Not a U.S. citizen
+B05007079    Entered before 1990:
+B05007080     Naturalized U.S. citizen
+B05007081     Not a U.S. citizen
+B05007082  Other areas:
+B05007083   Entered 2010 or later
+B05007084    Naturalized U.S. citizen
+B05007085    Not a U.S. citizen
+B05007086   Entered 2000 to 2009
+B05007087    Naturalized U.S. citizen
+B05007088    Not a U.S. citizen
+B05007089   Entered 1990 to 1999:
+B05007090    Naturalized U.S. citizen
+B05007091    Not a U.S. citizen
+B05007092   Entered before 1990:
+B05007093    Naturalized U.S. citizen
+B05007094    Not a U.S. citizen

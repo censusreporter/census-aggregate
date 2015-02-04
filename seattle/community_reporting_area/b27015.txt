@@ -1,0 +1,30 @@
+Health Insurance Coverage Status and Type by Household Income
+-------------------------------------------------------------
+Universe: Civilian Population Living in Households
+
+B27015001 Total:
+B27015002  Under $25,000:
+B27015003   With health insurance coverage
+B27015004    With private health insurance
+B27015005    With public coverage
+B27015006   No health insurance coverage
+B27015007  $25,000 to $49,999:
+B27015008   With health insurance coverage
+B27015009    With private health insurance
+B27015010    With public coverage
+B27015011   No health insurance coverage
+B27015012  $50,000 to $74,999:
+B27015013   With health insurance coverage
+B27015014    With private health insurance
+B27015015    With public coverage
+B27015016   No health insurance coverage
+B27015017  $75,000 to $99,999:
+B27015018   With health insurance coverage
+B27015019    With private health insurance
+B27015020    With public coverage
+B27015021   No health insurance coverage
+B27015022  $100,000 or more:
+B27015023   With health insurance coverage
+B27015024    With private health insurance
+B27015025    With public coverage
+B27015026   No health insurance coverage

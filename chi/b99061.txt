@@ -1,0 +1,7 @@
+Imputation of Place of Birth
+----------------------------
+Universe: Total Population
+
+B99061001 Total:
+B99061002  Imputed
+B99061003  Not imputed

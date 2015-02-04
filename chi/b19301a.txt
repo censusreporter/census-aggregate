@@ -1,0 +1,5 @@
+Per Capita Income (White Alone)
+-------------------------------
+Universe: People Who Are White Alone
+
+B19301A001 Per capita income in the past 12 months (in 2012 inflation-adjusted dollars)

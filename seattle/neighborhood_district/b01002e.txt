@@ -1,0 +1,8 @@
+Median Age by Sex (Native Hawaiian and Other Pacific Islander Alone)
+--------------------------------------------------------------------
+Universe: People Who Are Native Hawaiian and Other Pacific Islander Alone
+
+B01002E000.5 Median age --
+B01002E001  Total:
+B01002E002  Male
+B01002E003  Female

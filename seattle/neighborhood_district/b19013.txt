@@ -1,0 +1,5 @@
+Median Household Income
+-----------------------
+Universe: Households
+
+B19013001 Median household income in the past 12 months (in 2012 inflation-adjusted dollars)

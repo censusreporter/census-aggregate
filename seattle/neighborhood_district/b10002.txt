@@ -1,0 +1,9 @@
+Grandchildren Living With a Grandparent Householder by Grandparent Responsibility and Presence of Parent
+--------------------------------------------------------------------------------------------------------
+Universe: Grandchildren Under 18 Living With Grandparent Householder
+
+B10002001 Total:
+B10002002  Grandparent householder responsible for own grandchildren under 18 years:
+B10002003   Parent present
+B10002004   No parent present
+B10002005  Grandparent householder not responsible for own grandchildren under 18 years

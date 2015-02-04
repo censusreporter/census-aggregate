@@ -1,0 +1,18 @@
+Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in the United States
+----------------------------------------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over Living in a Micropolitan Statistical Area in the United States
+
+B07202001 Total:
+B07202002  Same house 1 year ago
+B07202003  Different house in United States 1 year ago:
+B07202004   Same Micropolitan Statistical Area:
+B07202005    Moved from principal city
+B07202006    Moved from remainder of Micropolitan Statistical Area
+B07202007   Different Micropolitan Statistical Area:
+B07202008    Moved from principal city
+B07202009    Moved from remainder of Micropolitan Statistical Area
+B07202010   Metropolitan Statistical Area:
+B07202011    Moved from principal city
+B07202012    Moved from remainder of Metropolitan Statistical Area
+B07202013   Not in a Metropolitan or Micropolitan Statistical Area 1 year ago
+B07202014  Abroad 1 year ago

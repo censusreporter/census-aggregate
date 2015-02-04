@@ -1,0 +1,11 @@
+Women Who Had a Birth by Marital Status (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Women 15 to 50 Years
+
+B13002H001 Total:
+B13002H002  Women who had a birth in the past 12 months:
+B13002H003   Now married (including separated and spouse absent)
+B13002H004   Unmarried (never married, widowed and divorced)
+B13002H005  Women who did not have a birth in the past 12 months:
+B13002H006   Now married (including separated and spouse absent)
+B13002H007   Unmarried (never married, widowed and divorced)

@@ -1,0 +1,23 @@
+School Enrollment by Detailed Level of School (Asian Alone)
+-----------------------------------------------------------
+Universe: Asian Alone Population 3 Years and Over
+
+B14007D001 Total:
+B14007D002  Enrolled in school:
+B14007D003   Enrolled in nursery school, preschool
+B14007D004   Enrolled in kindergarten
+B14007D005   Enrolled in grade 1
+B14007D006   Enrolled in grade 2
+B14007D007   Enrolled in grade 3
+B14007D008   Enrolled in grade 4
+B14007D009   Enrolled in grade 5
+B14007D010   Enrolled in grade 6
+B14007D011   Enrolled in grade 7
+B14007D012   Enrolled in grade 8
+B14007D013   Enrolled in grade 9
+B14007D014   Enrolled in grade 10
+B14007D015   Enrolled in grade 11
+B14007D016   Enrolled in grade 12
+B14007D017   Enrolled in college, undergraduate years
+B14007D018   Graduate or professional school
+B14007D019  Not enrolled in school

@@ -1,0 +1,53 @@
+area_id,area_name,b01002g001,b01002g001_moe,b01002g002,b01002g002_moe,b01002g003,b01002g003_moe
+1.1,Arbor Heights,41,14,36,33,44,18
+1.2,Fauntleroy/Seaview,22,21,18,18,32,61
+1.3,West Seattle Junction/Genesee Hill,42,29,47,26,63,32
+1.4,Alki/Admiral,72,32,48,33,71,40
+2.1,North Delridge,30,15,22,9,36,25
+2.2,High Point,52,26,58,21,70,65
+2.3,Riverview,12,14,9,5,22,9
+2.4,Roxhill/Westwood,68,22,49,49,70,28
+2.5,Highland Park,22,11,23,10,18,32
+3.1,South Park,24,4,25,35,23,4
+3.2,Georgetown,50,28,60,43,42,31
+3.3,Duwamish/SODO,52,52,52,44,28,11
+3.4,South Beacon Hill/NewHolly,68,56,46,86,102,64
+3.5,Beacon Hill,22,54,48,72,23,31
+3.6,North Beacon Hill/Jefferson Park,92,41,67,32,107,82
+4.1,Rainier Beach,66,35,30,29,77,22
+4.2,Columbia City,63,26,57,38,64,33
+4.3,Seward Park,55,16,60,32,61,25
+4.4,Mt. Baker/North Rainier,30,24,15,9,39,12
+5.1,Madrona/Leschi,44,16,59,20,29,27
+5.2,Judkins Park,20,8,22,14,19,8
+5.3,Central Area/Squire Park,133,33,121,66,150,64
+6.1,First Hill,51,3,50,4,47,11
+6.2,Capitol Hill,115,56,108,64,133,45
+6.4,Miller Park,39,15,32,9,82,38
+6.5,Madison Park,16,37,57,45,15,12
+7.1,Montlake/Portage Bay,47,31,65,17,34,11
+7.2,University District,61,5,60,25,61,10
+7.3,Ravenna/Bryant,103,15,98,47,114,25
+7.4,Wedgwood/View Ridge,80,14,80,17,69,70
+7.5,Laurelhurst/Sand Point,40,19,53,42,39,17
+8.1,Northgate/Maple Leaf,70,44,110,72,68,69
+8.2,Olympic Hills/Victory Heights,70,35,97,27,76,46
+8.3,Cedar Park/Meadowbrook,83,25,88,39,62,24
+9.1,Broadview/Bitter Lake,58,18,40,30,65,29
+9.2,Licton Springs,59,7,49,22,65,8
+9.3,Greenwood/Phinney Ridge,89,44,86,52,102,66
+9.4,Green Lake,75,21,58,37,75,15
+9.5,Haller Lake,50,39,47,38,38,63
+10.1,North Beach/Blue Ridge,68,54,83,35,61,61
+10.2,Whittier Heights,43,21,50,38,38,26
+10.3,Sunset Hill/Loyal Heights,42,11,32,18,43,28
+10.4,Ballard,28,11,27,7,30,18
+11.1,Fremont,58,24,45,45,60,17
+11.2,Wallingford,105,39,83,34,119,39
+11.3,Cascade/Eastlake,62,12,74,67,61,11
+12.1,Magnolia,6,2,6,9,6,1
+12.2,Interbay,29,7,29,15,27,18
+12.3,Queen Anne,179,34,176,35,204,52
+13.1,Belltown,67,26,105,60,63,11
+13.2,Downtown Commercial Core,30,13,30,12,36,19
+13.3,Pioneer Square/International District,82,30,81,48,72,42

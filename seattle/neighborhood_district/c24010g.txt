@@ -1,0 +1,17 @@
+Sex by Occupation for the Civilian Population (Two or More Races)
+-----------------------------------------------------------------
+Universe: Civilian Employed Two or More Races Population 16 Years and Over
+
+C24010G001 Total:
+C24010G002  Male:
+C24010G003   Management, business, science, and arts occupations:
+C24010G004   Service occupations:
+C24010G005   Sales and office occupations:
+C24010G006   Natural resources, construction, and maintenance occupations:
+C24010G007   Production, transportation, and material moving occupations:
+C24010G008  Female:
+C24010G009   Management, business, science, and arts occupations:
+C24010G010   Service occupations:
+C24010G011   Sales and office occupations:
+C24010G012   Natural resources, construction, and maintenance occupations:
+C24010G013   Production, transportation, and material moving occupations:

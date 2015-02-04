@@ -1,0 +1,27 @@
+Sex by Age by Nativity and Citizenship Status (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population
+
+B05003H001 Total:
+B05003H002  Male:
+B05003H003   Under 18 years:
+B05003H004    Native
+B05003H005    Foreign born:
+B05003H006     Naturalized U.S. citizen
+B05003H007     Not a U.S. citizen
+B05003H008   18 years and over:
+B05003H009    Native
+B05003H010    Foreign born:
+B05003H011     Naturalized U.S. citizen
+B05003H012     Not a U.S. citizen
+B05003H013  Female:
+B05003H014   Under 18 years:
+B05003H015    Native
+B05003H016    Foreign born:
+B05003H017     Naturalized U.S. citizen
+B05003H018     Not a U.S. citizen
+B05003H019   18 years and over:
+B05003H020    Native
+B05003H021    Foreign born:
+B05003H022     Naturalized U.S. citizen
+B05003H023     Not a U.S. citizen

@@ -1,0 +1,5 @@
+Median Household Income (Black or African American Alone Householder)
+---------------------------------------------------------------------
+Universe: Households With a Householder Who Is Black or African American Alone
+
+B19013B001 Median household income in the past 12 months (in 2012 inflation-adjusted dollars)

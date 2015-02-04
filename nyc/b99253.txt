@@ -1,0 +1,7 @@
+Imputation of Vacancy Status
+----------------------------
+Universe: Vacant Housing Units
+
+B99253001 Total:
+B99253002  Imputed
+B99253003  Not imputed

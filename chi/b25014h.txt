@@ -1,0 +1,7 @@
+Occupants Per Room (White Alone, Not Hispanic or Latino Householder)
+--------------------------------------------------------------------
+Universe: Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino
+
+B25014H001 Total:
+B25014H002  1.00 or less occupants per room
+B25014H003  1.01 or more occupants per room

@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Two or More Races)
+-------------------------------------------------
+Universe: Two or More Races Population 25 Years and Over
+
+C15002G001 Total:
+C15002G002  Male:
+C15002G003   Less than high school diploma
+C15002G004   High school graduate, GED, or alternative
+C15002G005   Some college or associate's degree
+C15002G006   Bachelor's degree or higher
+C15002G007  Female:
+C15002G008   Less than high school diploma
+C15002G009   High school graduate, GED, or alternative
+C15002G010   Some college or associate's degree
+C15002G011   Bachelor's degree or higher

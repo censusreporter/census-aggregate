@@ -1,0 +1,7 @@
+Imputation of Hearing Difficulty for the Civilian Noninstitutionalized Population
+---------------------------------------------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B99182001 Total:
+B99182002  Imputed
+B99182003  Not imputed

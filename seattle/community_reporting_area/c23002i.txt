@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Hispanic or Latino)
+----------------------------------------------------
+Universe: Hispanic or Latino Population 16 Years and Over
+
+C23002I001 Total:
+C23002I002  Male:
+C23002I003   16 to 64 years:
+C23002I004    In labor force:
+C23002I005     In Armed Forces
+C23002I006     Civilian:
+C23002I007      Employed
+C23002I008      Unemployed
+C23002I009    Not in labor force
+C23002I010   65 years and over:
+C23002I011    In labor force:
+C23002I012      Employed
+C23002I013      Unemployed
+C23002I014    Not in labor force
+C23002I015  Female:
+C23002I016   16 to 64 years:
+C23002I017    In labor force:
+C23002I018     In Armed Forces
+C23002I019     Civilian:
+C23002I020      Employed
+C23002I021      Unemployed
+C23002I022    Not in labor force
+C23002I023   65 years and over:
+C23002I024    In labor force:
+C23002I025      Employed
+C23002I026      Unemployed
+C23002I027    Not in labor force

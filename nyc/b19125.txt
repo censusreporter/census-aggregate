@@ -1,0 +1,8 @@
+Median Family Income by Presence of Own Children
+------------------------------------------------
+Universe: Families
+
+B19125000.5 Median family income in the past 12 months (in 2012 inflation-adjusted dollars) --
+B19125001 Total:
+B19125002  With own children under 18 years
+B19125003  No own children under 18 years

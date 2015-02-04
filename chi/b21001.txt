@@ -1,0 +1,43 @@
+Sex by Age by Veteran Status for the Civilian Population 18 Years and Over
+--------------------------------------------------------------------------
+Universe: Civilian Population 18 Years and Over
+
+B21001001 Total:
+B21001002    Veteran
+B21001003    Nonveteran
+B21001004  Male:
+B21001005    Veteran
+B21001006    Nonveteran
+B21001007   18 to 34 years:
+B21001008    Veteran
+B21001009    Nonveteran
+B21001010   35 to 54 years:
+B21001011    Veteran
+B21001012    Nonveteran
+B21001013   55 to 64 years:
+B21001014    Veteran
+B21001015    Nonveteran
+B21001016   65 to 74 years:
+B21001017    Veteran
+B21001018    Nonveteran
+B21001019   75 years and over:
+B21001020    Veteran
+B21001021    Nonveteran
+B21001022  Female:
+B21001023    Veteran
+B21001024    Nonveteran
+B21001025   18 to 34 years:
+B21001026    Veteran
+B21001027    Nonveteran
+B21001028   35 to 54 years:
+B21001029    Veteran
+B21001030    Nonveteran
+B21001031   55 to 64 years:
+B21001032    Veteran
+B21001033    Nonveteran
+B21001034   65 to 74 years:
+B21001035    Veteran
+B21001036    Nonveteran
+B21001037   75 years and over:
+B21001038    Veteran
+B21001039    Nonveteran

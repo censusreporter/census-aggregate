@@ -1,0 +1,54 @@
+area_id,area_name,b22005e001,b22005e001_moe,b22005e002,b22005e002_moe,b22005e003,b22005e003_moe
+1.1,Arbor Heights,0,17,0,17,0,17
+1.2,Fauntleroy/Seaview,57,82,0,24,57,82
+1.3,West Seattle Junction/Genesee Hill,52,77,0,29,52,77
+1.4,Alki/Admiral,7,23,0,24,7,23
+2.1,North Delridge,0,12,0,12,0,12
+2.2,High Point,22,38,0,17,22,38
+2.3,Riverview,21,23,0,12,21,23
+2.4,Roxhill/Westwood,74,87,11,27,63,85
+2.5,Highland Park,8,22,8,22,0,21
+3.1,South Park,53,49,38,42,15,28
+3.2,Georgetown,0,12,0,12,0,12
+3.3,Duwamish/SODO,0,12,0,12,0,12
+3.4,South Beacon Hill/NewHolly,48,52,25,42,23,40
+3.5,Beacon Hill,0,17,0,17,0,17
+3.6,North Beacon Hill/Jefferson Park,28,43,0,24,28,43
+4.1,Rainier Beach,0,27,0,27,0,27
+4.2,Columbia City,89,88,42,65,47,64
+4.3,Seward Park,11,22,0,17,11,22
+4.4,Mt. Baker/North Rainier,0,17,0,17,0,17
+5.1,Madrona/Leschi,0,21,0,21,0,21
+5.2,Judkins Park,0,12,0,12,0,12
+5.3,Central Area/Squire Park,0,24,0,24,0,24
+6.1,First Hill,14,33,0,24,14,33
+6.2,Capitol Hill,17,38,0,29,17,38
+6.3,North Capitol Hill,0,12,0,12,0,12
+6.4,Miller Park,0,17,0,17,0,17
+6.5,Madison Park,0,17,0,17,0,17
+7.1,Montlake/Portage Bay,0,21,0,21,0,21
+7.2,University District,0,29,0,29,0,29
+7.3,Ravenna/Bryant,0,32,0,32,0,32
+7.4,Wedgwood/View Ridge,0,27,0,27,0,27
+7.5,Laurelhurst/Sand Point,0,21,0,21,0,21
+8.1,Northgate/Maple Leaf,49,58,0,24,49,58
+8.2,Olympic Hills/Victory Heights,18,30,18,30,0,24
+8.3,Cedar Park/Meadowbrook,11,27,0,27,11,27
+9.1,Broadview/Bitter Lake,11,29,11,29,0,27
+9.2,Licton Springs,9,20,0,17,9,20
+9.3,Greenwood/Phinney Ridge,0,29,0,29,0,29
+9.4,Green Lake,0,24,0,24,0,24
+9.5,Haller Lake,90,88,16,25,74,87
+10.1,North Beach/Blue Ridge,9,25,9,25,0,21
+10.2,Whittier Heights,0,24,0,24,0,24
+10.3,Sunset Hill/Loyal Heights,14,26,0,24,14,26
+10.4,Ballard,21,33,21,33,0,17
+11.1,Fremont,0,24,0,24,0,24
+11.2,Wallingford,0,27,0,27,0,27
+11.3,Cascade/Eastlake,0,21,0,21,0,21
+12.1,Magnolia,0,24,0,24,0,24
+12.2,Interbay,0,21,0,21,0,21
+12.3,Queen Anne,0,40,0,40,0,40
+13.1,Belltown,0,21,0,21,0,21
+13.2,Downtown Commercial Core,0,12,0,12,0,12
+13.3,Pioneer Square/International District,0,17,0,17,0,17

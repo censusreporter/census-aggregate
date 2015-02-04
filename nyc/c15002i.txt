@@ -1,0 +1,15 @@
+Sex by Educational Attainment (Hispanic or Latino)
+--------------------------------------------------
+Universe: Hispanic or Latino Population 25 Years and Over
+
+C15002I001 Total:
+C15002I002  Male:
+C15002I003   Less than high school diploma
+C15002I004   High school graduate, GED, or alternative
+C15002I005   Some college or associate's degree
+C15002I006   Bachelor's degree or higher
+C15002I007  Female:
+C15002I008   Less than high school diploma
+C15002I009   High school graduate, GED, or alternative
+C15002I010   Some college or associate's degree
+C15002I011   Bachelor's degree or higher

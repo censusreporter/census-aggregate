@@ -1,0 +1,25 @@
+Year of Entry by Nativity and Citizenship Status in the United States
+---------------------------------------------------------------------
+Universe: Population Born Outside the United States
+
+B05005001 Total:
+B05005002  Entered 2010 or later
+B05005003   Native
+B05005004   Foreign born:
+B05005005    Naturalized U.S. citizen
+B05005006    Not a U.S. citizen
+B05005007  Entered 2000 to 2009
+B05005008   Native
+B05005009   Foreign born:
+B05005010    Naturalized U.S. citizen
+B05005011    Not a U.S. citizen
+B05005012  Entered 1990 to 1999:
+B05005013   Native
+B05005014   Foreign born:
+B05005015    Naturalized U.S. citizen
+B05005016    Not a U.S. citizen
+B05005017  Entered before 1990:
+B05005018   Native
+B05005019   Foreign born:
+B05005020    Naturalized U.S. citizen
+B05005021    Not a U.S. citizen

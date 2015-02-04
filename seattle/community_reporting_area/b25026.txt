@@ -1,0 +1,19 @@
+Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit
+----------------------------------------------------------------------------------------
+Universe: Total Population in Occupied Housing Units
+
+B25026001 Total population in occupied housing units:
+B25026002  Owner occupied:
+B25026003   Moved in 2010 or later
+B25026004   Moved in 2000 to 2009
+B25026005   Moved in 1990 to 1999
+B25026006   Moved in 1980 to 1989
+B25026007   Moved in 1970 to 1979
+B25026008   Moved in 1969 or earlier
+B25026009  Renter occupied:
+B25026010   Moved in 2010 or later
+B25026011   Moved in 2000 to 2009
+B25026012   Moved in 1990 to 1999
+B25026013   Moved in 1980 to 1989
+B25026014   Moved in 1970 to 1979
+B25026015   Moved in 1969 or earlier

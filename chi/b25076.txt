@@ -1,0 +1,5 @@
+Lower Value Quartile (Dollars)
+------------------------------
+Universe: Owner-occupied Housing Units
+
+B25076001 Lower value quartile (dollars)

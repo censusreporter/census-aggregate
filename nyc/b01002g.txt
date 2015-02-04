@@ -1,0 +1,8 @@
+Median Age by Sex (Two or More Races)
+-------------------------------------
+Universe: People Who Are Two or More Races
+
+B01002G000.5 Median age --
+B01002G001  Total:
+B01002G002  Male
+B01002G003  Female

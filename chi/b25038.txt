@@ -1,0 +1,19 @@
+Tenure by Year Householder Moved Into Unit
+------------------------------------------
+Universe: Occupied Housing Units
+
+B25038001 Total:
+B25038002  Owner occupied:
+B25038003   Moved in 2010 or later
+B25038004   Moved in 2000 to 2009
+B25038005   Moved in 1990 to 1999
+B25038006   Moved in 1980 to 1989
+B25038007   Moved in 1970 to 1979
+B25038008   Moved in 1969 or earlier
+B25038009  Renter occupied:
+B25038010   Moved in 2010 or later
+B25038011   Moved in 2000 to 2009
+B25038012   Moved in 1990 to 1999
+B25038013   Moved in 1980 to 1989
+B25038014   Moved in 1970 to 1979
+B25038015   Moved in 1969 or earlier

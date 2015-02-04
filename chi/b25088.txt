@@ -1,0 +1,8 @@
+Median Selected Monthly Owner Costs (Dollars) by Mortgage Status
+----------------------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25088000.5 Median selected monthly owner costs (dollars) --
+B25088001  Total:
+B25088002  Housing units with a mortgage (dollars)
+B25088003  Housing units without a mortgage (dollars)

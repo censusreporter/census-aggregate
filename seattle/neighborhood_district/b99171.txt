@@ -1,0 +1,21 @@
+Imputation of Poverty Status for Unrelated Individuals
+------------------------------------------------------
+Universe: Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined
+
+B99171001 Total:
+B99171001.5 Percent of income imputed for individuals with income in the past 12 months below poverty level --
+B99171002  No income imputed
+B99171003  Dollar value of zero imputed
+B99171004  More than 0 to less than 10 percent of total income for individual imputed
+B99171005  10 to less than 25 percent of total income for individual imputed
+B99171006  25 to less than 50 percent of total income for individual imputed
+B99171007  50 to less than 100 percent of total income for individual imputed
+B99171008  100 percent of total income for individual imputed
+B99171008.5 Percent of income imputed for individuals with income in the past 12 months at or above poverty level --
+B99171009  No income imputed
+B99171010  Dollar value of zero imputed
+B99171011  More than 0 to less than 10 percent of total income for individual imputed
+B99171012  10 to less than 25 percent of total income for individual imputed
+B99171013  25 to less than 50 percent of total income for individual imputed
+B99171014  50 to less than 100 percent of total income for individual imputed
+B99171015  100 percent of total income for individual imputed

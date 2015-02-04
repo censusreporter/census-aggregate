@@ -1,0 +1,23 @@
+Tenure by Plumbing Facilities by Occupants Per Room
+---------------------------------------------------
+Universe: Occupied Housing Units
+
+B25016001 Total:
+B25016002  Owner occupied:
+B25016003   Complete plumbing facilities:
+B25016004    1.00 or less occupants per room
+B25016005    1.01 to 1.50 occupants per room
+B25016006    1.51 or more occupants per room
+B25016007   Lacking complete plumbing facilities:
+B25016008    1.00 or less occupants per room
+B25016009    1.01 to 1.50 occupants per room
+B25016010    1.51 or more occupants per room
+B25016011  Renter occupied:
+B25016012   Complete plumbing facilities:
+B25016013    1.00 or less occupants per room
+B25016014    1.01 to 1.50 occupants per room
+B25016015    1.51 or more occupants per room
+B25016016   Lacking complete plumbing facilities:
+B25016017    1.00 or less occupants per room
+B25016018    1.01 to 1.50 occupants per room
+B25016019    1.51 or more occupants per room

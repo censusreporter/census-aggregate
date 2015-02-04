@@ -1,0 +1,17 @@
+Sex by Marital Status (White Alone, Not Hispanic or Latino)
+-----------------------------------------------------------
+Universe: White Alone, Not Hispanic or Latino Population 15 Years and Over
+
+B12002H001 Total:
+B12002H002  Male:
+B12002H003   Never married
+B12002H004   Now married (except separated)
+B12002H005   Separated
+B12002H006   Widowed
+B12002H007   Divorced
+B12002H008  Female:
+B12002H009   Never married
+B12002H010   Now married (except separated)
+B12002H011   Separated
+B12002H012   Widowed
+B12002H013   Divorced

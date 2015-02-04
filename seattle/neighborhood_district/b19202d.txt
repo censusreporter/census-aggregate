@@ -1,0 +1,5 @@
+Median Nonfamily Household Income (Asian Alone Householder)
+-----------------------------------------------------------
+Universe: Nonfamily Households With a Householder Who Is Asian Alone
+
+B19202D001 Median nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

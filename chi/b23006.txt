@@ -1,0 +1,33 @@
+Educational Attainment by Employment Status for the Population 25 to 64 Years
+-----------------------------------------------------------------------------
+Universe: Population 25 to 64 Years
+
+B23006001 Total:
+B23006002  Less than high school graduate:
+B23006003   In labor force:
+B23006004    In Armed Forces
+B23006005    Civilian:
+B23006006     Employed
+B23006007     Unemployed
+B23006008   Not in labor force
+B23006009  High school graduate:
+B23006010   In labor force:
+B23006011    In Armed Forces
+B23006012    Civilian:
+B23006013     Employed
+B23006014     Unemployed
+B23006015   Not in labor force
+B23006016  Some college or associate's degree:
+B23006017   In labor force:
+B23006018    In Armed Forces
+B23006019    Civilian:
+B23006020     Employed
+B23006021     Unemployed
+B23006022   Not in labor force
+B23006023  Bachelor's degree or higher:
+B23006024   In labor force:
+B23006025    In Armed Forces
+B23006026    Civilian:
+B23006027     Employed
+B23006028     Unemployed
+B23006029   Not in labor force

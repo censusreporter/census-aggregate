@@ -1,0 +1,17 @@
+Sex by Marital Status (American Indian and Alaska Native Alone)
+---------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population 15 Years and Over
+
+B12002C001 Total:
+B12002C002  Male:
+B12002C003   Never married
+B12002C004   Now married (except separated)
+B12002C005   Separated
+B12002C006   Widowed
+B12002C007   Divorced
+B12002C008  Female:
+B12002C009   Never married
+B12002C010   Now married (except separated)
+B12002C011   Separated
+B12002C012   Widowed
+B12002C013   Divorced

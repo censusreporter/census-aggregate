@@ -1,0 +1,14 @@
+Age by Disability Status (Two or More Races)
+--------------------------------------------
+Universe: Two or More Races Civilian Noninstitutionalized Population
+
+B18101G001 Total:
+B18101G002  Under 18 years:
+B18101G003   With a disability
+B18101G004   No disability
+B18101G005  18 to 64 years:
+B18101G006   With a disability
+B18101G007   No disability
+B18101G008  65 years and over:
+B18101G009   With a disability
+B18101G010   No disability

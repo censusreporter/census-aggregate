@@ -1,0 +1,11 @@
+Women Who Had a Birth by Marital Status (Black or African American Alone)
+-------------------------------------------------------------------------
+Universe: Black or African American Alone Women 15 to 50 Years
+
+B13002B001 Total:
+B13002B002  Women who had a birth in the past 12 months:
+B13002B003   Now married (including separated and spouse absent)
+B13002B004   Unmarried (never married, widowed and divorced)
+B13002B005  Women who did not have a birth in the past 12 months:
+B13002B006   Now married (including separated and spouse absent)
+B13002B007   Unmarried (never married, widowed and divorced)

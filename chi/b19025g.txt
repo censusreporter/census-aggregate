@@ -1,0 +1,5 @@
+Aggregate Household Income (Two or More Races Householder)
+----------------------------------------------------------
+Universe: Households With a Householder Who Is Two or More Races
+
+B19025G001 Aggregate household income in the past 12 months (in 2012 inflation-adjusted dollars)

@@ -1,0 +1,23 @@
+Tenure by Vehicles Available by Age of Householder
+--------------------------------------------------
+Universe: Occupied Housing Units
+
+B25045001 Total:
+B25045002  Owner occupied:
+B25045003   No vehicle available:
+B25045004    Householder 15 to 34 years
+B25045005    Householder 35 to 64 years
+B25045006    Householder 65 years and over
+B25045007   1 or more vehicles available:
+B25045008    Householder 15 to 34 years
+B25045009    Householder 35 to 64 years
+B25045010    Householder 65 years and over
+B25045011  Renter occupied:
+B25045012   No vehicle available:
+B25045013    Householder 15 to 34 years
+B25045014    Householder 35 to 64 years
+B25045015    Householder 65 years and over
+B25045016   1 or more vehicles available:
+B25045017    Householder 15 to 34 years
+B25045018    Householder 35 to 64 years
+B25045019    Householder 65 years and over

@@ -1,0 +1,7 @@
+Households by Presence of Nonrelatives
+--------------------------------------
+Universe: Households
+
+B11015001 Total:
+B11015002  Households with one or more nonrelatives
+B11015003  Households with no nonrelatives

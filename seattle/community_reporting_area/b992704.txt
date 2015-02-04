@@ -1,0 +1,7 @@
+Imputation of Employer-based Health Insurance
+---------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992704001 Total:
+B992704002  Imputed
+B992704003  Not imputed

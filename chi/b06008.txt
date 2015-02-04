@@ -1,0 +1,34 @@
+Place of Birth by Marital Status in the United States
+-----------------------------------------------------
+Universe: Population 15 Years and Over in the United States
+
+B06008001 Total:
+B06008002   Never married
+B06008003   Now married, except separated
+B06008004   Divorced
+B06008005   Separated
+B06008006   Widowed
+B06008007  Born in state of residence:
+B06008008   Never married
+B06008009   Now married, except separated
+B06008010   Divorced
+B06008011   Separated
+B06008012   Widowed
+B06008013  Born in other state in the United States:
+B06008014   Never married
+B06008015   Now married, except separated
+B06008016   Divorced
+B06008017   Separated
+B06008018   Widowed
+B06008019  Native; born outside the United States:
+B06008020   Never married
+B06008021   Now married, except separated
+B06008022   Divorced
+B06008023   Separated
+B06008024   Widowed
+B06008025  Foreign born:
+B06008026   Never married
+B06008027   Now married, except separated
+B06008028   Divorced
+B06008029   Separated
+B06008030   Widowed

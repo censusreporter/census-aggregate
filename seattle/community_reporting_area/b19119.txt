@@ -1,0 +1,11 @@
+Median Family Income by Family Size
+-----------------------------------
+Universe: Families
+
+B19119001 Total:
+B19119002  2-person families
+B19119003  3-person families
+B19119004  4-person families
+B19119005  5-person families
+B19119006  6-person families
+B19119007  7-or-more-person families

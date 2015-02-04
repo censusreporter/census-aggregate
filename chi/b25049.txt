@@ -1,0 +1,11 @@
+Tenure by Plumbing Facilities
+-----------------------------
+Universe: Occupied Housing Units
+
+B25049001 Total:
+B25049002  Owner occupied:
+B25049003   Complete plumbing facilities
+B25049004   Lacking plumbing facilities
+B25049005  Renter occupied:
+B25049006   Complete plumbing facilities
+B25049007   Lacking plumbing facilities

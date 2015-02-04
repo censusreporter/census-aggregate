@@ -1,0 +1,17 @@
+Mortgage Status by Ratio of Value to Household Income
+-----------------------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25100001 Total:
+B25100002  With a mortgage:
+B25100003   Less than 2.0
+B25100004   2.0 to 2.9
+B25100005   3.0 to 3.9
+B25100006   4.0 or more
+B25100007   Not computed
+B25100008  Not mortgaged:
+B25100009   Less than 2.0
+B25100010   2.0 to 2.9
+B25100011   3.0 to 3.9
+B25100012   4.0 or more
+B25100013   Not computed

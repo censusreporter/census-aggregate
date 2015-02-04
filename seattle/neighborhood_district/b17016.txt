@@ -1,0 +1,51 @@
+Poverty Status of Families by Family Type by Work Experience of Householder and Spouse
+--------------------------------------------------------------------------------------
+Universe: Families
+
+B17016001 Total:
+B17016002  Income in the past 12 months below poverty level:
+B17016003   Married-couple family:
+B17016004    Householder worked full-time, year-round in the past 12 months:
+B17016005     Spouse worked full-time, year-round in the past 12 months
+B17016006     Spouse worked part-time or part-year in the past 12 months
+B17016007     Spouse did not work in the past 12 months
+B17016008    Householder worked part-time or part-year in the past 12 months:
+B17016009     Spouse worked full-time, year-round in the past 12 months
+B17016010     Spouse worked part-time or part-year in the past 12 months
+B17016011     Spouse did not work in the past 12 months
+B17016012    Householder did not work in the past 12 months:
+B17016013     Spouse worked full-time, year-round in the past 12 months
+B17016014     Spouse worked part-time or part-year in the past 12 months
+B17016015     Spouse did not work in the past 12 months
+B17016016   Other family:
+B17016017    Male householder, no wife present:
+B17016018     Householder worked full-time, year-round in the past 12 months
+B17016019     Householder worked part-time or part-year in the past 12 months
+B17016020     Householder did not work in the past 12 months
+B17016021    Female householder, no husband present:
+B17016022     Householder worked full-time, year-round in the past 12 months
+B17016023     Householder worked part-time or part-year in the past 12 months
+B17016024     Householder did not work in the past 12 months
+B17016025  Income in the past 12 months at or above poverty level:
+B17016026   Married-couple family:
+B17016027    Householder worked full-time, year-round in the past 12 months:
+B17016028     Spouse worked full-time, year-round in the past 12 months
+B17016029     Spouse worked part-time or part-year in the past 12 months
+B17016030     Spouse did not work in the past 12 months
+B17016031    Householder worked part-time or part-year in the past 12 months:
+B17016032     Spouse worked full-time, year-round in the past 12 months
+B17016033     Spouse worked part-time or part-year in the past 12 months
+B17016034     Spouse did not work in the past 12 months
+B17016035    Householder did not work in the past 12 months:
+B17016036     Spouse worked full-time, year-round in the past 12 months
+B17016037     Spouse worked part-time or part-year in the past 12 months
+B17016038     Spouse did not work in the past 12 months
+B17016039   Other family:
+B17016040    Male householder, no wife present:
+B17016041     Householder worked full-time, year-round in the past 12 months
+B17016042     Householder worked part-time or part-year in the past 12 months
+B17016043     Householder did not work in the past 12 months
+B17016044    Female householder, no husband present:
+B17016045     Householder worked full-time, year-round in the past 12 months
+B17016046     Householder worked part-time or part-year in the past 12 months
+B17016047     Householder did not work in the past 12 months

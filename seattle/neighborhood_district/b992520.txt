@@ -1,0 +1,7 @@
+Imputation of Price Asked
+-------------------------
+Universe: Vacant-for-sale-only and Sold, Not Occupied Housing Units
+
+B992520001 Total:
+B992520002  Imputed
+B992520003  Not imputed

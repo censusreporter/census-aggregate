@@ -1,0 +1,50 @@
+American Indian and Alaska Native Alone for Selected Tribal Groupings
+---------------------------------------------------------------------
+Universe: People Who Are American Indian and Alaska Native Alone and People With No Tribe Reported
+
+B02005001 Total:
+B02005002  American Indian tribes, specified:
+B02005003   Apache
+B02005004   Blackfeet
+B02005005   Cherokee
+B02005006   Cheyenne
+B02005007   Chickasaw
+B02005008   Chippewa
+B02005009   Choctaw
+B02005010   Colville
+B02005011   Comanche
+B02005012   Cree
+B02005013   Creek
+B02005014   Crow
+B02005015   Delaware
+B02005016   Houma
+B02005017   Iroquois
+B02005018   Kiowa
+B02005019   Lumbee
+B02005020   Menominee
+B02005021   Navajo
+B02005022   Osage
+B02005023   Ottawa
+B02005024   Paiute
+B02005025   Pima
+B02005026   Potawatomi
+B02005027   Pueblo
+B02005028   Puget Sound Salish
+B02005029   Seminole
+B02005030   Shoshone
+B02005031   Sioux
+B02005032   Tohono O'Odham
+B02005033   Ute
+B02005034   Yakama
+B02005035   Yaqui
+B02005036   Yuman
+B02005037   Other American Indian Tribe
+B02005038  American Indian tribes, not specified
+B02005039  Alaska Native tribes, specified:
+B02005040   Alaskan Athabascan
+B02005041   Aleut
+B02005042   Inupiat
+B02005043   Tlingit-Haida
+B02005044   Other Alaska Native Tribe
+B02005045  Alaska Native tribes, not specified
+B02005046  American Indian tribes or Alaska Native tribes, not specified

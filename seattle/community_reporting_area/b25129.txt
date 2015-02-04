@@ -1,0 +1,91 @@
+Tenure by Year Householder Moved Into Unit by Units in Structure
+----------------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25129001 Total:
+B25129002  Owner occupied:
+B25129003   Moved in 2005 or later:
+B25129004    1, detached  or attached
+B25129005    2 to 4
+B25129006    5 to 19
+B25129007    20 to 49
+B25129008    50 or more
+B25129009    Mobile home, boat, RV, van, etc.
+B25129010   Moved in 2000 to 2004:
+B25129011    1, detached  or attached
+B25129012    2 to 4
+B25129013    5 to 19
+B25129014    20 to 49
+B25129015    50 or more
+B25129016    Mobile home, boat, RV, van, etc.
+B25129017   Moved in 1990 to 1999:
+B25129018    1, detached  or attached
+B25129019    2 to 4
+B25129020    5 to 19
+B25129021    20 to 49
+B25129022    50 or more
+B25129023    Mobile home, boat, RV, van, etc.
+B25129024   Moved in 1980 to 1989:
+B25129025    1, detached  or attached
+B25129026    2 to 4
+B25129027    5 to 19
+B25129028    20 to 49
+B25129029    50 or more
+B25129030    Mobile home, boat, RV, van, etc.
+B25129031   Moved in 1970 to 1979:
+B25129032    1, detached  or attached
+B25129033    2 to 4
+B25129034    5 to 19
+B25129035    20 to 49
+B25129036    50 or more
+B25129037    Mobile home, boat, RV, van, etc.
+B25129038   Moved in 1969 or earlier:
+B25129039    1, detached  or attached
+B25129040    2 to 4
+B25129041    5 to 19
+B25129042    20 to 49
+B25129043    50 or more
+B25129044    Mobile home, boat, RV, van, etc.
+B25129045  Renter occupied:
+B25129046   Moved in 2005 or later:
+B25129047    1, detached  or attached
+B25129048    2 to 4
+B25129049    5 to 19
+B25129050    20 to 49
+B25129051    50 or more
+B25129052    Mobile home, boat, RV, van, etc.
+B25129053   Moved in 2000 to 2004:
+B25129054    1, detached  or attached
+B25129055    2 to 4
+B25129056    5 to 19
+B25129057    20 to 49
+B25129058    50 or more
+B25129059    Mobile home, boat, RV, van, etc.
+B25129060   Moved in 1990 to 1999:
+B25129061    1, detached  or attached
+B25129062    2 to 4
+B25129063    5 to 19
+B25129064    20 to 49
+B25129065    50 or more
+B25129066    Mobile home, boat, RV, van, etc.
+B25129067   Moved in 1980 to 1989:
+B25129068    1, detached  or attached
+B25129069    2 to 4
+B25129070    5 to 19
+B25129071    20 to 49
+B25129072    50 or more
+B25129073    Mobile home, boat, RV, van, etc.
+B25129074   Moved in 1970 to 1979:
+B25129075    1, detached  or attached
+B25129076    2 to 4
+B25129077    5 to 19
+B25129078    20 to 49
+B25129079    50 or more
+B25129080    Mobile home, boat, RV, van, etc.
+B25129081   Moved in 1969 or earlier:
+B25129082    1, detached  or attached
+B25129083    2 to 4
+B25129084    5 to 19
+B25129085    20 to 49
+B25129086    50 or more
+B25129087    Mobile home, boat, RV, van, etc.

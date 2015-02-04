@@ -1,0 +1,15 @@
+Sex of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+----------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10056001 Total:
+B10056002  Male:
+B10056003   Grandparent responsible for own grandchildren under 18 years:
+B10056004    30 to 59 years
+B10056005    60 years and over
+B10056006   Grandparent not responsible for own grandchildren under 18 years
+B10056007  Female:
+B10056008   Grandparent responsible for own grandchildren under 18 years:
+B10056009    30 to 59 years
+B10056010    60 years and over
+B10056011   Grandparent not responsible for own grandchildren under 18 years

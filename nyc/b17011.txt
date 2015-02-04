@@ -1,0 +1,9 @@
+Aggregate Income Deficit (Dollars) for Families by Family Type
+--------------------------------------------------------------
+Universe: Families With Income in the Past 12 Months Below the Poverty Level
+
+B17011001 Aggregate income deficit in the past 12 months:
+B17011002  Married-couple family
+B17011003  Other family:
+B17011004   Male householder, no wife present
+B17011005   Female householder, no husband present

@@ -1,0 +1,21 @@
+Poverty Status by Age (Some Other Race Alone)
+---------------------------------------------
+Universe: Some Other Race Alone Population for Whom Poverty Status Is Determined
+
+B17020F001 Total:
+B17020F002  Income in the past 12 months below poverty level:
+B17020F003   Under 5 years
+B17020F004   5 years
+B17020F005   6 to 11 years
+B17020F006   12 to 17 years
+B17020F007   18 to 64 years
+B17020F008   65 to 74 years
+B17020F009   75 years and over
+B17020F010  Income in the past 12 months at or above poverty level:
+B17020F011   Under 5 years
+B17020F012   5 years
+B17020F013   6 to 11 years
+B17020F014   12 to 17 years
+B17020F015   18 to 64 years
+B17020F016   65 to 74 years
+B17020F017   75 years and over

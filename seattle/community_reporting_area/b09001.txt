@@ -1,0 +1,14 @@
+Population Under 18 Years by Age
+--------------------------------
+Universe: Population Under 18 Years
+
+B09001001 Total:
+B09001002  In households:
+B09001003   Under 3 years
+B09001004   3 and 4 years
+B09001005   5 years
+B09001006   6 to 8 years
+B09001007   9 to 11 years
+B09001008   12 to 14 years
+B09001009   15 to 17 years
+B09001010  In group quarters

@@ -1,0 +1,11 @@
+Receipt of Food Stamps/SNAP by Disability Status for Households
+---------------------------------------------------------------
+Universe: Households
+
+B22010001 Total:
+B22010002  Household received Food Stamps/SNAP in the past 12 months:
+B22010003   Households with 1 or more persons with a disability
+B22010004   Households with no persons with a disability
+B22010005  Household did not receive Food Stamps/SNAP in the past 12 months:
+B22010006   Households with 1 or more persons with a disability
+B22010007   Households with no persons with a disability

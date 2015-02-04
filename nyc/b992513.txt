@@ -1,0 +1,7 @@
+Imputation of Telephone Service Available
+-----------------------------------------
+Universe: Occupied Housing Units
+
+B992513001 Total:
+B992513002  Imputed
+B992513003  Not imputed

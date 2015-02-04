@@ -1,0 +1,53 @@
+Sex by Work Status by Usual Hours Worked Per Week by Weeks Worked for the Population 16 to 64 Years
+---------------------------------------------------------------------------------------------------
+Universe: Population 16 to 64 Years
+
+B23022001 Total:
+B23022002  Male:
+B23022003    Worked in the past 12 months:
+B23022004     Usually worked 35 or more hours per week:
+B23022005      50 to 52 weeks
+B23022006      48 and 49 weeks
+B23022007      40 to 47 weeks
+B23022008      27 to 39 weeks
+B23022009      14 to 26 weeks
+B23022010      1 to 13 weeks
+B23022011     Usually worked 15 to 34 hours per week:
+B23022012      50 to 52 weeks
+B23022013      48 and 49 weeks
+B23022014      40 to 47 weeks
+B23022015      27 to 39 weeks
+B23022016      14 to 26 weeks
+B23022017      1 to 13 weeks
+B23022018     Usually worked 1 to 14 hours per week:
+B23022019      50 to 52 weeks
+B23022020      48 and 49 weeks
+B23022021      40 to 47 weeks
+B23022022      27 to 39 weeks
+B23022023      14 to 26 weeks
+B23022024      1 to 13 weeks
+B23022025    Did not work in the past 12 months
+B23022026  Female:
+B23022027    Worked in the past 12 months:
+B23022028     Usually worked 35 or more hours per week:
+B23022029      50 to 52 weeks
+B23022030      48 and 49 weeks
+B23022031      40 to 47 weeks
+B23022032      27 to 39 weeks
+B23022033      14 to 26 weeks
+B23022034      1 to 13 weeks
+B23022035     Usually worked 15 to 34 hours per week:
+B23022036      50 to 52 weeks
+B23022037      48 and 49 weeks
+B23022038      40 to 47 weeks
+B23022039      27 to 39 weeks
+B23022040      14 to 26 weeks
+B23022041      1 to 13 weeks
+B23022042     Usually worked 1 to 14 hours per week:
+B23022043      50 to 52 weeks
+B23022044      48 and 49 weeks
+B23022045      40 to 47 weeks
+B23022046      27 to 39 weeks
+B23022047      14 to 26 weeks
+B23022048      1 to 13 weeks
+B23022049    Did not work in the past 12 months

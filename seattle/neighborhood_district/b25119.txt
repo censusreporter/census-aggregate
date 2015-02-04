@@ -1,0 +1,8 @@
+Median Household Income the Past 12 Months by Tenure
+----------------------------------------------------
+Universe: Occupied Housing Units
+
+B25119000.5 Median household income in the past 12 months (in 2012 inflation-adjusted dollars) --
+B25119001  Total:
+B25119002  Owner occupied (dollars)
+B25119003  Renter occupied (dollars)

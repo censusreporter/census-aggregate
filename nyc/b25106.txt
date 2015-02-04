@@ -1,0 +1,50 @@
+Tenure by Housing Costs as a Percentage of Household Income
+-----------------------------------------------------------
+Universe: Occupied Housing Units
+
+B25106001 Total:
+B25106002  Owner-occupied housing units:
+B25106003   Less than $20,000:
+B25106004    Less than 20 percent
+B25106005    20 to 29 percent
+B25106006    30 percent or more
+B25106007   $20,000 to $34,999:
+B25106008    Less than 20 percent
+B25106009    20 to 29 percent
+B25106010    30 percent or more
+B25106011   $35,000 to $49,999:
+B25106012    Less than 20 percent
+B25106013    20 to 29 percent
+B25106014    30 percent or more
+B25106015   $50,000 to $74,999:
+B25106016    Less than 20 percent
+B25106017    20 to 29 percent
+B25106018    30 percent or more
+B25106019   $75,000 or more:
+B25106020    Less than 20 percent
+B25106021    20 to 29 percent
+B25106022    30 percent or more
+B25106023   Zero or negative income
+B25106024  Renter-occupied housing units:
+B25106025   Less than $20,000:
+B25106026    Less than 20 percent
+B25106027    20 to 29 percent
+B25106028    30 percent or more
+B25106029   $20,000 to $34,999:
+B25106030    Less than 20 percent
+B25106031    20 to 29 percent
+B25106032    30 percent or more
+B25106033   $35,000 to $49,999:
+B25106034    Less than 20 percent
+B25106035    20 to 29 percent
+B25106036    30 percent or more
+B25106037   $50,000 to $74,999:
+B25106038    Less than 20 percent
+B25106039    20 to 29 percent
+B25106040    30 percent or more
+B25106041   $75,000 or more:
+B25106042    Less than 20 percent
+B25106043    20 to 29 percent
+B25106044    30 percent or more
+B25106045   Zero or negative income
+B25106046   No cash rent

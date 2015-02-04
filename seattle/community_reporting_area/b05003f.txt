@@ -1,0 +1,27 @@
+Sex by Age by Nativity and Citizenship Status (Some Other Race Alone)
+---------------------------------------------------------------------
+Universe: People Who Are Some Other Race Alone
+
+B05003F001 Total:
+B05003F002  Male:
+B05003F003   Under 18 years:
+B05003F004    Native
+B05003F005    Foreign born:
+B05003F006     Naturalized U.S. citizen
+B05003F007     Not a U.S. citizen
+B05003F008   18 years and over:
+B05003F009    Native
+B05003F010    Foreign born:
+B05003F011     Naturalized U.S. citizen
+B05003F012     Not a U.S. citizen
+B05003F013  Female:
+B05003F014   Under 18 years:
+B05003F015    Native
+B05003F016    Foreign born:
+B05003F017     Naturalized U.S. citizen
+B05003F018     Not a U.S. citizen
+B05003F019   18 years and over:
+B05003F020    Native
+B05003F021    Foreign born:
+B05003F022     Naturalized U.S. citizen
+B05003F023     Not a U.S. citizen

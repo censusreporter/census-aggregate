@@ -1,0 +1,7 @@
+Imputation of Food Stamps/SNAP Receipt
+--------------------------------------
+Universe: Households
+
+B99221001 Total:
+B99221002  Imputed
+B99221003  Not imputed

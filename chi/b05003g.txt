@@ -1,0 +1,27 @@
+Sex by Age by Nativity and Citizenship Status (Two or More Races)
+-----------------------------------------------------------------
+Universe: People Who Are Two or More Races
+
+B05003G001 Total:
+B05003G002  Male:
+B05003G003   Under 18 years:
+B05003G004    Native
+B05003G005    Foreign born:
+B05003G006     Naturalized U.S. citizen
+B05003G007     Not a U.S. citizen
+B05003G008   18 years and over:
+B05003G009    Native
+B05003G010    Foreign born:
+B05003G011     Naturalized U.S. citizen
+B05003G012     Not a U.S. citizen
+B05003G013  Female:
+B05003G014   Under 18 years:
+B05003G015    Native
+B05003G016    Foreign born:
+B05003G017     Naturalized U.S. citizen
+B05003G018     Not a U.S. citizen
+B05003G019   18 years and over:
+B05003G020    Native
+B05003G021    Foreign born:
+B05003G022     Naturalized U.S. citizen
+B05003G023     Not a U.S. citizen

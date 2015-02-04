@@ -1,0 +1,12 @@
+Mortgage Status
+---------------
+Universe: Owner-occupied Housing Units
+
+B25081001 Total:
+B25081002  Housing units with a mortgage, contract to purchase, or similar debt:
+B25081003   With either a second mortgage or home equity loan, but not both:
+B25081004    Second mortgage only
+B25081005    Home equity loan only
+B25081006   Both second mortgage and home equity loan
+B25081007   No second mortgage and no home equity loan
+B25081008  Housing units without a mortgage

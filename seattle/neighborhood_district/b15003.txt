@@ -1,0 +1,29 @@
+Educational Attainment
+----------------------
+Universe: Population 25 Years and Over
+
+B15003001 Total:
+B15003002  No schooling completed
+B15003003  Nursery school
+B15003004  Kindergarten
+B15003005  1st grade
+B15003006  2nd grade
+B15003007  3rd grade
+B15003008  4th grade
+B15003009  5th grade
+B15003010  6th grade
+B15003011  7th grade
+B15003012  8th grade
+B15003013  9th grade
+B15003014  10th grade
+B15003015  11th grade
+B15003016  12th grade, no diploma
+B15003017  Regular high school diploma
+B15003018  GED or alternative credential
+B15003019  Some college, less than 1 year
+B15003020  Some college, 1 or more years, no degree
+B15003021  Associate's degree
+B15003022  Bachelor's degree
+B15003023  Master's degree
+B15003024  Professional school degree
+B15003025  Doctorate degree

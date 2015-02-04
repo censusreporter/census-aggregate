@@ -1,0 +1,113 @@
+Second Ancestry Reported
+------------------------
+Universe: Total Population
+
+B04002001 Total:
+B04002002  Afghan
+B04002003  Albanian
+B04002004  Alsatian
+B04002005  American
+B04002006  Arab:
+B04002007   Egyptian
+B04002008   Iraqi
+B04002009   Jordanian
+B04002010   Lebanese
+B04002011   Moroccan
+B04002012   Palestinian
+B04002013   Syrian
+B04002014   Arab
+B04002015   Other Arab
+B04002016  Armenian
+B04002017  Assyrian/Chaldean/Syriac
+B04002018  Australian
+B04002019  Austrian
+B04002020  Basque
+B04002021  Belgian
+B04002022  Brazilian
+B04002023  British
+B04002024  Bulgarian
+B04002025  Cajun
+B04002026  Canadian
+B04002027  Carpatho Rusyn
+B04002028  Celtic
+B04002029  Croatian
+B04002030  Cypriot
+B04002031  Czech
+B04002032  Czechoslovakian
+B04002033  Danish
+B04002034  Dutch
+B04002035  Eastern European
+B04002036  English
+B04002037  Estonian
+B04002038  European
+B04002039  Finnish
+B04002040  French (except Basque)
+B04002041  French Canadian
+B04002042  German
+B04002043  German Russian
+B04002044  Greek
+B04002045  Guyanese
+B04002046  Hungarian
+B04002047  Icelander
+B04002048  Iranian
+B04002049  Irish
+B04002050  Israeli
+B04002051  Italian
+B04002052  Latvian
+B04002053  Lithuanian
+B04002054  Luxemburger
+B04002055  Macedonian
+B04002056  Maltese
+B04002057  New Zealander
+B04002058  Northern European
+B04002059  Norwegian
+B04002060  Pennsylvania German
+B04002061  Polish
+B04002062  Portuguese
+B04002063  Romanian
+B04002064  Russian
+B04002065  Scandinavian
+B04002066  Scotch-Irish
+B04002067  Scottish
+B04002068  Serbian
+B04002069  Slavic
+B04002070  Slovak
+B04002071  Slovene
+B04002072  Soviet Union
+B04002073  Subsaharan African:
+B04002074   Cape Verdean
+B04002075   Ethiopian
+B04002076   Ghanaian
+B04002077   Kenyan
+B04002078   Liberian
+B04002079   Nigerian
+B04002080   Senegalese
+B04002081   Sierra Leonean
+B04002082   Somalian
+B04002083   South African
+B04002084   Sudanese
+B04002085   Ugandan
+B04002086   Zimbabwean
+B04002087   African
+B04002088   Other Subsaharan African
+B04002089  Swedish
+B04002090  Swiss
+B04002091  Turkish
+B04002092  Ukrainian
+B04002093  Welsh
+B04002094  West Indian (except Hispanic groups):
+B04002095   Bahamian
+B04002096   Barbadian
+B04002097   Belizean
+B04002098   Bermudan
+B04002099   British West Indian
+B04002100   Dutch West Indian
+B04002101   Haitian
+B04002102   Jamaican
+B04002103   Trinidadian and Tobagonian
+B04002104   U.S. Virgin Islander
+B04002105   West Indian
+B04002106   Other West Indian
+B04002107  Yugoslavian
+B04002108  Other groups
+B04002109  Unclassified or not reported

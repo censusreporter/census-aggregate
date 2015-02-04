@@ -1,0 +1,5 @@
+Aggregate Income (Black or African American Alone)
+--------------------------------------------------
+Universe: Black or African American Alone Population 15 Years and Over
+
+B19313B001 Aggregate income in the past 12 months (in 2012 inflation-adjusted dollars)

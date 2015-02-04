@@ -1,0 +1,45 @@
+Poverty Status of Families by Family Type by Presence of Related Children by Age of Related Children (Native Hawaiian and Other Pacific Islander Alone Householder)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Families With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone
+
+B17010E001 Total:
+B17010E002  Income in the past 12 months below poverty level:
+B17010E003   Married-couple family:
+B17010E004    With related children under 18 years:
+B17010E005     Under 5 years only
+B17010E006     Under 5 years and 5 to 17 years
+B17010E007     5 to 17 years only
+B17010E008    No related children under 18 years
+B17010E009   Other family:
+B17010E010    Male householder, no wife present:
+B17010E011     With related children under 18 years:
+B17010E012      Under 5 years only
+B17010E013      Under 5 years and 5 to 17 years
+B17010E014      5 to 17 years only
+B17010E015     No related children under 18 years
+B17010E016    Female householder, no husband present:
+B17010E017     With related children under 18 years:
+B17010E018      Under 5 years only
+B17010E019      Under 5 years and 5 to 17 years
+B17010E020      5 to 17 years only
+B17010E021     No related children under 18 years
+B17010E022  Income in the past 12 months at or above poverty level:
+B17010E023   Married-couple family:
+B17010E024    With related children under 18 years:
+B17010E025     Under 5 years only
+B17010E026     Under 5 years and 5 to 17 years
+B17010E027     5 to 17 years only
+B17010E028    No related children under 18 years
+B17010E029   Other family:
+B17010E030    Male householder, no wife present:
+B17010E031     With related children under 18 years:
+B17010E032      Under 5 years only
+B17010E033      Under 5 years and 5 to 17 years
+B17010E034      5 to 17 years only
+B17010E035     No related children under 18 years
+B17010E036    Female householder, no husband present:
+B17010E037     With related children under 18 years:
+B17010E038      Under 5 years only
+B17010E039      Under 5 years and 5 to 17 years
+B17010E040      5 to 17 years only
+B17010E041     No related children under 18 years

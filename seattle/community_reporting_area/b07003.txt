@@ -1,0 +1,22 @@
+Geographical Mobility in the Past Year by Sex for Current Residence in the United States
+----------------------------------------------------------------------------------------
+Universe: Population 1 Year and Over in the United States
+
+B07003001 Total:
+B07003002   Male
+B07003003   Female
+B07003004  Same house 1 year ago:
+B07003005   Male
+B07003006   Female
+B07003007  Moved within same county:
+B07003008   Male
+B07003009   Female
+B07003010  Moved from different county within same state:
+B07003011   Male
+B07003012   Female
+B07003013  Moved from different state:
+B07003014   Male
+B07003015   Female
+B07003016  Moved from abroad:
+B07003017   Male
+B07003018   Female

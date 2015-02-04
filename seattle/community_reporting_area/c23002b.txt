@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (Black or African American Alone)
+-----------------------------------------------------------------
+Universe: Black or African American Alone Population 16 Years and Over
+
+C23002B001 Total:
+C23002B002  Male:
+C23002B003   16 to 64 years:
+C23002B004    In labor force:
+C23002B005     In Armed Forces
+C23002B006     Civilian:
+C23002B007      Employed
+C23002B008      Unemployed
+C23002B009    Not in labor force
+C23002B010   65 years and over:
+C23002B011    In labor force:
+C23002B012      Employed
+C23002B013      Unemployed
+C23002B014    Not in labor force
+C23002B015  Female:
+C23002B016   16 to 64 years:
+C23002B017    In labor force:
+C23002B018     In Armed Forces
+C23002B019     Civilian:
+C23002B020      Employed
+C23002B021      Unemployed
+C23002B022    Not in labor force
+C23002B023   65 years and over:
+C23002B024    In labor force:
+C23002B025      Employed
+C23002B026      Unemployed
+C23002B027    Not in labor force

@@ -1,0 +1,14 @@
+House Heating Fuel
+------------------
+Universe: Occupied Housing Units
+
+B25040001 Total:
+B25040002  Utility gas
+B25040003  Bottled, tank, or LP gas
+B25040004  Electricity
+B25040005  Fuel oil, kerosene, etc.
+B25040006  Coal or coke
+B25040007  Wood
+B25040008  Solar energy
+B25040009  Other fuel
+B25040010  No fuel used

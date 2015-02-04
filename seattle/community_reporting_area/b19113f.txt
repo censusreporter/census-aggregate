@@ -1,0 +1,5 @@
+Median Family Income (Some Other Race Alone Householder)
+--------------------------------------------------------
+Universe: Families With a Householder Who Is Some Other Race Alone
+
+B19113F001 Median family income in the past 12 months (in 2012 inflation-adjusted dollars)

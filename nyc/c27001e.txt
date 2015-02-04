@@ -1,0 +1,14 @@
+Health Insurance Coverage Status by Age (Native Hawaiian and Other Pacific Islander Alone)
+------------------------------------------------------------------------------------------
+Universe: NATIVE HAWAIIAN AND OTHER PACIFIC ISLANDER ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION
+
+C27001E002  Under 18 years:
+C27001E001 Total:
+C27001E003   With health insurance coverage
+C27001E004   No health insurance coverage
+C27001E005  18 to 64 years:
+C27001E006   With health insurance coverage
+C27001E007   No health insurance coverage
+C27001E008  65 years and over:
+C27001E009   With health insurance coverage
+C27001E010   No health insurance coverage

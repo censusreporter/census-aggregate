@@ -1,0 +1,14 @@
+Age by Disability Status (Black or African American Alone)
+----------------------------------------------------------
+Universe: Black or African American Alone Civilian Noninstitutionalized Population
+
+B18101B001 Total:
+B18101B002  Under 18 years:
+B18101B003   With a disability
+B18101B004   No disability
+B18101B005  18 to 64 years:
+B18101B006   With a disability
+B18101B007   No disability
+B18101B008  65 years and over:
+B18101B009   With a disability
+B18101B010   No disability

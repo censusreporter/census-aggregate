@@ -1,0 +1,10 @@
+Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in the United States
+---------------------------------------------------------------------------------------------------------
+Universe: Some Other Race Alone Population 1 Year and Over in the United States
+
+B07004F001 Total:
+B07004F002  Same house 1 year ago
+B07004F003  Moved within same county
+B07004F004  Moved from different county within same state
+B07004F005  Moved from different state
+B07004F006  Moved from abroad

@@ -1,0 +1,10 @@
+Nativity and Citizenship Status in the United States
+----------------------------------------------------
+Universe: Total Population in the United States
+
+B05001001 Total:
+B05001002  U.S. citizen, born in the United States
+B05001003  U.S. citizen, born in Puerto Rico or U.S. Island Areas
+B05001004  U.S. citizen, born abroad of American parent(s)
+B05001005  U.S. citizen by naturalization
+B05001006  Not a U.S. citizen

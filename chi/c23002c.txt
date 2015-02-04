@@ -1,0 +1,31 @@
+Sex by Age by Employment Status (American Indian and Alaska Native Alone)
+-------------------------------------------------------------------------
+Universe: American Indian and Alaska Native Alone Population 16 Years and Over
+
+C23002C001 Total:
+C23002C002  Male:
+C23002C003   16 to 64 years:
+C23002C004    In labor force:
+C23002C005     In Armed Forces
+C23002C006     Civilian:
+C23002C007      Employed
+C23002C008      Unemployed
+C23002C009    Not in labor force
+C23002C010   65 years and over:
+C23002C011    In labor force:
+C23002C012      Employed
+C23002C013      Unemployed
+C23002C014    Not in labor force
+C23002C015  Female:
+C23002C016   16 to 64 years:
+C23002C017    In labor force:
+C23002C018     In Armed Forces
+C23002C019     Civilian:
+C23002C020      Employed
+C23002C021      Unemployed
+C23002C022    Not in labor force
+C23002C023   65 years and over:
+C23002C024    In labor force:
+C23002C025      Employed
+C23002C026      Unemployed
+C23002C027    Not in labor force

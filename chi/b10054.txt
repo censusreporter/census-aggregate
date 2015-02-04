@@ -1,0 +1,21 @@
+Language and Ability to Speak English of Grandparents Living With Own Grandchildren by Responsibility for Own Grandchildren and Age of Grandparent
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Universe: Grandparents Living With Own Grandchildren Under 18 Years
+
+B10054001 Total:
+B10054002  Speak only English:
+B10054003   Grandparent responsible for own grandchildren under 18 years:
+B10054004    30 to 59 years
+B10054005    60 years and over
+B10054006   Grandparent not responsible for own grandchildren under 18 years
+B10054007  Speak other language:
+B10054008   Speak English  “very well” :
+B10054009    Grandparent responsible for own grandchildren under 18 years:
+B10054010     30 to 59 years
+B10054011     60 years and over
+B10054012    Grandparent not responsible for own grandchildren under 18 years
+B10054013   Speak English less than “very well”:
+B10054014    Grandparent responsible for own grandchildren under 18 years:
+B10054015     30 to 59 years
+B10054016     60 years and over
+B10054017    Grandparent not responsible for own grandchildren under 18 years

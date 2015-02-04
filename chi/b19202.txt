@@ -1,0 +1,5 @@
+Median Nonfamily Household Income
+---------------------------------
+Universe: Nonfamily Households
+
+B19202001 Median nonfamily household income in the past 12 months (in 2012 inflation-adjusted dollars)

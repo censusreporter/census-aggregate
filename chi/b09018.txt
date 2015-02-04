@@ -1,0 +1,12 @@
+Relationship to Householder for Children in Households
+------------------------------------------------------
+Universe: Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)
+
+B09018001 Total:
+B09018002  Own child:
+B09018003   Biological child
+B09018004   Adopted child
+B09018005   Stepchild
+B09018006  Grandchild
+B09018007  Other relatives
+B09018008  Foster child or other unrelated child

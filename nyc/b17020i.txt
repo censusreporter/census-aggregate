@@ -1,0 +1,21 @@
+Poverty Status by Age (Hispanic or Latino)
+------------------------------------------
+Universe: Hispanic or Latino Population for Whom Poverty Status Is Determined
+
+B17020I001 Total:
+B17020I002  Income in the past 12 months below poverty level:
+B17020I003   Under 5 years
+B17020I004   5 years
+B17020I005   6 to 11 years
+B17020I006   12 to 17 years
+B17020I007   18 to 64 years
+B17020I008   65 to 74 years
+B17020I009   75 years and over
+B17020I010  Income in the past 12 months at or above poverty level:
+B17020I011   Under 5 years
+B17020I012   5 years
+B17020I013   6 to 11 years
+B17020I014   12 to 17 years
+B17020I015   18 to 64 years
+B17020I016   65 to 74 years
+B17020I017   75 years and over

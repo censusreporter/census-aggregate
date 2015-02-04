@@ -1,0 +1,24 @@
+Family Type by Presence and Age of Related Children
+---------------------------------------------------
+Universe: Families
+
+B11004001 Total:
+B11004002  Married-couple family:
+B11004003   With related children under 18 years:
+B11004004    Under 6 years only
+B11004005    Under 6 years and 6 to 17 years
+B11004006    6 to 17 years only
+B11004007   No related children under 18 years
+B11004008  Other family:
+B11004009   Male householder, no wife present:
+B11004010    With related children under 18 years:
+B11004011     Under 6 years only
+B11004012     Under 6 years and 6 to 17 years
+B11004013     6 to 17 years only
+B11004014    No related children under 18 years
+B11004015   Female householder, no husband present:
+B11004016    With related children under 18 years:
+B11004017     Under 6 years only
+B11004018     Under 6 years and 6 to 17 years
+B11004019     6 to 17 years only
+B11004020    No related children under 18 years

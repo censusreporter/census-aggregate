@@ -1,0 +1,21 @@
+Tenure by Household Size
+------------------------
+Universe: Occupied Housing Units
+
+B25009001 Total:
+B25009002  Owner occupied:
+B25009003   1-person household
+B25009004   2-person household
+B25009005   3-person household
+B25009006   4-person household
+B25009007   5-person household
+B25009008   6-person household
+B25009009   7-or-more person household
+B25009010  Renter occupied:
+B25009011   1-person household
+B25009012   2-person household
+B25009013   3-person household
+B25009014   4-person household
+B25009015   5-person household
+B25009016   6-person household
+B25009017   7-or-more person household

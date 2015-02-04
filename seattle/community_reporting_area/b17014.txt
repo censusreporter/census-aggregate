@@ -1,0 +1,39 @@
+Poverty Status of Families by Household Type by Number of Workers in Family
+---------------------------------------------------------------------------
+Universe: Families
+
+B17014001 Total:
+B17014002  Income in the past 12 months below poverty level:
+B17014003   Married-couple family:
+B17014004     No workers
+B17014005     1 worker
+B17014006     2 workers
+B17014007     3 or more workers
+B17014008   Other families:
+B17014009    Male householder, no wife present:
+B17014010     No workers
+B17014011     1 worker
+B17014012     2 workers
+B17014013     3 or more workers
+B17014014    Female householder, no husband present:
+B17014015     No workers
+B17014016     1 worker
+B17014017     2 workers
+B17014018     3 or more workers
+B17014019  Income in the past 12 months at or above poverty level:
+B17014020   Married-couple family:
+B17014021     No workers
+B17014022     1 worker
+B17014023     2 workers
+B17014024     3 or more workers
+B17014025   Other families:
+B17014026    Male householder, no wife present:
+B17014027     No workers
+B17014028     1 worker
+B17014029     2 workers
+B17014030     3 or more workers
+B17014031    Female householder, no husband present:
+B17014032     No workers
+B17014033     1 worker
+B17014034     2 workers
+B17014035     3 or more workers

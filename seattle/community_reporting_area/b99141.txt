@@ -1,0 +1,7 @@
+Imputation of School Enrollment
+-------------------------------
+Universe: Population 3 Years and Over
+
+B99141001 Total:
+B99141002  Imputed
+B99141003  Not imputed

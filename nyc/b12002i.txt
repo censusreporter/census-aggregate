@@ -1,0 +1,17 @@
+Sex by Marital Status (Hispanic or Latino)
+------------------------------------------
+Universe: Hispanic or Latino Population 15 Years and Over
+
+B12002I001 Total:
+B12002I002  Male:
+B12002I003   Never married
+B12002I004   Now married (except separated)
+B12002I005   Separated
+B12002I006   Widowed
+B12002I007   Divorced
+B12002I008  Female:
+B12002I009   Never married
+B12002I010   Now married (except separated)
+B12002I011   Separated
+B12002I012   Widowed
+B12002I013   Divorced

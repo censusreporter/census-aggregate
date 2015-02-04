@@ -1,0 +1,15 @@
+Sex by Educational Attainment (White Alone)
+-------------------------------------------
+Universe: White Alone Population 25 Years and Over
+
+C15002A001 Total:
+C15002A002  Male:
+C15002A003   Less than high school diploma
+C15002A004   High school graduate, GED, or alternative
+C15002A005   Some college or associate's degree
+C15002A006   Bachelor's degree or higher
+C15002A007  Female:
+C15002A008   Less than high school diploma
+C15002A009   High school graduate, GED, or alternative
+C15002A010   Some college or associate's degree
+C15002A011   Bachelor's degree or higher

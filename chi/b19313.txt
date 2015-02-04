@@ -1,0 +1,5 @@
+Aggregate Income
+----------------
+Universe: Population 15 Years and Over
+
+B19313001 Aggregate income in the past 12 months (in 2012 inflation-adjusted dollars)

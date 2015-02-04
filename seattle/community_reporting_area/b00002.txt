@@ -1,0 +1,5 @@
+Unweighted Sample Housing Units
+-------------------------------
+Universe: Housing Units
+
+B00002001 Total

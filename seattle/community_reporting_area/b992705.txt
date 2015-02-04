@@ -1,0 +1,7 @@
+Imputation of Direct-purchase Health Insurance
+----------------------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B992705001 Total:
+B992705002  Imputed
+B992705003  Not imputed

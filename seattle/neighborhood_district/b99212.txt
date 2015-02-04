@@ -1,0 +1,7 @@
+Imputation of Period of Military Service for Civilian Veterans 18 Years and Over
+--------------------------------------------------------------------------------
+Universe: Civilian Veterans 18 Years and Over
+
+B99212001 Total:
+B99212002  Imputed
+B99212003  Not imputed

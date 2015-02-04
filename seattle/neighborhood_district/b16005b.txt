@@ -1,0 +1,15 @@
+Nativity by Language Spoken at Home by Ability to Speak English (Black or African American Alone)
+-------------------------------------------------------------------------------------------------
+Universe: Black or African American Alone Population 5 Years and Over
+
+B16005B001 Total:
+B16005B002  Native:
+B16005B003   Speak only English
+B16005B004   Speak another language
+B16005B005    Speak English "very well"
+B16005B006    Speak English less than "very well"
+B16005B007  Foreign born:
+B16005B008   Speak only English
+B16005B009   Speak another language
+B16005B010    Speak English "very well"
+B16005B011    Speak English less than "very well"

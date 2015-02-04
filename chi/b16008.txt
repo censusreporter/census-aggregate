@@ -1,0 +1,57 @@
+Citizenship Status by Age by Language Spoken at Home and Ability to Speak English
+---------------------------------------------------------------------------------
+Universe: Population 5 Years and Over
+
+B16008001 Total:
+B16008002  Native population:
+B16008003   5 to 17 years:
+B16008004    Speak only English
+B16008005    Speak Spanish
+B16008006     Speak English "very well"
+B16008007     Speak English less than "very well"
+B16008008    Speak other languages
+B16008009     Speak English "very well"
+B16008010     Speak English less than "very well"
+B16008011   18 years and over:
+B16008012    Speak only English
+B16008013    Speak Spanish
+B16008014     Speak English "very well"
+B16008015     Speak English less than "very well"
+B16008016    Speak other languages
+B16008017     Speak English "very well"
+B16008018     Speak English less than "very well"
+B16008019  Foreign-born population:
+B16008020   Naturalized U.S. citizen:
+B16008021    5 to 17 years:
+B16008022     Speak only English
+B16008023     Speak Spanish
+B16008024      Speak English "very well"
+B16008025      Speak English less than "very well"
+B16008026     Speak other languages
+B16008027      Speak English "very well"
+B16008028      Speak English less than "very well"
+B16008029    18 years and over:
+B16008030     Speak only English
+B16008031     Speak Spanish
+B16008032      Speak English "very well"
+B16008033      Speak English less than "very well"
+B16008034     Speak other languages
+B16008035      Speak English "very well"
+B16008036      Speak English less than "very well"
+B16008037   Not a U.S. citizen:
+B16008038    5 to 17 years:
+B16008039     Speak only English
+B16008040     Speak Spanish
+B16008041      Speak English "very well"
+B16008042      Speak English less than "very well"
+B16008043     Speak other languages
+B16008044      Speak English "very well"
+B16008045      Speak English less than "very well"
+B16008046    18 years and over:
+B16008047     Speak only English
+B16008048     Speak Spanish
+B16008049      Speak English "very well"
+B16008050      Speak English less than "very well"
+B16008051     Speak other languages
+B16008052      Speak English "very well"
+B16008053      Speak English less than "very well"

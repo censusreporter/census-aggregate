@@ -1,0 +1,43 @@
+Sex by Age by Disability Status
+-------------------------------
+Universe: Civilian Noninstitutionalized Population
+
+B18101001 Total:
+B18101002  Male:
+B18101003   Under 5 years:
+B18101004    With a disability
+B18101005    No disability
+B18101006   5 to 17 years:
+B18101007    With a disability
+B18101008    No disability
+B18101009   18 to 34 years:
+B18101010    With a disability
+B18101011    No disability
+B18101012   35 to 64 years:
+B18101013    With a disability
+B18101014    No disability
+B18101015   65 to 74 years:
+B18101016    With a disability
+B18101017    No disability
+B18101018   75 years and over:
+B18101019    With a disability
+B18101020    No disability
+B18101021  Female:
+B18101022   Under 5 years:
+B18101023    With a disability
+B18101024    No disability
+B18101025   5 to 17 years:
+B18101026    With a disability
+B18101027    No disability
+B18101028   18 to 34 years:
+B18101029    With a disability
+B18101030    No disability
+B18101031   35 to 64 years:
+B18101032    With a disability
+B18101033    No disability
+B18101034   65 to 74 years:
+B18101035    With a disability
+B18101036    No disability
+B18101037   75 years and over:
+B18101038    With a disability
+B18101039    No disability

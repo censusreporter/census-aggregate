@@ -1,0 +1,9 @@
+Place of Birth (Black or African American Alone) in the United States
+---------------------------------------------------------------------
+Universe: Black or African American Alone Population in the United States
+
+B06004B001 Total:
+B06004B002  Born in state of residence
+B06004B003  Born in other state in the United States
+B06004B004  Native; born outside the United States
+B06004B005  Foreign born

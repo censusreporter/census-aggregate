@@ -1,0 +1,9 @@
+Place of Birth (Hispanic or Latino) in the United States
+--------------------------------------------------------
+Universe: Hispanic or Latino Population in the United States
+
+B06004I001 Total:
+B06004I002  Born in state of residence
+B06004I003  Born in other state in the United States
+B06004I004  Native; born outside the United States
+B06004I005  Foreign born

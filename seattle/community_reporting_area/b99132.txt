@@ -1,0 +1,7 @@
+Imputation of Fertility of Women 15 to 50 Years
+-----------------------------------------------
+Universe: Women 15 to 50 Years
+
+B99132001 Total:
+B99132002  Imputed
+B99132003  Not imputed

@@ -1,0 +1,12 @@
+Language Spoken at Home by Ability to Speak English (Hispanic or Latino)
+------------------------------------------------------------------------
+Universe: Hispanic or Latino Population 5 Years and Over
+
+B16006001 Total:
+B16006002  Speak only English
+B16006003  Speak Spanish:
+B16006004   Speak English "very well"
+B16006005   Speak English "well"
+B16006006   Speak English "not well"
+B16006007   Speak English "not at all"
+B16006008  Speak other language

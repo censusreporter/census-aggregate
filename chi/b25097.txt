@@ -1,0 +1,8 @@
+Mortgage Status by Median Value (Dollars)
+-----------------------------------------
+Universe: Owner-occupied Housing Units
+
+B25097000.5 Median value --
+B25097001  Total:
+B25097002   Median value for units with a mortgage
+B25097003   Median value for units without a mortgage

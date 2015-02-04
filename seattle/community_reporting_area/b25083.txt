@@ -1,0 +1,5 @@
+Median Value (Dollars) for Mobile Homes
+---------------------------------------
+Universe: Owner-occupied Mobile Homes
+
+B25083001 Median value (dollars)
