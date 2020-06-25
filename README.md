@@ -6,9 +6,8 @@ The generated tables for medians, quintiles and quartiles are NOT CORRECT. See h
 
 Status
 ------
-At the moment, the library is tuned towards producing data for Chicago's community areas, but it's pretty generalized.
+**ARCHIVED** This project has been superceded by [acs-aggregate](https://github.com/censusreporter/acs-aggregate)
 
-Aggregated data for local geographies in Chicago, New York and Seattle can be found at http://j.mp/public_census_data, along with some more explanation of the data. If you know of other locally relevant cross-reference data, please file a [GitHub issue](http://github.com/censusreporter/census-aggregate/issues)
 
 More Details
 ------------
